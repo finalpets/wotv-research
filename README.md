@@ -21,4 +21,4 @@ Facebook Fan Page - https://www.facebook.com/WOTV-Research-103475204674581/
 
 Discord - 
 
-Buy Me a Coffe: https://www.buymeacoffee.com/finalpets
+<a href="https://www.buymeacoffee.com/finalpets" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
