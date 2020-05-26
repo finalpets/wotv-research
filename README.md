@@ -19,6 +19,6 @@ Be as detailed as you can and provide screenshots and any logs you may be able t
 
 Facebook Fan Page - https://www.facebook.com/WOTV-Research-103475204674581/
 
-Discord - 
+Discord - https://discord.gg/Pv2Eb8Q
 ### Donate
 <a href="https://www.buymeacoffee.com/finalpets" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
