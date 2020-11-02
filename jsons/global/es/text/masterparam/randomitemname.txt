@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "RANDOM_ITEM_0001",
+            "value": "Lote de jadeíta"
+        },
+        {
+            "key": "RANDOM_ITEM_0002",
+            "value": "Lote de azurita"
+        },
+        {
+            "key": "RANDOM_ITEM_0003",
+            "value": "Lote de charoíta"
+        },
+        {
+            "key": "RANDOM_ITEM_0004",
+            "value": "Lote de citrino"
+        },
+        {
+            "key": "RANDOM_ITEM_0005",
+            "value": "Lote de espinela"
+        }
+    ]
+}

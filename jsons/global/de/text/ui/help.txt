@@ -1,0 +1,1184 @@
+{
+    "infos": [
+        {
+            "key": "HOMETOP_TITLE",
+            "value": "Hauptbildschirm"
+        },
+        {
+            "key": "HOMETOP_DESC",
+            "value": "■ Hauptbildschirm<br>Auf dem Hauptbildschirm kannst du Geschenke, Neuigkeiten, aktuelle Events und andere wichtige Informationen abrufen. <br>Ein Symbol wird angezeigt, wenn eine Einheit trainiert werden kann, wenn Belohnungen darauf warten, von dir abgeholt zu werden oder wenn ein Update bereitsteht. <br><br>Du kannst Ausdauer regenerieren und Visiore kaufen, wenn du die „+“-Symbole am oberen Bildschirmrand antippst. <br><br>■ Einstellung der Einheit auf dem Hauptbildschirm <br>Wenn du die Schaltfläche in der unteren linken Ecke des Bildschirms antippst, kannst du die Einheit auswechseln, die auf dem Hauptbildschirm angezeigt wird."
+        },
+        {
+            "key": "BUYLAPIS_TITLE",
+            "value": "Visiore kaufen"
+        },
+        {
+            "key": "BUYLAPIS_DESC",
+            "value": "■ Visiore<br>Visiore sind ein kostbares Gut, das eingesetzt werden kann, um Beschwörungen durchzuführen, Gegenstände m Laden zu kaufen und Ausdauer wiederherzustellen. <br>Beim Kauf von Visiore können „Erworbene Visiore“ und „Kostenlose Visiore“ erhalten werden.<br><br>*  „Erworbene Visiore“ und „Kostenlose Visiore“ können nur auf der Plattform eingesetzt werden, auf der sie erhalten wurden. <br>* Visiore werden in der folgenden Reihenfolge verbraucht: Kostenlose Visiore > Standard-Visiore > Erworbene Visiore.<br><br>■Pässe<br>Diese Funktion gewährt beim Kauf diverse Effekte. <br>Diese Effekte werden ins Spiel übernommen, sobald der Kauf des Passes im Spiel bestätigt wurde, und der Gültigkeitszeitraum beginnt ab 00:00 Weltzeit (PST) des folgenden Tages.<br>Für nähere Informationen zu den Effekten sowie dem Gültigkeitszeitraum eines Passes sieh dir die Details auf dem Kaufbildschirm an. <br><br>* Die Effekte eines gekauften Passes werden auf verschiedenen Plattformen übernommen, wenn das gleiche Spielkonto zum Kauf benutzt wurde.<br><br>* Bitte beachte, dass ein einmal registriertes Geburtsdatum später nicht mehr geändert werden kann. <br><br>■Aufscheinen von Käufen im Spiel<br>Abhängig von deiner Verbindung und dem Status des jeweiligen Stores kann es zu einer Verzögerung beim Aufscheinen von Käufen im Spiel kommen. <br>Bitte stelle sicher, dass die Verbindung stabil ist, bevor du Käufe tätigst."
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "Royaler Rang"
+        },
+        {
+            "key": "VIP_DESC",
+            "value": "Dein Royaler Rang kann dir verschiedene Privilegien verschaffen. Welche das sind, siehst du, wenn du unter „Visiore kaufen“ die „Royal“-Schaltfläche antippst. Dein Royaler Rang wird durch Royale Punkte erhöht, welche dir beim Kauf von Visiore gutgeschrieben werden. Wenn du genug Royale Punkte verdient hast, steigt dein Royaler Rang."
+        },
+        {
+            "key": "APHEAL_TITLE",
+            "value": "Ausdauer regenerieren"
+        },
+        {
+            "key": "APHEAL_DESC",
+            "value": "Deine Ausdauer regeneriert sich alle 3 Minuten um 1 Einheit, bis deine maximale Ausdauer wiederhergestellt ist.<br><br>■ Auffüllung durch Visiore<br>• Benötigte Visiore: Die Menge an benötigten Visiore erhöht sich mit jeder Auffüllung.<br>Aufgefüllte Ausdauer: Wie viel Ausdauer aufgefüllt wird, hängt vom Rang des Spielers ab.<br><br>■ Auffüllung durch Gegenstände<br>• Benötigte Gegenstände: Gegenstände zur Auffüllung der Ausdauer erhältst du als Belohnung für Missionen.<br>• Aufgefüllte Ausdauer: Die wiederhergestellte Ausdauermenge hängt von Art und Anzahl der eingesetzten Gegenstände ab.<br><br>Es können maximal 1000 Ausdauerpunkte wiederhergestellt werden.<br><br>■ Ausdauer und Spielerrang-Aufstiege<br>Wenn dein Spielerrang steigt, erhöht sich auch dein maximaler Ausdauerwert und deine Ausdauer wird automatisch um den neuen Maximalwert deiner Ausdauer aufgefüllt.<br><br>Beispiel: Dein Spielerrang steigt, während deine Ausdauer bei 20/35 steht, und dein neuer Maximalwert ist 36. Nach dem Rangaufstieg beträgt dein Ausdauerwert 56/36."
+        },
+        {
+            "key": "EXPEDITION_TITLE",
+            "value": "Chocobo-Expedition"
+        },
+        {
+            "key": "EXPEDITION_DESC",
+            "value": "■ Chocobo-Expedition<br>In Chocobo-Expeditionen stellst du aus deinen Einheiten eine Expeditionsgruppe zusammen, schickst sie auf eine Abenteuerreise an ein bestimmtes Ziel und lässt sie dort verschiedene Gegenstände erbeuten.<br>Welche Gegenstände erbeutet werden können, hängt von der Zielregion ab.<br><br>■ Deine Gruppe<br>Stelle eine Gruppe zusammen und beauftrage sie damit, eine bestimmte Gegend zu erkunden.<br>Abhängig davon, welche Einheiten du zusammen auf Reisen schickst, werden bestimmte Einheitenboni aktiviert.<br>Zusätzliche Slots für deine Gruppen können freigespielt werden. Gruppen können aus maximal fünf Einheiten bestehen.<br>Zusätzlich kannst du noch eine zweite Expeditiongruppe freispielen, indem du deinen Royalen Rang erhöhst.<br><br>■Einheitenboni<br>Abhängig von den Gruppenmitgliedern kann deine Gruppe von verschiedenen Effekten profitieren.<br>Wenn zwei Einheiten denselben Bonus mit sich bringen, tritt nur der stärkere der beiden Boni in Effekt.<br><br>Beispiel: Nehmen wir an, die folgenden zwei Einheitenboni sind verfügbar:<br>A: Stark erhöhte Drop-Rate seltener Gegenstände, Gruppen-ERF x 1,5<br>B: Mäßig erhöhte Drop-Rate seltener Gegenstände, Gruppen-ERF x 1,3<br>Wenn dieses Team nun zu einer Expedition aufbricht, tritt nur Effekt A in Kraft."
+        },
+        {
+            "key": "BEGINNER_TITLE",
+            "value": "Anfängerhalle"
+        },
+        {
+            "key": "BEGINNER_DESC",
+            "value": "Die Anfängerhalle hält Aufträge bereit, die nicht nur als Tutorials dienen: Du kannst dabei echte Kampferfahrung gewinnen.<br>In Anfängeraufträgen folgt der Spieler Anweisungen und kann gleichzeitig frei über vorausgewählte Einheiten verfügen. Der Auftrag gilt als abgeschlossen, wenn eine bestimmte Siegesbedingung erfüllt wird.<br>In diesem Spielmodus erhältst du viele Tipps, die dir im Spiel weiterhelfen können."
+        },
+        {
+            "key": "GACHA_TITLE",
+            "value": "Beschwören"
+        },
+        {
+            "key": "GACHA_DESC",
+            "value": "■ Rare Beschwörungen<br>Hier können Einheiten und Visionskarten erhalten werden.<br><br>■ Normale Beschwörungen<br>Hier können Einheiten und nützliche Gegenstände herbeigerufen werden.<br><br>■ Ticket-Beschwörungen<br>Löse Beschwörungstickets ein, um besondere Beschwörungen durchzuführen.<br><br>Wenn du eine Einheit oder Visionskarte beschwörst, die sich bereits in deinem Besitz befindet, erhältst du stattdessen Fragmente. Die Anzahl der Fragmente hängt von der Seltenheit der Einheit oder Visionskarte ab.<br>Du kannst auch eine Visionskugel erhalten, die beim Erwecken oder bei Limitbrüchen zum Einsatz kommt.<br><br>Du kannst nicht mehr Fragmente erhalten als die maximale Anzahl, die für einen Limitbruch der beschworenen Einheit oder das Erwecken der Visionskarte notwendig wäre.<br>Wenn du die maximale Anzahl erreicht hast, erhältst du anstelle von Einheitenfragmenten Seelenmedaillen sowie Visionsmedaillen anstelle von Visionskartenfragmenten (Anzahl entsprechend ihrer Seltenheit).<br>Medaillen können im Mog-Laden gegen Gegenstände eingetauscht werden.<br><br>■ Dropwahrscheinlichkeit<br>Wenn du „Dropwahrscheinlichkeit“ antippst, kannst du sehen, wie hoch die Wahrscheinlichkeit ist, die verschiedenen Beschwörungsziele zu erhalten.<br><br>■ Status<br>Berühre die Schaltfläche „Status“, um mehr über eine Einheit oder Visionskarte zu erfahren"
+        },
+        {
+            "key": "GACHA_DESC_GL",
+            "value": "■ Rare Beschwörungen<br>Hier können Einheiten und Visionskarten erhalten werden.<br><br>■ Normale Beschwörungen<br>Hier können Einheiten und nützliche Gegenstände beschworen werden.<br><br>■ Videobeschwörungen <br>Erhalte nützliche Gegenstände und füll die Leiste, um Meilensteinbelohnungen zu erhalten. <br><br>■ Ticketbeschwörungen<br>Löse Beschwörungstickets ein, um besondere Beschwörungen durchzuführen.<br><br>Wenn du eine Einheit oder Visionskarte beschwörst, die sich bereits in deinem Besitz befindet, erhältst du stattdessen Fragmente. Die Anzahl der Fragmente hängt von der Seltenheit der Einheit oder Visionskarte ab.<br>Du kannst auch eine Visionskugel erhalten, die beim Erwecken oder bei Limitbrüchen zum Einsatz kommt.<br><br>Du kannst nicht mehr Fragmente erhalten als die maximale Anzahl, die für einen Limitbruch der beschworenen Einheit oder das Erwecken der Visionskarte notwendig wäre.<br>Wenn du die maximale Anzahl erreicht hast, erhältst du anstelle von Einheitenfragmenten Seelenmedaillen sowie Visionsmedaillen anstelle von Visionskartenfragmenten (Anzahl entsprechend ihrer Seltenheit).<br>Medaillen können im Mog-Laden gegen Gegenstände eingetauscht werden.<br><br>■ Dropwahrscheinlichkeit<br>Wenn du „Dropwahrscheinlichkeit“ antippst, kannst du sehen, wie hoch die Wahrscheinlichkeit ist, die verschiedenen Beschwörungsziele zu erhalten.<br><br>■ Status<br>Berühre die Schaltfläche „Status“, um mehr über eine Einheit oder Visionskarte zu erfahren."
+        },
+        {
+            "key": "SHOP_TITLE",
+            "value": "Laden"
+        },
+        {
+            "key": "SHOP_DESC",
+            "value": "■ Laden<br>Im Laden kannst du unterschiedliche Produkte kaufen. Bezahlt wird mit Visiore oder Gil.<br>Nach dem Abschließen von Aufträgen erscheint des Weiteren zufällig manchmal ein Laden, der nur für begrenzte Zeit zugänglich ist.<br><br>Berühre die Schaltfläche „Verkaufen“ am unteren Bildschirmrand, um Gegenstände für Gil zu verkaufen."
+        },
+        {
+            "key": "UNIT_TOP_TITLE",
+            "value": "Einheiten"
+        },
+        {
+            "key": "UNIT_TOP_DESC",
+            "value": "In der Einheitenliste kannst du sehen, welche Einheiten du besitzt.<br>Berühre die Schaltfläche „Element“, um die Filtereinstellungen zu ändern und nur Einheiten, die den jeweiligen Einstellungen entsprechen, anzuzeigen.<br> Wenn „Filter: AN“ angezeigt wird, dann werden deine Gegenstände gerade gefiltert."
+        },
+        {
+            "key": "F",
+            "value": ""
+        },
+        {
+            "key": "e",
+            "value": ""
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE",
+            "value": "Einheitenprofile"
+        },
+        {
+            "key": "UNIT_DETAIL_DESC",
+            "value": "■Erwecken<br>Einheiten können mithilfe von Erweckungsmaterialien, Visionskugeln und Gil erweckt werden.<br>Wenn eine Einheit erweckt wird, erhöht sich ihre maximale Stufe, ihr Limitrausch, und es können Unterjobs und Felder auf dem Fähigkeitenbrett freigeschaltet werden.<br><br>■Limitbrüche<br>Einheitenfragmente und Visionskugeln können dazu genutzt werden, einen Limitbruch an einer Einheit durchzuführen. <br>Limitbrüche können die maximale Stufe oder die maximale Jobstufe einer Einheit erhöhen und Ausrüstungslots freischalten.<br><br>■Job-Verbesserungen<br>Jobverbesserungsmaterialien und Gil können verwendet werden, um Jobs zu verbessern. Dadurch können Werte erhöht und Fähigkeitenfelder freigeschaltet werden.<br><br>■Ausrüstungsfavoriten<br>Wenn du einen Ausrüstungsgegenstand als Favorit markierst, kann er bei der Einheitenaufstellung automatisch ausgerüstet werden.<br>Ausrüstung wird in drei Kategorien eingeteilt: Waffen, Rüstung und Accessoires. Waffen und Rüstungen können jeweils nur in einem Ausrüstungsslot ausgerüstet werden.<br>* Wenn du bereits eine Waffe oder Rüstung ausgerüstet hast, dann wird Ausrüstung von dieser Kategorie nicht angezeigt, wenn du Ausrüstung für die anderen Slots auswählst.<br><br>Wenn du mehrere Ausrüstungsgegenstände anlegst, die denselben Statuswert erhöhen oder senken, wird die größte Werterhöhung bevorzugt angewendet, und die nächsthöhere zu einem geringeren Prozensatz.<br> * Der höchstmögliche Prozentsatz beträgt 100%. <br> * Bei Effekten wird nur der mit der größten Wirkung angewendet, und sie werden nicht gestapelt.<br><br>Treuemeister-Ausrüstung erhältst du jeweils fünf Mal, wenn du einen Limitbruch oder eine Erweckung bei einer Einheit durchführst.<br><br>■Ausrüstungskenntnisse<br>Die Kenntnisse einer Einheit über ihre Ausrüstungsgegenstände erhöhen sich durch den Einsatz der Ausrüstung bei Aufträgen.<br>Die Kenntnisse erhöhen sich jedoch nicht durch bloßes Bewegen auf der Karte. Die höchstmögliche Stufe hängt von der Seltenheit der Ausrüstung ab. Niedrige Ausrüstungslevel können unter Umständen die Werte des Gegenstands verringern.<br>Nur angelegte Ausrüstungskategorien steigen im Ausrüstungslevel.<br><br>Beispiel: Wenn du nur Waffen ausgerüstet hast, steigt deine Waffenkenntnis, nicht aber deine Rüstungskenntnis."
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_TITLE",
+            "value": "Fähigkeitenbrett"
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_DESC",
+            "value": "■ Fähigkeitenbretter<br>Das Fähigkeitenbrett ermöglicht das Freischalten von Fähigkeiten der Einheit sowie das Verstärken der verschiedenen Fähigkeiten oder Limiträusche.<br>Nachdem eine Fähigkeit freigeschaltet wurde, kann sie mit JP und Gil verstärkt werden.<br>* Limiträusche können mit Rausch-Gefäßen verstärkt werden. <br><br>Fähigkeiten können als Unterbefehl, Unterstützungsfähigkeiten oder Reaktionsfähigkeiten festgelegt werden.<br>Fähigkeiten und ihre Funktionen sind wie folgt strukturiert.<br><br>■ Hauptbefehle<br>Diese Befehle sind unabänderlich. Die darin aufgelisteten Fähigkeiten können in Kämpfen benutzt werden.<br><br>■ Unterbefehle <br>Diese Befehle können nach Belieben festgelegt werden. Die in den Unterbefehlen der Jobs der Einheit aufgelisteten Fähigkeiten können in Kämpfen benutzt werden.<br>* Das Tippen und Gedrückthalten auf einem Job erlaubt es dir, die einsetzbaren Fähigkeiten einzusehen.<br><br>■ Unterstützungsfähigkeiten<br>Diese Fähigkeiten können eingesetzt werden, um Statuserhöhungen oder sonstige Effekte zu bewirken. Es können bis zu zwei Unterstützungsfähigkeiten  festgelegt werden.<br>Bitte beachte, dass einige Effekte nur auf bestimmte Jobs oder Fähigkeiten wirken.<br>So wirkt zum Beispiel „Reichweite +1“ der Fähigkeit Pirscherkenntnisse nur auf Fähigkeiten und Jobs des Typs Geschoss.<br><br>■ Reaktionsfähigkeiten<br>Diese Fähigkeiten werden automatisch aktiviert, wenn eine Einheit den Angriff eines Gegners erleidet. <br><br>■ Andere<br>• Limitrausch<br>Dies sind besonders mächtige Fähigkeiten, über die nur bestimmte Einheiten verfügen.<br>• Meisterfähigkeiten<br>Diese einzigartigen Fähigkeiten beim Abschluss von Charakteraufträgen freigeschaltet."
+        },
+        {
+            "key": "UNIT_RELEASE_TITLE",
+            "value": "Fähigkeiten freischalten"
+        },
+        {
+            "key": "UNIT_RELEASE_DESC",
+            "value": "Fähigkeiten werden mit JP freigeschaltet.<br>Bevor eine Fähigkeit freigeschaltet werden kann, müssen zunächst die Voraussetzungen für ihr Feld erfüllt sein."
+        },
+        {
+            "key": "UNIT_RELEASEALL_TITLE",
+            "value": "Mehrere Fähigkeitenfelder freischalten"
+        },
+        {
+            "key": "UNIT_RELEASEALL_DESC",
+            "value": "Du kannst auch mehrere Fähigkeiten auf einmal freischalten – vorausgesetzt, du erfüllst alle erforderlichen Bedingungen.<br><br>Hierbei wird die JP-Summe für alle Felder gleichzeitig verbraucht."
+        },
+        {
+            "key": "UNIT_RESET_TITLE",
+            "value": "Fähigkeitenbrett zurücksetzen"
+        },
+        {
+            "key": "UNIT_RESET_DESC",
+            "value": "Du kannst freigeschaltete Felder zurücksetzen und die Esper von Neuem trainieren.<br>Erhöhe deinen Royalen Rang, um einmal pro Woche kostenlos das Esper-Trainingsbrett zurücksetzen zu können und die Anzahl an möglichen Resets zu erhöhen. <br><br>* Alle SP, die für das Freischalten von Feldern verbraucht wurden, werden zurückerstattet. <br>* Das erste Zurücksetzen für alle Esper ist kostenlos. Ab dem zweiten Mal werden für Zurücksetzungen Visiore benötigt."
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE",
+            "value": "Vertrautheit"
+        },
+        {
+            "key": "UNIT_INTIMACY_DESC",
+            "value": "Tippe auf das Icon einer Einheit, um ihre Vertrautheit mit anderen Einheiten zu überprüfen und zu sehen, wieviel bis zur nächsten Stufe benötigt wird. <br><br>Die Vertrautheit zwischen Einheiten steigt an, wenn diese gemeinsam zu Aufträgen aufbrechen. <br>Befinden sich Einheiten von hoher Vertrautheit im Kampf nah beieinander, erhalten ihre AGI, GES und GLK-Attribute einen Bonus. <br>Steigt die Vertrautheit zwischen den Einheiten, erhöhen sich auch die Attributsboni sowie die maximale Distanz, bis zu welcher diese wirken."
+        },
+        {
+            "key": "GUILD_JOINSELECT_TITLE",
+            "value": "Gilden erstellen, Gilden beitreten, Gilden auswählen"
+        },
+        {
+            "key": "GUILD_JOINSELECT_DESC",
+            "value": "Du kannst eine eigene Gilde gründen oder einer existierenden Gilde beitreten.<br>Gilden erlauben dir, mit anderen Gildenmitgliedern zu interagieren oder mit ihnen zusammen an Gildenkämpfen teilzunehmen.<br>Berühre die Schaltfläche „Suchen“, um nach Gilden zu fahnden, denen du beitreten kannst.<br><br>Mitglied einer Gilde zu sein, bringt verschiedene Vorteile mit sich. Je größer die Gilde wird, desto größer werden diese Vorteile.<br><br>Einige Beispiele:<br>• Die Effekte der Steinstatuen können die Attribute deiner Einheiten im Kampf verbessern.<br>• Deine Anwesenheit in der Gilde kann dir Gegenstände als Belohnung einbringen.<br>• Auch das Versenden und Empfangen von Geschenken kann dir Belohnungen bescheren.<br>• In der Gilden-Kaserne kannst du JP verdienen.<br><br>* Wenn du eine Gilde verlässt oder aus ihr ausgeschlossen wirst, musst du 24 Stunden warten, bis du eine neue Gilde gründen oder einer anderen Gilde beitreten kannst."
+        },
+        {
+            "key": "GUILD_SEARCH_TITLE",
+            "value": "Gildensuche"
+        },
+        {
+            "key": "GUILD_SEARCH_DESC",
+            "value": "■ Suche<br>Hier wird eine Liste von Gilden angezeigt, denen du beitreten kannst.<br>Du kannst nach verschiedenen Kriterien suchen, wie zum Beispiel nach Gildenname, ID, Rangbegrenzung, automatischer Annahme oder Ligastufe.<br>■ Nach empfohlenen Gilden suchen<br>Hier wird eine Liste von Gilden aufgerufen, die in letzter Zeit besonders aktiv waren."
+        },
+        {
+            "key": "GUILD_TOP_TITLE",
+            "value": "Gildenlobbys"
+        },
+        {
+            "key": "GUILD_TOP_DESC",
+            "value": "In der Gildenlobby finden sich eine Menge Informationen.<br>Berühre das Chat-Fenster, um es zu vergrößern.<br><br>■Mitglieder<br>Hier kannst du Informationen zu verschiedenen Gildenmitgliedern einsehen.<br>Berühre die entsprechende Info, um zu sehen, welche Einheiten deine Kameraden aufgestellt haben.<br><br>■Menü<br>• Gildenprofil<br>Hier wird die Kampfbilanz der Gilde angezeigt.<br>Gildenvorstände können hier den Gildennamen ändern, Ankündigungen verfassen oder neue Mitglieder in die Gilde einladen.<br><br>• Mitglieder<br>Nominiere Gildenmitglieder für bestimmte Posten (z. B. Stellvertreter) oder entferne Mitglieder aus der Gilde.<br>* Nur der Gildenvorstand kann diese Funktion nutzen.<br><br>• Beitrittsgesuche/Einladungen<br>Nimm neue Mitglieder auf, schreibe Rekrutierungskommentare oder versende Rekrutierungsnachrichten.<br>* Nur der Gildenvorstand und sein Stellvertreter können diese Funktion nutzen.<br><br>■Ligastufe<br>Berühre die Lupe oben rechts im Gildenkampfbildschirm, um mehr über deine Ligastufe zu erfahren."
+        },
+        {
+            "key": "GUILD_LEADERREWARD_TITLE",
+            "value": "Belohnungen für den Gildenvorstand"
+        },
+        {
+            "key": "GUILD_LEADERREWARD_DESC",
+            "value": "Der Gildenvorstand und sein Stellvertreter können einmal täglich Belohnungen entgegennehmen.<br>Verbessere die Steinerne Schlangenstatue, um eine höhere Belohnung zu erhalten.<br><br>* Berühre die Schaltfläche „Belohnungen“ auf dem Vorstands-Info-Bildschirm, wenn du mehr erfahren möchtest."
+        },
+        {
+            "key": "GUILD_RANKING_TITLE",
+            "value": "Gilden-Ranglisten"
+        },
+        {
+            "key": "GUILD_RANKING_DESC",
+            "value": "Der Rang und die Liga-Zugehörigkeit einer Gilde werden durch die Anzahl ihrer Trophäen bestimmt.<br>Am Ende der Gildenkämpfe werden dir – abhängig von der Liga, der deine Gilde angehört – Belohnungen in Form von Geschenken zugesandt."
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_TITLE",
+            "value": "Anwesenheit wird belohnt"
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_DESC",
+            "value": "Die Anzahl der Mitglieder, die jeden Tag in der Gildenlobby auf „Anwesend“ tippen, bestimmt die Belohnungen, die Mitgliedern zugutekommt, die am folgenden Tag auf die „Anwesend“-Schaltfläche tippen.<br>Auch das Aufstufen der Steinernen Schlangenstatue führt zu größeren Belohnungen.<br><br>* Wenn du die „Anwesend“-Schaltfläche nicht berührst, wird deine Anwesenheit nicht gezählt und du kannst am folgenden Tag keine Belohnungen entgegennehmen.<br>* Berühre die Schaltfläche „Belohnungen“ im Bildschirm für Anwesenheits-Belohnungen, um zu sehen, welche Belohnungen vergeben werden."
+        },
+        {
+            "key": "GUILD_BARRACKS_TITLE",
+            "value": "Gildenkaserne"
+        },
+        {
+            "key": "GUILD_BARRACKS_DESC",
+            "value": "Wenn du die Verpflegung in der Kaserne regelmäßig aufstockst, dann erhalten Einheiten, die in der Gildenkaserne stationiert sind, JP in Relation zu ihrer dortigen Aufenthaltsdauer.<br>Ihre Courage erhöht sich, ihre Spiritualität kann sich jedoch erhöhen oder verringern.<br><br>* Es ist möglich, zwischen einer Erhöhung und Verringerung der Spiritualität umzuschalten, indem du die Pfeil-Schaltfläche berührst.<br>* Manche Arten von Verpflegung bringen Bonus-JP ein.<br>* Das Aufwerten der Kirin-Gildenstatue erhöht die Anzahl der Einheiten, die in der Kaserne stationiert werden können.<br>* Mithilfe von Visiore kann die Verpflegungsleiste erweitert werden."
+        },
+        {
+            "key": "GUILD_STATUE_TITLE",
+            "value": "Gildenstatuen"
+        },
+        {
+            "key": "GUILD_STATUE_DESC",
+            "value": "Es gibt vier verschiedene Arten von Gildenstatuen, die Mitgliedern der Gilde unterschiedliche Segen gewähren, wenn sie gebaut oder verbessert werden.<br><br>Dazu zählen:<br>- Verbesserte Einheitenattribute im Kampf<br>- Hochwertigere oder umfangreichere Belohnungen für die Anwesenheit in der Gilde<br>- Freischalten der Kaserne"
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_TITLE",
+            "value": "Gildenstatuen verbessern"
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_DESC",
+            "value": "Das Aufwerten der Gildenstatuen erhöht ihre Stufe und schaltet weitere Effekte frei, die auf alle Gildenmitglieder wirken.<br>Berühre die entsprechende Schaltfläche am oberen rechten Bildschirmrand, um zu sehen, welche Effekte bereits freigeschaltet sind.<br>Alternativ kannst du das Lupensymbol berühren, um die Stufen der Statuen und freischaltbare Effekte zu überprüfen.<br><br>Das Aufstufen bestimmter Statuen ermöglicht auch den Bau weiterer Statuen."
+        },
+        {
+            "key": "GUILDBATTLE_TITLE",
+            "value": "Gildenkämpfe"
+        },
+        {
+            "key": "GUILDBATTLE_DESC",
+            "value": "Dies ist eine Schlacht mit anderen Gilden, um ◆ zu erlangen. Eintragung und Gruppierung werden automatisch vorgenommen, wenn die Teilnahmebedingungen erfüllt sind.<br><br>■ Teilnahmebedingungen <br>-Es befinden sich (inklusive Gildenvorstand und stellvertretendem Vorstand) mindestens 10 Mitglieder in der Gilde. <br>-Der Gildenvorstand hat sich in den letzten drei Tagen angemeldet.<br><br>Gruppenaufstellungen für Gildenkämpfe werden in Offensive und Defensive unterteilt. Beide Gruppen können im Aufstellungsbildschirm festgelegt werden.<br> * Die Gruppenaufstellung steht fest, sobald die Gruppierungsphase beginnt. Bitte beachte, dass jegliche Änderungen an der Aufstellung, die nach Beginn der Gruppierungsphase vorgenommen werden, nicht im Gildenkampf übernommen werden.<br><br>■ Bei einem Sieg<br>Die Anzahl der Trophäen im Besitz der Gilde steigt.<br>Je mehr ★ im Kampf errungen werden und je mehr Trophäen die gegnerische Gilde besitzt, desto wertvoller ist der Sieg.<br><br>■Bei einer Niederlage<br>Die Anzahl der Trophäen im Besitz der Gilde sinkt.<br>Je mehr ★ im Kampf errungen wurden und je mehr Trophäen die gegnerische Gilde besitzt, desto milder fällt diese Strafe aus.<br><br>Endet der Gildenkampf in einem Unentschieden, ändert sich nichts an der Trophäenanzahl.<br><br>* Wieviele ★ durch Besiegen einer gegnerischen Einheit erhalten werden können, hängt von der Anzahl an Einheiten in dieser Gruppe ab.<br>* Wenn beide Gilden beim Ende der Kampfphase gleich viele ★ errungen haben, entscheidet die Gesamtsumme des erteilten Schadens über den Sieg.<br> * Wenn sowohl die Anzahl der errungenen ★ als auch die Gesamtsumme des erteilten Schadens gleich sind, endet der Kampf in einem Unentschieden.<br><br>■Belohnungen<br>Gildenmedaillen können in Gildenkämpfen erhalten und für verschiedene Belohnungen eingetauscht werden.<br> Individuelle Belohnungen je nachdem, wie viele ★ in jedem Kampf errungen wurden.<br> Individuelle Belohnungen für die Gesamtzahl an im Kampf errungenen ★ während des Gildenkampf-Zeitraums.<br> Gildenbelohnungen, die sich danach richten, wie viele ★ von allen Mitgliedern errungen wurden."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Limitierte Gildenkämpfe"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "In Limitierten Gildenkämpfen kannst du Aktionen einsetzten, um den Gegner anzugreifen, deine Verbündeten zu unterstützen oder dem Gegner Steine in den Weg zu legen.<br><br>Wenn deine Gilde die folgenden Teilnahmebedingungen erfüllt, wird sie automatisch für den Kampf registriert und mit einem Gegner gepaart.<br>-Die Ligastufe befindet sich mindestens auf einer bestimmten Stufe<br>-Die Gilde hat mindestens 10 Mitglieder (inklusive Gildenvorstand und stellvertretenden Vorständen)<br>-Der Gildenvorstand hat sich innerhalb der letzten drei Tage angemeldet<br>Die Gruppenaufstellungen für Gildenkämpfe sind in offensiv und defensiv orientierte Gruppen geteilt. Die Mitglieder dieser Gruppen kannst du unter Limitierter Gildenkampf auf dem Aufstellungsbildschirm festlegen.<br>* Die Anzahl der erstellbaren Gruppen sowie die Aufstellungsbedingungen hängen vom Gildenkampf ab.<br>* Legst du keine Defensiv-Gruppen fest, erhält dein Gegner leicht ★, was sich als nachteilig erweisen kann.<br>* Sobald deine Gilde erfolgreich mit einem Gegner verbunden wurde, sind die Gruppenaufstellungen für Gildenkämpfe fix. Jegliche Änderungen, die vorgenommen werden, nachdem der Gegner feststeht, werden nicht in diesen Gildenkampf übernommen.<br><br>■Kampfergebnis<br>Am Ende der Kampfphase gewinnt die Gilde mit der höheren Anzahl von durch Mitglieder erbeuteten ★.<br>Wenn beide Gilden über gleich viele ★ verfügen, gewinnt die Gilde mit dem höheren Gesamtschadensanteil.<br>Wenn beide Gilden über die gleiche Anzahl ★ sowie den gleichen Gesamtschadensanteil verfügen, gewinnt die Gilde mit dem höheren Gesamtwert aller Defensiv-Gruppen.<br>* Wie viele ★ durch Besiegen einer Einheit erbeutet werden, hängt von der Größe der gegnerischen Gruppe ab.<br><br>■Ergebnispunkte<br>Ergebnispunkte können unabhängig davon verdient werden, ob deine Gilde gewinnt oder verliert.<br>Die Gesamtplatzierung wird durch deine Ergebnispunkte bestimmt.<br><br>Außerdem kannst du Folgendes tun, um mehr Ergebnispunkte zu erhalten:<br>-Gewinne Gildenkämpfe<br>-Erbeute einen hohen Anteil an ★ in Kämpfen<br>-Erziele einen hohen Gesamtwert aller Defensiv-Gruppen<br>-Gewinne aufeinanderfolgende Kämpfe <br><br>■Belohnungen<br>In Limitierten Gildenkämpfen kannst du die folgenden Belohnungen erhalten:<br>-Teilnahmebelohnungen, die sich nach der Anzahl der bestrittenen Kämpfe richten<br>-Kampfbelohnungen, die sich nach der Anzahl der in den einzelnen Kämpfen erbeuteten ★ richten<br>-Aktionsbelohnungen, die sich nach den zur Unterstützung von Verbündeten ausgegebenen Aktionspunkten richten<br>-Ergebnisbelohnungen, die sich nach dem Anteil der von allen Gildenmitgliedern erbeuteten ★ richten<br>-Gesamtplatzierungsbelohnungen, die sich nach der endgültigen Platzierung deiner Gilde richten"
+        },
+        {
+            "key": "DUEL_TITLE",
+            "value": "Duelle"
+        },
+        {
+            "key": "DUEL_DESC",
+            "value": "Hier kannst du in der Arena antreten oder an Match-Kämpfen teilnehmen."
+        },
+        {
+            "key": "ARENA_TOP_TITLE",
+            "value": "Arena"
+        },
+        {
+            "key": "ARENA_TOP_DESC",
+            "value": "■ Die Arena<br>In der Arena tritt deine Gruppe gegen die Gruppe eines anderen Spielers an. <br>Für die Teilnahme sind Arenajuwelen erforderlich. <br>* Arenajuwelen werden täglich um 00:00 Weltzeit (PST) aufgefüllt. Alternativ können sie mit Visiore oder Gegenständen aufgefüllt werden. <br><br>Kämpfe werden automatisch ausgetragen. Die Gruppe, die in der vorgegebenen Anzahl Runden alle Einheiten des Gegners besiegt, gewinnt. <br>Wenn in der vorgegebenen Rundenzahl kein klarer Sieger ermittelt werden kann, wird der Spieler zum Sieger gekürt, der am meisten Einheiten übrig hat. Wenn beide Spieler über gleich viele Einheiten verfügen, gewinnt der mit den meisten verbleibenden LP. <br>Arenasiege bringen keine Rang-ERF, Einheiten-ERF oder JP ein. <br>Für die Teilnahme an manchen Kämpfen müssen Einheiten bestimmte Bedingungen erfüllen. <br><br>■ Ränge<br>Ränge werden anhand der Rangpunkte bestimmt, die du innerhalb einer Woche zwischen Montag um 00:00 und Sonntag um 23:59 Weltzeit (PST) angesammelt hast.<br>Siegesserien und Einheitenboni wirken sich positiv auf deine Rangpunkte aus. Rangpunkte werden jede Woche zurückgesetzt. <br>* Berühre „Einheitenbonus“ in der Arena, um mehr zu erfahren. <br>* Nur der höchstwertige Einheitenbonus tritt in Kraft. <br>Beispiel: Wenn eine deiner Einheiten einen Bonus von +100 % und einen Bonus von +75 % mit sich bringt, wird nur der +100 %-Bonus gezählt.<br><br>■ Belohnungen<br>Es gibt drei Arten von Belohnungen in der Arena: Teilnahmebelohnungen, Tägliche Belohnungen und Wöchentliche Belohnungen. Für jede Art müssen unterschiedliche Bedingungen erfüllt werden, und es können unterschiedliche Gegenstände gewonnen werden. <br>* Belohnungen werden an deine Geschenkbox geschickt (und müssen innerhalb einer bestimmten Frist abgeholt werden). <br><br>■ Arenamedaillen<br>Du kannst Arenamedaillen verdienen, indem du an Kämpfen teilnimmst.<br>Arenamedaillen können im Mog-Laden gegen Gegenstände eingetauscht werden."
+        },
+        {
+            "key": "ARENA_PARTYEDIT_TITLE",
+            "value": "Arena-Gruppenaufstellung"
+        },
+        {
+            "key": "ARENA_PARTYEDIT_DESC",
+            "value": "■ Arena-Gruppenaufstellung<br>Bestimmte Einheiten in deiner Gruppe können dir als Bonus-Effekt zusätzliche Rangpunkte einbringen.<br>Nur der höchstwertige Einheiten-Bonus tritt in Effekt.<br><br>Beispiel: Wenn eine deiner Einheiten einen Bonus von +100% und einen Bonus von +75% mit sich bringt,<br>wird nur der +100%-Bonus gezählt, wenn die Gruppe in den Kampf zieht."
+        },
+        {
+            "key": "ARENA_LIST_TITLE",
+            "value": "Arenagegner auswählen"
+        },
+        {
+            "key": "ARENA_LIST_DESC",
+            "value": "■ Gegnerauswahl<br>Der Kampf beginnt, sobald du deinen Gegner gewählt hast und „Kampf beginnen“ berührst.<br>Alle Gegner verfügen über eine Bewertung, und je nach Bewertung des Gegners bringt dir ein Sieg mehr oder weniger Rangpunkte ein."
+        },
+        {
+            "key": "ARENA_REWARD_TITLE",
+            "value": "Arena-Belohnungslisten"
+        },
+        {
+            "key": "ARENA_REWARD_DESC",
+            "value": "In der Arena können drei Arten von Belohnungen erkämpft werden: Teilnahmebelohnungen, Tägliche Belohnungen und Wöchentliche Belohnungen.<br>* Belohnungen werden grundsätzlich an deine Geschenkbox gesendet."
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_TITLE",
+            "value": "Arena-Belohnungen abholen"
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_DESC",
+            "value": "Belohnungen werden als Geschenke an deine Geschenkbox gesendet.<br>* Geschenke haben ein Verfallsdatum und müssen innerhalb von 2 Wochen abgeholt werden.<br>Gegenstände, die nicht innerhalb der Frist abgeholt werden, verfallen."
+        },
+        {
+            "key": "MATCH_TITLE",
+            "value": "Match-Kämpfe"
+        },
+        {
+            "key": "MATCH_DESC",
+            "value": "Es gibt drei verschiedene Arten von Match-Kämpfen: Klassenmatches, Freie Matches und Freundschaftsmatches.　<br>* In Match-Kämpfen kommt dieselbe Gruppe zum Einsatz wie in Arenakämpfen."
+        },
+        {
+            "key": "MATCH_PARTYEDIT_TITLE",
+            "value": "Gruppenaufstellung in Match-Kämpfen"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_DESC",
+            "value": "In Match-Kämpfen geht eine Gruppe aus bis zu drei Einheiten an den Start.<br>* In Match-Kämpfen kommt dieselbe Gruppe zum Einsatz wie in Arenakämpfen."
+        },
+        {
+            "key": "MATCH_MAKEROOM_TITLE",
+            "value": "Freundschaftsmatches"
+        },
+        {
+            "key": "MATCH_MAKEROOM_DESC",
+            "value": "■ Freundschaftsmatches<br>In Freundschaftsmatches kannst du gegen Freunde antreten.<br><br>■ Raumerstellung<br>Erstelle einen Raum und schicke das Passwort dann an einen Freund, mit dem du dich messen willst.<br>Wenn du gegen einen Freund oder ein Gildenmitglied antreten willst, wähle im Chat-Fenster „Einladen“ und sende ihm den Teilnahmelink.<br><br>■ Passwörter<br>Räume können nur mit einem Einladungs-Passwort betreten werden."
+        },
+        {
+            "key": "CLASSMATCH_TITLE",
+            "value": "Klassenmatches"
+        },
+        {
+            "key": "CLASSMATCH_DESC",
+            "value": "■ Klassenmatches<br>In Klassenmatches trittst du gegen andere Spieler an (SgS) und versuchst, an die Spitze deiner Klasse zu gelangen.<br>Klassenmatches sind nur zu einer gewissen Tageszeit verfügbar, in welcher du bis zu fünfmal teilnehmen kannst.<br>Gewonnene Matches bringen dir Punkte ein, Niederlagen ziehen dir Punkte ab.<br>Abhängig von deinen Gesamtpunkten steigt oder sinkt deine Klasse. <br>Mehrere Siege in Folge bringen dir zusätzliche Bonuspunkte ein.<br>* Wenn kein Kampfpartner in deiner eigenen Klasse gefunden werden kann, wirst du eventuell mit einem Spieler einer anderen Klasse gematcht.<br><br>■ Siege und Niederlagen<br>Wenn in der vorgegebenen Rundenzahl kein klarer Sieger ermittelt werden kann, wird der Spieler zum Sieger gekürt, der am meisten Einheiten übrig hat.<br>Wenn beide Spieler über gleich viele Einheiten verfügen, gewinnt der mit den meisten verbleibenden LP. Wenn beide Seiten gleich viele LP übrig haben, wird der Kampf als Unentschieden gewertet.<br>* Wenn du aufgibst oder deine Verbindung während des Kampfes unterbrochen wird, zählt dies als Niederlage.<br><br>■ Aufstiegsmatches<br>Sobald du genug Punkte angesammelt hast, kannst du an einem Aufstiegsmatch teilnehmen und in die nächste Klasse aufsteigen.<br>In diesem Kampf gilt es, 2 von 3 Runden zu gewinnen, um in die nächste Klasse aufzusteigen.<br>Du kannst es so lange erneut versuchen, bis du erfolgreich aufgestiegen bist.<br>* Deine Siegesserie wird weitergezählt, aber an deinen Punkten ändert sich nichts.<br><br>■ Belohnungen<br>• Aufstiegsbelohnungen werden vergeben, wenn du das erste Mal eine neue Klasse erreichst.<br>• Klassenbelohnungen sind Belohnungen, die du am Ende einer Saison erhältst und die, wie der Name schon sagt, von deiner Klasse abhängen.<br>* Wenn du während der Saison nicht an Kämpfen teilgenommen hast, stehen dir diese Belohnungen nicht zur Verfügung.<br>* Spieler der Diamant-Meisterklasse erhalten keine Klassenbelohnungen.<br>Stattdessen werden sie für ihren Punkterang belohnt.<br>* Berühre „Belohnungen“ auf dem Klassenmatches-Bildschirm, um mehr zu erfahren."
+        },
+        {
+            "key": "CLASSMATCH_INFO_TITLE",
+            "value": "Klassenbeschreibung"
+        },
+        {
+            "key": "CLASSMATCH_INFO_DESC",
+            "value": "Die maximalen Kosten für die unterschiedlichen Klassen kannst du unter „Klasseninformationen“ nachschlagen."
+        },
+        {
+            "key": "CLASSMATCH_REWARD_TITLE",
+            "value": "Belohnungslisten für Klassenmatches"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_DESC",
+            "value": "■ Belohnungslisten <br>Aufstiegsbelohnungen und Klassenbelohnungen können in der Belohnungsliste nachgeschlagen werden. <br><br>■ Aufstiegsbelohnungen <br>Aufstiegsbelohnungen bekommst du für den Aufstieg in eine neue Klasse. <br><br>■ Klassenbelohnungen <br>Klassenbelohnungen sind Belohnungen, die du am Ende einer Saison erhältst und die, wie der Name schon sagt, von deiner Klasse abhängen."
+        },
+        {
+            "key": "LOBBY_TITLE",
+            "value": "Abyssum"
+        },
+        {
+            "key": "LOBBY_DESC",
+            "value": "Im Abyssum hast du Zugang zu Events, Multi-Kämpfen, dem Porzellanturm, der Höhle des Ungetüms und zu Kraftproben. <br>Wenn du das Abyssum noch nicht betreten kannst, spiele die Story weiter oder erhöhe deinen Spielerrang, um es freizuschalten."
+        },
+        {
+            "key": "SUMMONQUEST_TITLE",
+            "value": "Höhle des Ungetüms"
+        },
+        {
+            "key": "SUMMONQUEST_DESC",
+            "value": "In der Höhle des Ungetüms werden Events abgehalten, in denen zum Training von Espern benötigten Materialien gewonnen werden können."
+        },
+        {
+            "key": "SUPPORT_LIST_TITLE",
+            "value": "Begleiterauswahl"
+        },
+        {
+            "key": "SUPPORT_LIST_DESC",
+            "value": "■ Begleiterauswahl <br>Ein Begleiter ist die sechste Einheit, die dich auf Missionen begleitet. <br>Begleiter der Typen „Freund“ oder „Prüfung“ können über Gruppenfähigkeiten verfügen, die dir bei deinen Aufträgen Vorteile verschaffen können. <br><br>Es gibt unterschiedliche Typen von Begleitern. <br>• Freund: Einheiten, die Spielern auf deiner Freundesliste gehören. Diese Einheiten kosten keine Gil und verfügen über Gruppenfähigkeiten. <br>• Prüfung: von offizieller Seite bereitgestellte Begleiter-Einheiten. Auch diese Einheiten kosten keine Gil und verfügen über Gruppenfähigkeiten. <br>• Andere Begleiter: Andere Einheiten kosten Gil (abhängig von ihrer Stufe) und verfügen nicht über Gruppenfähigkeiten. <br><br>■ Gruppenfähigkeiten <br>Gruppenfähigkeiten wirken sich auf alle Gruppenmitglieder aus und können durch das Ausrüsten von Visionskarten aktiviert werden."
+        },
+        {
+            "key": "MULTI_TOP_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_TOP_DESC",
+            "value": "■ Multi<br>Im Multi-Modus schließen sich bis zu vier Spieler zu einer Gruppe zusammen und erfüllen gemeinsam Aufträge.<br>Um einem Raum beizutreten, muss das Passwort eingegeben werden, das bei der Raumerstellung festgelegt wurde.<br>Multiaufträge lassen sich in Quartett- und Duoaufträge unterteilen.<br><br>Quartett: Vier Spieler steuern jeweils eine Einheit.<br>Duo: Zwei Spieler steuern jeweils zwei Einheiten.br><br>■Gastgeber-Bonus<br>Derjenige Spieler, von dem der Raum erstellt wurde, wird zusätzliche Beute als „Gastgeber-Bonus“ erhalten.<br>*Für Kämpfe, die ohne andere Spieler im Raum bestritten werden, können keine Gastgeber-Boni erhalten werden.<br><br>■ Kennenlern-Bonus<br>Wenn du das erste Mal mit einem anderen Spieler einen Auftrag abschließt, erhältst du Visiore als Kennenlern-Bonus.<br>Für die ersten zehn Spieler erhältst du 200 Visiore als Kennenlern-Bonus, ab dem elften Spieler erhältst du 40 Visiore.<br>* Der Kennenlern-Bonus wird für die ersten 50 Spieler aktiviert, die du in Multi und in Kraftproben kennenlernst.<br>* Die Boni werden nur beim ersten Kennenlernen vergeben. Spieler, die einmal zusammen gespielt haben, können den Kennenlern-Bonus kein zweites Mal erhalten."
+        },
+        {
+            "key": "MULTI_QUESTLIST_TITLE",
+            "value": "Multiauftrag auswählen"
+        },
+        {
+            "key": "MULTI_QUESTLIST_DESC",
+            "value": "■ Multiauftrag auswählen<br>Hier kannst du wählen, welchen Multiauftrag du in Angriff nehmen möchtest.<br>Berühre die Lupe, um Belohnungen, erspielbare Gegenstände und andere Informationen zu überprüfen.<br>Nur der Spieler, der den Raum erstellt hat, verbraucht Ausdauer."
+        },
+        {
+            "key": "MULTI_ROOMLIST_TITLE",
+            "value": "Multi-Rekrutierungsliste"
+        },
+        {
+            "key": "MULTI_ROOMLIST_DESC",
+            "value": "Multi-Hauptmenü → Rekrutierungsliste: Zeigt eine Liste von Räumen an, in denen nach Mitstreitern gesucht wird. <br>Missionsauswahl-Bildschirm → Raum beitreten: Zeigt eine Liste von Räumen an, in denen nach Mitstreitern für den gewählten Auftrag gesucht wird. <br>Auf der Multi-Rekrutierungsliste findest du Räume, die für den ausgewählten Auftrag rekrutieren, indem du „Raum erstellen“ auswählst. <br>Berühre „Aktualisieren“, um eine aktuelle Rekrutierungsliste anzuzeigen."
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_TITLE",
+            "value": "Spielstil festlegen"
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_DESC",
+            "value": "■ Optionen im Multi-Modus<br>Erstelle als Gastgeber einen Raum über „Raum erstellen“ oder wähle „Raum beitreten“, wenn du als Gast an einem Auftrag teilnehmen willst.<br>Bei der Raumerstellung kannst du die folgenden Einstellungen vornehmen:<br>• Passwort: Aktivierst du diese Option, kann dein Raum nur von Spielern betreten werden, die das Passwort kennen.<br>• Beitrittsbedingungen: Beschränke den Eintritt auf Spieler ab einer bestimmten Stufe oder einer gewissen Anzahl an erledigten Missionen.<br>• Doppelte Geschwindigkeit: Lässt Multiaufträge in doppelter Geschwindigkeit ablaufen.<br>* Kann erst ab einem gewissen Royalen Rang aktiviert werden.<br>• Kommentare: Hier kannst du einen Kommentar festlegen, der in deiner Multi-Rekrutierungsliste angezeigt wird."
+        },
+        {
+            "key": "MULTI_ROOM_TITLE",
+            "value": "Multi-Räume"
+        },
+        {
+            "key": "MULTI_ROOM_DESC",
+            "value": "In einem Multi-Raum kannst du die Profile der Spieler abrufen, die sich im Raum befinden, deine Gruppenformaton ändern, den Raum auflösen oder die Rausschmeißen-Funktion nutzen.<br>Alle Spieler müssen ihre Vorbereitungen abgeschlossen haben, bevor eine Mission angetreten werden kann.<br>Der Mehrspieler-Chat kann nur von den Spielern im Raum genutzt werden.<br>Wenn der Multi-Raum mit einem Passwort versehen wird, dann wird dieses Passwort auf der linken Seite des Bildschirms angezeigt.<br>Wenn andere Spieler das Passwort eingeben, dann können sie dem Raum beitreten.<br>Wenn außerdem der Raumleiter auf dieses Symbol tippt, dann wird das Passwort entfernt und jeder kann dem Raum frei beitreten."
+        },
+        {
+            "key": "MULTI_PARTYEDIT_TITLE",
+            "value": "Der Gruppenaufstellungs-Bildschirm"
+        },
+        {
+            "key": "MULTI_PARTYEDIT_DESC",
+            "value": "■ Gruppenaufstellungs-Bildschirm<br>Hier kannst du die Einheiten für deine Quartett- oder Duo-Missionen festlegen.<br>Auf dem Aufstellungsbildschirm im Raum werden diese Einheiten mit einem Einsatz-Symbol versehen."
+        },
+        {
+            "key": "MULTI_RPLAYER_TITLE",
+            "value": "Spielerprofil"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_TITLE",
+            "value": "Profile anderer Spieler"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_DESC",
+            "value": "Hier kannst du sehen, welche Einheiten andere Spieler in ihren Gruppen aufgestellt haben. <br>Wenn du Ausrüstung, Visionskarten oder Esper-Symbole länger antippst, werden dir detaillierte Statusinformationen angezeigt."
+        },
+        {
+            "key": "RAID_ENCOUNT_TITLE",
+            "value": "Kraftproben-Konfrontationen"
+        },
+        {
+            "key": "RAID_ENCOUNT_DESC",
+            "value": "Nach abgeschlossenen Aufträgen kann es passieren, dass ein Kraftproben-Boss auftaucht. <br>Sobald du in eine Kraftproben-Boss-Konfrontation verwickelt bist, tauchen keine weiteren Kraftproben-Bosse mehr auf. <br>Entweder du besiegst den Kraftproben-Boss, oder du versuchst, dich ihm erneut im Kampf zu stellen, wenn die Zeit vorher abläuft."
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Kraftproben"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "■Kraftproben<br>Um den Kraftproben-Boss herauszufordern, brauchst du ein Kraftprobenjuwel.<br>In den folgenden Fällen ist es möglich, den Kraftproben-Boss auch ohne Kraftprobenjuwel herauszufordern:<br> Es ist das erste Mal, dass du diesem Kraftproben-Boss begegnest.<br> Es ist das erste Mal, dass du die Verstärkung in einer Herausforderung gegen diesen Kraftproben-Boss bereitstellst (bis zu 20 Mal am Tag).<br><br>Kraftprobenjuwelen werden jeden Tag um 00:00 Weltzeit (PST) komplett und pro Stunde jeweils um ein Kraftprobenjuwel aufgefüllt.<br>Sie können außerdem mit Visiore oder Wiederherstellungs-Gegenständen aufgefüllt werden.<br><br>Wenn du dem Kraftproben-Boss innerhalb eines bestimmten Zeitlimits keinen Schaden zufügen kannst oder deine Gruppe besiegt wird, dann werden die LP des Kraftproben-Bosses auf den nächsten Kampf übertragen.<br>Der Kraftproben-Boss flieht, wenn er nicht innerhalb des Zeitlimits besiegt wird.<br><br>Zusätzlich zu dem Zeitlimit, bis der Kraftproben-Boss flieht, gibt es auch ein Zeitlimit, in dem du den Kraftproben-Boss herausfordern kannst.<br>Du kannst den Kraftproben-Boss nicht mehr herausfordern, wenn du es nicht innerhalb dieses Zeitlimits tust.<br>Wenn ein anderer Spieler den Kraftproben-Boss herausfordert, nachdem dieses Zeitlimit abgelaufen ist, dann geht die Möglichkeit, den Kraftproben-Boss herauszufordern, auf diesen Spieler über.<br><br>Kraftproben-Bosse stufen mit jedem Sieg auf.<br>Die Belohnungen, die du erhalten kannst, wenn du einen hochstufigen Kraftproben-Boss besiegst, sind wertvoller, als diejenigen für niedrigstufige Kraftproben-Boss.<br>* Der nächste Kraftproben-Boss erscheint, nachdem du deine Belohnungen abgeholt hast.<br><br>Du kannst auch die folgenden Boni aus Kraftproben erhalten:<br><br>■Unterstützungsbonus<br>Dieser Bonus geht an Spieler, die Verstärkung gegen einen Kraftproben-Boss für Spieler bereitstellen, die einen niedrigeren Spielerrang haben.<br>Die Anzahl der Belohnungen, die du maximal abholen kannst, ist begrenzt und wird mit jeder Herausforderung zurückgesetzt.<br><br>■Kennenlern-Bonus<br>Du kannst Visiore als Kennenlern-Bonus erhalten, wenn du zum ersten Mal mit einem anderen Spieler einen Kraftproben-Boss besiegst.<br>Der Kennenlern-Bonus beläuft sich auf 200 Visiore bei den ersten 10 Spielern, die du kennenlernst, und 40 Visiore ab dem 11. Spieler.<br>* Du kannst die Boni nur bei den ersten 50 Spielern erhalten, mit denen du in Multi-Kämpfen oder Kraftproben zusammen spielst.<br>* Die Boni können nur beim ersten Kennenlernen erhalten werden. Die Spieler, die bereits zusammen gespielt haben, erhalten keinen Bonus."
+        },
+        {
+            "key": "RAID_ROOM_TITLE",
+            "value": "Kraftprobenräume"
+        },
+        {
+            "key": "RAID_ROOM_DESC",
+            "value": "In einem Kraftprobenraum kannst du die Profile der Spieler abrufen, die sich im Raum befinden, deine Gruppenaufstellung ändern, Verstärkungsanfragen, die Rausschmeißen-Funktion, die Raum-Einstellungen und die Kampfeinstellungen verwalten oder den Raum auflösen.<br><br>Alle Spieler müssen ihre Vorbereitungen abgeschlossen haben, bevor eine Mission angetreten werden kann.<br>Der Mehrspieler-Chat kann nur von den Spielern im Raum genutzt werden."
+        },
+        {
+            "key": "RAID_BOSS_TITLE",
+            "value": "Kraftproben-Bosse"
+        },
+        {
+            "key": "RAID_BOSS_DESC",
+            "value": "Auf diesem Bildschirm können verschiedene Informationen abgerufen werden, unter anderem Kraftprobenbelohnungen, Ranglisten und Spieler, die am Kampf beteiligt waren.<br>Lege den Spielmodus fest, in dem du den Kraftproben-Boss herausfordern willst: Quartett, Duo oder Solo.<br><br>- Quartett: Vier Spieler steuern jeweils eine Einheit.<br>- Duo: Zwei Spieler steuern jeweils zwei Einheiten.<br>- Solo: Du spielst allein und steuerst vier Einheiten."
+        },
+        {
+            "key": "RAID_DEFEAT_TITLE",
+            "value": "Kraftproben-Bosse besiegen"
+        },
+        {
+            "key": "RAID_DEFEAT_DESC",
+            "value": "Hier kannst du die Verstärkungsliste aufrufen und Siegespunkte, die Summe aller Siegespunkte sowie Ranglisten einsehen."
+        },
+        {
+            "key": "RAID_END_TITLE",
+            "value": "Erledigte Kraftproben"
+        },
+        {
+            "key": "RAID_END_DESC",
+            "value": "Du kannst deine Ergebnisse einsehen, nachdem du den Kraftproben-Boss erfolgreich besiegt und deine Belohnungen abgeholt hast."
+        },
+        {
+            "key": "RAID_REWARD_TITLE",
+            "value": "Kraftprobenbelohnungen"
+        },
+        {
+            "key": "RAID_REWARD_DESC",
+            "value": "■Kraftprobenbelohnungen<br>Du kannst die folgenden Belohnungen erhalten.<br><br> Herausforderungsbelohnungen<br>Die Spieler, die am Kampf gegen den Kraftproben-Boss beteiligt werden, können diese Belohnungen erhalten, wenn der Kraftproben-Boss besiegt wurde.<br><br>Teilnahmebelohnungen<br>Alle Spieler, die am Kampf gegen den Kraftproben-Boss teilgenommen haben, können diese Belohnungen erhalten.<br><br> Schadensbelohnungen<br>Die Spieler erhalten diese Belohnungen je nachdem, wie viel Schaden sie im Kampf zugefügt haben.<br><br> Sieges-Bbelohnungen<br>Die Spieler erhalten diese Belohnungen, wenn sie im Kampf gegen den Kraftproben-Boss siegreich sind.<br><br> Ranglistenbelohnungen<br>Je nachdem, wie viele Siegespunkte die Spieler über eine Saison sammeln können, werden Ränge und dementsprechende Belohnungen vergeben.<br><br>* Wenn du den Kraftproben-Boss nicht innerhalb eines gewissen Zeitlimits herausforderst, kannst du ihn später nicht mehr herausfordern.<br>* Die Belohnungen, die du erhalten kannst, variieren mit deinem Spielstil.<br>Solo < Duo < Quartett."
+        },
+        {
+            "key": "RAID_PARTYEDIT_TITLE",
+            "value": "Aufstellungsbildschirm"
+        },
+        {
+            "key": "RAID_PARTYEDIT_DESC",
+            "value": "In der Kraftproben-Aufstellung legst du fest, welche Einheiten in den Kampf gehen, wenn du einen Kraftproben-Boss herausforderst. <br>Es gibt drei verschiedene Kampfmodi – Quartett für 4 Spieler, Duo für 2 Spieler und Solo für einen Spieler – und in jedem steuerst du eine andere Anzahl von Einheiten.<br>Auf dem Aufstellungsbildschirm im Raum werden Einheiten, die sich im Einsatz befinden, mit einem entsprechenden Symbol versehen.<br>* Die Gruppe ist die gleiche Gruppe, die auch bei Multiaufträgen genutzt wird."
+        },
+        {
+            "key": "RAID_HELP_TITLE",
+            "value": "Verstärkungsanfragen"
+        },
+        {
+            "key": "RAID_HELP_DESC",
+            "value": "Wenn du eine Verstärkungsanfrage schickst, dann können andere Spieler dem Raum beitreten.<br>* Es gibt eine Abklingdauer, bevor du erneut eine Verstärkungsanfrage schicken kannst."
+        },
+        {
+            "key": "RAID_OTHERPLAYER_TITLE",
+            "value": "Profile anderer Spieler"
+        },
+        {
+            "key": "RAID_OTHERPLAYER_DESC",
+            "value": "Hier kannst du sehen, welche Einheiten andere Spieler in ihren Gruppen aufgestellt haben. <br>Wenn du Ausrüstung, Visionskarten oder Esper-Symbole länger antippst, werden dir detaillierte Statusinformationen angezeigt."
+        },
+        {
+            "key": "OTHERPLAYER_TITLE",
+            "value": "Profile anderer Spieler"
+        },
+        {
+            "key": "OTHERPLAYER_DESC",
+            "value": "Hier kannst du sehen, welchen Rang ein Spieler innehat, wann er zuletzt gespielt hat und welchen Begleiter er ausgewählt hat.<br>Wenn du eine Einheit oder Visionskarte länger antippst, kannst du weitere Statusdetails aufrufen."
+        },
+        {
+            "key": "EVENT_TITLE",
+            "value": "Events"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Es gibt zwei Arten von Events: Zeitlich begrenzte Events und Tägliche/Trainingsevents.<br><br>Bei einigen Aufträgen besteht ein Limit, wie oft diese innerhalb eines Tages angenommen werden können.<br>* Die Versuchsanzahl gilt für alle auf dem Bildschirm angezeigten Aufträge.<br>* Die Versuche werden täglich um 00:00 Uhr, Weltzeit (PST) zurückgesetzt.<br><br>Außerdem gibt es folgende wochentagsspezifische Kampagnen.<br><br>• Beute x2 <br>Montag: ERF-Kammer, Gilkammer, Erzkammer, Eierkammer, Pöttekammer<br>Dienstag: Alkristkammer (Feuer/Wind), Esper-Erweckungskammer (Feuer/Wind) <br>Mittwoch: Alkristkammer (Wasser/Eis), Esper-Erweckungskammer (Wasser/Eis) <br>Donnerstag: Alkristkammer (Erde/Dunkel), Esper-Erweckungskammer (Erde/Dunkel) <br>Freitag: Alkristkammer (Blitz/Licht), Esper-Erweckungskammer (Blitz/Licht)<br>• Unbegrenzte Versuche<br>Samstag/Sonntag: Gilkammer, Erzkammer"
+        },
+        {
+            "key": "EVENT_QUESTLIST_TITLE",
+            "value": "Eventauftragsliste"
+        },
+        {
+            "key": "EVENT_QUESTLIST_DESC",
+            "value": "■ Die Auftragsliste<br>Berühre „Info“ unten rechts auf dem Event-Banner, um Informationen zum Event abzurufen.<br>Berühre die Lupe auf der Auftragsliste, um mehr über die verschiedenen Aufträge zu erfahren."
+        },
+        {
+            "key": "MOGSHOP_TITLE",
+            "value": "Mog-Laden"
+        },
+        {
+            "key": "MOGSHOP_DESC",
+            "value": "Die Medaillen, die du an verschiedenen Stellen des Spiels verdienen kannst, können im Mog-Laden gegen nützliche Gegenstände eingetauscht werden – zum Beispiel gegen solche, die zum Espertraining benötigt werden."
+        },
+        {
+            "key": "STORY_TITLE",
+            "value": "Storyaufträge"
+        },
+        {
+            "key": "STORY_DESC",
+            "value": "■ Storyaufträge<br>Diese Aufträge erzählen die Geschichte der Hauptcharaktere.<br>Wenn du Aufträge abschließt, werden neue Szenen und Kapitel freigeschaltet.<br>Durch die Kapitelauswahl kannst du zwischen Kapiteln und deren Szenen navigieren.<br>Überprüfe die Auftragsdetails, indem du die Lupe berührst."
+        },
+        {
+            "key": "STORY_SELECT_TITLE",
+            "value": "Storyaufträge"
+        },
+        {
+            "key": "STORY_SELECT_DESC",
+            "value": "■ Storyaufträge<br>Diese Aufträge erzählen die Geschichte der Hauptcharaktere.<br>Wenn du Aufträge abschließt, werden neue Szenen und Kapitel freigeschaltet.<br>Durch die Kapitelauswahl kannst du zwischen Kapiteln und deren Szenen navigieren.<br>Überprüfe die Auftragsdetails, indem du die Lupe berührst."
+        },
+        {
+            "key": "STORY_SORTIE_TITLE",
+            "value": "Einsatzbildschirm"
+        },
+        {
+            "key": "STORY_SORTIE_DESC",
+            "value": "■ Einsatzbildschirm<br>Hier stellst du Gruppen für Auftragseinsätze zusammen.<br>Berühre dein Inventar und wähle aus, welche Gegenstände du in den Kampf mitnehmen willst.<br>Wenn du „Anfangsposition“ deaktivierst, überspringst du die Aufstellung zu Kampfbeginn.<br>Mit „Kämpfe überspringen“ kannst du im Tausch gegen Ausdauer und spezielle Gegenstände Kämpfe überspringen.<br><br>* Bei manchen Aufträgen ist die Anwesenheit mancher Einheiten Pflicht, und die Gruppenaufstellung kann nicht geändert werden.<br>* Bei bestimmten Aufträgen ist das Überspringen von Kämpfen nicht möglich.<br>* Du musst zuerst alle Auftragsmissionen erfüllt haben, um im Rahmen eines Auftrags Kämpfe überspringen zu können."
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_TITLE",
+            "value": "Story: Zwangseinsätze"
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_DESC",
+            "value": "Manche Aufträge kannst du nur mit bestimmten Einheiten in deiner Gruppe antreten.<br>Diese Einheiten können nicht aus der Gruppe entfernt werden."
+        },
+        {
+            "key": "STORY_LIST_TITLE",
+            "value": "Begleiterauswahl"
+        },
+        {
+            "key": "STORY_LIST_DESC",
+            "value": "■ Begleiterauswahl <br>Ein Begleiter ist die sechste Einheit, die dich auf Missionen begleitet. <br>Begleiter der Typen „Freund“ oder „Prüfung“ können über Gruppenfähigkeiten verfügen, die dir bei deinen Aufträgen Vorteile verschaffen können. <br><br>Es gibt unterschiedliche Typen von Begleitern. <br>• Freund: Einheiten, die Spielern auf deiner Freundesliste gehören. Diese Einheiten kosten keine Gil und verfügen über Gruppenfähigkeiten. <br>• Prüfung: von offizieller Seite bereitgestellte Begleiter-Einheiten. Auch diese Einheiten kosten keine Gil und verfügen über Gruppenfähigkeiten. <br>• Andere Begleiter: Andere Einheiten kosten Gil (abhängig von ihrer Stufe) und verfügen nicht über Gruppenfähigkeiten. <br><br>■ Gruppenfähigkeiten <br>Gruppenfähigkeiten wirken sich auf alle Gruppenmitglieder aus und können durch das Ausrüsten von Visionskarten aktiviert werden."
+        },
+        {
+            "key": "WORLD_TITLE",
+            "value": "Die Weltkarte"
+        },
+        {
+            "key": "WORLD_DESC",
+            "value": "Auf der Weltkarte kannst du sehen, in welchen Regionen der Welt derzeit Events stattfinden.<br>Dies ist eine Liste aller Events, die auf der Weltkarte veröffentlicht werden:<br><br>• Schwierige Aufträge: Fragmente bestimmter Einheiten können in diesen Quests erhalten werden. Schwierige Aufträge können nur eine begrenzte Anzahl von Malen pro Tag herausgefordert werden. <br>Durch das Erhöhen deines Royalen Rangs kannst du deine Versuche allerdings zurücksetzen. <br>*Insgesamt können nur maximal 10 Schwierige Aufträge pro Tag erledigt werden. <br>*Darin sind auch die zurückgesetzten Versuche, um denselben Auftrag nochmals spielen zu können, enthalten. <br><br>• Charakteraufträge: mit diesen Aufträgen kannst du die Meisterfähigkeit der jeweiligen Einheit freischalten.<br>• Unteraufträge: Hier können Belohnungen erkämpft werden, indem an anderen Stellen des Spiels bestimmte Bedingungen erfüllt werden. <br> In der Unterauftragsliste kannst du nachsehen, welche Unteraufträge du schon erledigt hast."
+        },
+        {
+            "key": "WORLD_AREA_TITLE",
+            "value": "Die Regionale Karte"
+        },
+        {
+            "key": "WORLD_AREA_DESC",
+            "value": "Berühre die Symbole der Regionen auf der Regionalen Karte, um zu sehen, welche Aufträge dort angenommen werden können.<br>Regionen und Aufträge müssen unter bestimmten Bedingungen freigeschaltet werden, bevor du sie anwählen kannst."
+        },
+        {
+            "key": "WORLD_QUESTLIST_TITLE",
+            "value": "Die Liste der Weltweiten Aufträge"
+        },
+        {
+            "key": "WORLD_QUESTLIST_DESC",
+            "value": "Hier kannst du dir die Listen der Aufträge für die unterschiedlichen Regionen ansehen.<br>Berühre die Lupe, um die Auftragsbeschreibungen zu lesen."
+        },
+        {
+            "key": "WORLD_SORTIE_TITLE",
+            "value": "Der Gruppenaufstellungs-Bildschirm"
+        },
+        {
+            "key": "WORLD_SORTIE_DESC",
+            "value": "Hier kannst du überprüfen, welche Aufträge in bestimmten Regionen freigespielt wurden. Berühre die Lupe, um mehr zu erfahren."
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_TITLE",
+            "value": "Welt: Zwangseinsätze"
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_DESC",
+            "value": "Manche Aufträge können nur mit bestimmten Einheiten in der Gruppe angetreten werden.<br>Diese Einheiten können nicht aus der Gruppe entfernt werden."
+        },
+        {
+            "key": "WORLD_LIST_TITLE",
+            "value": "Begleiterauswahl"
+        },
+        {
+            "key": "WORLD_LIST_DESC",
+            "value": "■ Begleiterauswahl <br>Ein Begleiter ist die sechste Einheit, die dich auf Missionen begleitet. <br>Begleiter der Typen „Freund“ oder „Prüfung“ können über Gruppenfähigkeiten verfügen, die dir bei deinen Aufträgen Vorteile verschaffen können. <br><br>Es gibt unterschiedliche Typen von Begleitern. <br>• Freund: Einheiten, die Spielern auf deiner Freundesliste gehören. Diese Einheiten kosten keine Gil und verfügen über Gruppenfähigkeiten. <br>• Prüfung: von offizieller Seite bereitgestellte Begleiter-Einheiten. Auch diese Einheiten kosten keine Gil und verfügen über Gruppenfähigkeiten. <br>• Andere Begleiter: Andere Einheiten kosten Gil (abhängig von ihrer Stufe) und verfügen nicht über Gruppenfähigkeiten. <br><br>■ Gruppenfähigkeiten <br>Gruppenfähigkeiten wirken sich auf alle Gruppenmitglieder aus und können durch das Ausrüsten von Visionskarten aktiviert werden."
+        },
+        {
+            "key": "WORLD_SUBQUEST_TITLE",
+            "value": "Die Unterauftragsliste"
+        },
+        {
+            "key": "WORLD_SUBQUEST_DESC",
+            "value": "Auf der Unterauftragsliste sind alle Unteraufträge aufgelistet, die du angenommen hast.<br>Unteraufträge können über regionale Auftragslisten angenommen werden.<br><br>• Fortlaufende Unteraufträge werden unter „Aktuell“ angezeigt.<br>• Beendete Unteraufträge werden unter „Erledigt“ angezeigt, bis du deine Belohnung abgeholt hast. Wähle einen Auftrag und berühre „Abholen“, um deine Belohnungen entgegenzunehmen.<br>* Belohnungen können auch über die Auftragsliste abgeholt werden.<br>* Nach dem Abholen der Belohnungen werden Unteraufträge unter „Belohnungen abgeholt“ angezeigt."
+        },
+        {
+            "key": "FRIEND_TITLE",
+            "value": "Freund"
+        },
+        {
+            "key": "FRIEND_DESC",
+            "value": "■ Freunde<br>Wenn du andere Spieler als Freunde registrierst, kannst du Geschenke mit ihnen austauschen und ihre Einheiten als Begleiter auswählen, ohne Gil dafür aufwenden zu müssen.<br>Begleiter vom Typ „Freund“ verfügen außerdem über Gruppenfähigkeiten.<br><br>■ Freundesmitteilungen<br>Auf diesem Bildschirm kannst du Freundesanfragen verwalten.<br>Freundesanfragen müssen innerhalb von 2 Tagen akzeptiert werden. Danach werden sie gelöscht.<br><br>■ Spieler sperren<br>Spieler können gesperrt werden, indem du die Schaltfläche „Sperren“ auf ihrem Spielerprofil antippst.<br>Wenn sich ein Spieler auf deiner Sperrliste befindet, könnt ihr nicht dieselben Multi-Räume oder Kraftprobenräume betreten und keine Freundschaftsmatches austragen.<br>Außerdem werden Kommentare des gesperrten Spielers nicht mehr im Chat angezeigt.<br>* Ein gemeinsames Spiel kann stattfinden, wenn beide Spieler als Gäste an einem Einsatz beteiligt sind.<br><br>Auf der Sperrliste kannst du überprüfen, welche Spieler du aktuell gesperrt hast.<br>Wenn du die Schaltfläche „Entsperren“ berührst, kannst du die Sperrung eines Spielers wieder aufheben.<br>* Unter Umständen können dir Einheiten eines gesperrten Spielers auf dem Begleiter-Auswahlbildschirm angezeigt werden.<br><br>■ Geschenke<br>Freunde können einander bestimmte Gegenstände als Geschenke zukommen lassen.<br>Es kann ein Geschenk pro Tag verschickt werden.<br><br>* Verschenkte Gegenstände oder Gil werden nicht von deinen Beständen abgezogen.<br>* Neuen Freunden kannst du erst ab 00:00 (PST) des nächsten Tages Geschenke zukommen lassen.<br>* Wenn Geschenke nicht innerhalb von 7 Tagen angenommen werden, verfallen sie."
+        },
+        {
+            "key": "FRIEND_GIFT_TITLE",
+            "value": "Geschenke"
+        },
+        {
+            "key": "FRIEND_GIFT_DESC",
+            "value": "Befreundeten Spielern kannst du bestimmte Gegenstände oder Gil als Geschenk zukommen lassen.<br>Geschenke können einmal pro Tag versendet und empfangen werden.<br><br>* Verschenkte Gegenstände oder Gil werden nicht von deinen Beständen abgezogen.<br>* Neuen Freunden kannst du erst nach 24 Stunden Geschenke zukommen lassen.<br>* Wenn Geschenke nicht innerhalb von 7 Tagen angenommen werden, verfallen sie."
+        },
+        {
+            "key": "SUBMENU_QUEST_TITLE",
+            "value": "Aufstellen von Gruppen für Aufträge"
+        },
+        {
+            "key": "SUBMENU_QUEST_DESC",
+            "value": "Du kannst auswählen, welche Einheiten dich bei deinen Aufträgen begleiten sollen.<br>Auftragsgruppen kommen in Storyaufträgen, Events, in der Höhle des Ungetüms und in Weltaufträgen zum Einsatz."
+        },
+        {
+            "key": "SUBMENU_DUEL_TITLE",
+            "value": "Aufstellen von Gruppen für Duelle"
+        },
+        {
+            "key": "SUBMENU_DUEL_DESC",
+            "value": "Wähle aus, welche Einheiten in Duellen antreten sollen.<br>Duellgruppen kommen in der Arena und in Match-Kämpfen zum Einsatz."
+        },
+        {
+            "key": "SUBMENU_MULTI_TITLE",
+            "value": "Aufstellen von Multi-Gruppen"
+        },
+        {
+            "key": "SUBMENU_MULTI_DESC",
+            "value": "Lege fest, welche Einheiten für Multi-Kämpfe und Kraftproben genutzt werden sollen.<br>Am Symbol oben rechts von der Einheit kannst du erkennen, ob Einheiten für Quartett-, Duo- oder Solo-Kampfmodi aufgestellt sind."
+        },
+        {
+            "key": "SUBMENU_GUILD_TITLE",
+            "value": "Aufstellen von Gruppen für Gildenkämpfe"
+        },
+        {
+            "key": "SUBMENU_GUILD_DESC",
+            "value": "Wähle, welche Einheiten in Gildenkämpfen eingesetzt werden sollen.<br>Du kannst Einheiten für die Offensiv- und für die Defensiv-Gruppe auswählen. Berühre „Offensiv-Gruppe“, um zwischen den Gruppen hin- und herzuwechseln."
+        },
+        {
+            "key": "SUBMENU_SUPPORT_TITLE",
+            "value": "Einstellungen für Begleiter"
+        },
+        {
+            "key": "SUBMENU_SUPPORT_DESC",
+            "value": "■ Einstellungen für Begleiter<br>Für jedes Element kannst du eine Einheit auswählen, die als Begleiter zur Verfügung gestellt werden soll.<br>Wähle hier Ausrüstung, Esper und Visionskarten, die ausgerüstet werden sollen, wenn die Einheit verliehen wird.<br>* „Alle“ bedeutet, dass die Einheit unabhängig von ihrem Element verliehen wird.<br><br>■ Begleiterbelohnungen<br>Verliehene Begleiter bringen Gil ein. Der Betrag ist abhängig von ihrer Stufe.<br>Wenn ein Freund deine Einheit als Begleiter wählt, erhältst du eine Begleiterbelohnung.<br>Begleiterbelohnungen findest du in deiner Geschenkbox."
+        },
+        {
+            "key": "ARTI_TITLE",
+            "value": "Ausrüstungsdetails"
+        },
+        {
+            "key": "ARTI_DESC",
+            "value": "Hier kannst du die Werte eines Gegenstands und alle Fertigkeiten und Effekte, die er möglicherweise hat sowie die Vorraussetzung, die erfüllt werden müssen, bevor er ausgerüstet werden kann, überprüfen.<br>Es gibt mehrere Arten von Ausrüstung und die maximalen Werte und die Wahrscheinlichkeit, mit der Werte gesteigert werden, wenn du die Ausrüstung verbesserst, unterscheiden sich jeweils.<br><br>Die verschiedenen Arten bzw. Charakteristika von Waffen sind unten aufgelistet.<br> Vital: LP erhöhen sich leichter.<br> Angriff: ANG steigt leichter.<br> Magisch: MAG steigt leichter.<br> Zielen: Präzision steigt leichter.<br> Schild: ABW steigt leichter.<br> Barriere: PSY steigt leichter.<br>"
+        },
+        {
+            "key": "ARTI_LIST_TITLE",
+            "value": "Ausrüstungsliste"
+        },
+        {
+            "key": "ARTI_LIST_DESC",
+            "value": "In diesem Bildschirm siehst du alle Ausrüstung, die du besitzt.<br>Gegenstände, mit denen zurzeit eine Einheit ausgerüstet ist, werden mit einem „A“ über ihrem Symbol versehen.<br><color=#99FF33>A</color> bedeutet, dass der Gegenstand zurzeit ausgerüstet ist.<br><color=#99FF33>A</color>bedeutet, dass der Gegenstand zu deinen Favoriten hinzugefügt wurde.<br>* Wenn beides zutrifft, du also einen Gegenstand ausgerüstet hast, der auch zu deinen Favoriten gehört, dann wird <color=#99FF33>E</color> mit der Bedeutung, dass der Gegenstand zurzeit ausgerüstet ist, angezeigt.<br><br> Mit Schaltflächen und Filtern kannst du nur die Gegenstände anzeigen, die verschiedene Voraussetzungen erfüllen.<br>* Wenn „Filter: AN“ angezeigt wird, dann werden deine Gegenstände gerade gefiltert."
+        },
+        {
+            "key": "ARTI_ENHANCE_TITLE",
+            "value": "Ausrüstung verbessern"
+        },
+        {
+            "key": "ARTI_ENHANCE_DESC",
+            "value": "Wenn du Adamantit benutzt, dann kannst du damit die Stufe eines Ausrüstungsgegenstands steigern. Dabei werden auch zufällig einige Attribute erhöht.<br>Wenn du ein Siegel beim Verbessern benutzt, dann werden die Attribute, die von dem Siegel betroffen sind, eher erhöht. * Siegel können ein Mal pro Stufe benutzt werden.<br><br>Die Max. St. für Ausrüstungsgegenstände sind unten aufgelistet:<br><br>▼Ausrüstung Max. St.<br>★: St. 10<br>★★: St. 20<br>★★★: St. 30<br>★★★★: St. 40<br>★★★★★: St. 50<br>* Einige Ausnahmen vorbehalten."
+        },
+        {
+            "key": "ARTI_AWAKE_TITLE",
+            "value": "Ausrüstung erwecken"
+        },
+        {
+            "key": "ARTI_AWAKE_DESC",
+            "value": "Das Erwecken von Ausrüstung erlaubt es dir, die Einschränkung aufzuheben, dass ihre Attribute einen Maximalwert besitzen.<br>Wenn ein Ausrüstungsteil seine maximale Stufe erreicht, kannst du es mit einem Almanach der Veredelung erwecken."
+        },
+        {
+            "key": "ARTI_STATUS_TITLE",
+            "value": "Schmieden von Ausrüstung"
+        },
+        {
+            "key": "ARTI_STATUS_DESC",
+            "value": "Die Werte von Ausrüstungsgegenständen können durch den Einsatz von Zwergenhämmern erhöht werden.<br>*Wie oft Zwergenhämmer zum Erhöhen von Werten eingesetzt werden können, ist für jeden Ausrüstungsgegenstand festgelegt."
+        },
+        {
+            "key": "ARTI_ABILITY_TITLE",
+            "value": "Ausrüstungsfähigkeiten verbessern"
+        },
+        {
+            "key": "ARTI_ABILITY_DESC",
+            "value": "Ausrüstungsfähigkeiten können durch den Einsatz von Rüstungs-Pötten verbessert werden.<br>"
+        },
+        {
+            "key": "ARTI_RESET_TITLE",
+            "value": "Ausrüstung zurücksetzen"
+        },
+        {
+            "key": "ARTI_RESET_DESC",
+            "value": "Du kannst Ausrüstung auf Stufe 1 zurücksetzen, ohne sie zu zerlegen. Dies ermöglicht dir, sie noch einmal von Grund auf neu zu verbessern.<br>Hierbei werden auch die Einsätze des Zwergenhammers zurückgesetzt und ebenso alle Attribute, die durch ihn verbessert wurden.<br>* Der Erweckungsgrad, Wachstumstyp und die Stufen der Ausrüstungsfähigkeiten werden nicht zurückgesetzt."
+        },
+        {
+            "key": "ARTI_CRAFT_TITLE",
+            "value": "Herstellung"
+        },
+        {
+            "key": "ARTI_CRAFT_DESC",
+            "value": "Hier kannst du Ausrüstungsgegenstände und ihre Anleitungen sehen, sofern du mindestens ein Material oder eine Ausrüstung besitzt.<br>Um einen Gegenstand herzustellen, müssen sich die benötigten Materialien in deinem Besitz befinden.<br>* Ausrüstung, die als Favorit festgelegt wurde, kann nicht zum Herstellen verwendet werden."
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_TITLE",
+            "value": "Herstellungsdetails"
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_DESC",
+            "value": "Ausrüstung kann durch Herstellung angefertigt werden, nachdem die notwendigen Anleitungen und Materialien gesammelt wurden.<br>Indem du auf das jeweilige Material tippst, kannst du überprüfen, wie es erhalten werden kann.<br>* Ausrüstungstypen werden zufällig festgelegt, weswegen die Werte vor und nach der Herstellung unterschiedlich sein können.<br>* Wenn du Gegenstände mit +1 oder höher herstellst, dann kannst du die Art der Ausrüstung, die für Materialien verwendet wird, auswählen."
+        },
+        {
+            "key": "ARTI_SELL_TITLE",
+            "value": "Ausrüstung verkaufen"
+        },
+        {
+            "key": "ARTI_SELL_DESC",
+            "value": "Du kannst Ausrüstung aus deinem Inventar für Gil verkaufen.<br>* Treuemeister-Ausrüstung kann nicht verkauft werden.<br>* Favorisierte Ausrüstung kann nicht verkauft werden.<br>Versehentlich verkaufte Ausrüstung kann nicht zurückgewonnen werden.<br>Wenn du sicherstellen willst, dass du keine Ausrüstung versehentlich verkaufst, empfehlen wir dir, sie als favorisierte Ausrüstung festzulegen.<br>Du kannst einen Ausrüstungsgegenstand favorisieren, indem du den Stern im Ausrüstungs-Details-Bildschirm antippst."
+        },
+        {
+            "key": "ARTI_BULK_TITLE",
+            "value": "Ausrüstung zerlegen"
+        },
+        {
+            "key": "ARTI_BULK_DESC",
+            "value": "Durch das Zerlegen von Ausrüstung kannst du Fertigungsmaterialien und andere Gegenstände erhalten.<br>Durch das Zerlegen von erweckter Ausrüstung kannst du sogar Almanachs der Veredelung erhalten.<br>Du kannst überprüfen, welche Materialien beim Zerlegen erhalten werden, indem du das Gegenstands-Symbol berührst und hältst,<br> dann Zerlegen wählst. Damit gelangst du zum Materialien bestätigen Bildschirm.<br><br>Bitte beachte, dass es sich bei der Ausrüstung, die du durch Zerlegen erhältst, um neue Ausrüstung handelt und nicht um Ausrüstungsgegenstände, die beim Herstellen der zerlegten Ausrüstung verwendet wurden.<br>* Die Anzahl an Ausrüstungsgegenständen, die du pro Tag zerlegen kannst, ist begrenzt.<br>* Die Stufe und der Status der Erweckung der erhaltenen Ausrüstung werden zurückgesetzt und die Art der Ausrüstung wird zufällig bestimmt.<br><br>* Es gibt eine Begrenzung dafür, wie oft du am Tag Ausrüstung zerlegen kannst.<br>* Anleitungen zur Ausrüstungsherstellung, Adamanit, Zwergenhämmer und Siegel zur Aufwertung deiner Ausrüstung können nicht durch Zerlegen erhalten werden.<br>* Vertrauensmeister-Ausrüstung, ausgerüstete Gegenstände oder Favoriten können nicht zerlegt werden.<br>* Versehentlich zerlegte Ausrüstung kann nicht zurückerhalten werden. Wenn du sicherstellen willst, dass du keine Ausrüstung versehentlich zerlegst, empfehlen wir dir, sie in deinen Favoriten zu registrieren.<br>* Du kannst Ausrüstung als Favorit festlegen, indem du den Stern im Ausrüstungsdetails-Bildschirm antippst."
+        },
+        {
+            "key": "NETHERBEAST_LIST_TITLE",
+            "value": "Esper-Liste"
+        },
+        {
+            "key": "NETHERBEAST_LIST_DESC",
+            "value": "In der Esper-Liste kannst du sehen, welche Esper du besitzt.<br>Esper, die zur Zeit ausgerüstet sind, sind mit einem „E“ über ihrem Symbol markiert.<br>Berühre die Schaltfläche „Element“, um die Filtereinstellungen zu ändern und nur Esper, die den jeweiligen Einstellungen entsprechen, anzuzeigen.<br> Wenn „Filter: AN“ angezeigt wird, dann werden deine Esper gerade gefiltert."
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_TITLE",
+            "value": "Esperprofile"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_DESC",
+            "value": "■ Esperprofile<br>Hier kannst du den Status deiner Esper einsehen.<br>Außerdem kannst du hier Esper aufwerten oder erwecken – mit Gegenständen wie Maginit oder Erweckungssteinen, die zum Element der Esper passen.<br><br>■ Erwecken von Espern<br>Esper können erweckt werden, sobald sie ihre maximale Stufe erreicht haben. Durch das Erwecken einer Esper hebst du ihr Stufenlimit auf.<br>Nach dem Erwecken fällt die Esper auf Stufe 1 zurück, verliert jedoch keine SP.<br>Auch das Trainingsbrett der Esper bleibt unverändert.<br><br>■ Esper-Resonanz<br>Wenn eine Einheit mit einer ausgerüsteten Esper zusammen einen Auftrag bestreitet, wächst die Resonanz zwischen ihnen.<br>Durch das Erhöhen der Resonanz zwischen Espern und Einheiten werden die Attribute der Einheit sowie die Karteneffekte der Anrufungsmagie der Esper erhöht."
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_TITLE",
+            "value": "Mehrere Felder gleichzeitig freischalten"
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_DESC",
+            "value": "Wenn alle notwendigen Voraussetzungen getroffen sind, können mehrere Felder auf dem Esper-Trainingsbrett gleichzeitig freigeschaltet werden."
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_TITLE",
+            "value": "Esper-Trainingsbrett"
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_DESC",
+            "value": "■ Esper-Trainingsbretter<br>Das Trainingsbrett erlaubt es dir, die Attribute einer Esper zu verbessern. Hier kannst du Felder freischalten, die den Trägern der Esper bestimmte Fähigkeiten verleihen.<br>Das Freischalten von Feldern auf dem Esper-Trainingsbrett kostet SP.<br>SP erhältst du beim Aufstufen von Espern.<br><br>■ Trainingsbretter zurücksetzen<br>Freigeschaltete Felder können zurückgesetzt werden, indem du die Schaltfläche „Brett zurücksetzen“ antippst.<br>So kannst du deine Esper von Neuem trainieren.<br>* Das erste Zurücksetzen einer Esper ist kostenlos. Ab dem zweiten Mal kostet der Vorgang Visiore."
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_TITLE",
+            "value": "Felder auf dem Trainingsbrett freischalten"
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_DESC",
+            "value": "■ Freischaltbedingungen<br>Das Freischalten von Feldern kostet SP und setzt das Erfüllen bestimmter Bedingungen voraus.<br>Zu jedem Feld lässt sich ein kleines Infofenster öffnen, in dem du überprüfen kannst, wie diese Bedingungen lauten."
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_TITLE",
+            "value": "Mehrere Felder auf dem Esper-Trainingsbrett freischalten"
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_DESC",
+            "value": "Du kannst auch mehrere Felder auf einmal freischalten, wenn du alle Voraussetzungen erfüllst.<br><br>Hierbei wird dann die Summe von SP für alle Felder gleichzeitig verbraucht."
+        },
+        {
+            "key": "NETHERBEAST_RESET_TITLE",
+            "value": "Esper-Trainingsbrett zurücksetzen"
+        },
+        {
+            "key": "NETHERBEAST_RESET_DESC",
+            "value": "Du kannst freigeschaltete Felder zurücksetzen und die Esper von Neuem trainieren.<br>Erhöhe deinen Royalen Rang, um einmal pro Woche kostenlos das Esper-Trainingsbrett zurücksetzen zu können und die Anzahl an möglichen Zurücksetzungen zu erhöhen. <br><br>* Alle SP, die für das Freischalten von Feldern verbraucht wurden, werden zurückerstattet. <br>* Das erste Zurücksetzen für alle Esper ist kostenlos. Ab dem zweiten Mal werden für Zurücksetzungen Visiore benötigt."
+        },
+        {
+            "key": "VISION_LIST_TITLE",
+            "value": "Visionskartenliste"
+        },
+        {
+            "key": "VISION_LIST_DESC",
+            "value": "Hier kannst du sehen, welche Visionskarten du besitzt.<br>Ausgerüstete Visionskarten werden mit einem „E“ über ihrem Symbol versehen.<br>Tippe auf den Favoriten-Tab, um die Filtereinstellungen zu ändern und nur Visionskarten, die unterschiedlichen Einstellungen entsprechen, anzuzeigen.<br>* Wenn „Filter: AN“ angezeigt wird, dann werden deine Visionskarten gerade gefiltert."
+        },
+        {
+            "key": "VISION_ENHANCE_TITLE",
+            "value": "Elementaraura"
+        },
+        {
+            "key": "VISION_ENHANCE_DESC",
+            "value": "Hier kannst du Attribute und andere Details der Visionskarten sehen. <br><br>■ Verbessern: <br>Visionskarten können durch Wachstumseier und Gil verbessert werden. <br>Das Aufstufen von Visionskarten erhöht ihre Attribute und verstärkt Effekte und Gruppenfähigkeiten. <br><br>■ Erwecken <br>Visionskarten können durch Kartenfragmente, Kugeln und Gil erweckt werden. <br>Durch Erwecken erhöhst du die maximale Stufe einer Karte. <br><br>■ Erweckungsboni <br>Das Erwecken mancher Visionskarten aktiviert Bonuseffekte oder Gruppenfähigkeiten. <br>Berühre „Erweckungsbonus“, um eine Liste der verschiedenen Boni zu sehen."
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_TITLE",
+            "value": "Kartenfusion"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_DESC",
+            "value": "Über die Kartenfusion kannst du Visionskarten als Materialien für Verbesserungen nutzen. <br>Wenn du identische Visionskarten fusionierst, wird das Erweckungssymbol angezeigt. <br><br>Du kannst auch mehrere Karten gleichzeitig zu Verbesserungsmaterialien umwandeln. Hierzu musst du Karten unter „Seltenheit“ und „Art“ mit einem Häkchen markieren. <br>* Ausgerüstete Karten und Favoriten können nicht ausgewählt werden. <br>* Es können bis zu 99 Karten auf einmal ausgewählt werden. <br> Karten mit der niedrigsten markierten Seltenheit werden vorgezogen."
+        },
+        {
+            "key": "VISION_SELL_TITLE",
+            "value": "Visionskarten verkaufen"
+        },
+        {
+            "key": "VISION_SELL_DESC",
+            "value": "Visionskarten können für Gil und Visionsmedaillen verkauft werden. <br>* Verkäufe lassen sich nicht rückgängig machen. Einmal verkaufte Visionskarten können nicht zurückgenommen werden. <br>* Ausgerüstete Karten und Favoriten können nicht verkauft werden."
+        },
+        {
+            "key": "VISION_DETAIL_TITLE",
+            "value": "Visionskarten"
+        },
+        {
+            "key": "VISION_DETAIL_DESC",
+            "value": "Hier kannst du Attribute und andere Details der Visionskarten sehen. <br><br>■ Verbessern: <br>Visionskarten können durch Wachstumseier und Gil verbessert werden. <br>Das Aufstufen von Visionskarten erhöht ihre Attribute und verstärkt Effekte und Gruppenfähigkeiten. <br><br>■ Erwecken <br>Visionskarten können durch Kartenfragmente, Kugeln und Gil erweckt werden. <br>Durch Erwecken erhöhst du die maximale Stufe einer Karte. <br><br>■ Erweckungsboni <br>Das Erwecken mancher Visionskarten aktiviert Bonuseffekte oder Gruppenfähigkeiten. <br>Berühre „Erweckungsbonus“, um eine Liste der verschiedenen Boni zu sehen."
+        },
+        {
+            "key": "； ミッション",
+            "value": ""
+        },
+        {
+            "key": "MISSION_TITLE",
+            "value": "Missionen"
+        },
+        {
+            "key": "MISSION_DESC",
+            "value": "■ Missionen<br>Auf Missionen kannst du Belohnungen verdienen, wenn du bestimmte Bedingungen erfüllst.<br><br>• Tagesmissionen<br>Tagesmissionen können einmal pro Tag angetreten werden.<br>Wenn du auf einer Tagesmission Fortschritte erzielst, füllt sich die Fortschrittsleiste. Hat sie einen bestimmten Wert erreicht, werden Belohnungen freigegeben.<br>Es gibt außerdem die Montagsmissionen, die jeden Montag von 00:00 - 23:59, Weltzeit (PST) verfügbar sind.<br><br>• Meilensteine<br>Meilensteine sind Missionen, die dich für deinen Fortschritt in Storymissionen oder für deinen Fortschritt beim Einheitentraining belohnen.<br>Manche Missionen sind nur während bestimmter Events verfügbar.<br><br>• Paketmissionen<br> Diese Missionen werden durch den Erwerb von Missionspaketen im Laden freigeschaltet.<br><br>■ Alle Belohnungen auf einmal annehmen<br>Berühre die Schaltfläche „Alles annehmen“, um alle Missionsbelohnungen in dieser Kategorie entgegenzunehmen.<br><br>* Wenn dein Inventar voll ist, werden deine Belohnungen an die Geschenkebox gesendet.<br>* Tagesmissionen werden jeden Tag um 00:00 Uhr, Weltzeit (PST) zurückgesetzt, sodass du sie täglich neu antreten kannst.<br>Alle Belohnungen, die vor diesem Zurücksetzungszeitpunkt noch nicht abgeholt wurden, verfallen."
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "Menü"
+        },
+        {
+            "key": "OPTION_DESC",
+            "value": "■ Menü<br>Im Menü hast du Zugriff auf viele nützliche Informationen und Optionen.<br><br>■ Optionen<br>Du kannst die folgenden Einstellungen vornehmen:<br>• Optionen<br>Hier können Sound,  Grafik und Energiesparoptionen eingestellt werden.<br>• Chat-Einstellungen<br>Hier kannst du die Chat-Funktion aktivieren und deaktivieren oder deine festgelegten Nachrichten bearbeiten.<br>• Downloads<br>Hier kannst du Stimmdaten oder Download-Pakete erneut herunterladen.<br>• Benachrichtigungen<br>Hier kannst du Push-Benachrichtigungen ein- und ausschalten."
+        },
+        {
+            "key": "OPTION_PLAYERINFO_TITLE",
+            "value": "Spielerprofil"
+        },
+        {
+            "key": "OPTION_PLAYERINFO_DESC",
+            "value": "Hier kannst du deine Spieler-ID überprüfen und die folgenden Spielelemente anpassen.<br><br>• Spielername<br>• Spielerkommentar<br>• Einheit auf deinem Hauptbildschirm<br><br>* Wenn du deinen Spielernamen änderst, musst du 10 Tage warten, bevor du ihn erneut ändern kannst.<br>Spieler auf Royalem Rang 2 oder höher sind davon allerdings ausgenommen."
+        },
+        {
+            "key": "OPTION_STORYMEMORY_TITLE",
+            "value": "Story-Erinnerungen"
+        },
+        {
+            "key": "OPTION_STORYMEMORY_DESC",
+            "value": "Hier kannst du die Zwischensequenzen von bereits abgeschlossenen Storyaufträgen, dynamische Animationen von Espern, die du bereits besitzt und anderes Videomaterial ansehen."
+        },
+        {
+            "key": "ITEM_TITLE",
+            "value": "Gegenst."
+        },
+        {
+            "key": "ITEM_DESC",
+            "value": "Auf diesem Bildschirm kannst du verschiedene Informationen zu deinen Gegenständen abrufen."
+        },
+        {
+            "key": "CHARGEBONUS_TITLE",
+            "value": "Tägliche Einkaufsboni"
+        },
+        {
+            "key": "CHARGEBONUS_DESC",
+            "value": "Wenn du während eines Events eine bestimmte Menge Erworbener Visiore kaufst, kannst du zwei Arten von Boni erhalten.<br>• Tägliche Einkaufsboni, die du jeden Tag erhalten kannst.<br>• Einen Kettenbonus, der davon abhängt, an wie vielen Tagen du Visiore gekauft hast.<br><br>* Nach Ende des Events sind die Boni nicht mehr verfügbar.<br>* Es kann sein, dass die Eventtage für bestimmte Boni nicht mehr ausreichen.<br>* Die Datumsgrenze für den Täglichen Bonus und den Kettenbonus liegt bei 00:00, Weltzeit (PST).<br>* Erworbene Visiore aus Paketen sind für die Boni ebenfalls von Belang."
+        },
+        {
+            "key": "EXCHANGE_TITLE",
+            "value": "Gegenstandstauschladen"
+        },
+        {
+            "key": "EXCHANGE_DESC",
+            "value": "Es gibt drei verschiedene Arten vom Gegenstandstausch.<br>Die Gegenstände, die du bei diesem Tausch benutzen kannst, hängen von deiner ausgewählten Art ab.<br>* Die Art des Tauschs hängt auch vom Typ und der Seltenheit der Gegenstände ab, die du erhalten möchtest.<br><br> Tausch nach oben: Gegenstände mit einer niedrigeren Seltenheit werden getauscht.<br> Tausch nach unten: Gegenstände mit einer höheren Seltenheit werden getauscht.<br> Gleichwertiger Tausch: Gegenstände werden gegen solche mit gleicher Seltenheit getauscht."
+        },
+        {
+            "key": "；白磁の塔",
+            "value": ""
+        },
+        {
+            "key": "TOWER_TOP_TITLE",
+            "value": "Porzellanturm"
+        },
+        {
+            "key": "TOWER_TOP_DESC",
+            "value": "Der Porzellanturm ist ein Event, das nur für eine begrenzte Zeit abgehalten wird."
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Info"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Im Porzellanturm kannst du die Courage bzw. Spiritualität deiner Einheiten jedes Mal erhöhen, wenn du LP oder Fähigkeiten, einschließlich Ausrüstungsfähigkeiten und Anrufungsmagie, im Kampf verbrauchst.<br>* Wenn du Gegenstände oder Esper von einer Einheit auf eine andere ausrüstest, dann wird die Anzahl an Benutzungen nicht zurückgesetzt.<br>* Verringerungen von Courage bzw. Spiritualität werden nicht übernommen.<br>Du kannst die LP und Fähigkeiten all deiner Einheiten in regelmäßigen Abständen kostenlos wiederherstellen.<br><br>Jedes Mal, wenn du eine Ebene im Turm abschließt, dann erhältst du verschiedene Belohnungen.<br>Wenn du eine Ebene abschließt, die mit „EX“ markiert ist, dann schaltest du damit einen EX-Auftrag frei.<br>EX-Aufträge sind besondere Aufträge, bei denen du auch Einheiten, die bereits auf anderen Ebenen kampfunfähig geworden sind, benutzen kannst.<br><br>Wenn du das erste Mal alle Ebenen des Turms abgeschlossen hast, dann kannst du ihn kostenlos zurücksetzen. Du kannst Visiore benutzen, um ab dem zweiten Mal alle Ebenen zurückzusetzen.<br>Berühre die Lupe, um die Belohnungen zu sehen, die für die jeweilige Ebene verfügbar sind."
+        },
+        {
+            "key": "TOWER_PARTY_TITLE",
+            "value": "Einsatzbildschirm"
+        },
+        {
+            "key": "TOWER_PARTY_DESC",
+            "value": "„Einsatz nicht möglich“ wird angezeigt, wenn du nicht zu einem Auftrag aufbrechen oder keine Gruppe formieren kannst.<br>Um zu sehen, welche Fähigkeiten bzw. Anrufungsmagie du mit deiner derzeiten Ausrüstung nutzen kannst, berühre und halte das Einheitensymbol, um den Infobildschirm aufzurufen. Berühre dort dann „Verfügbare Fähigkeiten“."
+        },
+        {
+            "key": "；オートバトル対象アビリティ",
+            "value": ""
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Auto-Kampf-Fähigkeiten"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Deaktivierte Fähigkeiten werden nicht in Auto-Kämpfen eingesetzt.<br>Du kannst außerdem noch andere Einstellungen festlegen, indem du auf Weitere Einstellungen tippst.<br>* Die Verfügbarkeit von Fähigkeiten hängt von den Jobeinstellungen der Einheit sowie von eventuellen Zustandsveränderungen ab, selbst wenn diese in Auto-Kämpfen aktiviert wurden."
+        },
+        {
+            "key": "CONTACT_US_TITLE",
+            "value": "Kontaktiere uns/Hilfe"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_INFO_TITLE",
+            "value": "Spielerprofil"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_IDENTIFIER_TITLE",
+            "value": "Spieler-ID"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_NAME_TITLE",
+            "value": "Spielername"
+        },
+        {
+            "key": "CONTACT_US_INQUIRIES_TITLE",
+            "value": "Kontaktformular"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_TYPE_TITLE",
+            "value": "Kategorie"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_AREA_TITLE",
+            "value": "Bereich"
+        },
+        {
+            "key": "CONTACT_US_EMAIL_TITLE",
+            "value": "E-Mail (optional)"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_TITLE",
+            "value": "Kommentar"
+        },
+        {
+            "key": "CONTACT_US_SEND_BUTTON",
+            "value": "Senden"
+        },
+        {
+            "key": "CONTACT_US_TICKETS_BUTTON",
+            "value": "Meine Tickets"
+        },
+        {
+            "key": "ISSUE_TYPE_GENERAL",
+            "value": "Allgemein"
+        },
+        {
+            "key": "ISSUE_TYPE_ACCOUNT",
+            "value": "Konto"
+        },
+        {
+            "key": "ISSUE_TYPE_GAMEPLAY",
+            "value": "Gameplay"
+        },
+        {
+            "key": "ISSUE_TYPE_BUG",
+            "value": "Fehler"
+        },
+        {
+            "key": "ISSUE_TYPE_EVENT",
+            "value": "Event"
+        },
+        {
+            "key": "ISSUE_TYPE_FEEDBACK",
+            "value": "Feedback"
+        },
+        {
+            "key": "ISSUE_TYPE_IN_APP_PURCHASE",
+            "value": "Kauffunktion"
+        },
+        {
+            "key": "ISSUE_TYPE_BILLING",
+            "value": "Zahlvorgang"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_LOST",
+            "value": "Konto verloren"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_SHARD",
+            "value": "Fehlende Fragmente"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_LAPIS",
+            "value": "Fehlende Visiore"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_EQUIPMENT",
+            "value": "Fehlende Ausrüstung"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_SUSPENDED",
+            "value": "Konto gesperrt"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_MISSING_REWARDS",
+            "value": "Fehlende Belohnungen"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_CRASH",
+            "value": "Absturz beim Event"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_BUG",
+            "value": "Fehler im Event"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_UNABLE_TO_DOWNLOAD",
+            "value": "Download-Probleme"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_LOADING",
+            "value": "Ladezeiten"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_QUEST",
+            "value": "Aufträge"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_GACHA",
+            "value": "Beschwörungen"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_ARENA",
+            "value": "Arena"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_CONNECTION_ERROR",
+            "value": "Verbindungsprobleme"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_IMAGE",
+            "value": "Grafik"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TEXT",
+            "value": "Text"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TRANSLATION",
+            "value": "Übersetzung"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_SKILL",
+            "value": "Fähigkeiten"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_OTHERS",
+            "value": "Sonstiges"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_MISSING_PURCHASE",
+            "value": "Einkäufe nicht auffindbar"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_REFUND",
+            "value": "Erstattungen"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_BUNDLE",
+            "value": "Bundles"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_APPLE",
+            "value": "Apple App Store"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_GOOGLE",
+            "value": "Google Play Store"
+        },
+        {
+            "key": "SUPPORT_TICKETS_TITLE",
+            "value": "Meine Tickets"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_CAPTION",
+            "value": "Bitte gib deine Frage ein."
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_DIALOG_TITLE",
+            "value": "Antwort"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_SUCCESS_DIALOG_DESC",
+            "value": "Deine Nachricht wurde verschickt."
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_FAIL_DIALOG_DESC",
+            "value": "Ein Fehler ist aufgetreten. Deine Nachricht wurde nicht verschickt."
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_TITLE",
+            "value": "Bestätigung"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
+            "value": "Nachricht abschicken?"
+        },
+        {
+            "key": "； ポイントクエスト",
+            "value": ""
+        },
+        {
+            "key": "POINT_QUEST_TOP_TITLE",
+            "value": "Prüfungen des Urteils"
+        },
+        {
+            "key": "POINT_QUEST_TOP_DESC",
+            "value": "■ Die Prüfungen des Urteils<br>Du kannst Punkte erhalten, indem du Eventaufträge oder Bosskämpfe abschließt.<br>Der Punktebetrag variiert je nach deiner Leistung im Kampf.<br>Du kannst Belohnungen entsprechend deiner erreichten Punkteanzahl und durch das Abschließen von Auftragsmissionen erhalten.<br>* Wenn du ein Überspringticket benutzt, um einen Auftrag abzuschließen, werden nur deine Siegespunkte zur Berechnung deiner Belohnungen genutzt.<br>* Schließt du den Auftrag im Schwierigkeitsgrad Normal ab, schaltest du Schwierig frei.<br><br>■ Eventbeschwörungen <br>Die erhaltenen Medaillen können für Eventbeschwörungen  genutzt werden.<br>Nachdem du die Hauptbelohnung jeder Stufe beschworen hast, kannst du sowohl die Beschwörung zurücksetzen als auch zur nächsten Stufe voranschreiten.<br>Nachdem du alle Stufen abgeschlossen hast, kannst du auf der letzten Stufe unbegrenzte Beschwörungen durchführen.<br><br>Tippe auf Eventdetails für mehr Informationen zum Event und seinen Belohnungen."
+        },
+        {
+            "key": "ARTI_SELECT_TITLE",
+            "value": "Verbesserungsauswahl"
+        },
+        {
+            "key": "ARTI_SELECT_DESC",
+            "value": "■ Ausrüstung verbessern<br>Nutze Verbesserungsgegenstände, um die Stufe oder die Eigenschaften von Ausrüstung und auch Ausrüstungsfähigkeiten zu verbessern.<br>Ausrüstungsattribute wachsen je nach Ausrüstungsart unterschiedlich schnell. Auch die Maximalwerte der Attribute unterscheiden sich je nach Ausrüstungsart.<br>* Das Attributswachstum beim Aufstufen erfolgt zufällig.<br>* Jeder Parameter hat einen Maximalwert.<br>* Zwerghämmer können nur begrenzt oft verwendet werden, um Attribute von Ausrüstungsgegenständen zu erhöhen.<br><br><br>Die max. Stufen für Ausrüstung lauten wie folgt:<br><br>Max. Ausrüstungsstufe<br>★: St. 10<br>★★: St. 20<br>★★★: St. 30<br>★★★★: St. 40<br>★★★★★: St. 50<br>* Es gibt jedoch einige Ausnahmen."
+        }
+    ]
+}

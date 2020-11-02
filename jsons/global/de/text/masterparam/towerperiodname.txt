@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "TW_01_PR",
+            "value": "Porzellanturm"
+        },
+        {
+            "key": "TW_02_PR",
+            "value": "Tiefes Gewölbe"
+        },
+        {
+            "key": "TW_03_PR",
+            "value": "Porzellanturm"
+        }
+    ]
+}

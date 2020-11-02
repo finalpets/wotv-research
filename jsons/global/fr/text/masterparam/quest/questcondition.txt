@@ -1,0 +1,352 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "alliés"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "ennemis"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "mécanismes"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "et"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "ou plus"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "ou moins"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "Tous les {0} sont K.O."
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "Tous les {0} sont K.O."
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "En dehors de {0}, tout {1} doit être terrassé"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "{0} tué(s)"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0} détruit(s)"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0} laissé(s) en vie"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "Héros tué"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "Laissez le héros en vie"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "Les PV de {0} doivent atteindre {1} % {2}"
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "Le total des actions de {0} doit s'élever à {1} {2}"
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0} se déplace aux côtés de {1}"
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0} doit atteindre la cible"
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0} doit se recouper avec {1}"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0} doit utiliser la compétence {1} sur la cible"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0} doit utiliser la compétence {2} sur {1}"
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "Le terrain doit devenir {0}"
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "Atteignez les portes avant du château ou terrassez l'ennemi"
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "Muraga Fennes doit être vaincu"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Muraga Fennes doit être vaincu"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "Chef des bandits vaincu"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "Les ennemis doivent être annéantis"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "Tous vos alliés sont tombés excepté Schuzelt"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "Tous vos alliés sont tombés excepté Sterne (Chevalier déchu)"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "Camillo a été vaincu"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Inflige des dégâts à taux fixe au carrosse"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "Vadim a été vaincu"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "Terrassez tous les ennemis !"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_1",
+            "value": "Sauvez Mustadio, le machiniste"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_2",
+            "value": "Mustadio, le machiniste a été vaincu"
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "Terrassez le Chocoflan"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Terrassez la Guimauve blanche"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "Diah a été vaincu"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Oldoa a été vaincue"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Terrassez Sentinelle"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Terrassez Sentinelle"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Terrassez Sentinelle"
+        },
+        {
+            "key": "QE_RAID_EV_09_01",
+            "value": "Terrassez Ifrit"
+        },
+        {
+            "key": "QE_RAID_EV_09_02",
+            "value": "Terrassez Ifrit"
+        },
+        {
+            "key": "QE_RAID_EV_09_03",
+            "value": "Terrassez Ifrit"
+        },
+        {
+            "key": "QE_RAID_EV_09_04",
+            "value": "Terrassez Pampor"
+        },
+        {
+            "key": "QE_RAID_EV_09_05",
+            "value": "Terrassez Pampor"
+        },
+        {
+            "key": "QE_RAID_EV_09_06",
+            "value": "Terrassez Pampor"
+        },
+        {
+            "key": "QE_PT_001_BOSS_1",
+            "value": "Terrassez Dragon à deux têtes"
+        },
+        {
+            "key": "QE_PT_001_BOSS_2",
+            "value": "Terrassez Dragon à deux têtes"
+        },
+        {
+            "key": "QE_RAID_EV_10_01",
+            "value": "Terrassez Roi Béhémoth"
+        },
+        {
+            "key": "QE_RAID_EV_10_02",
+            "value": "Terrassez Roi Béhémoth"
+        },
+        {
+            "key": "QE_RAID_EV_10_03",
+            "value": "Terrassez Roi Béhémoth"
+        },
+        {
+            "key": "QE_RAID_EV_10_04",
+            "value": "Terrassez Tomberry"
+        },
+        {
+            "key": "QE_RAID_EV_10_05",
+            "value": "Terrassez Tomberry"
+        },
+        {
+            "key": "QE_RAID_EV_10_06",
+            "value": "Terrassez Tomberry"
+        },
+        {
+            "key": "QE_COND_USESKILL",
+            "value": "{0} utilise {1}"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": "Facilitez le repli de Rob Hourne ou terrassez l'ennemi"
+        },
+        {
+            "key": "QE_SB_BLMN_01",
+            "value": "Terrassez Lune de sang"
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": "Terrassez Dissonance pardonnée"
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": "Terrassez Dissonance pardonnée"
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
+            "value": "Terrassez Dissonance pardonnée"
+        },
+        {
+            "key": "QE_RAID_EV_12_01",
+            "value": "Terrassez Dragon à deux têtes"
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": "Terrassez Dragon à deux têtes"
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": "Terrassez Dragon à deux têtes"
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": "Terrassez Mont ou Machalie"
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": "Terrassez Élémentaire de feu"
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": "Terrassez Élémentaire de glace"
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": "Terrassez Élémentaire de vent"
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": "Terrassez Élémentaire de terre"
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": "Terrassez Élémentaire de foudre"
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": "Terrassez Élémentaire d'eau"
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": "Terrassez Élémentaire de lumière"
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": "Terrassez Élémentaire obscur"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Terrassez tous les ennemis ainsi que les canons de Rundall"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Terrassez tous les ennemis ainsi que les canons de Rundall"
+        },
+        {
+            "key": "QE_EV_FF14_EX",
+            "value": "Terrassez Dissonance pardonnée"
+        },
+        {
+            "key": "QE_PT_001_05",
+            "value": "Terrassez Mur démonique"
+        },
+        {
+            "key": "QE_PT_001_HA05",
+            "value": "Terrassez Mur démonique"
+        },
+        {
+            "key": "QE_COND_NONE",
+            "value": "Aucune"
+        }
+    ]
+}

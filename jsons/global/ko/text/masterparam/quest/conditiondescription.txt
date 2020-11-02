@@ -1,0 +1,584 @@
+{
+    "infos": [
+        {
+            "key": "COND_HA_LW_STRN",
+            "value": "유닛 '슈텔 레오니스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ELDE",
+            "value": "유닛 '엘데 레오니스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ROBB",
+            "value": "유닛 '롭 호른'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ENBT",
+            "value": "유닛 '엥겔베르트'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ZIZA",
+            "value": "유닛 '지자'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_AILN",
+            "value": "유닛 '아이린'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MDNA",
+            "value": "유닛 '메디아나'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_AYKA",
+            "value": "유닛 '아야카'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_HLNA",
+            "value": "유닛 '헬레나 레오니스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_LILS",
+            "value": "유닛 '릴리스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_RAMD",
+            "value": "유닛 '라마다'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_OOOO",
+            "value": "유닛 '오우'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_LRNZ",
+            "value": "유닛 '로렌초'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_RIRY",
+            "value": "유닛 '라이류'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_VSTR",
+            "value": "유닛 '비스트랄'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_CLEY",
+            "value": "유닛 '크리 웨젯'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_KADI",
+            "value": "유닛 '카디아'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MRLK",
+            "value": "유닛 '메릴루크'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MGRT",
+            "value": "유닛 '마르그리트'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_PRAY",
+            "value": "유닛 ''기도''의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_BYLO",
+            "value": "유닛 '베일로'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_RYER",
+            "value": "유닛 '리렐리라'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_SCIA",
+            "value": "유닛 '소샤'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_VRID",
+            "value": "유닛 '발라이드'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_NAIA",
+            "value": "유닛 '나이아'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_SRJS",
+            "value": "유닛 '서제스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_UNII",
+            "value": "유닛 '유니'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_SEVR",
+            "value": "유닛 '세베로'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_VADM",
+            "value": "유닛 '바짐'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MURM",
+            "value": "유닛 ''혼잣말''의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_PHBE",
+            "value": "유닛 '피비'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_RART",
+            "value": "유닛 '리아트'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MICE",
+            "value": "유닛 '미체'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MIIA",
+            "value": "유닛 '미아'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ZZAN",
+            "value": "유닛 '자잔'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_SDLX",
+            "value": "유닛 '섀도링크스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_FDRC",
+            "value": "유닛 '프레데리카'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_YERM",
+            "value": "유닛 '옐마'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_NASR",
+            "value": "유닛 '나샤'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MACR",
+            "value": "유닛 '마쉐리'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_FINA",
+            "value": "유닛 '피나'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_SZRT",
+            "value": "유닛 '슈제르트'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_GLMS",
+            "value": "유닛 '길가메시'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_WHIS",
+            "value": "유닛 ''속삭임''의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_KTON",
+            "value": "유닛 '키튼'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MRND",
+            "value": "유닛 '미란다'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_DRND",
+            "value": "유닛 '도랜드'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_VKTR",
+            "value": "유닛 '빅토라'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "유닛 '살리아'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_LUCA",
+            "value": "유닛 '루시아'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ADLD",
+            "value": "유닛 '애들러드'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_RAIN",
+            "value": "유닛 '레인'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "유닛 '다리오 호른'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "유닛 '비네라 페네스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_FF1_WROL",
+            "value": "유닛 '빛의 전사'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "유닛 '시무르'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "유닛 '키르페'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ORDR",
+            "value": "유닛 '오르도아'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "유닛 '라비에스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "유닛 '딜리타'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "유닛 '아그리아스'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_IRDL",
+            "value": "유닛 '일디라'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_ST_01",
+            "value": "유닛 '슈텔(파멸의 기사)'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_LSWL",
+            "value": "유닛 '라스웰'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_GRSR",
+            "value": "유닛 '그라시엘라 웨젯'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_RRIR",
+            "value": "유닛 '로레일라'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_CH_LW_MONT",
+            "value": "유닛 '몬트 레오니스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_STRN",
+            "value": "유닛 '슈텔 레오니스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ELDE",
+            "value": "유닛 '엘데 레오니스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ROBB",
+            "value": "유닛 '롭 호른'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ENBT",
+            "value": "유닛 '엥겔베르트'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ZIZA",
+            "value": "유닛 '지자'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_AILN",
+            "value": "유닛 '아이린'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MDNA",
+            "value": "유닛 '메디아나'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_AYKA",
+            "value": "유닛 '아야카'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_HLNA",
+            "value": "유닛 '헬레나 레오니스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_LILS",
+            "value": "유닛 '릴리스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RAMD",
+            "value": "유닛 '라마다'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_OOOO",
+            "value": "유닛 '오우'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_LRNZ",
+            "value": "유닛 '로렌초'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RIRY",
+            "value": "유닛 '라이류'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_VSTR",
+            "value": "유닛 '비스트랄'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_CLEY",
+            "value": "유닛 '크리 웨젯'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_KADI",
+            "value": "유닛 '카디아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MRLK",
+            "value": "유닛 '메릴루크'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MGRT",
+            "value": "유닛 '마르그리트'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_PRAY",
+            "value": "유닛 ''기도''의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_BYLO",
+            "value": "유닛 '베일로'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RYER",
+            "value": "유닛 '리렐리라'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_SCIA",
+            "value": "유닛 '소샤'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_VRID",
+            "value": "유닛 '발라이드'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_NAIA",
+            "value": "유닛 '나이아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_SRJS",
+            "value": "유닛 '서제스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_UNII",
+            "value": "유닛 '유니'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_SEVR",
+            "value": "유닛 '세베로'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_VADM",
+            "value": "유닛 '바짐'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MURM",
+            "value": "유닛 ''혼잣말''의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_PHBE",
+            "value": "유닛 '피비'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RART",
+            "value": "유닛 '리아트'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MICE",
+            "value": "유닛 '미체'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MIIA",
+            "value": "유닛 '미아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN",
+            "value": "유닛 '자잔'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_GLMS",
+            "value": "유닛 '길가메시'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_GLMS2",
+            "value": "유닛 '길가메시'의 레벨이 80 이상"
+        },
+        {
+            "key": "COND_CH_FF14_YST",
+            "value": "유닛 '야슈톨라'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FF14_TNC",
+            "value": "유닛 '산크레드'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MACR",
+            "value": "유닛 '마쉐리'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_SZRT",
+            "value": "유닛 '슈제르트'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_FINA",
+            "value": "유닛 '피나'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_FDRC",
+            "value": "유닛 '프레데리카'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_SDLX",
+            "value": "유닛 '섀도링크스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_YERM",
+            "value": "유닛 '옐마'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_NASR",
+            "value": "유닛 '나샤'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ETRE",
+            "value": "유닛 '에트와'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_RAMZ",
+            "value": "유닛 '람자'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_GFGR",
+            "value": "유닛 '가프가리온'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_ORND",
+            "value": "유닛 '오를란두'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_WHIS",
+            "value": "유닛 ''속삭임''의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_KTON",
+            "value": "유닛 '키튼'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MRND",
+            "value": "유닛 '미란다'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_DRND",
+            "value": "유닛 '도랜드'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_LUCA",
+            "value": "유닛 '루시아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ADLD",
+            "value": "유닛 '애들러드'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "유닛 '살리아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "유닛 '빅토라'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "유닛 '프레이비아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "유닛 '레인'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "유닛 '다리오 호른'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "유닛 '비네라 페네스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "유닛 '티렐'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "유닛 '빛의 전사'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "유닛 '시무르'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "유닛 '키르페'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ORDR",
+            "value": "유닛 '오르도아'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "유닛 '라비에스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "유닛 '무스타디오'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "유닛 '딜리타'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "유닛 '아그리아스'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_IRDL",
+            "value": "유닛 '일디라'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_ST_01",
+            "value": "유닛 '슈텔(파멸의 기사)'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_LSWL",
+            "value": "유닛 '라스웰'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_GRSR",
+            "value": "유닛 '그라시엘라 웨젯'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RRIR",
+            "value": "유닛 '로레일라'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RY_01",
+            "value": "유닛 '리렐리라(할로윈)'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_RI_01",
+            "value": "유닛 '라이류(할로윈)'의 레벨이 40 이상"
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "武具：ブロードソード"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "武具：グレートソード"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "武具：阿修羅"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "武具：ブロンズナックル"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "武具：ジャベリン"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "武具：ブロンズナイフ"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "武具：忍び刀"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "武具：ショートボウ"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "武具：アルタイル"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "武具：杖"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "武具：ブロンズメイス"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "武具：レザープレート"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "武具：皮の帽子"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "武具：皮の服"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "武具：ブロンズヘルム"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "武具：ラインストーンリング"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "武具：バトルアクス"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "クエスト回復アイテムセット"
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "各属性の輝石・翠パック"
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "ジェダイトパックⅠ"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "ジェダイトパックⅡ"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "R武具レシピパックI "
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "R武具レシピパックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "火の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "水の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "風の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "雷の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "土の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "氷の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "光の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "闇の覚醒パックⅡ"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "火の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "水の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "風の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "雷の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "土の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "氷の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "光の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "闇の覚醒パックⅠ"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "火の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "水の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "風の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "雷の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "土の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "氷の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "光の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "闇の覚醒魂(★2〜4)パック"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "虹の育成パック"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "ジョブの記憶・橘×4選択召喚券"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "ジョブの記憶・紫×3選択召喚券"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "【初心者限定】ジョブ育成パック"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "【初心者限定】ユニット強化パック"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "1日1回無料体力回復薬"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "【リリース記念】虹の育成パック"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "ストーリー応援パックA"
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "ストーリー応援パックB"
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "虹の育成パック"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "1日1回無料体力回復薬"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "1日1回無料経験キューブ（中）"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "経験キューブデイリーパック"
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "300万DL記念デイリーパック"
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "微かな記憶デイリーパック"
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "経験キューブデイリーパックB"
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "300万DL記念雷パック"
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "300万DL記念光パック"
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "300万DL記念土パック"
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "300万DL記念闇パック"
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "300万DL記念ユニット覚醒パック"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "ラムザ育成パック "
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Ramza Unit Pack"
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "300万DL記念火パック"
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "300万DL記念氷パック"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "1日1回無料スキップチケット"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "400万DL記念雷パック"
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "400万DL記念光パック"
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "400万DL記念土パック"
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "400万DL記念闇パック"
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "400万DL記念ユニット覚醒パック"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "リミットバースト強化パック"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "武具アビリティ強化パック"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "ユニット覚醒パック"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "500万DL記念水パック"
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "500万DL記念光パック"
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "500万DL記念土パック"
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Vカード育成パックA"
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Vカード育成パックB"
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "500万DL記念Vカード育成パック"
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "500万DL記念闇パック"
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "500万DL記念氷パック"
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "1日1回無料グロウエッグ（R）"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "URユニットパック"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "500万記念URビジョンカードパック"
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "風の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "火の覚醒パック"
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "ユニット育成パック"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "ビジョンカード育成パック"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "1日1回無料マルチレイド回復薬×1"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "レイド支援パック"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "火の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "風の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "土の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "氷の覚醒パック"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "武具【HP】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "武具【攻撃】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "武具【命中】強化パック"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Vカード育成パックC"
+        },
+        {
+            "key": "IT_SET_AWK_GL01",
+            "value": "ユニット覚醒パック"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "1日1回無料スキップチケットx10"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "雷の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "闇の覚醒パック"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": "武具【回避】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": "武具【魔力】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": "武具【クリティカル】強化パック"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "メビウスコラボ記念パック"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "絶望と真実のメビウス育成パック"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "希望と幻想のメビウス育成パック"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Vカード育成パックII"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "ユニット育成パック"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "光の覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "水の覚醒パック"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "フレイヴィア育成パック"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "火の輝石パック"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "水の輝石パック"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "風の輝石パック"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "雷の輝石パック"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "土の輝石パック"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "氷の輝石パック"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "光の輝石パック"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "闇の輝石パック"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "白磁の塔開催記念経験キューブパック"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "武具アビリティ強化パック"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "1日1回無料体力回復薬（大）"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "白磁の塔 Vカード育成パック"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "白磁の塔　火属性強化パック"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "白磁の塔　水属性強化パック"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "白磁の塔　氷属性強化パック"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "白磁の塔　風属性強化パック"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "白磁の塔　雷属性強化パック"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "白磁の塔　土属性強化パック"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "白磁の塔　光属性強化パック"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "白磁の塔　闇属性強化パック"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "ギルド石像育成パック"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "闇属性のフル覚醒パック"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "初心者限定：星虹の幻球×1"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "初心者限定：蒼輝の幻球×1"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "初心者限定：虹の想いの欠片×1"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "初心者限定ジョブパック"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "ビギナー限定ジェダイトパックI"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "ビギナー限定ジェダイトパックⅡ"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "ビギナー限定アズライトパックI"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "ビギナー限定アズライトパックⅡ"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "初心者限定 URユニット覚醒パック"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "R武具レシピパックⅡ"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "URビジョンカードパック"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Vカード育成パック"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "光属性召喚獣強化パック"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "武具【防御】強化パック"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "武具【精神】強化パック"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "光の戦士育成パック"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "光属性のフル覚醒パック"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "デスマシーンVC育成パック"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "土属性のフル覚醒パック"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "URユニットパック"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Vカード育成パックB"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Vカード育成パック"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "闇属性召喚獣強化パック"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "ビジョンカード強化パック"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "虹の覚醒パック"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "風属性ジョブ強化パック・緋"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "風属性ジョブ強化パック・橘"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "風属性ジョブ強化パック・紫"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "経験キューブパック＋"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "探検チケットパックSP"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "風属性のフル覚醒パック"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "オルドア育成パック"
+        }
+    ]
+}

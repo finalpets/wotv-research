@@ -1,0 +1,800 @@
+{
+    "infos": [
+        {
+            "key": "GMG_NORMAL",
+            "value": "Misión de gremio"
+        },
+        {
+            "key": "MG_DAILY_001",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_FF14",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_GUILD",
+            "value": "Misión de evento diaria del gremio"
+        },
+        {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "Tarea de la campaña de apoyo al gremio"
+        },
+        {
+            "key": "MG_STORY_001",
+            "value": "Misión de historia - Parte 1"
+        },
+        {
+            "key": "MG_VIP_LOGB_01",
+            "value": "Bonificación de acceso vip"
+        },
+        {
+            "key": "MG_PR_001",
+            "value": "Gasta visiores"
+        },
+        {
+            "key": "MG_PR_002",
+            "value": "Consigue unidades"
+        },
+        {
+            "key": "MG_PR_003",
+            "value": "Despierta a una unidad"
+        },
+        {
+            "key": "MG_PR_004",
+            "value": "Rompe el límite de una unidad"
+        },
+        {
+            "key": "MG_SBQ_001",
+            "value": "Completa una misión secundaria"
+        },
+        {
+            "key": "MG_MP_SAMPLE_01",
+            "value": "Muestra de lote de misión 01"
+        },
+        {
+            "key": "MG_MP_QEST_01",
+            "value": "Lote de misión de historia I"
+        },
+        {
+            "key": "MG_MP_QEST_02",
+            "value": "Lote de misión de historia II"
+        },
+        {
+            "key": "MG_MP_QEST_03",
+            "value": "Lote de misión de historia III"
+        },
+        {
+            "key": "MG_MP_QEST_04",
+            "value": "Lote de misión de historia IV"
+        },
+        {
+            "key": "MG_MP_QEST_05",
+            "value": "Lote de misión de historia V"
+        },
+        {
+            "key": "MG_MP_QEST_06",
+            "value": "Lote de misión de historia VI"
+        },
+        {
+            "key": "MG_MP_QEST_07",
+            "value": "Lote de misión de historia VII"
+        },
+        {
+            "key": "MG_MP_QEST_08",
+            "value": "Lote de misión de historia VIII"
+        },
+        {
+            "key": "MG_MP_QEST_09",
+            "value": "Lote de misión de historia IX"
+        },
+        {
+            "key": "MG_MP_GL_RANK_01",
+            "value": "Lote de rango de jugador I"
+        },
+        {
+            "key": "MG_MP_GL_RANK_02",
+            "value": "Lote de rango de jugador II"
+        },
+        {
+            "key": "MG_MP_GL_RANK_03",
+            "value": "Lote de rango de jugador III"
+        },
+        {
+            "key": "MG_MONDAY_001",
+            "value": "Tarea del lunes"
+        },
+        {
+            "key": "MG_GL_DY_HALFANNI_01",
+            "value": "Misión diaria de celebración de los 6 primeros meses del juego"
+        },
+        {
+            "key": "MG_GL_DY_TORCELEB_01",
+            "value": "Tarea diaria de celebración de las Pruebas del Veredicto"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_01",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_02",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_03",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_04",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_05",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_06",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_07",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DY_RAID_01",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DY_RAID_02",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DY_RAID_03",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DY_RAID_04",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DY_RAID_05",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DY_RAID_06",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_GL_DY_RAID_07",
+            "value": "Tarea diaria de participación de asalto"
+        },
+        {
+            "key": "MG_FF14_1_01",
+            "value": "FINAL FANTASY XIV: Shadowbringers"
+        },
+        {
+            "key": "MG_FF14_1_02",
+            "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+        },
+        {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "[Parte II] FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_1_01",
+            "value": "FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_1_02",
+            "value": "FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_1_03",
+            "value": "[Multijugador] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_1_M_01",
+            "value": "FINAL FANTASY TACTICS [Intermedio]"
+        },
+        {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINAL FANTASY I [Intermedio]"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "[Multijugador] FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "[Parte II] FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "[Parte II] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "[Multiijugador] [Parte II] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_GL_HALL_CH_01",
+            "value": "Tarea de Halloween"
+        },
+        {
+            "key": "MG_EV_IGNT_01",
+            "value": "Desafío de Férreo"
+        },
+        {
+            "key": "MG_MU_IGNT_01",
+            "value": "[Multijugador] Desafío de Férreo"
+        },
+        {
+            "key": "MG_EV_CSLI_01",
+            "value": "Desafío del flan de chocolate"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "[Multijugador] Desafío del flan de chocolate"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "Desafío de Ochú"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "Desafío de Ochú"
+        },
+        {
+            "key": "MG_EV_IFRT_01",
+            "value": "Desafío de Ifrit"
+        },
+        {
+            "key": "MG_MU_IFRT_01",
+            "value": "[Multijugador] Desafío de Ifrit"
+        },
+        {
+            "key": "MG_EV_ART_CRF_01",
+            "value": "Misión de entrenamiento de equipo"
+        },
+        {
+            "key": "MG_EV_ART_CRF_02",
+            "value": "Misión de entrenamiento de equipo de dificultad extrema"
+        },
+        {
+            "key": "MG_MU_ART_CRF_02",
+            "value": "[Multijugador] Misión de entrenamiento de equipo de dificultad extrema"
+        },
+        {
+            "key": "MG_EV_ART_CRF_03",
+            "value": "Misión de entrenamiento de equipo (hoja sedante, hacha dorada)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_03",
+            "value": "[Multijugador] Misión de entrenamiento de equipo (hoja sedante, hacha dorada)"
+        },
+        {
+            "key": "MG_EV_ART_CRF_04",
+            "value": "Misión de entrenamiento de equipo (maza de platino, sable de coral)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_04",
+            "value": "[Multijugador] Misión de entrenamiento de equipo (maza de platino, sable de coral)"
+        },
+        {
+            "key": "MG_EV01_1_01",
+            "value": "El príncipe admirado"
+        },
+        {
+            "key": "MG_EV01_1_02",
+            "value": "El príncipe admirado [EX]"
+        },
+        {
+            "key": "MG_MU_EV01_1_02",
+            "value": "[Multijugador] El príncipe admirado [EX]"
+        },
+        {
+            "key": "MG_EV02_1_01",
+            "value": "Rundal, la amenaza del oeste"
+        },
+        {
+            "key": "MG_EV02_1_02",
+            "value": "Rundal, la amenaza del oeste [EX]"
+        },
+        {
+            "key": "MG_MU_EV02_1_01",
+            "value": "[Multijugador] Rundal, la amenaza del oeste [EX]"
+        },
+        {
+            "key": "MG_EV03_1_01",
+            "value": "Vida ardiente"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "Vida ardiente [EX]"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "[Multijugador] Vida ardiente [EX]"
+        },
+        {
+            "key": "MG_EV04_1_01",
+            "value": "El Lejano Oriente"
+        },
+        {
+            "key": "MG_EV04_1_02",
+            "value": "El Lejano Oriente [EX]"
+        },
+        {
+            "key": "MG_MU_EV04_1_02",
+            "value": "[Multijugador] El Lejano Oriente [EX]"
+        },
+        {
+            "key": "MG_EV05_1_01",
+            "value": "Gouga y Saiga: Parte I"
+        },
+        {
+            "key": "MG_EV05_1_02",
+            "value": "Gouga y Saiga: Parte I [EX]"
+        },
+        {
+            "key": "MG_MU_EV05_1_02",
+            "value": "[Multijugador] Gouga y Saiga: Parte I [EX]"
+        },
+        {
+            "key": "MG_ETRE01_01",
+            "value": "Misión de entrenamiento de Etra"
+        },
+        {
+            "key": "MG_ETRE01_02",
+            "value": "[Difícil] Misión EX de entrenamiento de Etra"
+        },
+        {
+            "key": "MG_MU_ETRE01_01",
+            "value": "[Multijugador] [Difícil] Misión EX de entrenamiento de Etra"
+        },
+        {
+            "key": "MG_THLA01_01",
+            "value": "Misión de recompensa de fragmento de Saria"
+        },
+        {
+            "key": "MG_THLA01_02",
+            "value": "[Difícil] Misión EX de recompensa de fragmento de Saria"
+        },
+        {
+            "key": "MG_MU_THLA01_01",
+            "value": "[Multijugador] [Difícil] Misión EX de recompensa de fragmento de Saria"
+        },
+        {
+            "key": "MG_EV_ART_SCR_00",
+            "value": "[Difícil] Misión de libro secreto"
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto"
+        },
+        {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "[Difícil] Misión de libro secreto I"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto I"
+        },
+        {
+            "key": "MG_EV_ART_SCR_02",
+            "value": "[Difícil] Misión de libro secreto II"
+        },
+        {
+            "key": "MG_MU_ART_SCR_02",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto II"
+        },
+        {
+            "key": "MG_EV_SCR_01",
+            "value": "[Difícil] Misión de libro secreto (espada, espadón, hacha)"
+        },
+        {
+            "key": "MG_MU_SCR_01",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto (espada, espadón, hacha)"
+        },
+        {
+            "key": "MG_EV_SCR_02",
+            "value": "[Difícil] Misión de libro secreto (lanza, puños, pistola)"
+        },
+        {
+            "key": "MG_MU_SCR_02",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto (lanza, puños, pistola)"
+        },
+        {
+            "key": "MG_EV_SCR_03",
+            "value": "[Difícil] Misión de libro secreto (armadura, accesorio, hoja ninja)"
+        },
+        {
+            "key": "MG_MU_SCR_03",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto (armadura, accesorio, hoja ninja)"
+        },
+        {
+            "key": "MG_EV_SCR_04",
+            "value": "[Difícil] Misión de libro secreto (bastón, katana, daga)"
+        },
+        {
+            "key": "MG_MU_SCR_04",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto (bastón, katana, daga)"
+        },
+        {
+            "key": "MG_EV_SCR_05",
+            "value": "[Difícil] Misión de libro secreto (maza, arco, armadura)"
+        },
+        {
+            "key": "MG_MU_SCR_05",
+            "value": "[Multijugador] [Difícil] Misión de libro secreto (maza, arco, armadura)"
+        },
+        {
+            "key": "MG_DAILY_002_5",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_002_6",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_002_7",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_002_1",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_002_2",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_002_3",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_002_4",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_003_7",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_006_1",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_006_2",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_006_3",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_006_4",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_006_5",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_DAILY_006_6",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_GL_DAILY_006_7",
+            "value": "Tarea diaria"
+        },
+        {
+            "key": "MG_MONTHLY_001_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_001_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_001_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_001_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_001_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_001_6",
+            "value": "[Tarea mensual] Combates de gremio"
+        },
+        {
+            "key": "MG_MONTHLY_001_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_MONTHLY_GL_01",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_002_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_002_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_002_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_002_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_002_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_002_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_002_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_MONTHLY_003_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_003_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_003_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_003_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_003_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_003_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_003_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_MONTHLY_004_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_MONTHLY_005_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_005_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_005_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_005_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_005_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_005_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_005_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_MONTHLY_006_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_MONTHLY_007_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_007_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_007_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_007_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_007_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_007_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_007_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_MONTHLY_008_1",
+            "value": "[Tarea mensual] Misiones de historia"
+        },
+        {
+            "key": "MG_MONTHLY_008_2",
+            "value": "[Tarea mensual] Misiones difíciles"
+        },
+        {
+            "key": "MG_MONTHLY_008_3",
+            "value": "[Tarea mensual] Multimisiones"
+        },
+        {
+            "key": "MG_MONTHLY_008_4",
+            "value": "[Tarea mensual] Cámara de la EXP"
+        },
+        {
+            "key": "MG_MONTHLY_008_5",
+            "value": "[Tarea mensual] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_008_6",
+            "value": "[Tarea mensual] Expedición chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_008_7",
+            "value": "[Tarea mensual] Estatuas del gremio"
+        },
+        {
+            "key": "MG_LAPS_P_LUCA",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_VKTR",
+            "value": "Gasta visores: tiempo limitado"
+        },
+        {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_WROL",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_QILF",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_LAPS_P_IRDL",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_P_STRN_01",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_P_GRSR",
+            "value": "Gasta visiores: bonificación de tiempo limitado"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "Tarea de regreso al juego"
+        }
+    ]
+}

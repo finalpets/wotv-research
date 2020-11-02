@@ -1,0 +1,512 @@
+{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "일반 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_01",
+            "value": "레어 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_10",
+            "value": "레어 소환 10회 소환"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_P",
+            "value": "레어 소환"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "출시 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "출시 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "100만 다운로드 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "100만 다운로드 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "200만 다운로드 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "200만 다운로드 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "300만 다운로드 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "300만 다운로드 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "400만 다운로드 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "400만 다운로드 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "제6장 개방 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "제6장 개방 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "500만 다운로드 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "500만 다운로드 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "버전 업 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "버전 업 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "레이드 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "레이드 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "초여름 기념 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "초여름 기념 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "스토리 제7장 개방 기념 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "스토리 제7장 개방 기념 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환 제2탄"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "FF EXVIUS Universe 기간 한정 일반 소환 제2탄 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "MR 이상 유닛 보장 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "MR 이상 유닛 보장 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "MR 이상 유닛 보장 소환"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201021_10",
+            "value": "장비 강화 재료 일반 무료 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        }
+    ]
+}

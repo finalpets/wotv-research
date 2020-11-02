@@ -1,0 +1,104 @@
+{
+    "infos": [
+        {
+            "key": "CM_NPC01",
+            "value": "ジャック"
+        },
+        {
+            "key": "CM_NPC02",
+            "value": "シルビア"
+        },
+        {
+            "key": "CM_NPC03",
+            "value": "ハンター"
+        },
+        {
+            "key": "CM_NPC04",
+            "value": "ブル"
+        },
+        {
+            "key": "CM_NPC05",
+            "value": "ルシアン"
+        },
+        {
+            "key": "CM_NPC06",
+            "value": "ミスティ"
+        },
+        {
+            "key": "CM_NPC07",
+            "value": "ホワイト"
+        },
+        {
+            "key": "CM_NPC08",
+            "value": "ブラック"
+        },
+        {
+            "key": "CM_NPC09",
+            "value": "エンジェル"
+        },
+        {
+            "key": "CM_NPC10",
+            "value": "キール"
+        },
+        {
+            "key": "CM_NPC11",
+            "value": "ジン"
+        },
+        {
+            "key": "CM_NPC12",
+            "value": "センチュリー"
+        },
+        {
+            "key": "CM_NPC13",
+            "value": "ゴッドファーザー"
+        },
+        {
+            "key": "CM_NPC14",
+            "value": "グリーン"
+        },
+        {
+            "key": "CM_NPC15",
+            "value": "ギムレット"
+        },
+        {
+            "key": "CM_NPC16",
+            "value": "ウォッカ"
+        },
+        {
+            "key": "CM_NPC17",
+            "value": "イエロー"
+        },
+        {
+            "key": "CM_NPC18",
+            "value": "オレンジ"
+        },
+        {
+            "key": "CM_NPC19",
+            "value": "ブロッサム"
+        },
+        {
+            "key": "CM_NPC20",
+            "value": "ザザ"
+        },
+        {
+            "key": "CM_NPC21",
+            "value": "アルファ"
+        },
+        {
+            "key": "CM_NPC22",
+            "value": "ボナーム"
+        },
+        {
+            "key": "CM_NPC23",
+            "value": "キャサリン"
+        },
+        {
+            "key": "CM_NPC24",
+            "value": "ドストエフスキー"
+        },
+        {
+            "key": "CM_NPC25",
+            "value": "エコーズ"
+        }
+    ]
+}

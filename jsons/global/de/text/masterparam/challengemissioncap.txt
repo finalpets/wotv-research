@@ -1,0 +1,68 @@
+{
+    "infos": [
+        {
+            "key": "CM_PRO_001_1",
+            "value": "Herausforderungsmission Nr. 1"
+        },
+        {
+            "key": "CM_PRO_001_2",
+            "value": "Herausforderungsmission Nr. 2"
+        },
+        {
+            "key": "CM_PRO_001_3",
+            "value": "Herausforderungsmission Nr. 3"
+        },
+        {
+            "key": "CM_PRO_GL_001_1",
+            "value": "Erhöhe Schattenluchs‘ Stufe"
+        },
+        {
+            "key": "CM_PRO_GL_001_2",
+            "value": "Führe einen Limitbruch an Schattenluchs durch"
+        },
+        {
+            "key": "CM_PRO_GL_001_3",
+            "value": "Erwecke Schattenluchs"
+        },
+        {
+            "key": "CM_PRO_GL_001_4",
+            "value": "Spiele die Storyaufträge"
+        },
+        {
+            "key": "CM_PRO_002_1",
+            "value": "FFT-Herausforderungsmissionen Nr. 1"
+        },
+        {
+            "key": "CM_PRO_002_2",
+            "value": "FFT-Herausforderungsmissionen Nr. 2"
+        },
+        {
+            "key": "CM_PRO_004_1",
+            "value": "MOBIUS FF Herausforderungsmissionen"
+        },
+        {
+            "key": "CM_PRO_005_1",
+            "value": "FFI-Herausforderungsmissionen"
+        },
+        {
+            "key": "CM_PRO_006_1",
+            "value": "FF1 Herausforderungsmissionen Teil II"
+        },
+        {
+            "key": "CM_PRO_011_1",
+            "value": "FFCCRE-Herausforderungsmission Nr. 1"
+        },
+        {
+            "key": "CM_PRO_011_2",
+            "value": "FFCCRE-Herausforderungsmission Nr. 2"
+        },
+        {
+            "key": "CM_PRO_013_1",
+            "value": "Trainings-Herausforderungsmissionen zur Feier des schaurigen Neuzugangs Rairyu (Halloween)"
+        },
+        {
+            "key": "CM_PRO_GL_RYER_01_1",
+            "value": "Trainings-Herausforderungsmissionen zur Feier des schaurigen Neuzugangs Lilli (Halloween)"
+        }
+    ]
+}

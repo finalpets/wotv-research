@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "PB_LGB_Noraml01",
+            "value": "Keine Einschränkungen"
+        },
+        {
+            "key": "PB_LGB_Normal02",
+            "value": "Keine Einschränkungen"
+        },
+        {
+            "key": "PB_LGB_Normal03",
+            "value": "Keine Einschränkungen"
+        },
+        {
+            "key": "PB_LGB_Male",
+            "value": "Erstelle eine Gruppe nur mit männlichen Einheiten"
+        },
+        {
+            "key": "PB_LGB_Female",
+            "value": "Erstelle eine Gruppe nur mit weiblichen Einheiten"
+        }
+    ]
+}

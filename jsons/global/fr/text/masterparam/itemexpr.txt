@@ -1,0 +1,3976 @@
+{
+    "infos": [
+        {
+            "key": "IT_US_POTION",
+            "value": "Restaure les PV d'une unité (S)"
+        },
+        {
+            "key": "IT_US_HIPOTION",
+            "value": "Restaure les PV d'une unité (M)"
+        },
+        {
+            "key": "IT_US_EXPOTION",
+            "value": "Restaure les PV d'une unité (L)"
+        },
+        {
+            "key": "IT_US_ETHER",
+            "value": "Restaure les PT d'une unité (S)"
+        },
+        {
+            "key": "IT_US_ETHERTURBO",
+            "value": "Restaure les PT d'une unité (M)"
+        },
+        {
+            "key": "IT_US_ELIXIR",
+            "value": "Restaure les PV et les PT d'une unité"
+        },
+        {
+            "key": "IT_US_PNXFEATHER",
+            "value": "Ranime un allié KO"
+        },
+        {
+            "key": "IT_US_ANTIDOTE",
+            "value": "Soigne Poison"
+        },
+        {
+            "key": "IT_US_EYEDROPS",
+            "value": "Soigne Cécité"
+        },
+        {
+            "key": "IT_US_REMINDER",
+            "value": "Soigne Sommeil et Confusion"
+        },
+        {
+            "key": "IT_US_ECHODROP",
+            "value": "Soigne Silence"
+        },
+        {
+            "key": "IT_US_UNICORNHORN",
+            "value": "Soigne Paralysie"
+        },
+        {
+            "key": "IT_US_MAIDENKISS",
+            "value": "Soigne Crapaud"
+        },
+        {
+            "key": "IT_US_GOLDNEEDLE",
+            "value": "Soigne Pétrification"
+        },
+        {
+            "key": "IT_US_REMEDY",
+            "value": "Soigne Poison, Cécité, Sommeil, Silence, Paralysie et Confusion"
+        },
+        {
+            "key": "IT_US_ENCHANTDRAG",
+            "value": "Soigne Silence, Immobilisation et Incapacité"
+        },
+        {
+            "key": "IT_US_HOLYTORCH",
+            "value": "Dissipe les effets de statuts (Booster, Récup, Bouclier, Barrière, Apesanteur, Auréole)"
+        },
+        {
+            "key": "IT_US_HERODRINK",
+            "value": "Augmente temporairement l'ATT et la MAGIE"
+        },
+        {
+            "key": "IT_US_BACCHUS",
+            "value": "Inflige temporairement Berserk"
+        },
+        {
+            "key": "IT_US_SHELL",
+            "value": "Lance temporairement Barrière"
+        },
+        {
+            "key": "IT_US_PROTECT",
+            "value": "Lance temporairement Bouclier"
+        },
+        {
+            "key": "IT_US_HEALWATER",
+            "value": "Lance temporairement Récup"
+        },
+        {
+            "key": "IT_US_HPPOTION",
+            "value": "Augmente temporairement les PV max."
+        },
+        {
+            "key": "IT_US_ATKPOTION",
+            "value": "Augmente temporairement l'ATT"
+        },
+        {
+            "key": "IT_US_MAGPOTION",
+            "value": "Augmente temporairement la MAGIE"
+        },
+        {
+            "key": "IT_US_SPDPOTION",
+            "value": "Augmente temporairement l'AGI"
+        },
+        {
+            "key": "IT_US_DEXPOTION",
+            "value": "Augmente temporairement la DEX"
+        },
+        {
+            "key": "IT_ACTP_01",
+            "value": "Restaure l'endurance du joueur (S)"
+        },
+        {
+            "key": "IT_ACTP_02",
+            "value": "Restaure l'endurance du joueur (M)"
+        },
+        {
+            "key": "IT_ACTP_03",
+            "value": "Restaure l'endurance du joueur (L)"
+        },
+        {
+            "key": "IT_ACTP_04",
+            "value": "Restaure l'endurance du joueur (XL)"
+        },
+        {
+            "key": "IT_ARENAP_02",
+            "value": "Restaure tous les orbes d'arène"
+        },
+        {
+            "key": "IT_RAIDAP_01",
+            "value": "Restaure tous les orbes de raid"
+        },
+        {
+            "key": "IT_RANKMP_02",
+            "value": "Restaure les orbes nécessaires lors des combats de matchs classés (Tout)"
+        },
+        {
+            "key": "IT_CG_01",
+            "value": "Vous pouvez échanger cet objet dans les boutiques contre des gils (S)"
+        },
+        {
+            "key": "IT_CG_02",
+            "value": "Vous pouvez échanger cet objet dans les boutiques contre des gils (M)"
+        },
+        {
+            "key": "IT_CG_03",
+            "value": "Vous pouvez échanger cet objet dans les boutiques contre des gils (L)"
+        },
+        {
+            "key": "IT_CG_04",
+            "value": "Vous pouvez échanger cet objet dans les boutiques contre des gils (XL)"
+        },
+        {
+            "key": "IT_US_EXP_01",
+            "value": "Pour les unités jusqu'au niveau 30 uniquement. Acquisition d'EXP (S)"
+        },
+        {
+            "key": "IT_US_EXP_02",
+            "value": "Pour les unités jusqu'au niveau 60 uniquement. Acquisition d'EXP (M)"
+        },
+        {
+            "key": "IT_US_EXP_03",
+            "value": "Pour les unités jusqu'au niveau 80 uniquement. Acquisition d'EXP (L)"
+        },
+        {
+            "key": "IT_US_EXP_04",
+            "value": "Peut être utlisé par toutes les unités. Acquisition d'EXP (XL)"
+        },
+        {
+            "key": "IT_LB_EXP_01",
+            "value": "Acquisition d'EXP pour une limite (S)"
+        },
+        {
+            "key": "IT_LB_EXP_02",
+            "value": "Acquisition d'EXP pour une limite (M)"
+        },
+        {
+            "key": "IT_LB_EXP_03",
+            "value": "Acquisition d'EXP pour une limite (L)"
+        },
+        {
+            "key": "IT_JB_MM_ALL",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_MM_ALL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_MM_ALL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_MM_ALL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_MM_ALL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_SWORD_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_SWORD_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_SWORD_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_SWORD_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_SWORD_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_LSWORD_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_LSWORD_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_LSWORD_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_LSWORD_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_LSWORD_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_JSWORD_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_JSWORD_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_JSWORD_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_JSWORD_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_JSWORD_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_FIST_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_FIST_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_FIST_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_FIST_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_FIST_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_SPEAR_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_SPEAR_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_SPEAR_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_SPEAR_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_SPEAR_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_SSWORD_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_SSWORD_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_SSWORD_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_SSWORD_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_SSWORD_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_KUNAI_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_KUNAI_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_KUNAI_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_KUNAI_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_KUNAI_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_BOW_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_BOW_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_BOW_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_BOW_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_BOW_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_GUN_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_GUN_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_GUN_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_GUN_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_GUN_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_STAFF_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_STAFF_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_STAFF_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_STAFF_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_STAFF_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_MACE_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_MACE_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_MACE_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_MACE_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_MACE_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_AXE_01",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_AXE_02",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_AXE_03",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_AXE_04",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_AXE_05",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_MM_COMMON",
+            "value": "Un objet qui peut être utilisé à la place des souvenirs de job pour faire évoluer le job au niveau 3."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_2",
+            "value": "Un objet qui peut être utilisé à la place des souvenirs de job pour faire évoluer le job au niveau 6."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_3",
+            "value": "Un objet qui peut être utilisé à la place des souvenirs de job pour faire évoluer le job au niveau 9."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_4",
+            "value": "Un objet qui peut être utilisé à la place des souvenirs de job pour faire évoluer le job au niveau 12."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_5",
+            "value": "Un objet qui peut être utilisé à la place des souvenirs de job pour faire évoluer le job au niveau 15."
+        },
+        {
+            "key": "IT_JB_MM_WAR",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_WAR_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_WAR_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_WAR_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_WAR_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_KNT",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_KNT_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_KNT_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_KNT_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_KNT_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_PLD",
+            "value": "Un objet nécessaire pour faire évoluer le job (Paladin) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_PLD_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Paladin) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_PLD_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Paladin) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_PLD_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Paladin) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_PLD_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Paladin) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_SWN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Soldat) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_SWN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Soldat) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_SWN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Soldat) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_SWN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Soldat) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_SWN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Soldat) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_MNK",
+            "value": "Un objet nécessaire pour faire évoluer le job (Moine) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_MNK_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Moine) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_MNK_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Moine) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_MNK_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Moine) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_MNK_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Moine) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_SAM",
+            "value": "Un objet nécessaire pour faire évoluer le job (Samouraï) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_SAM_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Samouraï) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_SAM_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Samouraï) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_SAM_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Samouraï) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_SAM_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Samouraï) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_LAN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Lancier) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_LAN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Lancier) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_LAN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Lancier) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_LAN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Lancier) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_LAN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Lancier) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_DRG",
+            "value": "Un objet nécessaire pour faire évoluer le job (Dragonnier) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_DRG_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Dragonnier) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_DRG_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Dragonnier) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_DRG_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Dragonnier) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_DRG_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Dragonnier) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_THI",
+            "value": "Un objet nécessaire pour faire évoluer le job (Voleur) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_THI_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Voleur) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_THI_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Voleur) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_THI_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Voleur) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_THI_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Voleur) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_NIN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ninja) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_NIN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ninja) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_NIN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ninja) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_NIN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ninja) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_NIN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ninja) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_HUN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chasseur) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_HUN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chasseur) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_HUN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chasseur) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_HUN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chasseur) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_HUN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chasseur) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_GUN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_GUN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_GUN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_GUN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_GUN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_WHM",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage blanc) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_WHM_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage blanc) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_WHM_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage blanc) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_WHM_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage blanc) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_WHM_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage blanc) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_BLM",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage noir) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_BLM_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage noir) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_BLM_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage noir) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_BLM_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage noir) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_BLM_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage noir) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_RDM",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage rouge) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_RDM_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage rouge) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_RDM_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage rouge) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_RDM_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage rouge) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_RDM_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage rouge) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_GRM",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage vert) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_GRM_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage vert) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_GRM_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage vert) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_GRM_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage vert) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_GRM_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage vert) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_TIM",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chronomage) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_TIM_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chronomage) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_TIM_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chronomage) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_TIM_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chronomage) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_TIM_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chronomage) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_MGK",
+            "value": "Un objet nécessaire pour faire évoluer le job (Magilame) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_MGK_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Magilame) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_MGK_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Magilame) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_MGK_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Magilame) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_MGK_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Magilame) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_CLR",
+            "value": "Un objet nécessaire pour faire évoluer le job (Prêtre) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_CLR_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Prêtre) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_CLR_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Prêtre) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_CLR_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Prêtre) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_CLR_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Prêtre) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ailes d'acier) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ailes d'acier) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ailes d'acier) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ailes d'acier) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Ailes d'acier) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL",
+            "value": "Un objet nécessaire pour faire évoluer le job (Sorcière) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Sorcière) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Sorcière) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Sorcière) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Sorcière) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR",
+            "value": "Un objet nécessaire pour faire évoluer le job (Pistosabreur) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Pistosabreur) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Pistosabreur) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Pistosabreur) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Pistosabreur) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_VIK",
+            "value": "Un objet nécessaire pour faire évoluer le job (Viking) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_VIK_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Viking) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_VIK_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Viking) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_VIK_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Viking) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_VIK_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Viking) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier occulte) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier occulte) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier occulte) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier occulte) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier occulte) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Ramza) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Ramza) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Ramza) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Ramza) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Ramza) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND",
+            "value": "Un objet nécessaire pour faire évoluer le job (Épée sacrée) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Épée sacrée) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Épée sacrée) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Épée sacrée) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Épée sacrée) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_WGN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur ambidextre) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_WGN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur ambidextre) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_WGN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur ambidextre) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_WGN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur ambidextre) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_WGN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Artilleur ambidextre) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier de Grandshelt - Flamme) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier de Grandshelt - Flamme) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier de Grandshelt - Flamme) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier de Grandshelt - Flamme) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier de Grandshelt - Flamme) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Un objet nécessaire pour faire évoluer le job (Assassin) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Assassin) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Assassin) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Assassin) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Assassin) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Guerrier de la lumière) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Mage au bâton) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier sacré) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Écuyer : Delita) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Machiniste) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_CAL",
+            "value": "Un objet nécessaire pour faire évoluer le job (Arithméticien) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_CAL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Arithméticien) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_CAL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Arithméticien) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_CAL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Arithméticien) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_CAL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Arithméticien) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier déchu) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier déchu) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier déchu) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier déchu) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier déchu) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR",
+            "value": "Un objet nécessaire pour faire évoluer le job (Valkyrie) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Valkyrie) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Valkyrie) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Valkyrie) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Valkyrie) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier du Grandshelt - Glace) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier du Grandshelt - Glace) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier du Grandshelt - Glace) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier du Grandshelt - Glace) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier du Grandshelt - Glace) au niveau 15"
+        },
+        {
+            "key": "IT_JB_MM_MKN",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier runique) au niveau 3"
+        },
+        {
+            "key": "IT_JB_MM_MKN_2",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier runique) au niveau 6"
+        },
+        {
+            "key": "IT_JB_MM_MKN_3",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier runique) au niveau 9"
+        },
+        {
+            "key": "IT_JB_MM_MKN_4",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier runique) au niveau 12"
+        },
+        {
+            "key": "IT_JB_MM_MKN_5",
+            "value": "Un objet nécessaire pour faire évoluer le job (Chevalier runique) au niveau 15"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de feu aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_ICE_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_ICE_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_ICE_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_ICE_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_ICE_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de glace aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_WIND_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_WIND_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_WIND_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_WIND_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_WIND_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de vent aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de terre aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de foudre aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_WATER_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_WATER_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_WATER_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_WATER_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_WATER_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'eau aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité de lumière aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_DARK_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_DARK_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_DARK_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_DARK_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_DARK_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité d'ombre aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_1",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 2<space=1>-<space=1>3"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_2",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 4<space=1>-<space=1>6"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_3",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 7<space=1>-<space=1>9"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_4",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 10<space=1>-<space=1>12"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_5",
+            "value": "Un objet nécessaire pour faire évoluer le job d'une unité aux niveaux 13<space=1>-<space=1>15"
+        },
+        {
+            "key": "IT_UN_AW_FIRE",
+            "value": "Un objet nécessaire à l'éveil d'une unité de feu."
+        },
+        {
+            "key": "IT_UN_AW_ICE",
+            "value": "Un objet nécessaire à l'éveil d'une unité de glace."
+        },
+        {
+            "key": "IT_UN_AW_WIND",
+            "value": "Un objet nécessaire à l'éveil d'une unité de vent."
+        },
+        {
+            "key": "IT_UN_AW_SOIL",
+            "value": "Un objet nécessaire à l'éveil d'une unité de terre."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER",
+            "value": "Un objet nécessaire à l'éveil d'une unité de foudre."
+        },
+        {
+            "key": "IT_UN_AW_WATER",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'eau."
+        },
+        {
+            "key": "IT_UN_AW_SHINE",
+            "value": "Un objet nécessaire à l'éveil d'une unité de lumière."
+        },
+        {
+            "key": "IT_UN_AW_DARK",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'ombre."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité de feu à 2★."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité de feu à 3★."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité de feu à 4★."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité de feu à 5★."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité de feu à 6★."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité de glace à 2★."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité de glace à 3★."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité de glace à 4★."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité de glace à 5★."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité de glace à 6★."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité de vent à 2★."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité de vent à 3★."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité de vent à 4★."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité de vent à 5★."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité de vent à 6★."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité de terre à 2★."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité de terre à 3★."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité de terre à 4★."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité de terre à 5★."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité de terre à 6★."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité de foudre à 2★."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité de foudre à 3★."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité de foudre à 4★."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité de foudre à 5★."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité de foudre à 6★."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'eau à 2★."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'eau à 3★."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'eau à 4★."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'eau à 5★."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'eau à 6★."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité de lumière à 2★."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité de lumière à 3★."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité de lumière à 4★."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité de lumière à 5★."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité de lumière à 6★."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R2",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'ombre à 2★."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R3",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'ombre à 3★."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R4",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'ombre à 4★."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R5",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'ombre à 5★."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R6",
+            "value": "Un objet nécessaire à l'éveil d'une unité d'ombre à 6★."
+        },
+        {
+            "key": "IT_AW_VBALL_N",
+            "value": "Un objet nécessaire à l'éveil des unités et des atouts-visions"
+        },
+        {
+            "key": "IT_AW_VBALL_R",
+            "value": "Un objet nécessaire à l'éveil des unités et des atouts-visions"
+        },
+        {
+            "key": "IT_AW_VBALL_SR",
+            "value": "Un objet nécessaire à l'éveil des unités et des atouts-visions"
+        },
+        {
+            "key": "IT_AW_VBALL_SSR",
+            "value": "Un objet nécessaire à l'éveil des unités et des atouts-visions"
+        },
+        {
+            "key": "IT_AW_VBALL_UR",
+            "value": "Un objet nécessaire à l'éveil des unités et des atouts-visions"
+        },
+        {
+            "key": "IT_PI_COM_FIRE",
+            "value": "Un objet utilisé pour éveiller une unité de feu."
+        },
+        {
+            "key": "IT_PI_COM_ICE",
+            "value": "Un objet utilisé pour éveiller une unité de glace."
+        },
+        {
+            "key": "IT_PI_COM_WIND",
+            "value": "Un objet utilisé pour éveiller une unité de vent."
+        },
+        {
+            "key": "IT_PI_COM_SOIL",
+            "value": "Un objet utilisé pour éveiller une unité de terre."
+        },
+        {
+            "key": "IT_PI_COM_THUNDER",
+            "value": "Un objet utilisé pour éveiller une unité de foudre."
+        },
+        {
+            "key": "IT_PI_COM_WATER",
+            "value": "Un objet utilisé pour éveiller une unité d'eau."
+        },
+        {
+            "key": "IT_PI_COM_SHINE",
+            "value": "Un objet utilisé pour éveiller une unité de lumière."
+        },
+        {
+            "key": "IT_PI_COM_DARK",
+            "value": "Un objet utilisé pour éveiller une unité d'ombre."
+        },
+        {
+            "key": "IT_PI_COM_ALL",
+            "value": "Un objet utilisé pour éveiller les unités de n'importe quel élément"
+        },
+        {
+            "key": "IT_PI_LW_MONT",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_STRN",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ELDE",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ROBB",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ENBT",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ZIZA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_AILN",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MDNA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_AYKA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MACR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_HLNA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_LILS",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RAMD",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_OOOO",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_LRNZ",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RIRY",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_VSTR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_CLEY",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_KADI",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MRLK",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MGRT",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_PRAY",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_SZRT",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_FINA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_BYLO",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RYER",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_SCIA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_VRID",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_NAIA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_SRJS",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_UNII",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_SEVR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_VADM",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MURM",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_PHBE",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RART",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MICE",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MIIA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ZZAN",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_GLMS",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FF14_YSTL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FF14_TNCR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_SDLX",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_FDRC",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_YERM",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_NASR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ETRE",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_GFGR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_RAMZ",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_ORND",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_WHIS",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_KTON",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MRND",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_DRND",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_LUCA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ADLD",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_IRDL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_STRN_01",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_LSWL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_GRSR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RRIR",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RYER_01",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_RIRY_01",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_HWLT",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_01",
+            "value": "Acquisition d'EXP pour une chimère (S)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_02",
+            "value": "Acquisition d'EXP pour une chimère (M)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_03",
+            "value": "Acquisition d'EXP pour une chimère (L)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_04",
+            "value": "Acquisition d'EXP pour une chimère (XL)"
+        },
+        {
+            "key": "IT_SB_AW_FIRE",
+            "value": "Un objet nécessaire à l'éveil d'une chimère de feu."
+        },
+        {
+            "key": "IT_SB_AW_ICE",
+            "value": "Un objet nécessaire à l'éveil d'une chimère de glace."
+        },
+        {
+            "key": "IT_SB_AW_THUNDER",
+            "value": "Un objet nécessaire à l'éveil d'une chimère de foudre."
+        },
+        {
+            "key": "IT_SB_AW_WATER",
+            "value": "Un objet nécessaire à l'éveil d'une chimère d'eau."
+        },
+        {
+            "key": "IT_SB_AW_WIND",
+            "value": "Un objet nécessaire à l'éveil d'une chimère de vent."
+        },
+        {
+            "key": "IT_SB_AW_SOIL",
+            "value": "Un objet nécessaire à l'éveil d'une chimère de terre."
+        },
+        {
+            "key": "IT_SB_AW_SHINE",
+            "value": "Un objet nécessaire à l'éveil d'une chimère de lumière."
+        },
+        {
+            "key": "IT_SB_AW_DARK",
+            "value": "Un objet nécessaire à l'éveil d'une chimère d'ombre."
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R2",
+            "value": "Un objet nécessaire à l'éveil d'Ifrit à 2★"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R3",
+            "value": "Un objet nécessaire à l'éveil d'Ifrit à 3★"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R2",
+            "value": "Un objet nécessaire à l'éveil de Golem à 2★"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R3",
+            "value": "Un objet nécessaire à l'éveil de Golem à 3★"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R2",
+            "value": "Un objet nécessaire à l'éveil de Sirène à 2★"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R3",
+            "value": "Un objet nécessaire à l'éveil de Sirène à 3★"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R2",
+            "value": "Un objet nécessaire à l'éveil de Géant de fer à 2★"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R3",
+            "value": "Un objet nécessaire à l'éveil de Géant de fer à 3★"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R2",
+            "value": "Un objet nécessaire à l'éveil de Béhémoth à 2★"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R3",
+            "value": "Un objet nécessaire à l'éveil de Béhémoth à 3★"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R2",
+            "value": "Un objet nécessaire à l'éveil de Morbol à 2★"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R3",
+            "value": "Un objet nécessaire à l'éveil de Morbol à 3★"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R2",
+            "value": "Un objet nécessaire à l'éveil de Shiva à 2★"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R3",
+            "value": "Un objet nécessaire à l'éveil de Shiva à 3★"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R2",
+            "value": "Un objet nécessaire à l'éveil de Ramuh à 2★"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R3",
+            "value": "Un objet nécessaire à l'éveil de Ramuh à 3★"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R2",
+            "value": "Un objet nécessaire à l'éveil d'Odin à 2★"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R3",
+            "value": "Un objet nécessaire à l'éveil d'Odin à 3★"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R2",
+            "value": "Un objet nécessaire à l'éveil de la Reine Lamia à 2★"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R3",
+            "value": "Un objet nécessaire à l'éveil de la Reine Lamia à 3★"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R2",
+            "value": "Un objet nécessaire à l'éveil de Tétra-Sylphides à 2★"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R3",
+            "value": "Un objet nécessaire à l'éveil de Tétra-Sylphides à 3★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Un objet nécessaire à l'éveil d'Otyugh à 2★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Un objet nécessaire à l'éveil d'Otyugh à 3★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Un objet nécessaire à l'éveil du Dragon à deux têtes à 2★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Un objet nécessaire à l'éveil du Dragon à deux têtes à 3★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Un objet nécessaire à l'éveil de Diabolos à 2★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Un objet nécessaire à l'éveil de Diabolos à 3★"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R2",
+            "value": "Un objet nécessaire à l'éveil d'un Ensorceleur jusqu'à 2★"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R3",
+            "value": "Un objet nécessaire à l'éveil d'un Ensorceleur jusqu'à 3★"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R2",
+            "value": "Un objet nécessaire à l'éveil de Fenrir jusqu'à 2★"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R3",
+            "value": "Un objet nécessaire à l'éveil de Fenrir jusqu'à 3★"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R2",
+            "value": "Un objet nécessaire à l'éveil de Titan jusqu'à 2★"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R3",
+            "value": "Un objet nécessaire à l'éveil de Titan jusqu'à 3★"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R2",
+            "value": "Un objet nécessaire à l'éveil de Lune de sang à 2★"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R3",
+            "value": "Un objet nécessaire à l'éveil de Lune de sang à 3★"
+        },
+        {
+            "key": "IT_TICKET_STORY",
+            "value": "Un ticket qui permet de terminer instantanément les quêtes de combat."
+        },
+        {
+            "key": "IT_TICKET_EVENT",
+            "value": "Un ticket qui permet de terminer instantanément les combats des quêtes d'événement."
+        },
+        {
+            "key": "IT_GL_TICKET_EVENT",
+            "value": "Un ticket qui permet de terminer instantanément les combats des quêtes d'événement."
+        },
+        {
+            "key": "IT_AF_EXP_01",
+            "value": "Confère de l'EXP d'équipement (S)"
+        },
+        {
+            "key": "IT_AF_EXP_02",
+            "value": "Confère de l'EXP d'équipement (M)"
+        },
+        {
+            "key": "IT_AF_EXP_03",
+            "value": "Confère de l'EXP d'équipement (L)"
+        },
+        {
+            "key": "IT_AF_EXP_04",
+            "value": "Confère de l'EXP d'équipement (XL)"
+        },
+        {
+            "key": "IT_AF_AW_SWORD",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type épée."
+        },
+        {
+            "key": "IT_AF_AW_LSWORD",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type spathe."
+        },
+        {
+            "key": "IT_AF_AW_FIST",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type poings."
+        },
+        {
+            "key": "IT_AF_AW_JSWORD",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type katana."
+        },
+        {
+            "key": "IT_AF_AW_SPEAR",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type lance."
+        },
+        {
+            "key": "IT_AF_AW_SSWORD",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type dague."
+        },
+        {
+            "key": "IT_AF_AW_KUNAI",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type lame ninja."
+        },
+        {
+            "key": "IT_AF_AW_BOW",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type arc."
+        },
+        {
+            "key": "IT_AF_AW_GUN",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type fusil."
+        },
+        {
+            "key": "IT_AF_AW_STAFF",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type bâton."
+        },
+        {
+            "key": "IT_AF_AW_MACE",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type masse."
+        },
+        {
+            "key": "IT_AF_AW_AXE",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type hache."
+        },
+        {
+            "key": "IT_AF_AW_ARMOR",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type armure."
+        },
+        {
+            "key": "IT_AF_AW_ACCE",
+            "value": "Obtenez des matériaux d'éveil pour les équipements de type accessoires."
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_ICE_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_WATER_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_WIND_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_DARK_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_LESS_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_ICE_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_WATER_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_WIND_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_DARK_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_LESS_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_WATER_03",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_03",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_04",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_03",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_04",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_03",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_04",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_01",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_02",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_03",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_04",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_OGRE",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_BOMB",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_MABR",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_WOLF",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_ZUUU",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_BONE",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_ARMN",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_MAT_MYTHRIL",
+            "value": "Un objet requis pour la fabrication et l'éveil d'équipement."
+        },
+        {
+            "key": "IT_AF_LW_SWO_001",
+            "value": "Une recette nécessaire à la fabrication d'une Épée longue"
+        },
+        {
+            "key": "IT_AF_LW_SWO_002",
+            "value": "Une recette nécessaire à la fabrication d'une Épée en mithril"
+        },
+        {
+            "key": "IT_AF_LW_SWO_003",
+            "value": "Une recette nécessaire à la fabrication d'une Lame Morphée"
+        },
+        {
+            "key": "IT_AF_LW_SWO_004",
+            "value": "Une recette nécessaire à la fabrication d'une Cryolame"
+        },
+        {
+            "key": "IT_AF_LW_SWO_005",
+            "value": "Une recette nécessaire à la fabrication d'une Pyrolame"
+        },
+        {
+            "key": "IT_AF_LW_SWO_006",
+            "value": "Une recette nécessaire à la fabrication d'une Épée de corail"
+        },
+        {
+            "key": "IT_AF_LW_BSW_001",
+            "value": "Une recette nécessaire à la fabrication d'une Claymore"
+        },
+        {
+            "key": "IT_AF_LW_BSW_002",
+            "value": "Une recette nécessaire à la fabrication d'un Sabre en mithril"
+        },
+        {
+            "key": "IT_AF_LW_BSW_003",
+            "value": "Une recette nécessaire à la fabrication d'une Épée runique"
+        },
+        {
+            "key": "IT_AF_LW_BSW_004",
+            "value": "Une recette nécessaire à la fabrication d'une Lame en or"
+        },
+        {
+            "key": "IT_AF_LW_KAT_001",
+            "value": "Une recette nécessaire à la fabrication d'un Kotetsu"
+        },
+        {
+            "key": "IT_AF_LW_KAT_002",
+            "value": "Une recette nécessaire à la fabrication d'un Kiku-ichimonji"
+        },
+        {
+            "key": "IT_AF_LW_KAT_003",
+            "value": "Une recette nécessaire à la fabrication d'une Osafune"
+        },
+        {
+            "key": "IT_AF_LW_FIS_001",
+            "value": "Une recette nécessaire à la fabrication des Poings en métal"
+        },
+        {
+            "key": "IT_AF_LW_FIS_002",
+            "value": "Une recette nécessaire à la fabrication des Griffes en mithril"
+        },
+        {
+            "key": "IT_AF_LW_FIS_003",
+            "value": "Une recette nécessaire à la fabrication des Griffes de chat"
+        },
+        {
+            "key": "IT_AF_LW_SPE_001",
+            "value": "Une recette nécessaire à la fabrication d'un Partisan"
+        },
+        {
+            "key": "IT_AF_LW_SPE_002",
+            "value": "Une recette nécessaire à la fabrication d'une Lance en mithril"
+        },
+        {
+            "key": "IT_AF_LW_SPE_003",
+            "value": "Une recette nécessaire à la fabrication d'une Lance zéphyr"
+        },
+        {
+            "key": "IT_AF_LW_SPE_004",
+            "value": "Une recette nécessaire à la fabrication d'une Lance de glace"
+        },
+        {
+            "key": "IT_AF_LW_SPE_006",
+            "value": "Une recette nécessaire à la fabrication d'une Lance cornodragon"
+        },
+        {
+            "key": "IT_AF_LW_DAG_001",
+            "value": "Une recette nécessaire à la fabrication d'une Dague"
+        },
+        {
+            "key": "IT_AF_LW_DAG_002",
+            "value": "Une recette nécessaire à la fabrication d'une Dague en mithril"
+        },
+        {
+            "key": "IT_AF_LW_DAG_004",
+            "value": "Une recette nécessaire à la fabrication d'une Main gauche"
+        },
+        {
+            "key": "IT_AF_LW_DAG_006",
+            "value": "Une recette nécessaire à la fabrication d'une Dague magik"
+        },
+        {
+            "key": "IT_AF_LW_NKN_001",
+            "value": "Une recette nécessaire à la fabrication d'un Kunaï"
+        },
+        {
+            "key": "IT_AF_LW_NKN_002",
+            "value": "Une recette nécessaire à la fabrication d'une Kodachi"
+        },
+        {
+            "key": "IT_AF_LW_NKN_003",
+            "value": "Une recette nécessaire à la fabrication d'un Katana de Sasuke"
+        },
+        {
+            "key": "IT_AF_LW_BOW_001",
+            "value": "Une recette nécessaire à la fabrication d'un Arc long"
+        },
+        {
+            "key": "IT_AF_LW_BOW_002",
+            "value": "Une recette nécessaire à la fabrication d'un Grand arc"
+        },
+        {
+            "key": "IT_AF_LW_BOW_003",
+            "value": "Une recette nécessaire à la fabrication d'un Arc runique"
+        },
+        {
+            "key": "IT_AF_LW_GUN_001",
+            "value": "Une recette nécessaire à la fabrication d'un Capella"
+        },
+        {
+            "key": "IT_AF_LW_GUN_002",
+            "value": "Une recette nécessaire à la fabrication d'un Véga"
+        },
+        {
+            "key": "IT_AF_LW_GUN_003",
+            "value": "Une recette nécessaire à la fabrication d'un Ras Algethi"
+        },
+        {
+            "key": "IT_AF_LW_ROD_002",
+            "value": "Une recette nécessaire à la fabrication d'un Sceptre en fer"
+        },
+        {
+            "key": "IT_AF_LW_ROD_004",
+            "value": "Une recette nécessaire à la fabrication d'un Bâton de soin"
+        },
+        {
+            "key": "IT_AF_LW_ROD_005",
+            "value": "Une recette nécessaire à la fabrication d'un Sceptre de platine"
+        },
+        {
+            "key": "IT_AF_LW_MAC_001",
+            "value": "Une recette nécessaire à la fabrication d'une Masse en fer"
+        },
+        {
+            "key": "IT_AF_LW_MAC_002",
+            "value": "Une recette nécessaire à la fabrication d'une Masse en mithril"
+        },
+        {
+            "key": "IT_AF_LW_MAC_003",
+            "value": "Une recette nécessaire à la fabrication d'une Masse de platine"
+        },
+        {
+            "key": "IT_AF_LW_ARM_002",
+            "value": "Une recette nécessaire à la fabrication de Plates en fer"
+        },
+        {
+            "key": "IT_AF_LW_ARM_003",
+            "value": "Une recette nécessaire à la fabrication d'une Armure en mithril"
+        },
+        {
+            "key": "IT_AF_LW_ARM_004",
+            "value": "Une recette nécessaire à la fabrication d'une Armure d'or"
+        },
+        {
+            "key": "IT_AF_LW_HAT_002",
+            "value": "Une recette nécessaire à la fabrication d'un Chapeau de sorcier"
+        },
+        {
+            "key": "IT_AF_LW_HAT_003",
+            "value": "Une recette nécessaire à la fabrication d'un Diadème"
+        },
+        {
+            "key": "IT_AF_LW_HAT_004",
+            "value": "Une recette nécessaire à la fabrication d'un Chapeau de sage"
+        },
+        {
+            "key": "IT_AF_LW_CLT_001",
+            "value": "Une recette nécessaire à la fabrication d'une Chemise en cuir"
+        },
+        {
+            "key": "IT_AF_LW_CLT_002",
+            "value": "Recette nécessaire à la confection d'une Robe d'érudit."
+        },
+        {
+            "key": "IT_AF_LW_CLT_003",
+            "value": "Une recette nécessaire à la fabrication d'un Gilet mirage"
+        },
+        {
+            "key": "IT_AF_LW_CLT_004",
+            "value": "Une recette nécessaire à la fabrication d'un Manteau perspicace"
+        },
+        {
+            "key": "IT_AF_LW_HLM_002",
+            "value": "Une recette nécessaire à la fabrication d'un Casque en fer"
+        },
+        {
+            "key": "IT_AF_LW_HLM_003",
+            "value": "Une recette nécessaire à la fabrication d'un Casque en mithril"
+        },
+        {
+            "key": "IT_AF_LW_HLM_004",
+            "value": "Une recette nécessaire à la fabrication d'un Casque en or"
+        },
+        {
+            "key": "IT_AF_LW_RNG_002",
+            "value": "Une recette nécessaire à la fabrication d'une Bague de héros"
+        },
+        {
+            "key": "IT_AF_LW_RNG_003",
+            "value": "Une recette nécessaire à la fabrication d'un Anneau de fée"
+        },
+        {
+            "key": "IT_AF_LW_RNG_004",
+            "value": "Une recette nécessaire à la fabrication d'une Marquise"
+        },
+        {
+            "key": "IT_AF_SWO_FF14_TNCT",
+            "value": "Une recette nécessaire à la fabrication d'une réplique de Cœur-de-Lion"
+        },
+        {
+            "key": "IT_AF_LW_ROD_007",
+            "value": "Une recette nécessaire à la fabrication d'un bâton de sage"
+        },
+        {
+            "key": "IT_AF_LW_ARM_005",
+            "value": "Une recette nécessaire à la fabrication d'une Armure de platine"
+        },
+        {
+            "key": "IT_AF_FFT_SWO_001",
+            "value": "Une recette nécessaire à la fabrication de Nagrarok"
+        },
+        {
+            "key": "IT_AF_LW_FTW_001",
+            "value": "Une recette nécessaire à la fabrication des sandales d'Hermès"
+        },
+        {
+            "key": "IT_AF_LW_AXE_001",
+            "value": "Une recette nécessaire à la fabrication de Tue-ogres"
+        },
+        {
+            "key": "IT_AF_LW_AXE_002",
+            "value": "Une recette nécessaire à la fabrication d'une Hache en mithril"
+        },
+        {
+            "key": "IT_AF_LW_AXE_003",
+            "value": "Une recette nécessaire à la fabrication d'une Hache en or"
+        },
+        {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Une recette nécessaire à la fabrication d'un anneau d'alexandrite"
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Une recette nécessaire à la fabrication d'une Tunique de platine"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Une recette nécessaire à la fabrication d'une Armure de la Lumière"
+        },
+        {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Une recette nécessaire à la fabrication d'un Sortilège"
+        },
+        {
+            "key": "IT_AF_SUP_HP",
+            "value": "Augmente les chances de voir ses PV augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_SUP_ATK",
+            "value": "Augmente les chances de voir son ATT augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_SUP_MAG",
+            "value": "Augmente les chances de voir sa MAGIE augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_SUP_MND",
+            "value": "Augmente les chances de voir sa PSY augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_SUP_DEF",
+            "value": "Augmente les chances de voir sa DEF augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_SUP_AVO",
+            "value": "Augmente les chances de voir son Évasion augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_SUP_HIT",
+            "value": "Augmente les chances de voir sa Précision augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_SUP_CRI",
+            "value": "Augmente les chances de voir sa Critique augmenter lorsque l'équipement passe au niveau supérieur."
+        },
+        {
+            "key": "IT_AF_PT_ATK",
+            "value": "Améliore les caractéristiques de l'équipement (ATT)"
+        },
+        {
+            "key": "IT_AF_PT_MAG",
+            "value": "Améliore les caractéristiques de l'équipement (MAGIE)"
+        },
+        {
+            "key": "IT_AF_PT_DEF",
+            "value": "Améliore les caractéristiques de l'équipement (DEF)"
+        },
+        {
+            "key": "IT_AF_PT_MND",
+            "value": "Améliore les caractéristiques de l'équipement (PSY)"
+        },
+        {
+            "key": "IT_AF_PT_HIT",
+            "value": "Améliore les caractéristiques de l'équipement (Précision)"
+        },
+        {
+            "key": "IT_AF_PT_CRI",
+            "value": "Améliore les caractéristiques de l'équipement (Critique)"
+        },
+        {
+            "key": "IT_AF_PT_AVO",
+            "value": "Améliore les caractéristiques de l'équipement (Esquive)"
+        },
+        {
+            "key": "IT_AF_PT_HP",
+            "value": "Améliore les caractéristiques de l'équipement (PV)"
+        },
+        {
+            "key": "IT_AF_PT_SPD",
+            "value": "Améliore les caractéristiques de l'équipement (AGI)"
+        },
+        {
+            "key": "IT_WA_EXP_01",
+            "value": "Confère de l'EXP d'aptitude d'équipement (S)"
+        },
+        {
+            "key": "IT_WA_EXP_02",
+            "value": "Confère de l'EXP d'aptitude d'équipement (M)"
+        },
+        {
+            "key": "IT_WA_EXP_03",
+            "value": "Confère de l'EXP d'aptitude d'équipement (L)"
+        },
+        {
+            "key": "IT_AF_RESET",
+            "value": "Un objet qui vous permettra de réinitialiser les caractéristiques d'un objet d'équipement.<br>*Lors de la réinitialisation, vous perdrez tous les orbes et les marteaux nains utilisés pour améliorer l'équipement."
+        },
+        {
+            "key": "IT_EC_STARQUARTZ",
+            "value": "Spécification non définie"
+        },
+        {
+            "key": "IT_EC_ARENA",
+            "value": "Une médaille qui s'obtient dans l'Arène"
+        },
+        {
+            "key": "IT_EC_MULTI",
+            "value": "Une médaille qui s'obtient lors des quêtes multi"
+        },
+        {
+            "key": "IT_EC_RAID",
+            "value": "Une médaille qui s'obtient lors des combats de raid"
+        },
+        {
+            "key": "IT_EC_MATCH",
+            "value": "Une médaille qui s'obtient lors des face-à-face"
+        },
+        {
+            "key": "IT_EC_GUILD",
+            "value": "Une médaille qui s'obtient dans votre guilde."
+        },
+        {
+            "key": "IT_EC_SOUL",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SOUL_N",
+            "value": "Une médaille qui renferme les fragments d'une unité N dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_SOUL_R",
+            "value": "Une médaille qui renferme les fragments d'une unité R dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_SOUL_SR",
+            "value": "Une médaille qui renferme les fragments d'une unité SR dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_SOUL_SSR",
+            "value": "Une médaille qui renferme les fragments d'une unité MR dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_SOUL_UR",
+            "value": "Une médaille qui renferme les fragments d'une unité UR dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_MOOGLE",
+            "value": "Spécification non définie"
+        },
+        {
+            "key": "IT_EC_TOWER",
+            "value": "Spécification non définie"
+        },
+        {
+            "key": "IT_EC_SUMMON",
+            "value": "Spécification non définie"
+        },
+        {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations d'atouts-visions et des nouvelles unités (Expire le 09/12/2019 à 14:59 PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations hivernales, des atouts-visions et des nouvelles unités (Expire le 31/12/2019 à 23:59 PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations hivernales partie 2 (Expire le 15/01/2020 à 14:59 PST)"
+        },
+        {
+            "key": "IT_EC_VISION",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_VISION_N",
+            "value": "Une médaille qui renferme les fragments d'un atout-vision N dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_VISION_R",
+            "value": "Une médaille qui renferme les fragments d'un atout-vision R dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_VISION_SR",
+            "value": "Une médaille qui renferme les fragments d'un atout-vision SR dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_VISION_SSR",
+            "value": "Une médaille qui renferme les fragments d'un atout-vision MR dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_VISION_UR",
+            "value": "Une médaille qui renferme les fragments d'un atout-vision UR dont la limite d'acquisition a été dépassée."
+        },
+        {
+            "key": "IT_EC_UNIT_UR",
+            "value": "Un objet qui peut être échangé contre divers objets dans la boutique d'échange des pièces d'unité UR."
+        },
+        {
+            "key": "IT_EC_FRIEND",
+            "value": "Une médaille qui est offerte par vos amis."
+        },
+        {
+            "key": "IT_EC_FF14_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration FFXIV. Il peut être échangé contre divers objets dans la Boutique d'échange des mémoquartz goétiques."
+        },
+        {
+            "key": "IT_EC_FF14_2",
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFXIV. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation de FFXIV."
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Un ticket qui peut être obtenu en échangeant des mémoquartz goétiques acquis grâce aux événements de la collaboration FFXIV."
+        },
+        {
+            "key": "IT_EC_SUMMON_03_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Expire le 14/04/2020 à 23:59 PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 21/04/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 28/04/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 02/06/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 16/06/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 30/06/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 14/07/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 28/07/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 11/08/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 01/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Expire le 15/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités et des nouveaux atouts-visions (Jusqu'au 10/06/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités ou des nouveaux atouts-visions (Jusqu'au 20/10/2020, 17:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités ou des nouveaux atouts-visions (Jusqu'au 03/11/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_B",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités ou des nouveaux atouts-visions (Jusqu'au 17/11/2020, 17:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFT. Il peut être échangé contre divers objets dans la Boutique d'échange des médailles d'événement FFT."
+        },
+        {
+            "key": "IT_EC_FFT_2_A",
+            "value": "Une médaille qui peut être obtenue dans les invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation A de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_B",
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation B de la collaboration avec FFT (Expire le 26/05/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFT [Partie II]. Il peut être échangé contre divers objets dans la Boutique d'échange des médailles d'événement FFT [Partie II]."
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "Une médaille qui peut être obtenue grâce à la réédition des invocations de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation A de la réédition de la collaboration avec FFT (Expire le 29/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFT [Partie II]. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation B de la collaboration avec FFT [Partie II] (Expire le 29/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_A_R",
+            "value": "Une médaille qui peut être obtenue grâce à la réédition de l'invocation de Ramza de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation A de la réédition de la collaboration avec FFT (Expire le 29/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_B_R",
+            "value": "Une médaille qui peut être obtenue grâce à la réédition de l'invocation d'Orlandeau de la collaboration avec FFT. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation B de la réédition de la collaboration avec FFT (Expire le 29/09/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_EC_TOWER_001",
+            "value": "Une médaille qui s'obtient dans la Tour de porcelaine"
+        },
+        {
+            "key": "IT_EC_TOWER_002",
+            "value": "Une médaille qui s'obtient dans la Tour de porcelaine"
+        },
+        {
+            "key": "IT_EC_EV02_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements de « Rundall, menace à l'ouest ». Il peut être échangé contre divers objets dans la Boutique d'échange des médailles de « Rundall, menace à l'ouest »."
+        },
+        {
+            "key": "IT_EC_EV03_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements « Embraser la vie ». Il peut être échangé contre divers objets dans la Boutique d'échange des médailles d'événement de juillet."
+        },
+        {
+            "key": "IT_EC_EV04_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements « Aux confins de l'Orient ». Il peut être échangé contre divers objets dans la Boutique d'échange des médailles d'événement d'août."
+        },
+        {
+            "key": "IT_EC_EV05_1",
+            "value": "Un objet qui peut être obtenu grâce à l'événement « Gouga et Saiga : Partie I ». Il peut être échangé contre divers objets dans la Boutique d'échange de « Gouga et Saiga : Partie I »."
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFI. Il peut être échangé contre divers objets dans la Boutique d'échange des médailles d'événement FFI."
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "Une médaille qui peut être obtenue grâce aux invocations de la collaboration avec FFI. Elle peut être échangée contre divers objets dans la boutique d'échange des médailles d'invocation de la collaboration avec FFI (Expire le 25/08/2020, 23:59, heure universelle (PST))"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Un ticket qui peut être obtenu grâce aux événements de la collaboration avec FFT."
+        },
+        {
+            "key": "IT_AD_TICKET_2",
+            "value": "Un ticket d'Expédition chocobo qui permet d'accélérer une expédition d'environ 2 heures."
+        },
+        {
+            "key": "IT_AD_TICKET_5",
+            "value": "Un ticket d'Expédition chocobo qui permet d'accélérer une expédition d'environ 5 heures."
+        },
+        {
+            "key": "IT_AD_TICKET_10",
+            "value": "Un ticket d'Expédition chocobo qui permet d'accélérer une expédition d'environ 10 heures."
+        },
+        {
+            "key": "IT_US_GACHA_01",
+            "value": "Échangez un de ces tickets depuis l'invocation rare et invoquez une unité ou un atout-vision."
+        },
+        {
+            "key": "IT_US_GACHA_10",
+            "value": "Un ticket qui permet de réaliser 10 invocations rares."
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer 10 unités ou atouts-visions, avec la garantie que l'un d'eux soit de rareté MR ou plus"
+        },
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer un atout-vision SR ou supérieur."
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer un atout-vision MR ou plus à coup sûr."
+        },
+        {
+            "key": "IT_US_GL_G_V_SSR_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer un atout-vision MR ou plus à coup sûr."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer une unité MR ou supérieur."
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_1",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 200 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_PI_COM_02",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 100 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_02",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 100 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_03",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 200 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_PI_COM_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 fragments de pensée nécessaires à l'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_01_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 30 alcrists (verts) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 alcrists (bleus) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_02",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (bleus) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_03_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (violets) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (jaunes) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 70 alcrists (rouges) nécessaires à l'amélioration des jobs parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_SB_AW_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 20 pierres d'éveil nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_02",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 magilithes (XL) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_03",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_05",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 30 magilithes (XL) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer une unité UR."
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "Un ticket qui vous permet d'invoquer une unité UR."
+        },
+        {
+            "key": "IT_US_G_U_UR_03",
+            "value": "Un ticket qui vous permet d'invoquer une unité UR."
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer une unité ou un atout-vision UR."
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "Un ticket qui vous permet d'invoquer une unité ou un atout-vision UR."
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer une unité R ou supérieur."
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer un atout-vision R ou supérieur."
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Un ticket qui vous permet d'invoquer un atout-vision UR."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Un ticket qui permet au joueur d'invoquer le souvenir de job (vert) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Un ticket qui permet au joueur d'invoquer 2 souvenirs de job (bleus) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Un ticket qui permet au joueur d'invoquer 3 souvenirs de job (violets) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Un ticket qui permet au joueur d'invoquer 4 souvenirs de job (jaunes) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Un ticket qui permet au joueur d'invoquer 5 souvenirs de job (rouges) de n'importe quel job."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04_2",
+            "value": "Un ticket qui permet au joueur d'invoquer 4 souvenirs de job (jaunes) de n'importe quel job. *Ne peut pas être utilisé pour les jobs des unités des collaborations."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05_2",
+            "value": "Un ticket qui permet au joueur d'invoquer 5 souvenirs de job (rouges) de n'importe quel job. *Ne peut pas être utilisé pour les jobs des unités des collaborations."
+        },
+        {
+            "key": "IT_US_SE_JB_05_01",
+            "value": "Un ticket qui vous permet d'invoquer 30 Spinelles du même type (épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache), pour améliorer les jobs des niveaux 13 à 15."
+        },
+        {
+            "key": "IT_US_SE_JB_04_01",
+            "value": "Un ticket qui vous permet d'invoquer 30 Citrines du même type (épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache), pour améliorer les jobs des niveaux 10 à 12."
+        },
+        {
+            "key": "IT_US_SE_JB_03_01",
+            "value": "Un ticket qui vous permet d'invoquer 30 Charoïtes du même type (épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache), pour améliorer les jobs des niveaux 7 à 9."
+        },
+        {
+            "key": "IT_US_SE_JB_02_01",
+            "value": "Un ticket qui vous permet d'invoquer 30 Azurites du même type (épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache), pour améliorer les jobs des niveaux 4 à 6."
+        },
+        {
+            "key": "IT_US_SE_JB_01_01",
+            "value": "Un ticket qui vous permet d'invoquer 15 Jades du même type (épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache), pour améliorer les jobs des niveaux 1 à 3."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité UR"
+        },
+        {
+            "key": "IT_US_SE_R_UR_U_03",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité R à UR sortie avant le 19/08/2020 inclus. *Ne peut pas être utilisé pour Sterne (Chevalier déchu), Ildyra, Gilgamesh, Graziella Wezett, Lasswell, Éthéa, Tyrrell ni pour les unités limitées ou celles issues des collaborations."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_05",
+            "value": "Un ticket nécessaire pour lancer l'invocation d'unité MR+ garantie du Compte à rebours de l'Anniversaire des 6 mois [Partie III]. *Ce ticket ne peut être utilisé que jusqu'au 16/09/2020, heure universelle (PST) inclus. *Les unités limitées ou celles issues des collaborations ne sont pas incluses dans cette invocation. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_06",
+            "value": "Un ticket nécessaire pour lancer l'invocation d'unité MR+ garantie du Compte à rebours de l'Anniversaire des 6 mois [Partie IV]. *Ce ticket ne peut être utilisé que jusqu'au 23/09/2020, heure universelle (PST) inclus. *Les unités limitées ou celles issues des collaborations ne sont pas incluses dans cette invocation. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_07",
+            "value": "Un ticket nécessaire pour lancer l'invocation d'unité MR+ garantie du Spécial automne 2020 [Partie I]. *Ce ticket ne peut être utilisé que jusqu'au 28/10/2020, heure universelle (PST) inclus. *Les unités limitées ou celles issues des collaborations ne sont pas incluses dans cette invocation. "
+        },
+        {
+            "key": "IT_US_SE_UR_V_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_R_UR_V_GL01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer un atout-vision R à UR sorti avant le 12/08/2020 inclus. *Ne peut pas être utilisé pour les atouts-visions [« Solidus », première division de Hourne], « Ensorceleur, l'Esprit incoercible », « Fenrir, les Crocs de la nuit », « Espoirs inutiles », « Titan, le Colosse rugissant » et « Les quatre seigneurs de guerre » ni pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_04",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 30 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_05",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 200 prismes d'éveil parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_VPI_LW_GLEM",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_IFRT",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_SIRE",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_SOKYU",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_TRAINING",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_MACR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_MURG",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_GRSR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FF14_MV1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_HOLYNIGHT",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FFT_MV1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_ODIN",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_IGNT",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_BHMT",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_MABR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_SHIV",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_RAMU",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_FAMILY",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_KTON",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_PROPOSE",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_SDLX",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_TEAPARTY",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_HUNT",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FF14_MV2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_NEWYEAR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_LAMA_01",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_GUARD",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_CACT",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_ARMN_01",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_ZUUU",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_OGRE",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_BOMB",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_JOBCRYSTAL",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_BYLO",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_RART",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_RYER",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_RIRY",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_CRYSTAL",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_DYNVERK",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_01",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_02",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_MIRROR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_TSLP",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_LILS",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV2",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_ROBUST",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_MDFY",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_ORDR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_FNRR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_TITN",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_KING",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_VKTR",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_BLMN",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VPI_LW_HALL",
+            "value": "Un objet nécessaire à l'éveil d'un atout-vision"
+        },
+        {
+            "key": "IT_VC_EXP_01",
+            "value": "Acquisition d'EXP pour un atout-vision (S)"
+        },
+        {
+            "key": "IT_VC_EXP_02",
+            "value": "Acquisition d'EXP pour un atout-vision (M)"
+        },
+        {
+            "key": "IT_VC_EXP_03",
+            "value": "Acquisition d'EXP pour un atout-vision (L)"
+        },
+        {
+            "key": "IT_VC_EXP_04",
+            "value": "Acquisition d'EXP pour un atout-vision (XL)"
+        },
+        {
+            "key": "IT_GU_FOOD_01",
+            "value": "Assure le plein de provisions de la caserne de la guilde (1 000)"
+        },
+        {
+            "key": "IT_GU_FOOD_02",
+            "value": "Assure le plein de provisions de la caserne de la guilde (2 000)"
+        },
+        {
+            "key": "IT_GU_FOOD_03",
+            "value": "Assure le plein de provisions de la caserne de la guilde (3 000)"
+        },
+        {
+            "key": "IT_GU_FOOD_04",
+            "value": "Assure le plein de provisions de la caserne de la guilde (5 000) et augmente les PJ acquis (S)"
+        },
+        {
+            "key": "IT_GU_FOOD_05",
+            "value": "Assure le plein de provisions de la caserne de la guilde (7 500) et augmente les PJ acquis (M)"
+        },
+        {
+            "key": "IT_GU_FOOD_06",
+            "value": "Assure le plein de provisions de la caserne de la guilde (10 000) et augmente les PJ acquis (L)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_01",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Serpent en pierre » (S)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_02",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Serpent en pierre » (M)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_03",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Serpent en pierre » (L)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_01",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de taureau en pierre » (S)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_02",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de taureau en pierre » (M)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_03",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de taureau en pierre » (L)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_01",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Kirin en pierre » (S)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_02",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Kirin en pierre » (M)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_03",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Kirin en pierre » (L)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_01",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Lion en pierre » (S)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_02",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Lion en pierre » (M)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_03",
+            "value": "Acquisition d'EXP pour la statue de guilde, « Statue de Lion en pierre » (L)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Une médaille qui s'obtient lors des combats de raid"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Une médaille qui s'obtient lors du Raid de la Guimauve blanche"
+        },
+        {
+            "key": "IT_EC_RAID_05",
+            "value": "Une médaille qui s'obtient lors des combats de raid"
+        },
+        {
+            "key": "IT_EC_RAID_06",
+            "value": "Une médaille qui s'obtient lors des combats de raid"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 500 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 10 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 25 magilithes (M) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 100 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_5",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 20 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_6",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 50 magilithes (XL) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_7",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer 150 magilithes (L) nécessaires à l'amélioration des chimères parmi les 8 éléments proposés"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 20 mars inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 24 juin inclus. *Ne peut pas être utilisé pour les atouts-visions « Porteurs d'ombre » et « Héritier des Béoulve »."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 17 juin inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 22 juillet inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 12 août inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_06",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 16 septembre inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_07",
+            "value": "Un ticket sélectionneur de 100 fragments d'atout-vision UR pour les atouts-visions sortis avant le 16 septembre inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_08",
+            "value": "Un ticket sélectionneur de 100 fragments d'atout-vision UR pour les atouts-visions sortis avant le 30 septembre inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_09",
+            "value": "Un ticket sélectionneur de 100 fragments d'atout-vision UR pour les atouts-visions sortis avant le 14 octobre inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_10",
+            "value": "Un ticket sélectionneur de 50 fragments d'atout-vision UR pour les atouts-visions sortis avant le 14 octobre inclus. *Ne peut pas être utilisé pour les atouts-visions limités ou ceux issus des collaborations."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité UR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 40 fragments d'unité."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR recommandée.*Si vous invoquez une unité que vous possédez déjà, elle sera convertie en 20 fragments d'unité."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Un ticket qui permet au joueur de sélectionner et d'invoquer une unité MR"
+        },
+        {
+            "key": "IT_US_SE_PI_15",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité FFBE UR garantie qui peut être utilisé pour Lasswell, Rain, Fryevia, Ayaka, Mediena ou Aileen. "
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 17 juin inclus. *Ne peut pas être utilisé pour les unités limitées ou des collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un ticket qui permet de sélectionner et d'invoquer 40 fragments d'unité UR."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 19/08/2020 inclus. *Ne peut pas être utilisé pour les unités limitées ou des collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL03",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 9 septembre inclus. *Ne peut pas être utilisé pour les unités limitées ou des collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL04",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 23 septembre inclus. *Ne peut pas être utilisé pour les unités Graziella, Lasswell ou celles issues des collaborations."
+        },
+        {
+            "key": "IT_US_SE_PI_GL05",
+            "value": "Un ticket sélectionneur de 40 fragments d'unité UR pour les unités sorties avant le 21/10/2020 inclus. *Ne peut pas être utilisé pour les unités limitées ou issues de collaborations, sauf pour les unités limitées d'Halloween."
+        },
+        {
+            "key": "IT_US_N_GACHA_10",
+            "value": "Un ticket qui permet de réaliser 10 invocations normales."
+        },
+        {
+            "key": "IT_US_SE_AF_AW_01",
+            "value": "Un ticket sélectionneur de 100 livres secrets de l'amélioration (pour épée, spathe, poings, katana, lance, dague, lame ninja, arc, fusil, bâton, masse, hache, armure ou accessoire)."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Un ticket qui vous permet de mettre la main sur des objets tels que des fragments d'unité et d'atout-vision."
+        },
+        {
+            "key": "IT_PT_SKIP_001",
+            "value": "Un ticket qui permet de terminer instantanément les combats des Épreuves du Jugement."
+        },
+        {
+            "key": "IT_PT_BSSKIP_001",
+            "value": "Un ticket qui permet de terminer instantanément les combats de boss des Épreuves du Jugement."
+        },
+        {
+            "key": "IT_PT_BOSS_001",
+            "value": "Un ticket qui permet de défier un boss des Épreuves du Jugement."
+        },
+        {
+            "key": "IT_EC_POINT_001",
+            "value": "Une médaille qui s'obtient dans les Épreuves du Jugement."
+        },
+        {
+            "key": "IT_AF_LW_HLM_005",
+            "value": "Une recette nécessaire à la fabrication d'un Casque de platine"
+        },
+        {
+            "key": "IT_AF_LW_ACC_001",
+            "value": "Une recette nécessaire à la fabrication d'un Ruban"
+        },
+        {
+            "key": "IT_AF_LW_KAT_008",
+            "value": "Une recette nécessaire à la fabrication d'un Éclair pourpre"
+        }
+    ]
+}

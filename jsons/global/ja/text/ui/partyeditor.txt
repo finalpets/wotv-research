@@ -1,0 +1,320 @@
+{
+    "infos": [
+        {
+            "key": "PARTYEDITOR_TEAM_RENAME",
+            "value": "パーティー名変更"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "編成不可"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_SUPPORT",
+            "value": "傭兵を<br>雇う!!"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "アイテムは<br>使用できません"
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "なし"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "出撃!!"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "バトルスキップ"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "バトル設定"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "マップ効果"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_TITLE",
+            "value": "地形"
+        },
+        {
+            "key": "MAP_EFFECT_TERRAIN_DEFAULT",
+            "value": "なし"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "マップ効果"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "アイテム選択"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "すべて"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "回復"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "攻撃"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_TITLE",
+            "value": "パーティー名変更"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_DESCRIPTION",
+            "value": "新しいパーティー名を入力してください。"
+        },
+        {
+            "key": "TEAM_CHANGE_NAME_CAUTION",
+            "value": "8文字以内で入力してください。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "おまかせ編成"
+        },
+        {
+            "key": "RECOMMEND_TEAM_MSG_1",
+            "value": "重視する項目と属性を選んでください。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ALL_TEXT",
+            "value": "全て"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_FIRE_TEXT",
+            "value": "火属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_ICE_TEXT",
+            "value": "氷属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WIND_TEXT",
+            "value": "風属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_EARTH_TEXT",
+            "value": "土属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_THUNDER_TEXT",
+            "value": "雷属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_WATER_TEXT",
+            "value": "水属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_SHINE_TEXT",
+            "value": "光属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ELEMENT_DARK_TEXT",
+            "value": "闇属性"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_TOTAL_TEXT",
+            "value": "総合"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TEXT",
+            "value": "攻撃"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_DEFENCE_TEXT",
+            "value": "物防"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MAGIC_TEXT",
+            "value": "魔力"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_MIND_TEXT",
+            "value": "魔防"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_HP_TEXT",
+            "value": "HP"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_SPEED_TEXT",
+            "value": "素早さ"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SLASH_TEXT",
+            "value": "斬撃"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_STAB_TEXT",
+            "value": "刺突"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_BLOW_TEXT",
+            "value": "打撃"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_SHOT_TEXT",
+            "value": "射撃"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_MAGIC_TEXT",
+            "value": "魔法"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_NONE_TEXT",
+            "value": "その他"
+        },
+        {
+            "key": "RECOMMEND_TEAM_SORT_ATTACK_TYPE_ALL_TEXT",
+            "value": "全攻撃種"
+        },
+        {
+            "key": "PARTYEDITOR_COND_LIMIT",
+            "value": "【出撃制限】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_LIMIT",
+            "value": "【出撃制限】<br>なし"
+        },
+        {
+            "key": "PARTYEDITOR_COND_FIXED",
+            "value": "【強制出撃】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_NO_FIXED",
+            "value": "【強制出撃】<br>なし"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PUNCTUATE",
+            "value": "/"
+        },
+        {
+            "key": "PARTYEDITOR_COND_DETAIL",
+            "value": "【ステージ情報】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT",
+            "value": "【地形】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_MAP_EFFECT_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER",
+            "value": "【天候】<br>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_HEAD",
+            "value": "<color=white>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_SEP",
+            "value": "、"
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEATHER_BOTTOM",
+            "value": "</color>"
+        },
+        {
+            "key": "PARTYEDITOR_COND_PLV",
+            "value": "プレイヤーレベル："
+        },
+        {
+            "key": "PARTYEDITOR_COND_ULV",
+            "value": "ユニットレベル："
+        },
+        {
+            "key": "PARTYEDITOR_COND_ELEM",
+            "value": "属性："
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOB",
+            "value": "ジョブ："
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNIT",
+            "value": "ユニット："
+        },
+        {
+            "key": "PARTYEDITOR_COND_SEX",
+            "value": "性別："
+        },
+        {
+            "key": "PARTYEDITOR_COND_RARITY",
+            "value": "レアリティ："
+        },
+        {
+            "key": "PARTYEDITOR_COND_HEIGHT",
+            "value": "身長："
+        },
+        {
+            "key": "PARTYEDITOR_COND_WEIGHT",
+            "value": "体重："
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX",
+            "value": "ジョブ番号："
+        },
+        {
+            "key": "PARTYEDITOR_COND_BIRTH",
+            "value": "出身国："
+        },
+        {
+            "key": "PARTYEDITOR_COND_JOBINDEX_VALUE",
+            "value": "第{0}ジョブ"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TEXTFRAME",
+            "value": "【{0}】"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_PARENT",
+            "value": "{0}：{1}{2}を習得"
+        },
+        {
+            "key": "PARTYEDITOR_COND_UNLOCK_TITLE",
+            "value": "{0}が下記条件をすべて満たしていること"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND_OWNED_UNIT",
+            "value": "該当する編成はありません。"
+        },
+        {
+            "key": "PARTYEDITOR_RECENT_CLEARED_PARTY_NOT_FOUND",
+            "value": "該当する編成はありません。"
+        },
+        {
+            "key": "DEFAULT_PARTY_NAME",
+            "value": "パーティー{0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_TITLE",
+            "value": "パーティーに空きがあります"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_EMPTY_DESC",
+            "value": "パーティーに空きがあると期間限定ギルドバトルで不利になることがあります。このまま設定を終わりますか？"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_TITLE",
+            "value": "編成条件が未達成です"
+        },
+        {
+            "key": "PARTYEDITOR_CONFIRM_CLOSE_LIMITED_GUILD_BREAKUP_PRESET_DESC",
+            "value": "編成未達成のため、前回の編成データをクリアします。"
+        }
+    ]
+}

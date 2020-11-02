@@ -1,0 +1,108 @@
+{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "Événements"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Obtenez des objets spéciaux !"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "Participez aux quêtes avec vos amis !"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Raids"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "Unissez vos forces pour vaincre de féroces ennemis !"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Tour de porcelaine"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Quêtes extrêmes"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "Le repaire de la bête"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "Obtenez des matériaux d'éveil pour éveiller vos chimères !"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "L'événement de collaboration est là !"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "(Test) Nouveau chapitre !"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "(Test) Pièces d'Arène x2 !"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "(Test) Événement disponible !"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "Affrontez la Sentinelle !"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "Récupérez votre récompense de raid maintenant."
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "Affrontez Roi Béhémoth !"
+        },
+        {
+            "key": "QLN_RAID_4",
+            "value": "Défiez le boss de raid !"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "Tour de porcelaine accessible !"
+        },
+        {
+            "key": "QLN_TOWER_4",
+            "value": "Obtenez l'Anneau de la mer dès maintenant !"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "Géant de fer est de nouveau là !"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "Conditions pour débloquer :"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "Vous devez remplir les conditions requises pour y accéder. <br>Atteignez le rang de joueur {0}"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "Hors période"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "Période de défi terminée"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "Obtenez le Sabre carmin dès maintenant !"
+        }
+    ]
+}

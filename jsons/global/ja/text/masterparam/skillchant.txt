@@ -1,0 +1,6440 @@
+{
+    "infos": [
+        {
+            "key": "SK_EMPTY",
+            "value": ""
+        },
+        {
+            "key": "SK_FROG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CRYSTAL_NORMAL",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_R_1_MONT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_P_1_MONT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_1_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_S_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_S_7",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_S_5_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_S_6",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_S_7_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_M_4",
+            "value": "<span=0.03>我が剣に従え輝赫の決意<wait=0.35><br><span=0.03>焔刃・ファイガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_M_4",
+            "value": "<span=0.03>我が剣に従え清澄の決意<wait=0.35><br><span=0.03>雨刃・ウォタガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_M_4",
+            "value": "<span=0.03>我が剣に従え氷色の決意<wait=0.35><br><span=0.03>冴刃・ブリザガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_M_4",
+            "value": "<span=0.03>我が剣に従えさび色の決意<wait=0.35><br><span=0.03>巌刃・ストンガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_M_4",
+            "value": "<span=0.03>我が剣に従え鮮黄の決意<wait=0.35><br><span=0.03>電刃・サンダガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_M_4",
+            "value": "<span=0.03>我が剣に従え翠緑の決意<wait=0.35><br><span=0.03>乱刃・エアロガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_M_4",
+            "value": "<span=0.03>我が剣に従え純白の決意<wait=0.35><br><span=0.03>耀刃・バニシュガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_M_4",
+            "value": "<span=0.03>我が剣に従え漆黒の決意<wait=0.35><br><span=0.03>冥刃・ダーガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_M_2",
+            "value": "<span=0.03>臆病の瞳　太刀影に垣間見よ<wait=0.35><br><span=0.03>怯懦刃・チキン剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_S_4",
+            "value": "<span=0.03>妙技の前に口を噤め<wait=0.35><br><span=0.03>静寂刃・サイレス剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_S_1_INIT",
+            "value": "<span=0.03>燭台より応じよ紅き精霊<wait=0.35><br><span=0.03>火刃・ファイア剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_S_1_INIT",
+            "value": "<span=0.03>杯より応じよ色なき精霊<wait=0.35><br><span=0.03>水刃・ウォータ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_S_1_INIT",
+            "value": "<span=0.03>凍天より応じよ蒼き精霊<wait=0.35><br><span=0.03>冷刃・ブリザド剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_S_1_INIT",
+            "value": "<span=0.03>荒野より応じよ褐色の精霊<wait=0.35><br><span=0.03>砂刃・ストーン剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_S_1_INIT",
+            "value": "<span=0.03>樫より応じよ金色の精霊<wait=0.35><br><span=0.03>磁刃・サンダー剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_S_1_INIT",
+            "value": "<span=0.03>木陰より応じよ翠の精霊<wait=0.35><br><span=0.03>風刃・エアロ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_S_1_INIT",
+            "value": "<span=0.03>朝より応じよ白き精霊<wait=0.35><br><span=0.03>光刃・バニシュ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_S_1_INIT",
+            "value": "<span=0.03>夜半より応じよ黒き精霊<wait=0.35><br><span=0.03>暮刃・ダーク剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_M_1_INIT",
+            "value": "<span=0.03>希望すり減らす悪意を注げ<wait=0.35><br><span=0.03>毒刃・バイオ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_WATR_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_ICE_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_THUN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_WIND_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_DARK_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_M_4_SUB",
+            "value": "<span=0.03>我が剣に従え輝赫の決意<wait=0.35><br><span=0.03>焔刃・ファイガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_M_4_SUB",
+            "value": "<span=0.03>我が剣に従え清澄の決意<wait=0.35><br><span=0.03>雨刃・ウォタガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_M_4_SUB",
+            "value": "<span=0.03>我が剣に従え氷色の決意<wait=0.35><br><span=0.03>冴刃・ブリザガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_M_4_SUB",
+            "value": "<span=0.03>我が剣に従えさび色の決意<wait=0.35><br><span=0.03>巌刃・ストンガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_M_4_SUB",
+            "value": "<span=0.03>我が剣に従え鮮黄の決意<wait=0.35><br><span=0.03>電刃・サンダガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_M_4_SUB",
+            "value": "<span=0.03>我が剣に従え翠緑の決意<wait=0.35><br><span=0.03>乱刃・エアロガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_M_4_SUB",
+            "value": "<span=0.03>我が剣に従え純白の決意<wait=0.35><br><span=0.03>耀刃・バニシュガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_M_4_SUB",
+            "value": "<span=0.03>我が剣に従え漆黒の決意<wait=0.35><br><span=0.03>冥刃・ダーガ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_M_2_SUB",
+            "value": "<span=0.03>臆病の瞳　太刀影に垣間見よ<wait=0.35><br><span=0.03>怯懦刃・チキン剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_S_4_SUB",
+            "value": "<span=0.03>妙技の前に口を噤め<wait=0.35><br><span=0.03>静寂刃・サイレス剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_S_1",
+            "value": "<span=0.03>燭台より応じよ紅き精霊<wait=0.35><br><span=0.03>火刃・ファイア剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_S_1",
+            "value": "<span=0.03>杯より応じよ色なき精霊<wait=0.35><br><span=0.03>水刃・ウォータ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_S_1",
+            "value": "<span=0.03>凍天より応じよ蒼き精霊<wait=0.35><br><span=0.03>冷刃・ブリザド剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_S_1",
+            "value": "<span=0.03>荒野より応じよ褐色の精霊<wait=0.35><br><span=0.03>砂刃・ストーン剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_S_1",
+            "value": "<span=0.03>樫より応じよ金色の精霊<wait=0.35><br><span=0.03>磁刃・サンダー剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_S_1",
+            "value": "<span=0.03>木陰より応じよ翠の精霊<wait=0.35><br><span=0.03>風刃・エアロ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_S_1",
+            "value": "<span=0.03>朝より応じよ白き精霊<wait=0.35><br><span=0.03>光刃・バニシュ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_S_1",
+            "value": "<span=0.03>夜半より応じよ黒き精霊<wait=0.35><br><span=0.03>暮刃・ダーク剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_MGK_M_1",
+            "value": "<span=0.03>希望すり減らす悪意を注げ<wait=0.35><br><span=0.03>毒刃・バイオ剣！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_SWN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_5_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_S_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_M_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_S_5_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_S_3_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_FIRE_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_ICE_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_WIND_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_SOIL_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_THUN_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_WATR_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_DARK_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_SHIN_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_M_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_3_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_M_3_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_3_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_M_7",
+            "value": "<span=0.03>我は神炉の番犬、灼熱をもたらさん<wait=0.35><br><span=0.03>無上の焔、<wait=0.7><span=0.02>フレア！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_M_3",
+            "value": "<span=0.03>カエルはいい……<wait=0.35><br><span=0.03>いいよな～！<wait=0.7><span=0.02>トード！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_5",
+            "value": "<span=0.03>灯した決意は我が敵を飲み込む<wait=0.35><br><span=0.03>燃え盛れ、<wait=0.7><span=0.02>ファイガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_5",
+            "value": "<span=0.03>決意の結晶　永久に生命を閉ざせ<wait=0.35><br><span=0.03>氷結せよ、<wait=0.7><span=0.02>ブリザガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_5",
+            "value": "<span=0.03>決意の軌跡は並べてなぎ倒す嵐となる<wait=0.35><br><span=0.03>切り裂け、<wait=0.7><span=0.02>エアロガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_5",
+            "value": "<span=0.03>決意は集いて　我らが大地が隆起する<wait=0.35><br><span=0.03>そびえろ、<wait=0.7><span=0.02>ストンガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_5",
+            "value": "<span=0.03>雷鳴　決意を帯びて唸りを上げる<wait=0.35><br><span=0.03>轟け、<wait=0.7><span=0.02>サンダガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_5",
+            "value": "<span=0.03>決意は満ち、今とめどない濁流とならん<wait=0.35><br><span=0.03>押し寄せろ、<wait=0.7><span=0.02>ウォタガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_5",
+            "value": "<span=0.03>振り向けば暗黒　汝の未来が崩れ堕つ<wait=0.35><br><span=0.03>呑み込め、<wait=0.7><span=0.02>ダーガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_5",
+            "value": "<span=0.03>生まれし光芒が勝者を告げる<wait=0.35><br><span=0.03>消し飛べ、<wait=0.7><span=0.02>バニシュガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_S_1_INIT",
+            "value": "<span=0.03>灯した力は我が敵を焦がす<wait=0.35><br><span=0.03>燃えよ、<wait=0.7><span=0.02>ファイア！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_S_1_INIT",
+            "value": "<span=0.03>力の結晶　寒空に温度を閉ざせ<wait=0.35><br><span=0.03>凍えろ、<wait=0.7><span=0.02>ブリザド！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_S_1_INIT",
+            "value": "<span=0.03>力の軌跡は巻き起こる一陣の風となる<wait=0.35><br><span=0.03>走れ、<wait=0.7><span=0.02>エアロ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_S_1_INIT",
+            "value": "<span=0.03>力は集いて　我らが大地と呼応する<wait=0.35><br><span=0.03>震えよ、<wait=0.7><span=0.02>ストーン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_S_1_INIT",
+            "value": "<span=0.03>雷光　力を帯びて空に閃く<wait=0.35><br><span=0.03>放て、<wait=0.7><span=0.02>サンダー！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_S_1_INIT",
+            "value": "<span=0.03>力は満ち、今ひとすくいの雫とならん<wait=0.35><br><span=0.03>溢れよ、<wait=0.7><span=0.02>ウォータ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_S_1_INIT",
+            "value": "<span=0.03>振り向けば暗がり　汝の行く手に影が差す<wait=0.35><br><span=0.03>呼びこめ、<wait=0.7><span=0.02>ダーク！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_S_1_INIT",
+            "value": "<span=0.03>生まれし光が勝利を照らす<wait=0.35><br><span=0.03>輝け、<wait=0.7><span=0.02>バニシュ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_M_1_INIT",
+            "value": "<span=0.03>希望の前途すり減らす毒刺<wait=0.35><br><span=0.03>脅かせ、<wait=0.7><span=0.02>バイオ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_S_3",
+            "value": "<span=0.03>その生命、我が血肉とする<wait=0.35><br><span=0.03>奪え、<wait=0.7><span=0.02>ドレイン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_4",
+            "value": "<span=0.03>灯した意志は我が敵を焼く<wait=0.35><br><span=0.03>燃え上がれ、<wait=0.7><span=0.02>ファイラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_4",
+            "value": "<span=0.03>意志の結晶　乱吹きて人の呼吸を奪え<wait=0.35><br><span=0.03>凍れ、<wait=0.7><span=0.02>ブリザラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_4",
+            "value": "<span=0.03>意志の軌跡は天馬も追い抜く疾風となる<wait=0.35><br><span=0.03>駆けよ、<wait=0.7><span=0.02>エアロラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_4",
+            "value": "<span=0.03>意志は集いて　我らが大地を呼び覚ます<wait=0.35><br><span=0.03>砕け、<wait=0.7><span=0.02>ストンラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_4",
+            "value": "<span=0.03>放電　意志を帯びてその身に落ちる<wait=0.35><br><span=0.03>狙い撃て、<wait=0.7><span=0.02>サンダラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_4",
+            "value": "<span=0.03>意志は満ち、今滂沱の飛沫とならん<wait=0.35><br><span=0.03>降り注げ、<wait=0.7><span=0.02>ウォタラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_4",
+            "value": "<span=0.03>振り向けば宵闇　汝の行く手に悪魔が笑う<wait=0.35><br><span=0.03>堕ちよ、<wait=0.7><span=0.02>ダーラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_4",
+            "value": "<span=0.03>生まれし光彩が正義を示す<wait=0.35><br><span=0.03>煌めけ、<wait=0.7><span=0.02>バニシュラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_S_4",
+            "value": "<span=0.03>安らぐ魂　羊の巻き毛にふかぶか沈め<wait=0.35><br><span=0.03>おやすみ、<wait=0.7><span=0.02>スリプル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_M_2",
+            "value": "<span=0.03>正統なる奏者はここに在り<wait=0.35><br><span=0.03>我がもとに下れ、<wait=0.7><span=0.02>アスピル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_M_7_SUB",
+            "value": "<span=0.03>我は神炉の番犬、灼熱をもたらさん<wait=0.35><br><span=0.03>無上の焔、<wait=0.7><span=0.02>フレア！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_M_3_SUB",
+            "value": "<span=0.03>カエルはいい……<wait=0.35><br><span=0.03>いいよな～！<wait=0.7><span=0.02>トード！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_5_SUB",
+            "value": "<span=0.03>灯した決意は我が敵を飲み込む<wait=0.35><br><span=0.03>燃え盛れ、<wait=0.7><span=0.02>ファイガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_5_SUB",
+            "value": "<span=0.03>決意の結晶　永久に生命を閉ざせ<wait=0.35><br><span=0.03>氷結せよ、<wait=0.7><span=0.02>ブリザガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_5_SUB",
+            "value": "<span=0.03>決意の軌跡は並べてなぎ倒す嵐となる<wait=0.35><br><span=0.03>切り裂け、<wait=0.7><span=0.02>エアロガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_5_SUB",
+            "value": "<span=0.03>決意は集いて　我らが大地が隆起する<wait=0.35><br><span=0.03>そびえろ、<wait=0.7><span=0.02>ストンガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_5_SUB",
+            "value": "<span=0.03>雷鳴　決意を帯びて唸りを上げる<wait=0.35><br><span=0.03>轟け、<wait=0.7><span=0.02>サンダガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_5_SUB",
+            "value": "<span=0.03>決意は満ち、今とめどない濁流とならん<wait=0.35><br><span=0.03>押し寄せろ、<wait=0.7><span=0.02>ウォタガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_5_SUB",
+            "value": "<span=0.03>振り向けば暗黒　汝の未来が崩れ堕つ<wait=0.35><br><span=0.03>呑み込め、<wait=0.7><span=0.02>ダーガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_5_SUB",
+            "value": "<span=0.03>生まれし光芒が勝者を告げる<wait=0.35><br><span=0.03>消し飛べ、<wait=0.7><span=0.02>バニシュガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_S_1",
+            "value": "<span=0.03>灯した力は我が敵を焦がす<wait=0.35><br><span=0.03>燃えよ、<wait=0.7><span=0.02>ファイア！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_S_1",
+            "value": "<span=0.03>力の結晶　寒空に温度を閉ざせ<wait=0.35><br><span=0.03>凍えろ、<wait=0.7><span=0.02>ブリザド！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_S_1",
+            "value": "<span=0.03>力の軌跡は巻き起こる一陣の風となる<wait=0.35><br><span=0.03>走れ、<wait=0.7><span=0.02>エアロ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_S_1",
+            "value": "<span=0.03>力は集いて　我らが大地と呼応する<wait=0.35><br><span=0.03>震えよ、<wait=0.7><span=0.02>ストーン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_S_1",
+            "value": "<span=0.03>雷光　力を帯びて空に閃く<wait=0.35><br><span=0.03>放て、<wait=0.7><span=0.02>サンダー！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_S_1",
+            "value": "<span=0.03>力は満ち、今ひとすくいの雫とならん<wait=0.35><br><span=0.03>溢れよ、<wait=0.7><span=0.02>ウォータ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_S_1",
+            "value": "<span=0.03>振り向けば暗がり　汝の行く手に影が差す<wait=0.35><br><span=0.03>呼びこめ、<wait=0.7><span=0.02>ダーク！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_S_1",
+            "value": "<span=0.03>生まれし光が勝利を照らす<wait=0.35><br><span=0.03>輝け、<wait=0.7><span=0.02>バニシュ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_M_1",
+            "value": "<span=0.03>希望の前途すり減らす毒刺<wait=0.35><br><span=0.03>脅かせ、<wait=0.7><span=0.02>バイオ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_S_4_1",
+            "value": "<span=0.03>双腕に掲げる願いの言霊<wait=0.35><br><span=0.03>恩恵を、<wait=0.7><span=0.02>ケアルガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_4",
+            "value": "<span=0.03>傷を厭わぬ兵にせめてもの祝福を<wait=0.35><br><span=0.03>願いの抱擁、<wait=0.7><span=0.02>リジェネ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_6",
+            "value": "<span=0.03>魔道の至聖に智を倣い、我は謳うその真理<wait=0.35><br><span=0.03>至高の光、<wait=0.7><span=0.02>ホーリー！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_S_4_3",
+            "value": "<span=0.03>鼓動が叫ぶ、半ばの命運果たさせよ<wait=0.35><br><span=0.03>奇跡を、<wait=0.7><span=0.02>アレイズ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_S_1_INIT",
+            "value": "<span=0.03>指先に込めるは祈りの言の葉<wait=0.35><br><span=0.03>癒しを、<wait=0.7><span=0.02>ケアル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_2_INIT",
+            "value": "<span=0.03>病みし魂に平穏を求めん<wait=0.35><br><span=0.03>治療を、<wait=0.7><span=0.02>エスナ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_1",
+            "value": "<span=0.03>手のひらに乗せる願いの言の葉<wait=0.35><br><span=0.03>恵みを、<wait=0.7><span=0.02>ケアルラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_S_2",
+            "value": "<span=0.03>盾となり、鎧となり、仇なす刃を押しのけよ<wait=0.35><br><span=0.03>守りを、<wait=0.7><span=0.02>プロテス！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_S_3",
+            "value": "<span=0.03>祈言となり、霊符となり、魔を払いたまえ<wait=0.35><br><span=0.03>護りを、<wait=0.7><span=0.02>シェル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_3",
+            "value": "<span=0.03>もろ手に捧ぐは祈りの言霊<wait=0.35><br><span=0.03>慈愛を、<wait=0.7><span=0.02>ケアルダ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_5",
+            "value": "<span=0.03>倒れし身体、未だ闘志が燻るならば<wait=0.35><br><span=0.03>復活を、<wait=0.7><span=0.02>レイズ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_S_4_1_SUB",
+            "value": "<span=0.03>双腕に掲げる願いの言霊<wait=0.35><br><span=0.03>恩恵を、<wait=0.7><span=0.02>ケアルガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_4_SUB",
+            "value": "<span=0.03>傷を厭わぬ兵にせめてもの祝福を<wait=0.35><br><span=0.03>願いの抱擁、<wait=0.7><span=0.02>リジェネ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_6_SUB",
+            "value": "<span=0.03>魔道の至聖に智を倣い、我は謳うその真理<wait=0.35><br><span=0.03>至高の光、<wait=0.7><span=0.02>ホーリー！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_S_4_3_SUB",
+            "value": "<span=0.03>鼓動が叫ぶ、半ばの命運果たさせよ<wait=0.35><br><span=0.03>奇跡を、<wait=0.7><span=0.02>アレイズ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_S_1",
+            "value": "<span=0.03>指先に込めるは祈りの言の葉<wait=0.35><br><span=0.03>癒しを、<wait=0.7><span=0.02>ケアル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_WHM_M_2",
+            "value": "<span=0.03>病みし魂に平穏を求めん<wait=0.35><br><span=0.03>治療を、<wait=0.7><span=0.02>エスナ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_M_4",
+            "value": "<span=0.03>洗い流せ、蔓延る運命の翳り<wait=0.35><br><span=0.03>浄化を、<wait=0.7><span=0.02>エスナガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_S_5",
+            "value": "<span=0.03>宿望胸に抱きし者、身の制約を破却せよ<wait=0.35><br><span=0.03>あるがままに、イレース！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_M_2_INIT",
+            "value": "<span=0.03>生まれし光が勝利を照らす<wait=0.35><br><span=0.03>輝け、<wait=0.7><span=0.02>バニシュ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_S_1_INIT",
+            "value": "<span=0.03>指先に込めるは祈りの言の葉<wait=0.35><br><span=0.03>癒しを、<wait=0.7><span=0.02>ケアル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_M_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_M_6",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_M_4_SUB",
+            "value": "<span=0.03>洗い流せ、蔓延る運命の翳り<wait=0.35><br><span=0.03>浄化を、<wait=0.7><span=0.02>エスナガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_S_5_SUB",
+            "value": "<span=0.03>宿望胸に抱きし者、身の制約を破却せよ<wait=0.35><br><span=0.03>あるがままに、イレース！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_M_2",
+            "value": "<span=0.03>生まれし光が勝利を照らす<wait=0.35><br><span=0.03>輝け、<wait=0.7><span=0.02>バニシュ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_CLR_S_1",
+            "value": "<span=0.03>指先に込めるは祈りの言の葉<wait=0.35><br><span=0.03>癒しを、<wait=0.7><span=0.02>ケアル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_M_4",
+            "value": "<span=0.03>咎生みの呪式、傷を以て展開すべし<wait=0.35><br><span=0.03>刻印せよ、<wait=0.7><span=0.02>ウィーク！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_3",
+            "value": "<span=0.03>苛む炎に打ち勝つ術を<wait=0.35><br><span=0.03>火の壁、<wait=0.7><span=0.02>バファイラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_3",
+            "value": "<span=0.03>苛む雪崩に打ち勝つ術を<wait=0.35><br><span=0.03>氷の壁、<wait=0.7><span=0.02>バブリザラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_3",
+            "value": "<span=0.03>苛む突風に打ち勝つ術を<wait=0.35><br><span=0.03>風の壁、<wait=0.7><span=0.02>バエアロラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_3",
+            "value": "<span=0.03>苛む漠に打ち勝つ術を<wait=0.35><br><span=0.03>土の壁、<wait=0.7><span=0.02>バストンラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_3",
+            "value": "<span=0.03>苛む稲妻に打ち勝つ術を<wait=0.35><br><span=0.03>雷の壁、<wait=0.7><span=0.02>バサンダラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_3",
+            "value": "<span=0.03>苛む灘に打ち勝つ術を<wait=0.35><br><span=0.03>水の壁、<wait=0.7><span=0.02>バウォタラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_3",
+            "value": "<span=0.03>苛む照射に打ち勝つ術を<wait=0.35><br><span=0.03>光の壁、<wait=0.7><span=0.02>バライトラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_3",
+            "value": "<span=0.03>苛む逢魔に打ち勝つ術を<wait=0.35><br><span=0.03>闇の壁、<wait=0.7><span=0.02>バダーラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_M_5_INIT",
+            "value": "<span=0.03>連綿磨きし無為の魔力<wait=0.35><br><span=0.03>記せ、ルイン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_2_INIT",
+            "value": "<span=0.03>熱に耐えうる外套を纏え<wait=0.35><br><span=0.03>火の守り、<wait=0.7><span=0.02>バファイ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_2_INIT",
+            "value": "<span=0.03>吹雪に耐えうる外套を纏え<wait=0.35><br><span=0.03>氷の守り、<wait=0.7><span=0.02>バブリザ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_2_INIT",
+            "value": "<span=0.03>気流に耐えうる外套を纏え<wait=0.35><br><span=0.03>風の守り、<wait=0.7><span=0.02>バエアロ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_2_INIT",
+            "value": "<span=0.03>脈動に耐えうる外套を纏え<wait=0.35><br><span=0.03>土の守り、<wait=0.7><span=0.02>バストン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_2_INIT",
+            "value": "<span=0.03>感電に耐えうる外套を纏え<wait=0.35><br><span=0.03>雷の守り、<wait=0.7><span=0.02>バサンダ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_2_INIT",
+            "value": "<span=0.03>淀に耐えうる外套を纏え<wait=0.35><br><span=0.03>水の守り、<wait=0.7><span=0.02>バウォタ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_2_INIT",
+            "value": "<span=0.03>日向に耐えうる外套を纏え<wait=0.35><br><span=0.03>光の守り、<wait=0.7><span=0.02>バライト！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_2_INIT",
+            "value": "<span=0.03>日陰に耐えうる外套を纏え<wait=0.35><br><span=0.03>闇の守り、<wait=0.7><span=0.02>バダーク！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_S_1",
+            "value": "<span=0.03>誇り高き守護城、咎人を明け渡せ<wait=0.35><br><span=0.03>解錠、<wait=0.7><span=0.02>デプロテ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_S_2",
+            "value": "<span=0.03>我が告ぐ、その者女神の抱擁に値せず<wait=0.35><br><span=0.03>解呪、<wait=0.7><span=0.02>デシェル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_M_4_SUB",
+            "value": "<span=0.03>咎生みの呪式、傷を以て展開すべし<wait=0.35><br><span=0.03>刻印せよ、<wait=0.7><span=0.02>ウィーク！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_3_SUB",
+            "value": "<span=0.03>苛む炎に打ち勝つ術を<wait=0.35><br><span=0.03>火の壁、<wait=0.7><span=0.02>バファイラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_3_SUB",
+            "value": "<span=0.03>苛む雪崩に打ち勝つ術を<wait=0.35><br><span=0.03>氷の壁、<wait=0.7><span=0.02>バブリザラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_3_SUB",
+            "value": "<span=0.03>苛む突風に打ち勝つ術を<wait=0.35><br><span=0.03>風の壁、<wait=0.7><span=0.02>バエアロラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_3_SUB",
+            "value": "<span=0.03>苛む漠に打ち勝つ術を<wait=0.35><br><span=0.03>土の壁、<wait=0.7><span=0.02>バストンラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_3_SUB",
+            "value": "<span=0.03>苛む稲妻に打ち勝つ術を<wait=0.35><br><span=0.03>雷の壁、<wait=0.7><span=0.02>バサンダラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_3_SUB",
+            "value": "<span=0.03>苛む灘に打ち勝つ術を<wait=0.35><br><span=0.03>水の壁、<wait=0.7><span=0.02>バウォタラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_3_SUB",
+            "value": "<span=0.03>苛む照射に打ち勝つ術を<wait=0.35><br><span=0.03>光の壁、<wait=0.7><span=0.02>バライトラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_3_SUB",
+            "value": "<span=0.03>苛む逢魔に打ち勝つ術を<wait=0.35><br><span=0.03>闇の壁、<wait=0.7><span=0.02>バダーラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_M_5",
+            "value": "<span=0.03>連綿磨きし無為の魔力<wait=0.35><br><span=0.03>記せ、ルイン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_2",
+            "value": "<span=0.03>熱に耐えうる外套を纏え<wait=0.35><br><span=0.03>火の守り、<wait=0.7><span=0.02>バファイ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_2",
+            "value": "<span=0.03>吹雪に耐えうる外套を纏え<wait=0.35><br><span=0.03>氷の守り、<wait=0.7><span=0.02>バブリザ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_2",
+            "value": "<span=0.03>気流に耐えうる外套を纏え<wait=0.35><br><span=0.03>風の守り、<wait=0.7><span=0.02>バエアロ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_2",
+            "value": "<span=0.03>脈動に耐えうる外套を纏え<wait=0.35><br><span=0.03>土の守り、<wait=0.7><span=0.02>バストン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_2",
+            "value": "<span=0.03>感電に耐えうる外套を纏え<wait=0.35><br><span=0.03>雷の守り、<wait=0.7><span=0.02>バサンダ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_2",
+            "value": "<span=0.03>淀に耐えうる外套を纏え<wait=0.35><br><span=0.03>水の守り、<wait=0.7><span=0.02>バウォタ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_2",
+            "value": "<span=0.03>日向に耐えうる外套を纏え<wait=0.35><br><span=0.03>光の守り、<wait=0.7><span=0.02>バライト！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_2",
+            "value": "<span=0.03>日陰に耐えうる外套を纏え<wait=0.35><br><span=0.03>闇の守り、<wait=0.7><span=0.02>バダーク！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_M_2_INIT",
+            "value": "<span=0.03>病みし魂に平穏を求めん<wait=0.35><br><span=0.03>治療を、<wait=0.7><span=0.02>エスナ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_S_2_INIT",
+            "value": "<span=0.03>手のひらに乗せる願いの言の葉<wait=0.35><br><span=0.03>恵みを、<wait=0.7><span=0.02>ケアルラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_FIRE_M_1_INIT",
+            "value": "<span=0.03>灯した意志は我が敵を焼く<wait=0.35><br><span=0.03>燃え上がれ、<wait=0.7><span=0.02>ファイラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_ICE_M_1_INIT",
+            "value": "<span=0.03>意志の結晶　乱吹きて人の呼吸を奪え<wait=0.35><br><span=0.03>凍れ、<wait=0.7><span=0.02>ブリザラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_WIND_M_1_INIT",
+            "value": "<span=0.03>意志の軌跡は天馬も追い抜く疾風となる<wait=0.35><br><span=0.03>駆けよ、<wait=0.7><span=0.02>エアロラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_SOIL_M_1_INIT",
+            "value": "<span=0.03>意志は集いて　我らが大地を呼び覚ます<wait=0.35><br><span=0.03>砕け、<wait=0.7><span=0.02>ストンラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_THUN_M_1_INIT",
+            "value": "<span=0.03>放電　意志を帯びてその身に落ちる<wait=0.35><br><span=0.03>狙い撃て、<wait=0.7><span=0.02>サンダラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_WATR_M_1_INIT",
+            "value": "<span=0.03>意志は満ち、今滂沱の飛沫とならん<wait=0.35><br><span=0.03>降り注げ、<wait=0.7><span=0.02>ウォタラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_DARK_M_1_INIT",
+            "value": "<span=0.03>振り向けば宵闇　汝の行く手に悪魔が笑う<wait=0.35><br><span=0.03>堕ちよ、<wait=0.7><span=0.02>ダーラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_SHIN_M_1_INIT",
+            "value": "<span=0.03>生まれし光彩が正義を示す<wait=0.35><br><span=0.03>煌めけ、<wait=0.7><span=0.02>バニシュラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_S_1",
+            "value": "<span=0.03>安らぐ魂　羊の巻き毛にふかぶか沈め<wait=0.35><br><span=0.03>おやすみ、<wait=0.7><span=0.02>スリプル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_S_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_M_2",
+            "value": "<span=0.03>病みし魂に平穏を求めん<wait=0.35><br><span=0.03>治療を、<wait=0.7><span=0.02>エスナ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_S_2",
+            "value": "<span=0.03>手のひらに乗せる願いの言の葉<wait=0.35><br><span=0.03>恵みを、<wait=0.7><span=0.02>ケアルラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_FIRE_M_1",
+            "value": "<span=0.03>灯した意志は我が敵を焼く<wait=0.35><br><span=0.03>燃え上がれ、<wait=0.7><span=0.02>ファイラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_ICE_M_1",
+            "value": "<span=0.03>意志の結晶　乱吹きて人の呼吸を奪え<wait=0.35><br><span=0.03>凍れ、<wait=0.7><span=0.02>ブリザラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_WIND_M_1",
+            "value": "<span=0.03>意志の軌跡は天馬も追い抜く疾風となる<wait=0.35><br><span=0.03>駆けよ、<wait=0.7><span=0.02>エアロラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_SOIL_M_1",
+            "value": "<span=0.03>意志は集いて　我らが大地を呼び覚ます<wait=0.35><br><span=0.03>砕け、<wait=0.7><span=0.02>ストンラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_THUN_M_1",
+            "value": "<span=0.03>放電　意志を帯びてその身に落ちる<wait=0.35><br><span=0.03>狙い撃て、<wait=0.7><span=0.02>サンダラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_WATR_M_1",
+            "value": "<span=0.03>意志は満ち、今滂沱の飛沫とならん<wait=0.35><br><span=0.03>降り注げ、<wait=0.7><span=0.02>ウォタラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_DARK_M_1",
+            "value": "<span=0.03>振り向けば宵闇　汝の行く手に悪魔が笑う<wait=0.35><br><span=0.03>堕ちよ、<wait=0.7><span=0.02>ダーラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RDM_SHIN_M_1",
+            "value": "<span=0.03>生まれし光彩が正義を示す<wait=0.35><br><span=0.03>煌めけ、<wait=0.7><span=0.02>バニシュラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_M_5",
+            "value": "<span=0.03>天に眠りし災厄 招来そらに知ろしめす<wait=0.35><br><span=0.03>禁断魔法！ <wait=0.7><span=0.02>メテオ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_S_2",
+            "value": "<span=0.03>世界と繋がる　時の糸を断ち切らん<wait=0.35><br><span=0.03>遮断せよ、<wait=0.7><span=0.02>ストップ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_M_4",
+            "value": "<span=0.03>時の定めし鉄の規律　この者に今免罪を<wait=0.35><br><span=0.03>装填せよ、<wait=0.7><span=0.02>クイック！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_M_3_INIT",
+            "value": "<span=0.03>遥か時空の彼方より　流れ流れて箒星<wait=0.35><br><span=0.03>瞬け、<wait=0.7><span=0.02>コメット！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_S_3_INIT",
+            "value": "<span=0.03>地を穢し踏み荒らす者　その歩みを禁ず<wait=0.35><br><span=0.03>束縛せよ、<wait=0.7><span=0.02>ドンムブ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_M_1",
+            "value": "<span=0.03>肉体を繋ぎ止める　時の手綱をいざほどけ<wait=0.35><br><span=0.03>解放せよ、<wait=0.7><span=0.02>ヘイスト！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_S_4",
+            "value": "<span=0.03>行進せよ試練なき空へ<wait=0.35><br><span=0.03>飛び立て、<wait=0.7><span=0.02>レビテト！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_S_1",
+            "value": "<span=0.03>本流から零れ落ち　時の祝福は失われる<wait=0.35><br><span=0.03>停滞せよ、<wait=0.7><span=0.02>スロウ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_M_5_SUB",
+            "value": "<span=0.03>天に眠りし災厄 招来そらに知ろしめす<wait=0.35><br><span=0.03>禁断魔法！ <wait=0.7><span=0.02>メテオ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_S_2_SUB",
+            "value": "<span=0.03>世界と繋がる　時の糸を断ち切らん<wait=0.35><br><span=0.03>遮断せよ、<wait=0.7><span=0.02>ストップ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_M_4_SUB",
+            "value": "<span=0.03>時の定めし鉄の規律　この者に今免罪を<wait=0.35><br><span=0.03>装填せよ、<wait=0.7><span=0.02>クイック！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_M_3",
+            "value": "<span=0.03>遥か時空の彼方より　流れ流れて箒星<wait=0.35><br><span=0.03>瞬け、<wait=0.7><span=0.02>コメット！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TIM_S_3",
+            "value": "<span=0.03>地を穢し踏み荒らす者　その歩みを禁ず<wait=0.35><br><span=0.03>束縛せよ、<wait=0.7><span=0.02>ドンムブ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_GLMS_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_M_1",
+            "value": "<span=0.03>双腕に掲げる願いの言霊<wait=0.35><br><span=0.03>恩恵を、<wait=0.7><span=0.02>ケアルガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_FINA_M_3",
+            "value": "<span=0.03>傷を厭わぬ兵にせめてもの祝福を<wait=0.35><br><span=0.03>願いの抱擁、<wait=0.7><span=0.02>リジェネ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_FINA_M_4",
+            "value": "<span=0.03>鼓動が叫ぶ、半ばの命運果たさせよ<wait=0.35><br><span=0.03>奇跡を、<wait=0.7><span=0.02>アレイズ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_FINA_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_S_1",
+            "value": "<span=0.03>指先に込めるは祈りの言の葉<wait=0.35><br><span=0.03>癒しを、<wait=0.7><span=0.02>ケアル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_FINA_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_S_3",
+            "value": "<span=0.03>病みし魂に平穏を求めん<wait=0.35><br><span=0.03>治療を、<wait=0.7><span=0.02>エスナ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_FINA_S_4",
+            "value": "<span=0.03>手のひらに乗せる願いの言の葉<wait=0.35><br><span=0.03>恵みを、<wait=0.7><span=0.02>ケアルラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_FINA_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_S_6",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_S_7",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_P_1_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_P_2_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_M_1_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_M_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_RAMZ_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_GFGR_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ORND_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_M_1_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_M_2_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WGN_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_M_1",
+            "value": "<span=0.03>灯した決意は我が敵を飲み込む<wait=0.35><br><span=0.03>燃え盛れ、<wait=0.7><span=0.02>ファイガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RAIN_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_M_3_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_S_1",
+            "value": "<span=0.03>灯した力は我が敵を焦がす<wait=0.35><br><span=0.03>燃えよ、<wait=0.7><span=0.02>ファイア！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_RAIN_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RAIN_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_3_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_S_4_SUB",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ASS_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FF1_WROL_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_2_INIT",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_S_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_R_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MST_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TU_BLM_ICE",
+            "value": "<span=0.03>意志の結晶　乱吹きて人の呼吸を奪え<wait=0.35><br><span=0.03>凍れ、<wait=0.7><span=0.02>ブリザラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LB_LW_TU_MONT",
+            "value": ""
+        },
+        {
+            "key": "SK_SMN_TU_IFRT",
+            "value": "<span=0.03>お前は獣、地より噴き出す業火の獣<wait=0.35><br><span=0.03>来たりて猛れ、<wait=0.7><span=0.02>イフリート！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_TU_WAR_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TU_CLR_M_2",
+            "value": "<span=0.03>生まれし光が勝利を照らす<wait=0.35><br><span=0.03>輝け、<wait=0.7><span=0.02>バニシュ！<wait=0.5>"
+        },
+        {
+            "key": "SK_TU_BHMT_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_TU_USE_RING",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_3",
+            "value": "<span=0.03>カエルはいい……<wait=0.35><br><span=0.03>いいよな～！<wait=0.7><span=0.02>トード！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_4",
+            "value": "<span=0.03>安らぐ魂　羊の巻き毛にふかぶか沈め<wait=0.35><br><span=0.03>おやすみ、<wait=0.7><span=0.02>スリプル！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_1_2",
+            "value": "<span=0.03>希望の前途すり減らす毒刺<wait=0.35><br><span=0.03>脅かせ、<wait=0.7><span=0.02>バイオ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_1",
+            "value": "<span=0.03>希望の前途すり減らす毒刺<wait=0.35><br><span=0.03>脅かせ、<wait=0.7><span=0.02>バイオ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_2",
+            "value": "<span=0.03>暗雲のつぶて　未来見据える眼を奪う<wait=0.35><br><span=0.03>塞げ、<wait=0.7><span=0.02>ブライン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_2_2",
+            "value": "<span=0.03>暗雲のつぶて　未来見据える眼を奪う<wait=0.35><br><span=0.03>塞げ、<wait=0.7><span=0.02>ブライン！<wait=0.5>"
+        },
+        {
+            "key": "SK_LB_LW_BGN_MONT",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_BGN_STRN",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_BGN",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_BGN_M_5",
+            "value": "<span=0.03>倒れし身体、未だ闘志が燻るならば<wait=0.35><br><span=0.03>復活を、<wait=0.7><span=0.02>レイズ！<wait=0.5>"
+        },
+        {
+            "key": "SK_BTL_GETSP_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KNT_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MGK_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_MNK_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_VIK_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_THI_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_NIN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_LAN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_DRG_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GUN_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BLM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_CLR_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GRM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RDM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TIM_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_GLMS_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FINA_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_YSTL_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_TNCR_ATK_100",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_02_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_03_CHECK",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_BOMB_M_04_01",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_ATK_01",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_01_01",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_02_01",
+            "value": ""
+        },
+        {
+            "key": "SK_BHMT_M_03_01",
+            "value": ""
+        },
+        {
+            "key": "SK_MABR_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_MABR_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_MABR_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_MABR_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_OGRE_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_OGRE_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_OGRE_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_OGRE_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_WOLF_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WOLF_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_WOLF_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_WOLF_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_ZUUU_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ZUUU_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_ZUUU_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_ZUUU_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_SKEL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SKEL_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_SKEL_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_SKEL_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_SKEL_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_CACT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CACT_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CACT_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_CACT_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_CACT_M_03_CHECK",
+            "value": ""
+        },
+        {
+            "key": "SK_GLSP_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_GLSP_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_GLSP_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_GLSP_R_01",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_R_01",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_05",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_06",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_07",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_08",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_09",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_10",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_11",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_12",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_13",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_14",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_15",
+            "value": ""
+        },
+        {
+            "key": "SK_ELEM_M_16",
+            "value": ""
+        },
+        {
+            "key": "SK_FF14BOSS_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_FF14BOSS_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_FF14BOSS_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_FF14BOSS_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB_R_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB1_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB1_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_CHCB1_R_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CCLI_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CCLI_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CCLI_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_CCLI_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_CCLI_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_M_03_QE",
+            "value": ""
+        },
+        {
+            "key": "SK_SLIM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SLIM_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_SLIM_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_SLIM_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_IFRT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_IFRT_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_IFRT_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_IFRT_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_IFRT_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_SIRE_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SIRE_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_SIRE_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_SIRE_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_SIRE_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_SHIV_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_SHIV_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_SHIV_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_SHIV_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_SHIV_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_RAMU_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_RAMU_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_RAMU_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_RAMU_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_RAMU_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_GLEM_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_GLEM_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_GLEM_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_GLEM_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_GLEM_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_R_01",
+            "value": ""
+        },
+        {
+            "key": "SK_IGNT_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_IGNT_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_IGNT_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_IGNT_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_LAMA_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LAMA_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_LAMA_M_01_MAN",
+            "value": ""
+        },
+        {
+            "key": "SK_LAMA_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_LAMA_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_LAMA_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_TSLP_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_TSLP_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_TSLP_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_TSLP_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_TSLP_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_OCHU_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_OCHU_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_OCHU_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_OCHU_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_OCHU_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_R_01",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_THDG_M_05",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_01",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_02",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_03",
+            "value": ""
+        },
+        {
+            "key": "SK_DABL_M_04",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_P_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_M_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_M_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_M_4",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_S_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_S_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_E_VIK_S_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MONT",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MONT_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ELDE",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ELDE_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_STRN",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_STRN_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ROBB",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ROBB_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ENBT",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ENBT_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_FDRC",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_FDRC_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MRND",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MRND_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_AILN",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_AILN_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ZIZA",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ZIZA_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MDNA",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MDNA_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_AYKA",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_AYKA_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_GLMS",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_GLMS_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_KTON",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_KTON_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_WHIS",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_WHIS_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MACR",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_MACR_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_LUCA",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_LUCA_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_YERM",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_YERM_B",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_FFT_RAMZ",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_FFT_ORND",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_VKTR",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_RAIN",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_FRVA",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_VNLA",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_FF1_WROL",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_QILF",
+            "value": ""
+        },
+        {
+            "key": "SK_LB_LW_ORDR",
+            "value": ""
+        },
+        {
+            "key": "SK_SMN_IFRT",
+            "value": "<span=0.03>お前は獣、地より噴き出す業火の獣<wait=0.35><br><span=0.03>来たりて猛れ、<wait=0.7><span=0.02>イフリート！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_GLEM",
+            "value": "<span=0.03>聞け、千年の命を刻まれし土塊<wait=0.35><br><span=0.03>起動せよ、<wait=0.7><span=0.02>ゴーレム！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_RAMU",
+            "value": "<span=0.03>大義を知るは大賢の雷<wait=0.35><br><span=0.03>ここに裁きを、<wait=0.7><span=0.02>ラムウ！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_SHIV",
+            "value": "<span=0.03>その温もりに　凍てつく吐息が口づける　<wait=0.35><br><span=0.03>来たりて踊れ、<wait=0.7><span=0.02>シヴァ！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_SIRE",
+            "value": "<span=0.03>囀るは魔性の調べ　往路の船が溺れ散る<wait=0.35><br><span=0.03>歌え、<wait=0.7><span=0.02>セイレーン！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_ODIN",
+            "value": "<span=0.03>乱れ蹄音、はためく影の軍神一閃斬鉄剣<wait=0.35><br><span=0.03>馳せよ！<wait=0.7><span=0.02>　オーディン！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_IGNT",
+            "value": "<span=0.03>鋼鉄の剣士に殲滅を命ず<wait=0.35><br><span=0.03>出撃せよ、<wait=0.7><span=0.02>鉄巨人！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_BHMT",
+            "value": "<span=0.03>四肢にみなぎる野生がままに<wait=0.35><br><span=0.03> 唸れ、<wait=0.7><span=0.02>ベヒーモス！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_MABR",
+            "value": "<span=0.03>五感を苛む悍ましき責め苦<wait=0.35><br><span=0.03>まき散らせ、<wait=0.7><span=0.02>モルボル！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_CACT",
+            "value": "<span=0.03>指を切ったが運の尽き 逃れられない嘘の罪<wait=0.35><br><span=0.03>飛び出せ、<wait=0.7><span=0.02>サボテンダー！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_ARMN",
+            "value": "<span=0.03>視線に震えよ、邪眼が来るぞ<wait=0.35><br><span=0.03>開眼、<wait=0.7><span=0.02>フロータイボール！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_ZUUU",
+            "value": "<span=0.03>黒き双翼 大怪鳥を風が呼ぶ<wait=0.35><br><span=0.03>羽ばたけ、<wait=0.7><span=0.02>ズー！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_OGRE",
+            "value": "<span=0.03>巨人の豪腕 もぎ取れ岩塊<wait=0.35><br><span=0.03>振りかぶって、<wait=0.7><span=0.02>オーガ！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_BOMB",
+            "value": "<span=0.03>時は来た 一世一代の大 爆 発！<wait=0.35><br><span=0.03>爆ぜよ、<wait=0.7><span=0.02>ボム！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_LAMA",
+            "value": "<span=0.03>群雄骨抜く甘美の痛苦<wait=0.35><br><span=0.03>鞭打て、<wait=0.7><span=0.02>ラミアクイーン！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_TSLP",
+            "value": "<span=0.03>天命言祝ぎ　笑いさざめく四重の颯　<wait=0.35><br><span=0.03>追い風を、<wait=0.7><span=0.02>テトラシルフィード！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_OCHU",
+            "value": "<span=0.03>萌え出ずる大樹　咲かすは砲華<wait=0.35><br><span=0.03> 撃ち方始め、<wait=0.7><span=0.02>オチュー！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_THDG",
+            "value": "<span=0.03>荒ぶる双頭　大いなる対の氾濫よ<wait=0.35><br><span=0.03>消し去れ、<wait=0.7><span=0.02>２ヘッドドラゴン！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_WRMC",
+            "value": "<span=0.03>天上星間の浮遊城　古の禁機目覚めさせん<wait=0.35><br><span=0.03>駆動せよ、<wait=0.7><span=0.02>デスマシーン！<wait=0.5>"
+        },
+        {
+            "key": "SK_SMN_DABL",
+            "value": "<span=0.03>血の香に穢れた契約に　心願捧げ闇に請う<wait=0.35><br><span=0.03>来りて嗤え、<wait=0.7><span=0.02>ディアボロス！<wait=0.5>"
+        },
+        {
+            "key": "SK_US_POTION",
+            "value": ""
+        },
+        {
+            "key": "SK_US_HIPOTION",
+            "value": ""
+        },
+        {
+            "key": "SK_US_EXPOTION",
+            "value": ""
+        },
+        {
+            "key": "SK_US_ETHER",
+            "value": ""
+        },
+        {
+            "key": "SK_US_ETHERTURBO",
+            "value": ""
+        },
+        {
+            "key": "SK_US_ELIXIR",
+            "value": ""
+        },
+        {
+            "key": "SK_US_PNXFEATHER",
+            "value": ""
+        },
+        {
+            "key": "SK_US_ANTIDOTE",
+            "value": ""
+        },
+        {
+            "key": "SK_US_EYEDROPS",
+            "value": ""
+        },
+        {
+            "key": "SK_US_REMINDER",
+            "value": ""
+        },
+        {
+            "key": "SK_US_ECHODROP",
+            "value": ""
+        },
+        {
+            "key": "SK_US_UNICORNHORN",
+            "value": ""
+        },
+        {
+            "key": "SK_US_MAIDENKISS",
+            "value": ""
+        },
+        {
+            "key": "SK_US_GOLDNEEDLE",
+            "value": ""
+        },
+        {
+            "key": "SK_US_REMEDY",
+            "value": ""
+        },
+        {
+            "key": "SK_US_ENCHANTDRAG",
+            "value": ""
+        },
+        {
+            "key": "SK_US_HOLYTORCH",
+            "value": ""
+        },
+        {
+            "key": "SK_US_HERODRINK",
+            "value": ""
+        },
+        {
+            "key": "SK_US_BACCHUS",
+            "value": ""
+        },
+        {
+            "key": "SK_US_SHELL",
+            "value": ""
+        },
+        {
+            "key": "SK_US_PROTECT",
+            "value": ""
+        },
+        {
+            "key": "SK_US_HEALWATER",
+            "value": ""
+        },
+        {
+            "key": "SK_US_HPPOTION",
+            "value": ""
+        },
+        {
+            "key": "SK_US_ATKPOTION",
+            "value": ""
+        },
+        {
+            "key": "SK_US_MAGPOTION",
+            "value": ""
+        },
+        {
+            "key": "SK_US_SPDPOTION",
+            "value": ""
+        },
+        {
+            "key": "SK_US_DEXPOTION",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MONT",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_STRN",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_ELDE",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_ROBB",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_ENBT",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_ZIZA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MRND",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_AILN",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MDNA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_AYKA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_GLMS",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_GLMS_2",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MACR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_FF14_TNCR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_HLNA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_LILS",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_RAMD",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_OOOO",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_LRNZ",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_RIRY",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_VSTR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_CLEY",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_KADI",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MRLK",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MGRT",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_PRAY",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_FF14_YSTL",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_SZRT",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_FINA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_BYLO",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_RYER",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_SCIA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_VRID",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_NAIA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_SRJS",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_UNII",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_SEVR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_VADM",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MURM",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_PHBE",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_RART",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MICE",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MIIA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_ZZAN",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_FDRC",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_SDLX",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_MINU",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_YERM",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_P_NASR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_P_ETRE",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_FFT_RAMZ",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_FFT_GFGR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_FFT_ORND",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_P_WHIS",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_P_KTON",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_DRND",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_P_LUCA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_P_ADLD",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_VKTR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_THLA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_RAIN",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_FRVA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_VNLA",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_DRIO",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_TREL",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_FF1_WROL",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_QILF",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_SIMR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_ORDR",
+            "value": ""
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_4_N",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_5_N",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_4_R",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_5_R",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_4_SR",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_5_SR",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_4_SSR",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_5_SSR",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_4_UR",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SLASH_5_UR",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ROD_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ROD_004_5",
+            "value": "<span=0.03>手のひらに乗せる願いの言の葉<wait=0.35><br><span=0.03>恵みを、<wait=0.7><span=0.02>ケアルラ！<wait=0.5>"
+        },
+        {
+            "key": "SK_LW_SWO_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_MONT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_STRN_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_CLK_LW_ELDE_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_ROBB_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_CLT_LW_MRND_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_AILN_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FTW_LW_AYKA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HLM_LW_GLMS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_MACR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BLT_LW_YERM_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_ORND_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARW_LW_KTON_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_VKTR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_CLT_LW_RAIN_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_FRVA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_VNLA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FF1_WROL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_QILF_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_ARW_LW_KTON_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_LW_ADLD_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_HLNA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_LW_LILS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SPE_LW_RAMD_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_OOOO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_NKN_LW_SDLX_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SPE_LW_LRNZ_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_GUN_LW_RIRY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_DAG_LW_VSTR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BOW_LW_CLEY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_MAC_LW_KADI_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FIS_LW_MRLK_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_MGRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_2",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_PRAY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_FF14_YSTL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BOW_LW_FINA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BSW_LW_SZRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_BYLO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_RYER_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_SCIA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_VRID_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_NAIA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_SRJS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_UNII_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_CLT_LW_SEVR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_VADM_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_MURM_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_PHBE_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_FF14_TNCR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_FFT_GFGR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_AXE_LW_DRND_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_CMLO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_DRZA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_KTON_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_THLA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_DIAA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_LW_DRIO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_SIMR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CACT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ARMN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ZUUU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OGRE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BOMB_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_JOBCRYSTAL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BYLO_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RART_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RYER_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RIRY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CRYSTAL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DYNVERK_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_02_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MIRROR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CACT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ARMN_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ZUUU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OGRE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BOMB_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_JOBCRYSTAL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BYLO_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RART_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RYER_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RIRY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CRYSTAL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DYNVERK_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_02_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MIRROR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_ATK_1-999PER_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_BRAVE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_FAITH_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MOVE_1-20_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JUMP_1-20_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_AP_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_BRAVE_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_FAITH_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MOVE_1-20_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JUMP_1-20_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HIT_1_999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_AVOI_1_999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CRI_1_999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CRIHIT_1_999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CRIAVOI_1_999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HIT_1_999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_AVOI_1_999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CRI_1_999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CRIHIT_1_999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CRIAVOI_1_999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_MAGIC_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_SLASH_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_SPEAR_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_SHOT_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_BLOW_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_MAGIC_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_SLASH_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_SPEAR_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_SHOT_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STR_BLOW_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CASTTIME_1_999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DEBUFF_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DEBUFF_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_POISON_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DARKN_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLEEP_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SILENCE_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_PARA_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_CONFU_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_CHARM_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_STONE_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_TOAD_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLOW_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_STOP_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DACT_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DMOV_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_BERSK_1_100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_POISON_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DARKN_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_INV_HPDOWN",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_INV_MKBT",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_INV_CTDOWN",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLEEP_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SILENCE_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_PARA_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_CONFU_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_CHARM_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_STONE_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_TOAD_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLOW_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_STOP_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DACT_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DMOV_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_BERSK_1_100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_D_KISOARK_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D_KISO",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HATE_1-100_U_PA",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_MAN_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_FIRE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_WATER_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_WIND_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_THUNDER_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_ICE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_SOIL_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_DARK_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_TOAD_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_STONE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_DONMV_1-100_D",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_DEFPIERCE_1-100_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_INV_DEATH",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_INV_DOOM",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_INV_POISON",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_THI_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_HUN_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_GUN_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_WAR_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_PLD_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_KNT_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_SWN_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_MNK_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_LAN_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_SAM_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_DRG_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_NIN_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_CLR_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_BLM_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_WHM_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_TIM_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_GRM_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_RDM_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_JOB_MGK_1_15_U",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_TEST",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_FIRE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_ARROW",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_KATA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_KATA_2",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": ""
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WAR_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_PLD_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWN_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SAM_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_HUN_P_3",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_WHM_P_2",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_M_01_TW",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_M_02_TW",
+            "value": ""
+        },
+        {
+            "key": "SK_ARMN_M_03_TW",
+            "value": ""
+        }
+    ]
+}

@@ -1,0 +1,1216 @@
+{
+    "infos": [
+        {
+            "key": "BUFF_Buff",
+            "value": " erhöht "
+        },
+        {
+            "key": "BUFF_Debuff",
+            "value": " gesenkt "
+        },
+        {
+            "key": "BUFF_Resist",
+            "value": " Res."
+        },
+        {
+            "key": "BUFF_Release",
+            "value": "Entfernen"
+        },
+        {
+            "key": "BUFF_ReleaseBuff",
+            "value": "Stärkungen entfernen"
+        },
+        {
+            "key": "BUFF_ReleaseDebuff",
+            "value": "Schwächungen entfernen"
+        },
+        {
+            "key": "BUFF_Invalid",
+            "value": " Annulliert"
+        },
+        {
+            "key": "BUFF_Unknown",
+            "value": "Unbekannt"
+        },
+        {
+            "key": "BUFF_Hp",
+            "value": "LP-Maximum"
+        },
+        {
+            "key": "BUFF_Mp",
+            "value": "TP-Maximum"
+        },
+        {
+            "key": "BUFF_Ap",
+            "value": "AP-Maximum"
+        },
+        {
+            "key": "BUFF_Ct",
+            "value": "AZ"
+        },
+        {
+            "key": "BUFF_Atk",
+            "value": "ANG"
+        },
+        {
+            "key": "BUFF_Def",
+            "value": "ABW"
+        },
+        {
+            "key": "BUFF_Mag",
+            "value": "MAG"
+        },
+        {
+            "key": "BUFF_Mnd",
+            "value": "PSY"
+        },
+        {
+            "key": "BUFF_Dex",
+            "value": "GES"
+        },
+        {
+            "key": "BUFF_Spd",
+            "value": "AGI"
+        },
+        {
+            "key": "BUFF_Luk",
+            "value": "GLK"
+        },
+        {
+            "key": "BUFF_Mov",
+            "value": "Bewegung"
+        },
+        {
+            "key": "BUFF_Jmp",
+            "value": "Sprung"
+        },
+        {
+            "key": "BUFF_ElemNone",
+            "value": "Nichtelementarer Angriff"
+        },
+        {
+            "key": "BUFF_ElemFire",
+            "value": "Feuerangriff"
+        },
+        {
+            "key": "BUFF_ElemIce",
+            "value": "Eisangriff"
+        },
+        {
+            "key": "BUFF_ElemWind",
+            "value": "Windangriff"
+        },
+        {
+            "key": "BUFF_ElemEarth",
+            "value": "Erdangriff"
+        },
+        {
+            "key": "BUFF_ElemThunder",
+            "value": "Blitzangriff"
+        },
+        {
+            "key": "BUFF_ElemWater",
+            "value": "Wasserangriff"
+        },
+        {
+            "key": "BUFF_ElemShine",
+            "value": "Lichtangriff"
+        },
+        {
+            "key": "BUFF_ElemDark",
+            "value": "Dunkelangriff"
+        },
+        {
+            "key": "BUFF_ElemAll",
+            "value": "Alle Elementarangriffe"
+        },
+        {
+            "key": "BUFF_AttackSlash",
+            "value": "Schlitzangriff"
+        },
+        {
+            "key": "BUFF_AttackPierce",
+            "value": "Durchbohrangriff"
+        },
+        {
+            "key": "BUFF_AttackBlow",
+            "value": "Hiebangriff"
+        },
+        {
+            "key": "BUFF_AttackShot",
+            "value": "Geschossangriff"
+        },
+        {
+            "key": "BUFF_AttackMagic",
+            "value": "Magieangriff"
+        },
+        {
+            "key": "BUFF_AttackAll",
+            "value": "Alle Angriffe"
+        },
+        {
+            "key": "BUFF_CondHealHp",
+            "value": "Regena"
+        },
+        {
+            "key": "BUFF_CondHealMp",
+            "value": "Erfrischen"
+        },
+        {
+            "key": "BUFF_CondHealAp",
+            "value": "Automatische AP-Wiederherstellung"
+        },
+        {
+            "key": "BUFF_CondPoison",
+            "value": "Gift"
+        },
+        {
+            "key": "BUFF_CondBlinded",
+            "value": "Blind"
+        },
+        {
+            "key": "BUFF_CondSleep",
+            "value": "Schlaf"
+        },
+        {
+            "key": "BUFF_CondMute",
+            "value": "Stille"
+        },
+        {
+            "key": "BUFF_CondParalysis",
+            "value": "Lähmung"
+        },
+        {
+            "key": "BUFF_CondConfusion",
+            "value": "Konfus"
+        },
+        {
+            "key": "BUFF_CondCharm",
+            "value": "Betörung"
+        },
+        {
+            "key": "BUFF_CondPetrification",
+            "value": "Stein"
+        },
+        {
+            "key": "BUFF_CondFrog",
+            "value": "Frosch"
+        },
+        {
+            "key": "BUFF_CondChicken",
+            "value": "Hühnchen"
+        },
+        {
+            "key": "BUFF_CondHaste",
+            "value": "Hast"
+        },
+        {
+            "key": "BUFF_CondSlow",
+            "value": "Gemach"
+        },
+        {
+            "key": "BUFF_CondStop",
+            "value": "Stopp"
+        },
+        {
+            "key": "BUFF_CondStun",
+            "value": "Betäubung"
+        },
+        {
+            "key": "BUFF_CondDontMove",
+            "value": "Immobilisierung"
+        },
+        {
+            "key": "BUFF_CondDontAction",
+            "value": "Ausschalten"
+        },
+        {
+            "key": "BUFF_CondBerserk",
+            "value": "Berserker"
+        },
+        {
+            "key": "BUFF_CondDoom",
+            "value": "Todesurteil"
+        },
+        {
+            "key": "BUFF_CondRaise",
+            "value": "Engel"
+        },
+        {
+            "key": "BUFF_CondReraise",
+            "value": "Schutzengel"
+        },
+        {
+            "key": "BUFF_CondProtect",
+            "value": "Protes"
+        },
+        {
+            "key": "BUFF_CondShell",
+            "value": "Vallum"
+        },
+        {
+            "key": "BUFF_CondReflec",
+            "value": "Reflek"
+        },
+        {
+            "key": "BUFF_CondFaith",
+            "value": "Ener"
+        },
+        {
+            "key": "BUFF_CondInnocen",
+            "value": "Unschuld"
+        },
+        {
+            "key": "BUFF_CondLevitate",
+            "value": "Levitas"
+        },
+        {
+            "key": "BUFF_CondDeath",
+            "value": "Exitus"
+        },
+        {
+            "key": "BUFF_CondQuick",
+            "value": "Beschleunigen"
+        },
+        {
+            "key": "BUFF_CondGuts",
+            "value": "Mumm"
+        },
+        {
+            "key": "BUFF_CondPhyPerfectAvoid",
+            "value": "Perfektes phys. Ausweichen"
+        },
+        {
+            "key": "BUFF_CondMagPerfectAvoid",
+            "value": "Perfektes mag. Ausweichen"
+        },
+        {
+            "key": "BUFF_CondPerfectHit",
+            "value": "Treffergarantie"
+        },
+        {
+            "key": "BUFF_CondPerfectCritical",
+            "value": "Volltreffer"
+        },
+        {
+            "key": "BUFF_CondKillerElementDamage",
+            "value": "Elementspezifischer Schaden"
+        },
+        {
+            "key": "BUFF_CondKillerSpeciesDamage",
+            "value": "Gattungsspezifischer Schaden"
+        },
+        {
+            "key": "BUFF_CondKillerBirthDamage",
+            "value": "Herkunftsspezifischer Schaden"
+        },
+        {
+            "key": "BUFF_CondKillerTagDamage",
+            "value": "Markierungsspezifischer Schaden"
+        },
+        {
+            "key": "BUFF_CondKillerSexDamage",
+            "value": "Geschlechtsspezifischer Schaden"
+        },
+        {
+            "key": "BUFF_CondEnchant",
+            "value": "Bezaubern"
+        },
+        {
+            "key": "BUFF_CondChangeCt",
+            "value": "EZ-Änderung"
+        },
+        {
+            "key": "BUFF_CondAllEsuna",
+            "value": "Medica"
+        },
+        {
+            "key": "BUFF_CondAllDespell",
+            "value": "Bann"
+        },
+        {
+            "key": "BUFF_CondAllStrenResist",
+            "value": "Alle  "
+        },
+        {
+            "key": "BUFF_OtherInitAp",
+            "value": "AP zu Kampfbeginn"
+        },
+        {
+            "key": "BUFF_OtherEffectRange",
+            "value": "Wirkungsreichweite"
+        },
+        {
+            "key": "BUFF_OtherEffectScope",
+            "value": "Wirkungsbereich"
+        },
+        {
+            "key": "BUFF_OtherEffectHeight",
+            "value": "Wirkungshöhe"
+        },
+        {
+            "key": "BUFF_OtherHit",
+            "value": "Präzision"
+        },
+        {
+            "key": "BUFF_OtherAvoid",
+            "value": "AUSW"
+        },
+        {
+            "key": "BUFF_OtherCrtRate",
+            "value": "Kritischer Schaden"
+        },
+        {
+            "key": "BUFF_OtherCrtHit",
+            "value": "Kritische Trefferrate"
+        },
+        {
+            "key": "BUFF_OtherCrtAvoid",
+            "value": "Ausweichgeschick (Kritisch)"
+        },
+        {
+            "key": "BUFF_OtherKillerElement",
+            "value": "Elementfresser"
+        },
+        {
+            "key": "BUFF_OtherKillerSpecies",
+            "value": "Gattungskiller"
+        },
+        {
+            "key": "BUFF_OtherKillerSex",
+            "value": "Geschlechtskiller"
+        },
+        {
+            "key": "BUFF_OtherHate",
+            "value": "Hass"
+        },
+        {
+            "key": "BUFF_OtherBrave",
+            "value": "Courage"
+        },
+        {
+            "key": "BUFF_OtherFaith",
+            "value": "Spiritualität"
+        },
+        {
+            "key": "BUFF_OtherDebuffResist",
+            "value": "Alles-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistHp",
+            "value": "LP-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistAtk",
+            "value": "ANG-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistDef",
+            "value": "ABW-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistMag",
+            "value": "MAG-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistMnd",
+            "value": "PSY-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistDex",
+            "value": "GES-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistSpd",
+            "value": "AGI-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistLuk",
+            "value": "GLK-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistSlash",
+            "value": "Schlitz-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistPierce",
+            "value": "Durchbohr-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistBlow",
+            "value": "Hieb-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistShot",
+            "value": "Geschoss-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistMagic",
+            "value": "Magieangriff-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistHit",
+            "value": "PRÄ-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistAvoid",
+            "value": "AUSW-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistBrave",
+            "value": "Courage-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistFaith",
+            "value": "Spiritualität-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistFire",
+            "value": "Feuer-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistIce",
+            "value": "Eis-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistWind",
+            "value": "Wind-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistEarth",
+            "value": "Erd-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistThunder",
+            "value": "Blitz-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistWater",
+            "value": "Wasser-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistShine",
+            "value": "Licht-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistDark",
+            "value": "Dunkel-Schwächungsresistenz"
+        },
+        {
+            "key": "BUFF_OtherBuffTurn",
+            "value": "Rundenverlängerung (Stärkungseffekt)"
+        },
+        {
+            "key": "BUFF_OtherDebuffTurn",
+            "value": "Schwächungs-Rundenverlängerung"
+        },
+        {
+            "key": "BUFF_OtherOneAttackResist",
+            "value": "Angriffsresistenz (Einheit)"
+        },
+        {
+            "key": "BUFF_OtherRangeAttackResist",
+            "value": "Angriffsresistenz (Bereich)"
+        },
+        {
+            "key": "BUFF_OtherDamageMax",
+            "value": "Schadensmaximum"
+        },
+        {
+            "key": "BUFF_OtherCastTime",
+            "value": "Verkürzung der Entfesselungszeit um"
+        },
+        {
+            "key": "BUFF_OtherApGain",
+            "value": "Erlangte AP"
+        },
+        {
+            "key": "BUFF_OtherSpGain",
+            "value": "Anrufungsleistensteigerung"
+        },
+        {
+            "key": "BUFF_OtherBraveBonus",
+            "value": "Couragebonus"
+        },
+        {
+            "key": "BUFF_OtherFaithBonus",
+            "value": "Spiritualität-Bonus"
+        },
+        {
+            "key": "BUFF_OtherJpGain",
+            "value": "Erlangte JP"
+        },
+        {
+            "key": "BUFF_OtherPosDefIgnore",
+            "value": "ABW-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegDefIgnore",
+            "value": "Ignorieren von negativer ABW"
+        },
+        {
+            "key": "BUFF_OtherApCostCut",
+            "value": "AP-Kosten"
+        },
+        {
+            "key": "BUFF_OtherTpDmgAvoid",
+            "value": "TP-Angriff-Ausweichrate"
+        },
+        {
+            "key": "BUFF_OtherApDmgAvoid",
+            "value": "AP-Angriff-Ausweichrate"
+        },
+        {
+            "key": "BUFF_OtherPosMndIgnore",
+            "value": "PSY-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegMndIgnore",
+            "value": "Ignorieren von negativer PSY"
+        },
+        {
+            "key": "BUFF_OtherPosSlashIgnore",
+            "value": "Schlitzresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegSlashIgnore",
+            "value": "Ignorieren von negativer Schlitzresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosPierceIgnore",
+            "value": "Durchbohrresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegPierceIgnore",
+            "value": "Ignorieren von negativer Durchbohrresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosBlowIgnore",
+            "value": "Hiebresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegBlowIgnore",
+            "value": "Ignorieren von negativer Hiebresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosShotIgnore",
+            "value": "Geschossresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegShotIgnore",
+            "value": "Ignorieren von negativer Geschossresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosMagicIgnore",
+            "value": "Magieresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegMagicIgnore",
+            "value": "Ignorieren von negativer Magieresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosFireIgnore",
+            "value": "Feuerresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegFireIgnore",
+            "value": "Ignorieren von negativer Feuerresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosIceIgnore",
+            "value": "Eisresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegIceIgnore",
+            "value": "Ignorieren von negativer Eisresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosWindIgnore",
+            "value": "Windresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegWindIgnore",
+            "value": "Ignorieren von negativer Windresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosEarthIgnore",
+            "value": "Erdresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegEarthIgnore",
+            "value": "Ignorieren von negativer Erdresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosThunderIgnore",
+            "value": "Blitzresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegThunderIgnore",
+            "value": "Ignorieren von negativer Blitzresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosWaterIgnore",
+            "value": "Wasserresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegWaterIgnore",
+            "value": "Ignorieren von negativer Wasserresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosShineIgnore",
+            "value": "Lichtresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegShineIgnore",
+            "value": "Ignorieren von negativer Lichtresistenz"
+        },
+        {
+            "key": "BUFF_OtherPosDarkIgnore",
+            "value": "Dunkelresistenz-Durchbohrrate"
+        },
+        {
+            "key": "BUFF_OtherNegDarkIgnore",
+            "value": "Ignorieren von negativer Dunkelresistenz"
+        },
+        {
+            "key": "BUFF_UnitTagFloating",
+            "value": "Fliegend"
+        },
+        {
+            "key": "BUFF_UnitTagIgnoreGround",
+            "value": "Geländeunbeeinträchtigt"
+        },
+        {
+            "key": "BUFF_KillerElementFire",
+            "value": "Feuerfresser"
+        },
+        {
+            "key": "BUFF_KillerElementIce",
+            "value": "Eisfresser"
+        },
+        {
+            "key": "BUFF_KillerElementWind",
+            "value": "Windfresser"
+        },
+        {
+            "key": "BUFF_KillerElementEarth",
+            "value": "Erdfresser"
+        },
+        {
+            "key": "BUFF_KillerElementThunder",
+            "value": "Blitzfresser"
+        },
+        {
+            "key": "BUFF_KillerElementWater",
+            "value": "Wasserfresser"
+        },
+        {
+            "key": "BUFF_KillerElementShine",
+            "value": "Lichtfresser"
+        },
+        {
+            "key": "BUFF_KillerElementDark",
+            "value": "Dunkelfresser"
+        },
+        {
+            "key": "BUFF_KillerElementDamageFire",
+            "value": "Festgesetzter Schaden (Feuer)"
+        },
+        {
+            "key": "BUFF_KillerElementDamageIce",
+            "value": "Festgesetzter Schaden (Eis)"
+        },
+        {
+            "key": "BUFF_KillerElementDamageWind",
+            "value": "Festgesetzter Schaden (Wind)"
+        },
+        {
+            "key": "BUFF_KillerElementDamageEarth",
+            "value": "Festgesetzter Schaden (Erde)"
+        },
+        {
+            "key": "BUFF_KillerElementDamageThunder",
+            "value": "Festgesetzter Schaden (Blitz)"
+        },
+        {
+            "key": "BUFF_KillerElementDamageWater",
+            "value": "Festgesetzter Schaden (Wasser)"
+        },
+        {
+            "key": "BUFF_KillerElementDamageShine",
+            "value": "Festgesetzter Schaden (Licht)"
+        },
+        {
+            "key": "BUFF_KillerElementDamageDark",
+            "value": "Festgesetzter Schaden (Dunkel)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesHuman",
+            "value": "Menschenfresser"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "Menschenfresser bei physischem Angriff"
+        },
+        {
+            "key": "BUFF_KillerSpeciesMHuman",
+            "value": "Menschenfresser bei Magieangriff"
+        },
+        {
+            "key": "BUFF_KillerSpeciesNetherBeast",
+            "value": "Espereliminierer"
+        },
+        {
+            "key": "BUFF_KillerSpeciesBeast",
+            "value": "Bestientöter"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDemon",
+            "value": "Dämonenkiller"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDragon",
+            "value": "Drachentöter"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPlane",
+            "value": "Pflanzenvernichter"
+        },
+        {
+            "key": "BUFF_KillerSpeciesBird",
+            "value": "Vogelverletzer"
+        },
+        {
+            "key": "BUFF_KillerSpeciesInsect",
+            "value": "Kammerjäger"
+        },
+        {
+            "key": "BUFF_KillerSpeciesAquatic",
+            "value": "Aquakiller"
+        },
+        {
+            "key": "BUFF_KillerSpeciesMachine",
+            "value": "Technikfeind"
+        },
+        {
+            "key": "BUFF_KillerSpeciesSpirit",
+            "value": "Feenklatscher"
+        },
+        {
+            "key": "BUFF_KillerSpeciesUndead",
+            "value": "Todestöter"
+        },
+        {
+            "key": "BUFF_KillerSpeciesStone",
+            "value": "Steinmetzler"
+        },
+        {
+            "key": "BUFF_KillerSpeciesMetal",
+            "value": "Metallentsorger"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageHuman",
+            "value": "Festgesetzter Schaden (Mensch)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageNetherBeast",
+            "value": "Festgesetzter Schaden (Esper)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageBeast",
+            "value": "Festgesetzter Schaden (Bestie)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageDemon",
+            "value": "Festgesetzter Schaden (Dämon)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageDragon",
+            "value": "Festgesetzter Schaden (Drache)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamagePlane",
+            "value": "Festgesetzter Schaden (Pflanze)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageBird",
+            "value": "Festgesetzter Schaden (Vogel)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageInsect",
+            "value": "Festgesetzter Schaden (Insekt)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageAquatic",
+            "value": "Festgesetzter Schaden (Aquatisch)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageMachine",
+            "value": "Festgesetzter Schaden (Maschine)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageSpirit",
+            "value": "Festgesetzter Schaden (Fee)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageUndead",
+            "value": "Festgesetzter Schaden (Sensenmann)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageStone",
+            "value": "Festgesetzter Schaden (Stein)"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageMetal",
+            "value": "Festgesetzter Schaden (Metall)"
+        },
+        {
+            "key": "BUFF_KillerBirthUnknown",
+            "value": "Herkunftslosenkiller"
+        },
+        {
+            "key": "BUFF_KillerBirthLeonis",
+            "value": "Leoniskiller"
+        },
+        {
+            "key": "BUFF_KillerBirthHourn",
+            "value": "Hournekiller"
+        },
+        {
+            "key": "BUFF_KillerBirthFenice",
+            "value": "Fenneskiller"
+        },
+        {
+            "key": "BUFF_KillerBirthWezett",
+            "value": "Wezettekiller"
+        },
+        {
+            "key": "BUFF_KillerBirthCrystalFaith",
+            "value": "Kristallstättenkiller"
+        },
+        {
+            "key": "BUFF_KillerBirthAllyare",
+            "value": "Arialekiller"
+        },
+        {
+            "key": "BUFF_KillerBirthRundall",
+            "value": "Rundallkiller"
+        },
+        {
+            "key": "BUFF_KillerBirthCyga",
+            "value": "Saigakiller"
+        },
+        {
+            "key": "BUFF_KillerBirthGuren",
+            "value": "Rubeuskiller"
+        },
+        {
+            "key": "BUFF_KillerBirthOwis",
+            "value": "Oviskiller"
+        },
+        {
+            "key": "BUFF_KillerBirthHyndra",
+            "value": "Heindlerkiller"
+        },
+        {
+            "key": "BUFF_KillerBirthFFBE",
+            "value": "FFBE-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF1",
+            "value": "FFI-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF2",
+            "value": "FFII-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF3",
+            "value": "FFIII-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF4",
+            "value": "FFIV-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF5",
+            "value": "FFV-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF6",
+            "value": "FFVI-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF7",
+            "value": "FFVII-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF8",
+            "value": "FFVIII-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF9",
+            "value": "FFIX-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF10",
+            "value": "FFX-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF11",
+            "value": "FFXI-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF12",
+            "value": "FFXII-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF13",
+            "value": "FFXIII-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF14",
+            "value": "FFXIV-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFF15",
+            "value": "FFXV-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthFFT",
+            "value": "FFT-Killer"
+        },
+        {
+            "key": "BUFF_KillerBirthGoga",
+            "value": "Gougakiller"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageUnknown",
+            "value": "Festgesetzter Schaden (Unbekanntes Königreich)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageLionis",
+            "value": "Festgesetzter Schaden (Leonis)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageHourn",
+            "value": "Festgesetzter Schaden (Hourne)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFenice",
+            "value": "Festgesetzter Schaden (Fennes)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageWezett",
+            "value": "Festgesetzter Schaden (Wezette)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageCrystalFaith",
+            "value": "Festgesetzter Schaden (Kristallene Stätte)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageAllyare",
+            "value": "Festgesetzter Schaden (Ariale)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageRundall",
+            "value": "Festgesetzter Schaden (Rundall)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageCyga",
+            "value": "Festgesetzter Schaden (Saiga)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageGuren",
+            "value": "Festgesetzter Schaden (Rubeus)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageOwis",
+            "value": "Festgesetzter Schaden (Ovis)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageHyndra",
+            "value": "Festgesetzter Schaden (Heindler)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFFBE",
+            "value": "Festgesetzter Schaden (FFBE)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF1",
+            "value": "Festgesetzter Schaden (FFI)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF2",
+            "value": "Festgesetzter Schaden (FFII)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF3",
+            "value": "Festgesetzter Schaden (FFIII)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF4",
+            "value": "Festgesetzter Schaden (FFIV)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF5",
+            "value": "Festgesetzter Schaden (FFV)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF6",
+            "value": "Festgesetzter Schaden (FFVI)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF7",
+            "value": "Festgesetzter Schaden (FFVII)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF8",
+            "value": "Festgesetzter Schaden (FFVIII)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF9",
+            "value": "Festgesetzter Schaden (FFIX)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF10",
+            "value": "Festgesetzter Schaden (FFX)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF11",
+            "value": "Festgesetzter Schaden (FFXI)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF12",
+            "value": "Festgesetzter Schaden (FFXII)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF13",
+            "value": "Festgesetzter Schaden (FFXIII)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF14",
+            "value": "Festgesetzter Schaden (FFXIV)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF15",
+            "value": "Festgesetzter Schaden (FFXV)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFFT",
+            "value": "Festgesetzter Schaden (FFT)"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageGoga",
+            "value": "Festgesetzter Schaden (Gouga)"
+        },
+        {
+            "key": "BUFF_KillerUnitTagFloating",
+            "value": "Schwingenstutzer"
+        },
+        {
+            "key": "BUFF_KillerUnitTagIgnoreGround",
+            "value": "Geländeunbeeinträchtigtenkiller"
+        },
+        {
+            "key": "BUFF_KillerUnitTagDamageFloating",
+            "value": "Festgesetzter Schaden (Fliegend)"
+        },
+        {
+            "key": "BUFF_KillerUnitTagDamageIgnoreGround",
+            "value": "Festgesetzter Schaden (Geländeunbeeinträchtigt)"
+        },
+        {
+            "key": "BUFF_KillerSexMale",
+            "value": "Marskiller"
+        },
+        {
+            "key": "BUFF_KillerSexFemale",
+            "value": "Venuskiller"
+        },
+        {
+            "key": "BUFF_KillerSexUnknown",
+            "value": "Merkurkiller"
+        },
+        {
+            "key": "BUFF_KillerSexPMale",
+            "value": "Marskiller (P)"
+        },
+        {
+            "key": "BUFF_KillerSexPFemale",
+            "value": "Venuskiller (P)"
+        },
+        {
+            "key": "BUFF_KillerSexPUnknown",
+            "value": "Merkurkiller (P)"
+        },
+        {
+            "key": "BUFF_KillerSexMMale",
+            "value": "Marskiller (M)"
+        },
+        {
+            "key": "BUFF_KillerSexMFemale",
+            "value": "Venuskiller (M)"
+        },
+        {
+            "key": "BUFF_KillerSexMUnknown",
+            "value": "Merkurkiller (M)"
+        },
+        {
+            "key": "BUFF_KillerSexDamageMale",
+            "value": "Festgesetzter Schaden (Mars)"
+        },
+        {
+            "key": "BUFF_KillerSexDamageFemale",
+            "value": "Festgesetzter Schaden (Venus)"
+        },
+        {
+            "key": "BUFF_KillerSexDamageUnknown",
+            "value": "Festgesetzter Schaden (Merkur)"
+        },
+        {
+            "key": "BUFF_ExeShield1",
+            "value": "ABW"
+        },
+        {
+            "key": "BUFF_ExeShield2",
+            "value": "Schild ({0} LP)"
+        },
+        {
+            "key": "BUFF_ExeShield3",
+            "value": "Schild ({0}-mal)"
+        },
+        {
+            "key": "BUFF_ExeShield4",
+            "value": "Schild ({0}-mal oder {1} LP)"
+        },
+        {
+            "key": "BUFF_ExeShield5",
+            "value": "Schild ({0} Runde(n))"
+        },
+        {
+            "key": "BUFF_ExeShield6",
+            "value": "Schild ({0} Runde(n) oder {1} LP)"
+        },
+        {
+            "key": "BUFF_CondPetrifiedStare",
+            "value": "Steinwerdung"
+        },
+        {
+            "key": "BUFF_OtherHealPow",
+            "value": "Heilkraft"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget1",
+            "value": "Physische Magie"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget2",
+            "value": "Physik"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget3",
+            "value": "Magie"
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "infos": [
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact.001",
+            "value": "장비: 메탈 슬레이어"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.003",
+            "value": "출시 기념: 스타터 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.002.01",
+            "value": "출시 기념: 스타터 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.001",
+            "value": "출시 기념: 스타터 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_booster.001",
+            "value": "체력 부스터 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_cg.001",
+            "value": "체력&길거북 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.001",
+            "value": "유닛 각성 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_awaken.001",
+            "value": "소환수 각성 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.001",
+            "value": "주간 초코보 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.001",
+            "value": "유닛 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_exp.001",
+            "value": "장비 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.001",
+            "value": "소환수 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.001",
+            "value": "비전 카드 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.001",
+            "value": "일일 체력 패키지"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.001",
+            "value": "[무료 환도석 증량] 환도석 패키지 A"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.002",
+            "value": "[무료 환도석 증량] 환도석 패키지 B"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.003",
+            "value": "[무료 환도석 증량] 환도석 패키지 C"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.004",
+            "value": "[무료 환도석 증량] 환도석 패키지 D"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.005",
+            "value": "[무료 환도석 증량] 환도석 패키지 E"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.006",
+            "value": "[무료 환도석 증량] 환도석 패키지 F"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.007",
+            "value": "[무료 환도석 증량] 환도석 패키지 G"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.001",
+            "value": "환도석 패키지 A"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.002",
+            "value": "환도석 패키지 B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.003",
+            "value": "환도석 패키지 C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.004",
+            "value": "환도석 패키지 D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.005",
+            "value": "환도석 패키지 E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.006",
+            "value": "환도석 패키지 F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.007.01",
+            "value": "환도석 패키지 G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.004",
+            "value": "월간 각성 패키지: 불"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.005",
+            "value": "월간 각성 패키지: 물"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.006",
+            "value": "월간 각성 패키지: 바람"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.007",
+            "value": "월간 각성 패키지: 번개"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.008",
+            "value": "월간 각성 패키지: 얼음"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.009",
+            "value": "월간 각성 패키지: 땅"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.010",
+            "value": "월간 각성 패키지: 빛"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.011",
+            "value": "월간 각성 패키지: 어둠"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_01.rew",
+            "value": "레어 소환 티켓"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_02.rew",
+            "value": "레어 10회 소환 티켓"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_05.rew",
+            "value": "환도석 × 100"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_03.rew",
+            "value": "환도석 × 640"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_04.rew",
+            "value": "환도석 × 1,350"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.009",
+            "value": "[콜라보 기념] 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.010",
+            "value": "[콜라보 기념] 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.011",
+            "value": "[콜라보 기념] 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.012",
+            "value": "[콜라보 기념] 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.003",
+            "value": "[콜라보 기념] 무지개 각성 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.001",
+            "value": "비전 카드: 직업 크리스탈"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.daily.001",
+            "value": "일일 환도석 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.012",
+            "value": "월간 무지개 각성 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.001",
+            "value": "장비 육성[공격] 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.002",
+            "value": "장비 육성[마력] 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.003",
+            "value": "장비 육성[생명] 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.001",
+            "value": "리미트 버스트 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.001",
+            "value": "장비 어빌리티 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.001",
+            "value": "환도석 30일 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.006",
+            "value": "스타터 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.005",
+            "value": "스타터 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.004",
+            "value": "스타터 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS 환도석 패키지 V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS 환도석 패키지 VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "FFI 매일 신나는 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI 신나는 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.003",
+            "value": "유닛 강화 슈퍼 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.003",
+            "value": "비전 카드 강화 슈퍼 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.015",
+            "value": "유닛 각성 슈퍼 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.001",
+            "value": "길거북 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.014",
+            "value": "콜라보 기념 무지개 각성 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.003",
+            "value": "여름 기념 초코보 3배 패키지 "
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.019",
+            "value": "[콜라보 기념] 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.020",
+            "value": "[콜라보 기념] 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.021",
+            "value": "[콜라보 기념] 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.022",
+            "value": "[콜라보 기념] 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.023",
+            "value": "[콜라보 기념] 환도석 패키지 V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.024",
+            "value": "[콜라보 기념] 환도석 패키지 VI"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "퀘스트 도전 패스"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "유닛 육성 패스"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "장비 육성 패스"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.016",
+            "value": "콜라보 기념 무지개 각성 패키지"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.025",
+            "value": "[콜라보 기념] 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.026",
+            "value": "[콜라보 기념] 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.027",
+            "value": "[콜라보 기념] 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.028",
+            "value": "[콜라보 기념] 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.029",
+            "value": "[콜라보 기념] 환도석 패키지 V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.030",
+            "value": "[콜라보 기념] 환도석 패키지 VI"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst.001",
+            "value": "리미트 버스트 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability.001",
+            "value": "장비 어빌리티 강화 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.001",
+            "value": "UR 유닛의 퍼즐 일일 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_piece.002",
+            "value": "UR 유닛의 퍼즐 스페셜 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.001",
+            "value": "스토리 건너뛰기 티켓 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip_daily.003",
+            "value": "이벤트 건너뛰기 티켓 패키지"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.skip.001",
+            "value": "건너뛰기 티켓 스페셜 패키지"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.031",
+            "value": "[한정] 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.032",
+            "value": "[한정] 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.033",
+            "value": "[한정] 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.034",
+            "value": "[한정] 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.035",
+            "value": "[한정] 환도석 패키지 V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.036",
+            "value": "[한정] 환도석 패키지 VI"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.008",
+            "value": "환도석 패키지 B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.009",
+            "value": "환도석 패키지 C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.010",
+            "value": "환도석 패키지 D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.011",
+            "value": "환도석 패키지 E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.012",
+            "value": "환도석 패키지 F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.013",
+            "value": "환도석 패키지 G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.celebration.001",
+            "value": "MyCard 출시 기념 선물 패키지"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.037",
+            "value": "[한정] 환도석 패키지 I"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.038",
+            "value": "[한정] 환도석 패키지 II"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.039",
+            "value": "[한정] 환도석 패키지 III"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.040",
+            "value": "[한정] 환도석 패키지 IV"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.041",
+            "value": "[한정] 환도석 패키지 V"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.042",
+            "value": "[한정] 환도석 패키지 VI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.043",
+            "value": "[한정] 환도석 패키지 VII"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.008",
+            "value": "[무료 환도석 증량] 환도석 패키지 H"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.014",
+            "value": "환도석 패키지 H"
+        }
+    ]
+}

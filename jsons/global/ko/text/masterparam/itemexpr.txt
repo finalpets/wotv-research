@@ -1,0 +1,3976 @@
+{
+    "infos": [
+        {
+            "key": "IT_US_POTION",
+            "value": "유닛의 HP 회복(소)"
+        },
+        {
+            "key": "IT_US_HIPOTION",
+            "value": "유닛의 HP 회복(중)"
+        },
+        {
+            "key": "IT_US_EXPOTION",
+            "value": "유닛의 HP 회복(대)"
+        },
+        {
+            "key": "IT_US_ETHER",
+            "value": "유닛의 TP 회복(소)"
+        },
+        {
+            "key": "IT_US_ETHERTURBO",
+            "value": "유닛의 TP 회복(중)"
+        },
+        {
+            "key": "IT_US_ELIXIR",
+            "value": "유닛의 HP와 TP 회복"
+        },
+        {
+            "key": "IT_US_PNXFEATHER",
+            "value": "상태이상 회복(전투불능)"
+        },
+        {
+            "key": "IT_US_ANTIDOTE",
+            "value": "상태이상 회복(독)"
+        },
+        {
+            "key": "IT_US_EYEDROPS",
+            "value": "상태이상 회복(실명)"
+        },
+        {
+            "key": "IT_US_REMINDER",
+            "value": "상태이상 회복(수면/혼란)"
+        },
+        {
+            "key": "IT_US_ECHODROP",
+            "value": "상태이상 회복(침묵)"
+        },
+        {
+            "key": "IT_US_UNICORNHORN",
+            "value": "상태이상 회복(마비)"
+        },
+        {
+            "key": "IT_US_MAIDENKISS",
+            "value": "상태이상 회복(토드)"
+        },
+        {
+            "key": "IT_US_GOLDNEEDLE",
+            "value": "상태이상 회복(석화)"
+        },
+        {
+            "key": "IT_US_REMEDY",
+            "value": "상태이상 회복(독/실명/수면/침묵/마비/혼란)"
+        },
+        {
+            "key": "IT_US_ENCHANTDRAG",
+            "value": "상태이상 회복(침묵/돈무브/돈액트)"
+        },
+        {
+            "key": "IT_US_HOLYTORCH",
+            "value": "상태 효과 해제(헤이스트/리제네/프로테스/셸/레비테트/리레이즈)"
+        },
+        {
+            "key": "IT_US_HERODRINK",
+            "value": "일시적으로 공격력, 마력 증가"
+        },
+        {
+            "key": "IT_US_BACCHUS",
+            "value": "일시적으로 광폭화"
+        },
+        {
+            "key": "IT_US_SHELL",
+            "value": "일시적으로 셸"
+        },
+        {
+            "key": "IT_US_PROTECT",
+            "value": "일시적으로 프로테스"
+        },
+        {
+            "key": "IT_US_HEALWATER",
+            "value": "일시적으로 리제네"
+        },
+        {
+            "key": "IT_US_HPPOTION",
+            "value": "일시적으로 최대 HP 증가"
+        },
+        {
+            "key": "IT_US_ATKPOTION",
+            "value": "일시적으로 공격력 증가"
+        },
+        {
+            "key": "IT_US_MAGPOTION",
+            "value": "일시적으로 마력 증가"
+        },
+        {
+            "key": "IT_US_SPDPOTION",
+            "value": "일시적으로 민첩성 증가"
+        },
+        {
+            "key": "IT_US_DEXPOTION",
+            "value": "일시적으로 솜씨 증가"
+        },
+        {
+            "key": "IT_ACTP_01",
+            "value": "플레이어의 체력 회복(소)"
+        },
+        {
+            "key": "IT_ACTP_02",
+            "value": "플레이어의 체력 회복(중)"
+        },
+        {
+            "key": "IT_ACTP_03",
+            "value": "플레이어의 체력 회복(대)"
+        },
+        {
+            "key": "IT_ACTP_04",
+            "value": "플레이어의 체력 회복(특)"
+        },
+        {
+            "key": "IT_ARENAP_02",
+            "value": "결투장 구슬 모두 회복"
+        },
+        {
+            "key": "IT_RAIDAP_01",
+            "value": "레이드 구슬 모두 회복"
+        },
+        {
+            "key": "IT_RANKMP_02",
+            "value": "클래스 매치에 필요한 구슬을 회복하는 아이템(모두 회복)"
+        },
+        {
+            "key": "IT_CG_01",
+            "value": "상점에서 환전할 수 있는 아이템(소)"
+        },
+        {
+            "key": "IT_CG_02",
+            "value": "상점에서 환전할 수 있는 아이템(중)"
+        },
+        {
+            "key": "IT_CG_03",
+            "value": "상점에서 환전할 수 있는 아이템(대)"
+        },
+        {
+            "key": "IT_CG_04",
+            "value": "상점에서 환전할 수 있는 아이템(특)"
+        },
+        {
+            "key": "IT_US_EXP_01",
+            "value": "레벨 30 이하 유닛에게 사용 가능. 사용 시 경험치 획득(소)"
+        },
+        {
+            "key": "IT_US_EXP_02",
+            "value": "레벨 60 이하 유닛에게 사용 가능. 사용 시 경험치 획득(중)"
+        },
+        {
+            "key": "IT_US_EXP_03",
+            "value": "레벨 80 이하 유닛에게 사용 가능. 사용 시 경험치 획득(대)"
+        },
+        {
+            "key": "IT_US_EXP_04",
+            "value": "모든 유닛에게 사용 가능. 사용 시 경험치 획득(특)"
+        },
+        {
+            "key": "IT_LB_EXP_01",
+            "value": "리미트 버스트 경험치 획득(소)"
+        },
+        {
+            "key": "IT_LB_EXP_02",
+            "value": "리미트 버스트 경험치 획득(중)"
+        },
+        {
+            "key": "IT_LB_EXP_03",
+            "value": "리미트 버스트 경험치 획득(대)"
+        },
+        {
+            "key": "IT_JB_MM_ALL",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ALL_2",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ALL_3",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ALL_4",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ALL_5",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SWORD_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SWORD_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SWORD_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SWORD_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SWORD_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_LSWORD_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_LSWORD_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_LSWORD_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_LSWORD_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_LSWORD_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_JSWORD_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_JSWORD_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_JSWORD_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_JSWORD_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_JSWORD_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_FIST_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_FIST_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_FIST_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_FIST_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_FIST_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SPEAR_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SPEAR_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SPEAR_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SPEAR_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SPEAR_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SSWORD_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SSWORD_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SSWORD_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SSWORD_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_SSWORD_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_KUNAI_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_KUNAI_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_KUNAI_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_KUNAI_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_KUNAI_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_BOW_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_BOW_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_BOW_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_BOW_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_BOW_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_GUN_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_GUN_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_GUN_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_GUN_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_GUN_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_STAFF_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_STAFF_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_STAFF_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_STAFF_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_STAFF_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MACE_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MACE_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MACE_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MACE_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MACE_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_AXE_01",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_AXE_02",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_AXE_03",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_AXE_04",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_AXE_05",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_COMMON",
+            "value": "직업 레벨 3 강화에 필요한 직업의 기억 대신 사용할 수 있는 아이템"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_2",
+            "value": "직업 레벨 6 강화에 필요한 직업의 기억 대신 사용할 수 있는 아이템"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_3",
+            "value": "직업 레벨 9 강화에 필요한 직업의 기억 대신 사용할 수 있는 아이템"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_4",
+            "value": "직업 레벨 12 강화에 필요한 직업의 기억 대신 사용할 수 있는 아이템"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_5",
+            "value": "직업 레벨 15 강화에 필요한 직업의 기억 대신 사용할 수 있는 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WAR",
+            "value": "직업(전사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WAR_2",
+            "value": "직업(전사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WAR_3",
+            "value": "직업(전사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WAR_4",
+            "value": "직업(전사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WAR_5",
+            "value": "직업(전사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_KNT",
+            "value": "직업(나이트) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_KNT_2",
+            "value": "직업(나이트) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_KNT_3",
+            "value": "직업(나이트) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_KNT_4",
+            "value": "직업(나이트) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_KNT_5",
+            "value": "직업(나이트) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_PLD",
+            "value": "직업(팔라딘) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_PLD_2",
+            "value": "직업(팔라딘) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_PLD_3",
+            "value": "직업(팔라딘) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_PLD_4",
+            "value": "직업(팔라딘) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_PLD_5",
+            "value": "직업(팔라딘) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SWN",
+            "value": "직업(솔저) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SWN_2",
+            "value": "직업(솔저) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SWN_3",
+            "value": "직업(솔저) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SWN_4",
+            "value": "직업(솔저) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SWN_5",
+            "value": "직업(솔저) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MNK",
+            "value": "직업(몽크) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MNK_2",
+            "value": "직업(몽크) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MNK_3",
+            "value": "직업(몽크) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MNK_4",
+            "value": "직업(몽크) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MNK_5",
+            "value": "직업(몽크) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SAM",
+            "value": "직업(사무라이) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SAM_2",
+            "value": "직업(사무라이) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SAM_3",
+            "value": "직업(사무라이) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SAM_4",
+            "value": "직업(사무라이) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_SAM_5",
+            "value": "직업(사무라이) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LAN",
+            "value": "직업(창술사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LAN_2",
+            "value": "직업(창술사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LAN_3",
+            "value": "직업(창술사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LAN_4",
+            "value": "직업(창술사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LAN_5",
+            "value": "직업(창술사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_DRG",
+            "value": "직업(용기사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_DRG_2",
+            "value": "직업(용기사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_DRG_3",
+            "value": "직업(용기사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_DRG_4",
+            "value": "직업(용기사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_DRG_5",
+            "value": "직업(용기사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_THI",
+            "value": "직업(도적) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_THI_2",
+            "value": "직업(도적) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_THI_3",
+            "value": "직업(도적) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_THI_4",
+            "value": "직업(도적) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_THI_5",
+            "value": "직업(도적) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_NIN",
+            "value": "직업(닌자) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_NIN_2",
+            "value": "직업(닌자) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_NIN_3",
+            "value": "직업(닌자) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_NIN_4",
+            "value": "직업(닌자) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_NIN_5",
+            "value": "직업(닌자) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_HUN",
+            "value": "직업(사냥꾼) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_HUN_2",
+            "value": "직업(사냥꾼) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_HUN_3",
+            "value": "직업(사냥꾼) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_HUN_4",
+            "value": "직업(사냥꾼) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_HUN_5",
+            "value": "직업(사냥꾼) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GUN",
+            "value": "직업(총술사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GUN_2",
+            "value": "직업(총술사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GUN_3",
+            "value": "직업(총술사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GUN_4",
+            "value": "직업(총술사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GUN_5",
+            "value": "직업(총술사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WHM",
+            "value": "직업(백마도사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WHM_2",
+            "value": "직업(백마도사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WHM_3",
+            "value": "직업(백마도사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WHM_4",
+            "value": "직업(백마도사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WHM_5",
+            "value": "직업(백마도사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_BLM",
+            "value": "직업(흑마도사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_BLM_2",
+            "value": "직업(흑마도사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_BLM_3",
+            "value": "직업(흑마도사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_BLM_4",
+            "value": "직업(흑마도사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_BLM_5",
+            "value": "직업(흑마도사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_RDM",
+            "value": "직업(적마도사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_RDM_2",
+            "value": "직업(적마도사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_RDM_3",
+            "value": "직업(적마도사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_RDM_4",
+            "value": "직업(적마도사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_RDM_5",
+            "value": "직업(적마도사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GRM",
+            "value": "직업(녹마도사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GRM_2",
+            "value": "직업(녹마도사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GRM_3",
+            "value": "직업(녹마도사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GRM_4",
+            "value": "직업(녹마도사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_GRM_5",
+            "value": "직업(녹마도사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_TIM",
+            "value": "직업(시마도사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_TIM_2",
+            "value": "직업(시마도사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_TIM_3",
+            "value": "직업(시마도사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_TIM_4",
+            "value": "직업(시마도사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_TIM_5",
+            "value": "직업(시마도사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MGK",
+            "value": "직업(마법검사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MGK_2",
+            "value": "직업(마법검사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MGK_3",
+            "value": "직업(마법검사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MGK_4",
+            "value": "직업(마법검사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MGK_5",
+            "value": "직업(마법검사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CLR",
+            "value": "직업(클레릭) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CLR_2",
+            "value": "직업(클레릭) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CLR_3",
+            "value": "직업(클레릭) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CLR_4",
+            "value": "직업(클레릭) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CLR_5",
+            "value": "직업(클레릭) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS",
+            "value": "직업(날개 있는 자) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_2",
+            "value": "직업(날개 있는 자) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_3",
+            "value": "직업(날개 있는 자) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_4",
+            "value": "직업(날개 있는 자) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_5",
+            "value": "직업(날개 있는 자) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL",
+            "value": "직업(마녀) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_2",
+            "value": "직업(마녀) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_3",
+            "value": "직업(마녀) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_4",
+            "value": "직업(마녀) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_5",
+            "value": "직업(마녀) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR",
+            "value": "직업(건브레이커) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_2",
+            "value": "직업(건브레이커) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_3",
+            "value": "직업(건브레이커) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_4",
+            "value": "직업(건브레이커) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_5",
+            "value": "직업(건브레이커) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_VIK",
+            "value": "직업(바이킹) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_VIK_2",
+            "value": "직업(바이킹) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_VIK_3",
+            "value": "직업(바이킹) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_VIK_4",
+            "value": "직업(바이킹) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_VIK_5",
+            "value": "직업(바이킹) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR",
+            "value": "직업(다크 나이트) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_2",
+            "value": "직업(다크 나이트) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_3",
+            "value": "직업(다크 나이트) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_4",
+            "value": "직업(다크 나이트) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_5",
+            "value": "직업(다크 나이트) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ",
+            "value": "직업(견습 전사(람자)) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_2",
+            "value": "직업(견습 전사(람자)) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_3",
+            "value": "직업(견습 전사(람자)) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_4",
+            "value": "직업(견습 전사(람자)) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_5",
+            "value": "직업(견습 전사(람자)) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND",
+            "value": "직업(검성) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_2",
+            "value": "직업(검성) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_3",
+            "value": "직업(검성) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_4",
+            "value": "직업(검성) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_5",
+            "value": "직업(검성) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WGN",
+            "value": "직업(쌍총술사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WGN_2",
+            "value": "직업(쌍총술사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WGN_3",
+            "value": "직업(쌍총술사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WGN_4",
+            "value": "직업(쌍총술사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_WGN_5",
+            "value": "직업(쌍총술사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "직업(그랑셸트의 기사(불꽃)) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "직업(그랑셸트의 기사(불꽃)) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "직업(그랑셸트의 기사(불꽃)) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "직업(그랑셸트의 기사(불꽃)) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "직업(그랑셸트의 기사(불꽃)) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "직업(어쌔신) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "직업(어쌔신) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "직업(어쌔신) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "직업(어쌔신) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "직업(어쌔신) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "직업(빛의 전사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "직업(빛의 전사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "직업(빛의 전사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "직업(빛의 전사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "직업(빛의 전사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "직업(마장술사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "직업(마장술사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "직업(마장술사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "직업(마장술사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "직업(마장술사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "직업(성기사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "직업(성기사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "직업(성기사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "직업(성기사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "직업(성기사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "직업(견습 전사(딜리타)) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "직업(견습 전사(딜리타)) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "직업(견습 전사(딜리타)) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "직업(견습 전사(딜리타)) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "직업(견습 전사(딜리타)) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "직업(기공사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "직업(기공사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "직업(기공사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "직업(기공사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "직업(기공사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CAL",
+            "value": "직업(산술사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CAL_2",
+            "value": "직업(산술사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CAL_3",
+            "value": "직업(산술사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CAL_4",
+            "value": "직업(산술사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_CAL_5",
+            "value": "직업(산술사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN",
+            "value": "직업(파멸의 기사) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_2",
+            "value": "직업(파멸의 기사) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_3",
+            "value": "직업(파멸의 기사) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_4",
+            "value": "직업(파멸의 기사) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_5",
+            "value": "직업(파멸의 기사) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR",
+            "value": "직업(발키리) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_2",
+            "value": "직업(발키리) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_3",
+            "value": "직업(발키리) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_4",
+            "value": "직업(발키리) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_5",
+            "value": "직업(발키리) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL",
+            "value": "직업(그랑셸트의 기사(얼음)) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_2",
+            "value": "직업(그랑셸트의 기사(얼음)) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_3",
+            "value": "직업(그랑셸트의 기사(얼음)) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_4",
+            "value": "직업(그랑셸트의 기사(얼음)) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_5",
+            "value": "직업(그랑셸트의 기사(얼음)) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MKN",
+            "value": "직업(룬 나이트) 레벨 3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MKN_2",
+            "value": "직업(룬 나이트) 레벨 6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MKN_3",
+            "value": "직업(룬 나이트) 레벨 9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MKN_4",
+            "value": "직업(룬 나이트) 레벨 12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_MM_MKN_5",
+            "value": "직업(룬 나이트) 레벨 15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_1",
+            "value": "불속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_2",
+            "value": "불속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_3",
+            "value": "불속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_4",
+            "value": "불속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_5",
+            "value": "불속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_ICE_1",
+            "value": "얼음속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_ICE_2",
+            "value": "얼음속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_ICE_3",
+            "value": "얼음속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_ICE_4",
+            "value": "얼음속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_ICE_5",
+            "value": "얼음속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WIND_1",
+            "value": "바람속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WIND_2",
+            "value": "바람속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WIND_3",
+            "value": "바람속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WIND_4",
+            "value": "바람속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WIND_5",
+            "value": "바람속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_1",
+            "value": "땅속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_2",
+            "value": "땅속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_3",
+            "value": "땅속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_4",
+            "value": "땅속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_5",
+            "value": "땅속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_1",
+            "value": "번개속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_2",
+            "value": "번개속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_3",
+            "value": "번개속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_4",
+            "value": "번개속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_5",
+            "value": "번개속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WATER_1",
+            "value": "물속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WATER_2",
+            "value": "물속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WATER_3",
+            "value": "물속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WATER_4",
+            "value": "물속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_WATER_5",
+            "value": "물속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_1",
+            "value": "빛속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_2",
+            "value": "빛속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_3",
+            "value": "빛속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_4",
+            "value": "빛속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_5",
+            "value": "빛속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_DARK_1",
+            "value": "어둠속성 유닛의 직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_DARK_2",
+            "value": "어둠속성 유닛의 직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_DARK_3",
+            "value": "어둠속성 유닛의 직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_DARK_4",
+            "value": "어둠속성 유닛의 직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_EM_DARK_5",
+            "value": "어둠속성 유닛의 직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_1",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_2",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_3",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_4",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_5",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_1",
+            "value": "직업 레벨 2~3 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_2",
+            "value": "직업 레벨 4~6 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_3",
+            "value": "직업 레벨 7~9 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_4",
+            "value": "직업 레벨 10~12 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_5",
+            "value": "직업 레벨 13~15 강화에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_FIRE",
+            "value": "불속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_ICE",
+            "value": "얼음속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WIND",
+            "value": "바람속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SOIL",
+            "value": "땅속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER",
+            "value": "번개속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WATER",
+            "value": "물속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SHINE",
+            "value": "빛속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_DARK",
+            "value": "어둠속성 유닛 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R2",
+            "value": "불속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R3",
+            "value": "불속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R4",
+            "value": "불속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R5",
+            "value": "불속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R6",
+            "value": "불속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R2",
+            "value": "얼음속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R3",
+            "value": "얼음속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R4",
+            "value": "얼음속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R5",
+            "value": "얼음속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R6",
+            "value": "얼음속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R2",
+            "value": "바람속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R3",
+            "value": "바람속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R4",
+            "value": "바람속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R5",
+            "value": "바람속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R6",
+            "value": "바람속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R2",
+            "value": "땅속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R3",
+            "value": "땅속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R4",
+            "value": "땅속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R5",
+            "value": "땅속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R6",
+            "value": "땅속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R2",
+            "value": "번개속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R3",
+            "value": "번개속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R4",
+            "value": "번개속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R5",
+            "value": "번개속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R6",
+            "value": "번개속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R2",
+            "value": "물속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R3",
+            "value": "물속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R4",
+            "value": "물속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R5",
+            "value": "물속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R6",
+            "value": "물속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R2",
+            "value": "빛속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R3",
+            "value": "빛속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R4",
+            "value": "빛속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R5",
+            "value": "빛속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R6",
+            "value": "빛속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R2",
+            "value": "어둠속성 유닛을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R3",
+            "value": "어둠속성 유닛을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R4",
+            "value": "어둠속성 유닛을 ★4로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R5",
+            "value": "어둠속성 유닛을 ★5로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R6",
+            "value": "어둠속성 유닛을 ★6으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_AW_VBALL_N",
+            "value": "유닛 및 비전 카드를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_AW_VBALL_R",
+            "value": "유닛 및 비전 카드를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_AW_VBALL_SR",
+            "value": "유닛 및 비전 카드를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_AW_VBALL_SSR",
+            "value": "유닛 및 비전 카드를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_AW_VBALL_UR",
+            "value": "유닛 및 비전 카드를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_COM_FIRE",
+            "value": "불속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_ICE",
+            "value": "얼음속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_WIND",
+            "value": "바람속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_SOIL",
+            "value": "땅속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_THUNDER",
+            "value": "번개속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_WATER",
+            "value": "물속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_SHINE",
+            "value": "빛속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_DARK",
+            "value": "어둠속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_COM_ALL",
+            "value": "모든 속성 유닛 각성용 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MONT",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_STRN",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ELDE",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ROBB",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ENBT",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ZIZA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_AILN",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MDNA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_AYKA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MACR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_HLNA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_LILS",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RAMD",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_OOOO",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_LRNZ",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RIRY",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_VSTR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_CLEY",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_KADI",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MRLK",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MGRT",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_PRAY",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_SZRT",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_FINA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_BYLO",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RYER",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_SCIA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_VRID",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_NAIA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_SRJS",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_UNII",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_SEVR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_VADM",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MURM",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_PHBE",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RART",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MICE",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MIIA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ZZAN",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_GLMS",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FF14_YSTL",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FF14_TNCR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_SDLX",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_FDRC",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_YERM",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_NASR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ETRE",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FFT_GFGR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FFT_RAMZ",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FFT_ORND",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_WHIS",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_KTON",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_MRND",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_DRND",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_LUCA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ADLD",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_VKTR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_IRDL",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_STRN_01",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_LSWL",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_GRSR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RRIR",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RYER_01",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_RIRY_01",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_PI_LW_HWLT",
+            "value": "유닛의 한계 돌파에 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_01",
+            "value": "소환수 경험치 획득(소)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_02",
+            "value": "소환수 경험치 획득(중)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_03",
+            "value": "소환수 경험치 획득(대)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_04",
+            "value": "소환수 경험치 획득(특)"
+        },
+        {
+            "key": "IT_SB_AW_FIRE",
+            "value": "불속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_ICE",
+            "value": "얼음속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_THUNDER",
+            "value": "번개속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_WATER",
+            "value": "물속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_WIND",
+            "value": "바람속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_SOIL",
+            "value": "땅속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_SHINE",
+            "value": "빛속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_DARK",
+            "value": "어둠속성 소환수를 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R2",
+            "value": "이프리트를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R3",
+            "value": "이프리트를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R2",
+            "value": "골렘을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R3",
+            "value": "골렘을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R2",
+            "value": "세이렌을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R3",
+            "value": "세이렌을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R2",
+            "value": "철거인을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R3",
+            "value": "철거인을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R2",
+            "value": "베히모스를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R3",
+            "value": "베히모스를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R2",
+            "value": "몰볼을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R3",
+            "value": "몰볼을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R2",
+            "value": "시바를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R3",
+            "value": "시바를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R2",
+            "value": "라무를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R3",
+            "value": "라무를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R2",
+            "value": "오딘을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R3",
+            "value": "오딘을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R2",
+            "value": "라미아 퀸을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R3",
+            "value": "라미아 퀸을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R2",
+            "value": "테트라 실피드를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R3",
+            "value": "테트라 실피드를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "오츄를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "오츄를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "투헤드 드래곤을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "투헤드 드래곤을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "디아볼로스를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "디아볼로스를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R2",
+            "value": "정신지배자를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R3",
+            "value": "정신지배자를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R2",
+            "value": "펜리르를 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R3",
+            "value": "펜리르를 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R2",
+            "value": "타이탄을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R3",
+            "value": "타이탄을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R2",
+            "value": "블러디 문을 ★2로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R3",
+            "value": "블러디 문을 ★3으로 각성할 때 필요한 아이템"
+        },
+        {
+            "key": "IT_TICKET_STORY",
+            "value": "스토리 퀘스트의 전투를 건너뛸 수 있는 티켓"
+        },
+        {
+            "key": "IT_TICKET_EVENT",
+            "value": "이벤트 퀘스트의 전투를 건너뛸 수 있는 티켓"
+        },
+        {
+            "key": "IT_GL_TICKET_EVENT",
+            "value": "이벤트 퀘스트의 전투를 건너뛸 수 있는 티켓"
+        },
+        {
+            "key": "IT_AF_EXP_01",
+            "value": "장비 경험치 획득(소)"
+        },
+        {
+            "key": "IT_AF_EXP_02",
+            "value": "장비 경험치 획득(중)"
+        },
+        {
+            "key": "IT_AF_EXP_03",
+            "value": "장비 경험치 획득(대)"
+        },
+        {
+            "key": "IT_AF_EXP_04",
+            "value": "장비 경험치 획득(특)"
+        },
+        {
+            "key": "IT_AF_AW_SWORD",
+            "value": "장비 종류: 검 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_LSWORD",
+            "value": "장비 종류: 대검 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_FIST",
+            "value": "장비 종류: 격투무기 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_JSWORD",
+            "value": "장비 종류: 도검 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_SPEAR",
+            "value": "장비 종류: 창 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_SSWORD",
+            "value": "장비 종류: 단검 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_KUNAI",
+            "value": "장비 종류: 닌자도 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_BOW",
+            "value": "장비 종류: 활 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_GUN",
+            "value": "장비 종류: 총 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_STAFF",
+            "value": "장비 종류: 지팡이 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_MACE",
+            "value": "장비 종류: 메이스 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_AXE",
+            "value": "장비 종류: 도끼 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_ARMOR",
+            "value": "장비 종류: 방어구 각성 재료"
+        },
+        {
+            "key": "IT_AF_AW_ACCE",
+            "value": "장비 종류: 장신구 각성 재료"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_03",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_03",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_04",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_03",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_04",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_03",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_04",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_01",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_02",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_03",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_04",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_OGRE",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_BOMB",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_MABR",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_WOLF",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_ZUUU",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_BONE",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_ARMN",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_MAT_MYTHRIL",
+            "value": "장비 제작 및 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_AF_LW_SWO_001",
+            "value": "롱소드 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SWO_002",
+            "value": "미스릴 검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SWO_003",
+            "value": "수면의 검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SWO_004",
+            "value": "얼음서리 검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SWO_005",
+            "value": "불꽃의 혀 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SWO_006",
+            "value": "산호검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_BSW_001",
+            "value": "클레이모어 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_BSW_002",
+            "value": "미스릴 대검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_BSW_003",
+            "value": "룬 블레이드 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_BSW_004",
+            "value": "황금 대검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_KAT_001",
+            "value": "고테쓰 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_KAT_002",
+            "value": "키쿠이치몬지 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_KAT_003",
+            "value": "비젠오사후네 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_FIS_001",
+            "value": "금속 너클 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_FIS_002",
+            "value": "미스릴 발톱 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_FIS_003",
+            "value": "고양이 발톱 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SPE_001",
+            "value": "파르티잔 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SPE_002",
+            "value": "미스릴 창 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SPE_003",
+            "value": "바람의 창 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SPE_004",
+            "value": "얼음 랜스 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_SPE_006",
+            "value": "용각창 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_DAG_001",
+            "value": "단검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_DAG_002",
+            "value": "미스릴 단검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_DAG_004",
+            "value": "맹고쉬 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_DAG_006",
+            "value": "메이지 매셔 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_NKN_001",
+            "value": "수리검 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_NKN_002",
+            "value": "코다치 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_NKN_003",
+            "value": "사스케의 칼 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_BOW_001",
+            "value": "장궁 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_BOW_002",
+            "value": "대궁 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_BOW_003",
+            "value": "룬의 활 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_GUN_001",
+            "value": "카펠라 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_GUN_002",
+            "value": "베가 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_GUN_003",
+            "value": "라스알게티 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ROD_002",
+            "value": "철제 홀장 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ROD_004",
+            "value": "치유의 지팡이 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ROD_005",
+            "value": "백금 홀장 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_MAC_001",
+            "value": "철제 메이스 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_MAC_002",
+            "value": "미스릴 메이스 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_MAC_003",
+            "value": "백금 메이스 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ARM_002",
+            "value": "철제 흉갑 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ARM_003",
+            "value": "미스릴 갑옷 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ARM_004",
+            "value": "황금 갑옷 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_HAT_002",
+            "value": "삼각모자 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_HAT_003",
+            "value": "머리장식 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_HAT_004",
+            "value": "현자의 모자 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_CLT_001",
+            "value": "가죽옷 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_CLT_002",
+            "value": "학자의 옷 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_CLT_003",
+            "value": "신기루 조끼 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_CLT_004",
+            "value": "인텔리 코트 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_HLM_002",
+            "value": "철제 투구 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_HLM_003",
+            "value": "미스릴 투구 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_HLM_004",
+            "value": "황금 투구 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_RNG_002",
+            "value": "용기의 반지 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_RNG_003",
+            "value": "요정의 반지 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_RNG_004",
+            "value": "보석 반지 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_SWO_FF14_TNCT",
+            "value": "모조 라이언하트 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ROD_007",
+            "value": "현자의 지팡이 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ARM_005",
+            "value": "백금 갑옷 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_FFT_SWO_001",
+            "value": "나그라로크 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_FTW_001",
+            "value": "헤르메스의 신발 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_AXE_001",
+            "value": "오거 킬러 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_AXE_002",
+            "value": "미스릴 도끼 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_AXE_003",
+            "value": "황금 도끼 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "알렉산드라이트 반지 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "백금 로브 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "빛의 갑옷 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "소르틸레주 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_SUP_HP",
+            "value": "장비 레벨 상승 시 HP가 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_SUP_ATK",
+            "value": "장비 레벨 상승 시 공격력이 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_SUP_MAG",
+            "value": "장비 레벨 상승 시 마력이 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_SUP_MND",
+            "value": "장비 레벨 상승 시 정신력이 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_SUP_DEF",
+            "value": "장비 레벨 상승 시 방어력이 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_SUP_AVO",
+            "value": "장비 레벨 상승 시 회피율이 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_SUP_HIT",
+            "value": "장비 레벨 상승 시 명중률이 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_SUP_CRI",
+            "value": "장비 레벨 상승 시 크리티컬 발생률이 증가할 확률 향상"
+        },
+        {
+            "key": "IT_AF_PT_ATK",
+            "value": "장비 능력치 증가(공격력)"
+        },
+        {
+            "key": "IT_AF_PT_MAG",
+            "value": "장비 능력치 증가(마력)"
+        },
+        {
+            "key": "IT_AF_PT_DEF",
+            "value": "장비 능력치 증가(방어력)"
+        },
+        {
+            "key": "IT_AF_PT_MND",
+            "value": "장비 능력치 증가(정신력)"
+        },
+        {
+            "key": "IT_AF_PT_HIT",
+            "value": "장비 능력치 증가(명중률)"
+        },
+        {
+            "key": "IT_AF_PT_CRI",
+            "value": "장비 능력치 증가(크리티컬)"
+        },
+        {
+            "key": "IT_AF_PT_AVO",
+            "value": "장비 능력치 증가(회피율)"
+        },
+        {
+            "key": "IT_AF_PT_HP",
+            "value": "장비 능력치 증가(HP)"
+        },
+        {
+            "key": "IT_AF_PT_SPD",
+            "value": "장비 능력치 증가(민첩성)"
+        },
+        {
+            "key": "IT_WA_EXP_01",
+            "value": "장비 어빌리티의 경험치 획득(소)"
+        },
+        {
+            "key": "IT_WA_EXP_02",
+            "value": "장비 어빌리티의 경험치 획득(중)"
+        },
+        {
+            "key": "IT_WA_EXP_03",
+            "value": "장비 어빌리티의 경험치 획득(대)"
+        },
+        {
+            "key": "IT_AF_RESET",
+            "value": "장비의 능력치 초기화에 필요한 아이템<br>※ 초기화 시, 장비 강화에 사용한 광석 및 드워프 망치는 반환되지 않습니다."
+        },
+        {
+            "key": "IT_EC_STARQUARTZ",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_ARENA",
+            "value": "결투장에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_MULTI",
+            "value": "멀티 퀘스트에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_RAID",
+            "value": "레이드 전투에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_MATCH",
+            "value": "매치 전투에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_GUILD",
+            "value": "길드에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_SOUL",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SOUL_N",
+            "value": "레어도 N 유닛의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_SOUL_R",
+            "value": "레어도 R 유닛의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_SOUL_SR",
+            "value": "레어도 SR 유닛의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_SOUL_SSR",
+            "value": "레어도 MR 유닛의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_SOUL_UR",
+            "value": "레어도 UR 유닛의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_MOOGLE",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_TOWER",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_SUMMON",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2019년 12월 9일 14:59까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_A",
+            "value": "신규 유닛/비전 카드 소환, 한겨울맞이 기념 소환에서 획득할 수 있는 메달. [사용 기한] 2019년 12월 31일 23:59까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_B",
+            "value": "한겨울맞이 기념 소환 제2탄에서 획득할 수 있는 메달. [사용 기한] 2020년 1월 15일 14:59까지"
+        },
+        {
+            "key": "IT_EC_VISION",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_VISION_N",
+            "value": "레어도 N 비전 카드의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_VISION_R",
+            "value": "레어도 R 비전 카드의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_VISION_SR",
+            "value": "레어도 SR 비전 카드의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_VISION_SSR",
+            "value": "레어도 MR 비전 카드의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_VISION_UR",
+            "value": "레어도 UR 비전 카드의 조각 획득 시, 최대 보유 수를 초과한 경우 변환되는 메달"
+        },
+        {
+            "key": "IT_EC_UNIT_UR",
+            "value": "UR 유닛의 퍼즐 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_FRIEND",
+            "value": "친구 선물로 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_FF14_1",
+            "value": "파이널판타지14 콜라보 이벤트에서 획득할 수 있는 교환용 아이템. 알라그 석판: 마전 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_FF14_2",
+            "value": "파이널판타지14 콜라보 기념 소환에서 획득할 수 있는 메달. 콜라보 소환 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "파이널판타지14 콜라보 이벤트에서 획득할 수 있는 '알라그 석판: 마전'과 교환하여 획득할 수 있는 티켓"
+        },
+        {
+            "key": "IT_EC_SUMMON_03_A",
+            "value": "유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/4/14(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/4/21(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_B",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/4/28(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/6/2(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_B",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/6/16(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/6/30(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/7/14(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/7/28(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/8/11(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/9/1(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/9/15(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/10/6(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_B",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/10/20(화) 17:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_A",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/11/3(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_B",
+            "value": "신규 유닛/비전 카드 소환에서 획득할 수 있는 메달. [사용 기한] 2020/11/17(화) 17:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_FFT_1",
+            "value": "FFT 콜라보 이벤트에서 획득할 수 있는 교환용 아이템. FFT 콜라보 이벤트 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_FFT_2_A",
+            "value": "FFT 콜라보 기념 소환에서 획득할 수 있는 메달. FFT 콜라보 소환 메달 A 교환소에서 아이템과 교환할 수 있다. [사용 기한] 2020/5/26(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_FFT_2_B",
+            "value": "FFT 콜라보 기념 소환에서 획득할 수 있는 메달. FFT 콜라보 소환 메달 B 교환소에서 아이템과 교환할 수 있다. [사용 기한] 2020/5/26(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "FFT 콜라보 제2탄 이벤트에서 획득할 수 있는 교환용 아이템. [제2탄] FFT 콜라보 이벤트 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "FFT 콜라보 제2탄 기념 소환에서 획득할 수 있는 메달. [제2탄] FFT 콜라보 소환 메달 A 교환소에서 아이템과 교환할 수 있다. [사용 기한] 2020/9/29(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "FFT 콜라보 제2탄 기념 소환에서 획득할 수 있는 메달. [제2탄] FFT 콜라보 소환 메달 B 교환소에서 아이템과 교환할 수 있다. [사용 기한] 2020/9/29(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_FFT_2_A_R",
+            "value": "[재등장] FFT 콜라보 기념 소환 ~람자~에서 획득할 수 있는 메달. [재등장] FFT 콜라보 소환 메달 A 교환소에서 아이템과 교환할 수 있다. [사용 기한] 2020/9/29(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_FFT_2_B_R",
+            "value": "[재등장] FFT 콜라보 기념 소환 ~오를란두~에서 획득할 수 있는 메달. [재등장] FFT 콜라보 소환 메달 B 교환소에서 아이템과 교환할 수 있다. [사용 기한] 2020/9/29(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_EC_TOWER_001",
+            "value": "백자탑에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_TOWER_002",
+            "value": "백자탑에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_EV02_1",
+            "value": "이벤트 '서쪽의 위협 런달'에서 획득할 수 있는 교환용 아이템. 서쪽의 위협 런달 이벤트 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_EV03_1",
+            "value": "이벤트 '생명을 불사르기 위해'에서 획득할 수 있는 교환용 아이템. [7월] 이벤트 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_EV04_1",
+            "value": "이벤트 '머나먼 동방'에서 획득할 수 있는 교환용 아이템. [8월] 이벤트 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_EV05_1",
+            "value": "이벤트 '고우가와 사이가 전편'에서 획득할 수 있는 교환용 아이템. [전편] 고우가와 사이가 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "FFI 콜라보 이벤트에서 획득할 수 있는 교환용 아이템. FFI 콜라보 이벤트 메달 교환소에서 아이템과 교환할 수 있다."
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "FFI 콜라보 기념 소환에서 획득할 수 있는 메달. FFI 콜라보 소환 메달 교환소에서 아이템과 교환할 수 있다. [사용 기한] 2020/8/25(화) 23:59 세계시간 (PST)까지"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FINAL FANTASY TACTICS 콜라보 이벤트에서 획득할 수 있는 티켓"
+        },
+        {
+            "key": "IT_AD_TICKET_2",
+            "value": " '탐험 초코보'의 탐험 시간을 2시간 가속할 수 있는 티켓"
+        },
+        {
+            "key": "IT_AD_TICKET_5",
+            "value": " '탐험 초코보'의 탐험 시간을 5시간 가속할 수 있는 티켓"
+        },
+        {
+            "key": "IT_AD_TICKET_10",
+            "value": " '탐험 초코보'의 탐험 시간을 10시간 가속할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GACHA_01",
+            "value": " '레어 소환'에서 유닛 1명 또는 비전 카드 1장을 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GACHA_10",
+            "value": "한 번에 10회 레어 소환을 할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "레어도 MR 이상의 유닛 1명을 포함해 유닛 또는 비전 카드 10 슬롯을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "SR 이상 비전 카드 1장을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "MR 이상 비전 카드 1장을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_G_V_SSR_UR_01",
+            "value": "MR 이상 비전 카드 1장을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "MR 이상 유닛 1명을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_1",
+            "value": "각성에 필요한 각 속성 마음 조각 10개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "각성에 필요한 각 속성 마음 조각 200개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_02",
+            "value": "각성에 필요한 각 속성 마음 조각 100개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_02",
+            "value": "각성에 필요한 각성 휘석 100개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_03",
+            "value": "각성에 필요한 각성 휘석 50개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "각성에 필요한 각성 휘석 200개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_01",
+            "value": "각성에 필요한 각 속성 마음 조각 50개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_01_01",
+            "value": "직업 강화에 필요한 각 속성 휘석: 초록 30개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "직업 강화에 필요한 각 속성 휘석: 파랑 10개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_02",
+            "value": "직업 강화에 필요한 각 속성 휘석: 파랑 70개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_03_01",
+            "value": "직업 강화에 필요한 각 속성 휘석: 보라 70개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "직업 강화에 필요한 각 속성 휘석: 노랑 70개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "직업 강화에 필요한 각 속성 휘석: 빨강 70개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_SB_AW_01",
+            "value": "소환수 각성에 필요한 각 속성 각성석 20개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_01",
+            "value": "소환수 강화에 필요한 속성별 마석(대) 50개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_02",
+            "value": "소환수 강화에 필요한 속성별 마석(특) 10개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_03",
+            "value": "소환수 강화에 필요한 속성별 마석(중) 50개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_05",
+            "value": "소환수 강화에 필요한 속성별 마석(특) 30개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "UR 이상 유닛 1명을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "UR 이상 유닛 1명을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_U_UR_03",
+            "value": "UR 이상 유닛 1명을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "UR 이상 유닛 1명 또는 비전 카드 1장을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "UR 이상 유닛 1명 또는 비전 카드 1장을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "R 이상 유닛 1명을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "R 이상 비전 카드 1장을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "UR 이상 비전 카드 1장을 보장 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "직업 강화에 필요한 각종 '직업의 기억: 초록' 중 1종류를 선택하여 1개 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "직업 강화에 필요한 각종 '직업의 기억: 파랑' 중 1종류를 선택하여 2개 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "직업 강화에 필요한 각종 '직업의 기억: 보라' 중 1종류를 선택하여 3개 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "직업 강화에 필요한 각종 '직업의 기억: 노랑' 중 1종류를 선택하여 4개 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "직업 강화에 필요한 각종 '직업의 기억: 빨강' 중 1종류를 선택하여 5개 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04_2",
+            "value": "직업 강화에 필요한 각종 '직업의 기억: 노랑' 중 1종류를 선택하여 4개 소환할 수 있는 티켓. ※ 콜라보 유닛의 직업은 선택 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05_2",
+            "value": "직업 강화에 필요한 각종 '직업의 기억: 빨강' 중 1종류를 선택하여 5개 소환할 수 있는 티켓. ※ 콜라보 유닛의 직업은 선택 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_JB_05_01",
+            "value": "직업 레벨 13~15 강화에 필요한 각종 스피넬(검/대검/격투/도검/창/단검/닌자도/활/총/지팡이/메이스/도끼) 1종류를 30개 선택하여 소환할 수 있는 티켓."
+        },
+        {
+            "key": "IT_US_SE_JB_04_01",
+            "value": "직업 레벨 10~12 강화에 필요한 각종 시트린(검/대검/격투/도검/창/단검/닌자도/활/총/지팡이/메이스/도끼) 1종류를 30개 선택하여 소환할 수 있는 티켓."
+        },
+        {
+            "key": "IT_US_SE_JB_03_01",
+            "value": "직업 레벨 7~9 강화에 필요한 각종 차로아이트(검/대검/격투/도검/창/단검/닌자도/활/총/지팡이/메이스/도끼) 1종류를 30개 선택하여 소환할 수 있는 티켓."
+        },
+        {
+            "key": "IT_US_SE_JB_02_01",
+            "value": "직업 레벨 4~6 강화에 필요한 각종 아즈라이트(검/대검/격투/도검/창/단검/닌자도/활/총/지팡이/메이스/도끼) 1종류를 30개 선택하여 소환할 수 있는 티켓."
+        },
+        {
+            "key": "IT_US_SE_JB_01_01",
+            "value": "직업 레벨 1~3 강화에 필요한 각종 제이다이트(검/대검/격투/도검/창/단검/닌자도/활/총/지팡이/메이스/도끼) 1종류를 15개 선택하여 소환할 수 있는 티켓."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "레어도 UR 유닛 1명을 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_R_UR_U_03",
+            "value": "2020/8/19(수) 세계시간 (PST)까지 등장한 R~UR 유닛 1명을 선택하여 소환할 수 있는 티켓 ※ '슈텔(파멸의 기사)', '일디라', '길가메시', '그라시엘라 웨젯', '라스웰', '에트와', '티렐', 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "각성에 필요한 각성 휘석 10개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_05",
+            "value": " '출시 6개월 기념 전야제 제3탄 MR 이상 유닛 보장 소환'을 진행할 수 있게 되는 티켓입니다. ※ 이 티켓의 사용 기한은 2020/9/16(수) 세계시간(PST)까지입니다. ※ 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_06",
+            "value": " '출시 6개월 기념 전야제 제4탄 MR 이상 유닛 보장 소환'을 진행할 수 있게 되는 티켓입니다. ※ 이 티켓의 사용 기한은 2020/9/23(수) 세계시간(PST)까지입니다. ※ 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_07",
+            "value": " '2020 가을 기념 캠페인 제1탄 MR 이상 유닛 보장 소환'을 진행할 수 있게 되는 티켓입니다. ※ 이 티켓의 사용 기한은 2020/10/28(수) 세계시간(PST)까지입니다. ※ 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_UR_V_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_R_UR_V_GL01",
+            "value": "2020/8/12(수) 세계시간 (PST)까지 등장한 R~UR 비전 카드 1장을 선택하여 소환할 수 있는 티켓 ※ '호른 왕국 제1부대-견뢰', '붕괴되는 정신-정신지배자', '달그림자 늑대-펜리르', '전해지지 않는 마음', '날뛰는 대지-타이탄', '전란의 네 군주', 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_04",
+            "value": "각성에 필요한 각성 휘석 30개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_05",
+            "value": "각성에 필요한 각성 휘석 200개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_VPI_LW_GLEM",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_IFRT",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_SIRE",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_SOKYU",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_TRAINING",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_MACR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_MURG",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_GRSR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FF14_MV1",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_HOLYNIGHT",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FFT_MV1",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_ODIN",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV1",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_IGNT",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_BHMT",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_MABR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_SHIV",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_RAMU",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_FAMILY",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_KTON",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_PROPOSE",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_SDLX",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_TEAPARTY",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_HUNT",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FF14_MV2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_NEWYEAR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_LAMA_01",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_GUARD",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_CACT",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_ARMN_01",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_ZUUU",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_OGRE",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_BOMB",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_JOBCRYSTAL",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_BYLO",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_RART",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_RYER",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_RIRY",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_CRYSTAL",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_DYNVERK",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_01",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_02",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_MIRROR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_TSLP",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_LILS",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV2",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_ROBUST",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_MDFY",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_ORDR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_FNRR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_TITN",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_KING",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_VKTR",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_BLMN",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VPI_LW_HALL",
+            "value": "비전 카드 각성에 필요한 아이템"
+        },
+        {
+            "key": "IT_VC_EXP_01",
+            "value": "비전 카드 경험치 획득(소)"
+        },
+        {
+            "key": "IT_VC_EXP_02",
+            "value": "비전 카드 경험치 획득(중)"
+        },
+        {
+            "key": "IT_VC_EXP_03",
+            "value": "비전 카드 경험치 획득(대)"
+        },
+        {
+            "key": "IT_VC_EXP_04",
+            "value": "비전 카드 경험치 획득(특)"
+        },
+        {
+            "key": "IT_GU_FOOD_01",
+            "value": "길드 병영의 식량 보충(1,000)"
+        },
+        {
+            "key": "IT_GU_FOOD_02",
+            "value": "길드 병영의 식량 보충(2,000)"
+        },
+        {
+            "key": "IT_GU_FOOD_03",
+            "value": "길드 병영의 식량 보충(3,000)"
+        },
+        {
+            "key": "IT_GU_FOOD_04",
+            "value": "길드 병영의 식량 보충(5,000)+획득 JP 보너스(소)"
+        },
+        {
+            "key": "IT_GU_FOOD_05",
+            "value": "길드 병영의 식량 보충(7,500)+획득 JP 보너스(중)"
+        },
+        {
+            "key": "IT_GU_FOOD_06",
+            "value": "길드 병영의 식량 보충(10,000)+획득 JP 보너스(대)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_01",
+            "value": "길드[왕뱀 석상] 경험치 획득(소)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_02",
+            "value": "길드[왕뱀 석상] 경험치 획득(중)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_03",
+            "value": "길드[왕뱀 석상] 경험치 획득(대)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_01",
+            "value": "길드[황소 석상] 경험치 획득(소)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_02",
+            "value": "길드[황소 석상] 경험치 획득(중)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_03",
+            "value": "길드[황소 석상] 경험치 획득(대)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_01",
+            "value": "길드[기린 석상] 경험치 획득(소)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_02",
+            "value": "길드[기린 석상] 경험치 획득(중)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_03",
+            "value": "길드[기린 석상] 경험치 획득(대)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_01",
+            "value": "길드[사자 석상] 경험치 획득(소)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_02",
+            "value": "길드[사자 석상] 경험치 획득(중)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_03",
+            "value": "길드[사자 석상] 경험치 획득(대)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "레이드에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "하얀 마시멜로 레이드에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_RAID_05",
+            "value": "레이드 전투에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_EC_RAID_06",
+            "value": "레이드 전투에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "소환수 강화에 필요한 속성별 마석(중) 500개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "소환수 강화에 필요한 속성별 마석(중) 10개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "소환수 강화에 필요한 속성별 마석(중) 25개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "소환수 강화에 필요한 속성별 마석(대) 100개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_5",
+            "value": "소환수 강화에 필요한 속성별 마석(대) 20개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_6",
+            "value": "소환수 강화에 필요한 속성별 마석(특) 50개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_7",
+            "value": "소환수 강화에 필요한 속성별 마석(대) 150개를 8속성 중에서 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "2020/5/20(수)까지 등장한 UR 비전 카드의 조각 1종류를 50개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "2020/6/24(수)까지 등장한 UR 비전 카드의 조각 1종류를 50개 선택하여 소환할 수 있는 티켓 ※ '칠흑의 군상' 및 '베올브의 이름을 잇는 자'는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "2020/6/17(수)까지 등장한 UR 비전 카드의 조각 1종류를 50개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "2020/7/22(수)까지 등장한 UR 비전 카드의 조각 1종류를 50개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "2020/8/12(수)까지 등장한 UR 비전 카드의 조각 1종류를 50개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_06",
+            "value": "2020/9/16(수) 세계시간 (PST)까지 등장한 UR 비전 카드의 조각 1종류를 50개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_07",
+            "value": "2020/9/16(수) 세계시간 (PST)까지 등장한 UR 비전 카드의 조각 1종류를 100개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_08",
+            "value": "2020/9/30(수) 세계시간 (PST)까지 등장한 UR 비전 카드의 조각 1종류를 100개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_09",
+            "value": "2020/10/14(수) 세계시간 (PST)까지 등장한 UR 비전 카드의 조각 1종류를 100개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_10",
+            "value": "2020/10/14(수) 세계시간 (PST)까지 등장한 UR 비전 카드의 조각 1종류를 50개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 비전 카드는 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "추천 UR 유닛 중 1명을 선택 소환할 수 있는 티켓. 이미 소지 중인 유닛을 소환한 경우 유닛의 조각 40개로 변환됩니다."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "추천 MR 유닛 중 1명을 선택 소환할 수 있는 티켓. 이미 소지 중인 유닛을 소환한 경우 유닛의 조각 20개로 변환됩니다."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "레어도 MR 유닛 1명을 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_15",
+            "value": "UR FFBE 유닛 '라스웰', '레인', '프레이비아', '아야카', '메디아나', '아이린'의 조각 중에 1종류를 40개 선택하여 소환할 수 있는 티켓 "
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "2020/6/17(수)까지 등장한 UR 유닛의 조각 1종류를 40개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "UR 유닛의 조각 40개를 선택할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "2020/8/19(수)까지 등장한 UR 유닛의 조각 1종류를 40개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_PI_GL03",
+            "value": "2020/9/9(수) 세계시간 (PST)까지 등장한 UR 유닛의 조각 1종류를 40개 선택하여 소환할 수 있는 티켓 ※ 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_PI_GL04",
+            "value": "2020/9/23(수) 세계시간 (PST)까지 등장한 UR 유닛의 조각 1종류를 40개 선택하여 소환할 수 있는 티켓 ※ '그라시엘라 웨젯', '라스웰' 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_SE_PI_GL05",
+            "value": "2020/10/21(수) 세계시간 (PST)까지 등장한 UR 유닛의 조각 1종류를 40개 선택하여 소환할 수 있는 티켓 ※ 할로윈 유닛을 제외한 기간 한정 및 콜라보 유닛은 대상에서 제외됩니다."
+        },
+        {
+            "key": "IT_US_N_GACHA_10",
+            "value": "한 번에 10회 일반 소환을 할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_SE_AF_AW_01",
+            "value": "강화의 비전서(검/대검/격투/도검/창/단검/닌자도/활/총/지팡이/메이스/도끼/방어구/장신구) 1종류를 100개 선택하여 소환할 수 있는 티켓"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "유닛의 조각과 비전 카드의 조각 등 아이템을 획득할 수 있는 티켓"
+        },
+        {
+            "key": "IT_PT_SKIP_001",
+            "value": " '심판의 시련' 전투를 건너뛸 수 있는 티켓"
+        },
+        {
+            "key": "IT_PT_BSSKIP_001",
+            "value": " '심판의 시련' 보스 전투를 건너뛸 수 있는 티켓"
+        },
+        {
+            "key": "IT_PT_BOSS_001",
+            "value": " '심판의 시련' 보스에 도전할 수 있는 티켓"
+        },
+        {
+            "key": "IT_EC_POINT_001",
+            "value": "심판의 시련에서 획득할 수 있는 메달"
+        },
+        {
+            "key": "IT_AF_LW_HLM_005",
+            "value": "백금 투구 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_ACC_001",
+            "value": "리본 제작에 필요한 제작법"
+        },
+        {
+            "key": "IT_AF_LW_KAT_008",
+            "value": "자색 번개 제작에 필요한 제작법"
+        }
+    ]
+}

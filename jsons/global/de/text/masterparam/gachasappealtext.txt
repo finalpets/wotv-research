@@ -1,0 +1,116 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "FFXIV-Kollabo<br>Jetzt beschwören!"
+        },
+        {
+            "key": "2",
+            "value": "Neue Einheiten &<br>neue Esper!"
+        },
+        {
+            "key": "3",
+            "value": "Neue Einheiten &<br>neue Esper!"
+        },
+        {
+            "key": "4",
+            "value": "FFT-Kollabo<br>Jetzt beschwören!"
+        },
+        {
+            "key": "5",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "6",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "7",
+            "value": "Neue Einheiten<br>& Esper!"
+        },
+        {
+            "key": "8",
+            "value": "Neue Einheiten<br>& Esper!"
+        },
+        {
+            "key": "9",
+            "value": "Blickpunktbeschwörung<br>jetzt verfügbar!"
+        },
+        {
+            "key": "10",
+            "value": "Neue Einheiten<br>& Esper!"
+        },
+        {
+            "key": "11",
+            "value": "Blickpunktbeschwörung<br>jetzt verfügbar!"
+        },
+        {
+            "key": "12",
+            "value": "Neuzugänge!<br>Jetzt im Blickpunkt!"
+        },
+        {
+            "key": "13",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "14",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "15",
+            "value": "FFI-Kollabo<br>Jetzt beschwören!"
+        },
+        {
+            "key": "16",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "17",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "18",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "19",
+            "value": "FFT-Kollabo<br>Jetzt beschwören!"
+        },
+        {
+            "key": "20",
+            "value": "Orlandeau und<br>Ramza wieder da!"
+        },
+        {
+            "key": "21",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "22",
+            "value": "<space=7>Neue FFCCRE-<br>Visionskarten<br>jetzt verfügbar!"
+        },
+        {
+            "key": "23",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "24",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "25",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "26",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "27",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
+        },
+        {
+            "key": "28",
+            "value": "Neue Visionskarten<br>im Blickpunkt!"
+        }
+    ]
+}

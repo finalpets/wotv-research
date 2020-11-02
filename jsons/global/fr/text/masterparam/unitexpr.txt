@@ -1,0 +1,2216 @@
+{
+    "infos": [
+        {
+            "key": "UN_LW_P_MONT",
+            "value": "L'aîné des jumeaux du roi Eldo et de la reine Helena de Leonis. Il n'aime pas la guerre et croit bien plus en une coexistence pacifique entre nations plutôt qu'au pouvoir acquis par les conquêtes. Après avoir rencontré Machalie, la princesse de Hourne, il se rend compte qu'il lui faut devenir plus fort afin de protéger ceux qu'il aime."
+        },
+        {
+            "key": "UN_LW_P_STRN",
+            "value": "Le cadet des jumeaux du roi Eldo et de la reine Helena de Leonis. Il tient son talent pour le maniement de l'épée de son père et beaucoup aimeraient le voir succéder au trône, lui, plutôt que son frère. Parce qu'il lui a été formellement interdit d'aller sur un quelconque champ de bataille, une confrontation avec Eldo semble inévitable."
+        },
+        {
+            "key": "UN_LW_P_ELDE",
+            "value": "Un valeureux guerrier et roi de Leonis qui a eu des jumeaux, Mont et Sterne, avec son épouse la reine Helena. Plutôt froid avec ses enfants, son principal objectif est de perpétuer la lignée royale, quitte à prendre parfois des décisions sans aucun affect pour protéger au moins l'un d'entre eux."
+        },
+        {
+            "key": "UN_LW_P_ROBB",
+            "value": "Le roi de Hourne, connu pour sa patience et sa bienveillance. Bien qu'il n'aime pas les conflits, il décide de donner sa fille Machalie en mariage afin de forger une alliance avec les Fennes, sur le conseil de Sadali, chef tout-puissant de l'Église, qui le prévient d'une invasion imminente par Rundall, un puissant pays de l'ouest."
+        },
+        {
+            "key": "UN_LW_P_ENBT",
+            "value": "Le commandant de Solidus, la première division de Hourne. Issu d'une lignée de chevaliers qui servent Hourne depuis des générations, Engelbert est lui-même surnommé « Le Bouclier d'acier » ; un titre qu'il doit principalement à l'entraînement rigoureux imposé par son père. Avide de venger la mort de celui-ci, il attend avec impatience le jour où il sera amené à livrer bataille contre la nation de Rundall."
+        },
+        {
+            "key": "UN_LW_P_ZIZA",
+            "value": "Une moniale itinérante recueillie par Sadali. Xiza, après avoir été « secourue », fut envoyée auprès de l'Église, où elle dut suivre un entraînement d'une extrême rigueur. Elle fut envoyée en Hourne des années plus tard sur ordre secret de Sadali, chargée par ce dernier de semer les graines de la rébellion pour déclencher l'effondrement du pays tout entier."
+        },
+        {
+            "key": "UN_LW_P_AILN",
+            "value": "Une machiniste venue d'un continent étranger, situé au-delà des frontières d'Ardra. Elle se spécialise dans la confection d'armes sur mesure. Aileen a quitté sa ville natale pour parcourir le monde et parfaire ses talents. Sa devise est : « Il existe une arme pour tout le monde »."
+        },
+        {
+            "key": "UN_LW_P_MDNA",
+            "value": "Une mage au pouvoir prodigieux qui a porté bien des noms au fil des années. Les rumeurs affirment que Mediena, en dépit de ses allures de jeune femme, est en réalité âgée de plusieurs centaines d'années. Elle a tendance à ne pas s'impliquer dans les affaires qu'elle juge inintéressantes, mais semble malgré tout avoir dérogé à sa propre règle plus d'une fois, tant pour sauver quelques enfants de la noyade que pour s'immiscer dans des conflits opposant des empires tout entiers."
+        },
+        {
+            "key": "UN_LW_P_AYKA",
+            "value": "Une mage blanche venue d'un continent étranger, situé au-delà des frontières d'Ardra. Ayaka, dès la naissance, était manifestement douée d'un rare talent pour la magie qui dépassait de loin les capacités de son entourage d'alors. Elle put néanmoins développer ce formidable don lorsqu'elle fut découverte par un mage itinérant. En dépit de son extraordinaire pouvoir, elle se révèle parfois tête en l'air."
+        },
+        {
+            "key": "UN_LW_P_MACR",
+            "value": "La courageuse fille de Rob, roi de Hourne, qui va toujours au bout de ce qu'elle entreprend. Douée d'une grande sagacité, Machalie se caractérise par sa capacité à lire dans l'esprit humain comme dans un livre ouvert. Sa calèche est attaquée par un groupe de bandits inconnus lors du trajet censé l'amener à sa belle-famille ; un événement qui la conduit à sa rencontre fatidique avec Mont."
+        },
+        {
+            "key": "UN_LW_P_HLNA",
+            "value": "La reine de Leonis, et la mère de Mont et Sterne. Elle accorde la confiance la plus totale au roi Eldo et se sacrifierait sans hésiter pour sauver son pays. Rares sont ceux qui connaissent son passé et qui savent donc qu'avant de se marier, Helena était une puissante mage noire crainte par des pays tout entiers."
+        },
+        {
+            "key": "UN_LW_P_LILS",
+            "value": "Une chevaleresse qui est à la tête de Caelum, la seconde division de Leonis, et inspire la crainte chez les nations voisines en raison de son habileté à l'épée. Lilyth s'exprime crûment, mais possède un sens aigu de la justice et refuse d'abandonner ceux qui sont dans le besoin. Elle affectionne particulièrement Mont, car celui-ci lui rappelle le frère qu'elle a perdu au combat."
+        },
+        {
+            "key": "UN_LW_P_RAMD",
+            "value": "Une lancière de Caelum, la seconde division de Leonis. Ramada est le bras droit de Lilyth, et lui prodigue toujours de précieux conseils dans les moments difficiles. Elle est considérée comme la plus grande astrologue de tout le pays, et ce serait d'ailleurs les astres qui l'auraient guidée dans son choix de rejoindre Leonis."
+        },
+        {
+            "key": "UN_LW_P_OOOO",
+            "value": "Un épéiste qui réside à Leonis en qualité d'hôte. Owe s'est joint à « Fortem », le corps mené par Sterne, probablement car il s'y sentait davantage comme chez lui. Ayant passé toute sa vie en Orient, il est réputé pour sa valeur et pour son style de combat unique. Il sert également de maître d'armes à Sterne."
+        },
+        {
+            "key": "UN_LW_P_LRNZ",
+            "value": "Un dragonnier de « Solidus », la première division de Hourne, qui idolâtre Engelbert et sa volonté de se sacrifier pour protéger ses alliés. Réputé pour son tempérament de feu, Lorenzo est aussi le descendant d'un des seuls hommes jamais reconnus par le dragon. Il est toutefois le premier à tempérer l'orgueil que pourrait lui inspirer sa lignée."
+        },
+        {
+            "key": "UN_LW_P_RIRY",
+            "value": "Un impitoyable shinobi originaire de Gouga et œuvrant pour le compte de Muraga. Il tuerait sans hésiter sa propre famille si la récompense en valait la peine. Rairyuu perçoit Saiga comme l'ennemi de Gouga en raison des puissants shinobis qui y sont traditionnellement formés, et a dédié sa vie entière à l'extermination du village rival."
+        },
+        {
+            "key": "UN_LW_P_VSTR",
+            "value": "Un chasseur de Solidus, la première division de Hourne. Vistral est mu par une seule et unique ambition morbide : périr des mains de l'adversaire le plus terrible qui soit. Il parcourt ainsi les champs de bataille, cherchant un combattant digne de lui accorder la mort. En réalité, Vistral est un espion envoyé par Sadali en vue de l'inévitable rébellion."
+        },
+        {
+            "key": "UN_LW_P_CLEY",
+            "value": "Le roi de Wezett, aussi connu pour ses talents d'archer exceptionnels. Khory fait preuve d'une cruauté et d'une méfiance hors du commun, et n'accorde que la confiance la plus sommaire à ses sujets en raison de leurs soulèvements passés. S'il s'est allié avec le royaume de Leonis, c'est uniquement dans le but de profiter d'une zone tampon entre Hourne et son propre pays."
+        },
+        {
+            "key": "UN_LW_P_KADI",
+            "value": "Une prêtresse de « Spirare », la brigade personnelle de Graziella, et la demi-sœur de celle-ci par leur mère. La jeune princesse accorde une grande confiance à Cadia, et l'estime tout particulièrement en raison de sa vivacité d'esprit. C'est d'ailleurs dans le but de protéger leur famille qu'elle a contribué à la fondation de « Spirare »."
+        },
+        {
+            "key": "UN_LW_P_MRLK",
+            "value": "Une moniale originaire de Wezett rendue orpheline par la guerre. Marie-Luke décida un jour de s'engager dans l'armée de Wezett afin de nourrir son jeune frère, mais éprouva de grandes difficultés à s'adapter aux exigences rigoureuses du monde militaire. Ce fut à ce moment que Graziella, qui la considère comme sa propre sœur, lui offrit de rejoindre « Spirare »."
+        },
+        {
+            "key": "UN_LW_P_MGRT",
+            "value": "Une mage qui contribue en secret aux efforts de « Rubeus », le groupe de résistants s'étant donné pour mission de voler aux riches pour donner aux pauvres. Alors que sa seule vue suffit à insupporter le roi Khory, la sorcière s'entend en revanche à merveille avec la fille de ce dernier, Graziella."
+        },
+        {
+            "key": "UN_LW_P_PRAY",
+            "value": "Une femme créée par Sadali, qu'elle suit comme son ombre et protège à la manière d'un garde du corps personnel. Alors même que son créateur semble s'enfoncer toujours plus profondément dans les ténèbres, « Grâce » continue de le protéger, enveloppant celui-ci dans la plus délicate des lumières."
+        },
+        {
+            "key": "UN_LW_P_SZRT",
+            "value": "Un chevalier de « Solidus », la première division de Hourne. Schuzelt est surnommé « le Champion téméraire » en raison de sa façon de charger au cœur du combat sans montrer le moindre signe de peur. Trois jours avant la cérémonie de mariage qui devait l'unir à sa bien-aimée Naiah, il reçut l'ordre d'escorter Machalie à Fennes pour ses noces."
+        },
+        {
+            "key": "UN_LW_P_FINA",
+            "value": "Une jeune fille amnésique apparue au beau milieu d'un cristal et qui ne possède pour seul souvenir que son prénom. Bien qu'elle fasse preuve d'une certaine innocence et d'une curiosité infantile, son habilité à maîtriser la magie blanche et le tir à l'arc laissent penser qu'elle cache en elle bien plus de choses qu'elle ne semble se rappeler."
+        },
+        {
+            "key": "UN_LW_P_BYLO",
+            "value": "Un chevalier de « Caelum », la seconde division de Leonis, doté d'une nature gourmande et désinvolte. Une attitude qui se dissipe rapidement dès que le moindre danger menace un de ses compagnons, car Beilo se transforme alors en un guerrier des plus vaillants. Le jeune homme est aussi l'ami d'enfance de Mont, et c'est à la demande de ce dernier qu'il a rejoint « Caelum » dès sa création."
+        },
+        {
+            "key": "UN_LW_P_RYER",
+            "value": "Une chevaleresse mage qui, en dépit de son inexpérience au combat, parvint à rejoindre « Fortem », la première division de Leonis. Elle fut recrutée par Sterne en personne, qui remarqua immédiatement sa nature joviale et enthousiaste. Lillyla est très fière du nom que lui a donné sa mère, et prend ombrage chaque fois qu'on l'appelle autrement."
+        },
+        {
+            "key": "UN_LW_P_SCIA",
+            "value": "Une dragonnière présentement au service de Leonis qui fut jadis enrôlée dans l'armée de Rundall, son pays natal. Les forces menées par Jayden étaient en effet si puissantes qu'aucun ennemi ne présentait le moindre défi pour ses soldats. Sosha, lasse de régner ainsi sur le champ de bataille, erra alors pendant quelque temps puis finit par rejoindre Leonis. Elle est convaincue qu'il est infiniment plus divertissant de se battre pour sa propre survie quand on est du côté que le sort donne perdant."
+        },
+        {
+            "key": "UN_LW_P_VRID",
+            "value": "Un mage vert qui voit la vie en rose et appartient à « Fortem », la première division de Leonis. Valaïde semble capable de se rire de tous les dangers, et donnerait sans hésiter sa propre vie pour le bien de ses alliés. Il est épris de Ramada et souffre grandement de ne pouvoir lui parler, celle-ci ayant rejoint « Caelum »."
+        },
+        {
+            "key": "UN_LW_P_NAIA",
+            "value": "Une mage blanche au service de Hourne. Naiah est très éprise de Schuzelt, son actuel fiancé qu'elle a rencontré par hasard il y a douze ans de cela. De nature plutôt casanière, elle aurait amplement préféré rester chez elle pour se perdre dans un bon bouquin, mais se résolut à pratiquer la magie blanche afin d'assister son bien-aimé."
+        },
+        {
+            "key": "UN_LW_P_SRJS",
+            "value": "Un lancier qui est à la tête d'« Equito », la première division de Wezett. Serjes, en raison du visible mépris que lui voue le roi Khory, n'éprouve plus le moindre attachement à son pays, mais continue néanmoins d'obéir à ses ordres par refus d'abandonner ses subordonnés, qu'il estime."
+        },
+        {
+            "key": "UN_LW_P_UNII",
+            "value": "Un chasseur d'« Equito », la première division de Wezett. Yuni, ayant perdu sa famille tout entière dans les ravages de la guerre, fut recruté au sein d'Equito par Serjes. Depuis lors, il est parvenu à gagner le respect de ses alliés grâce à son talent exceptionnel dans le maniement de l'arc, ce que son apparente jeunesse ne laisse guère deviner."
+        },
+        {
+            "key": "UN_LW_P_SEVR",
+            "value": "Un mage noir d'« Equito », la première division de Wezett. Enrôlé de force dans l'armée, mais ne supportant pas la vue du sang, Sévéro choisit la voie du mage plutôt que celle du guerrier. Alors même qu'il est loin de mener la vie qu'il envisageait, sa nature studieuse l'a toutefois amené à jouer un rôle central dans l'histoire d'« Equito »."
+        },
+        {
+            "key": "UN_LW_P_VADM",
+            "value": "Le chef de « Rubeus », le groupe de résistants clandestins qui risquent leur vie pour venir en aide aux plus démunis ; notamment en volant aux riches pour donner aux pauvres. Bien que Vadim se soit sans surprise attiré les foudres du roi Khory, il entretient des rapports amicaux avec Serjes, le commandant d'« Equito »."
+        },
+        {
+            "key": "UN_LW_P_MURM",
+            "value": "Une femme créée par Sadali, qu'elle suit comme son ombre et protège à la manière d'un garde du corps personnel. Nommée « Murmure » par son créateur, il l'aurait façonnée à l'image de la seule femme qu'il ait jamais aimée. Elle ne semble éprouver aucune émotion, pas même la douleur..."
+        },
+        {
+            "key": "UN_LW_P_PHBE",
+            "value": "Une chronomage originaire du royaume septentrional d'Ovis. Il y a six mois, son pays natal succomba à la ruine quand il fut soudainement plongé dans un conflit avec Rundall sans même une déclaration de guerre. Afin de sauver sa contrée, Phœbe se lança dans un périple visant à demander des renforts à Hourne, bien que consciente qu'il était peut-être déjà trop tard."
+        },
+        {
+            "key": "UN_LW_P_RART",
+            "value": "Une archère de « Caelum », la seconde division de Leonis. Learte stupéfia son entourage quand, n'étant encore qu'une enfant jouant avec son arc, elle logea chacun de ses traits en plein centre de sa cible. Elle rejoignit « Caelum » sur conseil de Lilyth quand celle-ci lui promit que l'expérience qu'elle gagnerait au sein de l'armée lui permettrait de devenir une véritable virtuose de l'arc."
+        },
+        {
+            "key": "UN_LW_P_MICE",
+            "value": "Un mage noire originaire du royaume septentrional d'Ovis. Michaé forma un second peloton quand il perdit le contact avec Phœbe, celle-ci ayant quitté leur pays pour demander des renforts à Hourne dans l'espoir de repousser les assauts de Rundall. Il gagna ensuite l'est aux côtés de la princesse Lucielle, et ce, à l'heure où un assassin de Rundall voyageait lui aussi dans cette direction..."
+        },
+        {
+            "key": "UN_LW_P_MIIA",
+            "value": "Une voleuse au service de Saiga. Originaire d'un village qui fut anéanti par une horde de monstres, Mia est particulièrement reconnaissante envers le chef de Saiga. Celui-ci accepta en effet de recueillir la jeune femme, ainsi que sa mère, alors qu'elles n'avaient nulle part où aller. Mia a cependant bien du mal à s'habituer à sa nouvelle et simple vie de villageoise, et rêve d'entrer au service d'un riche noble."
+        },
+        {
+            "key": "UN_LW_P_ZZAN",
+            "value": "Un guerrier au service de Gouga. Zazan se caractérise par son amour excessif de la violence, qu'il semble partager avec Rairyuu, l'homme qui lui a fait découvrir le village de shinobis. Plusieurs rumeurs déclarant son immortalité circulent à son sujet, toutes vraisemblablement fondées sur son incroyable ténacité."
+        },
+        {
+            "key": "UN_LW_P_GLMS",
+            "value": "Un être fort énigmatique dont les ailes d'acier auraient, selon la légende, le pouvoir de transcender non seulement l'espace, mais aussi le temps. Gilgamesh a confié au royaume de Leonis le rôle de « Gardien » et s'efforce de convaincre les suzerains de chaque pays de se préparer à « l'Heure du jugement », qu'il qualifie d'imminente."
+        },
+        {
+            "key": "UN_FF14_P_YSTL",
+            "value": "Cette mystérieuse Miqo'te, membre des Héritiers de la Septième Aube, est une mage hors pair, mais aussi une spécialiste des langues et civilisations anciennes. En fonction de la situation, ses sorts peuvent être aussi guérisseurs que destructeurs."
+        },
+        {
+            "key": "UN_FF14_P_TNCR",
+            "value": "Thancred est un espion aguerri capable de survivre aux conditions les plus difficiles. Après avoir découvert les techniques des pistosabreurs lors d'une mission d'infiltration dans une province garlemaldaise, il adopte la pistolame afin de protéger la personne à laquelle il tient le plus au monde, fût-ce au péril de sa vie."
+        },
+        {
+            "key": "UN_LW_P_FDRC",
+            "value": "Une des femmes du « peuple de la forêt » qui vit au cœur des vastes forêts claires. Frederika se fit particulièrement remarquer quand elle vint en aide à l'armée de Hourne, alors tombée dans une embuscade tendue par des monstres, et démontra l'étendue de ses talents de pistolero. Recrutée par Rob, elle quitta ses chers bois pour rejoindre « Solidus ». Elle semble d'ailleurs avoir un faible pour Engelbert, le commandant de sa division."
+        },
+        {
+            "key": "UN_LW_P_SDLX",
+            "value": "Une shinobi originaire de Saiga qui fut vendue pour servir Hourne. Elle proclame souvent l'indéfectible loyauté qu'elle voue à Rob et Machalie, qui la traitent l'un comme sa fille, et l'autre comme sa sœur. Shadowlynx est particulièrement proche de Machalie depuis leur plus jeune âge, et a toujours protégé la princesse comme un véritable garde du corps."
+        },
+        {
+            "key": "UN_LW_P_YERM",
+            "value": "Une guerrière à la chevelure de feu qui recherche perpétuellement un homme capable de la vaincre. Yelma a depuis longtemps cessé de compter les hommes qui ont succombé à ses charmes, mais n'a toujours pas trouvé celui qui pourrait la surpasser au combat. Au cours de son périple, elle a notamment fait la connaissance d'Éthéa."
+        },
+        {
+            "key": "UN_LW_P_NASR",
+            "value": "Nasha, par amour pour le prince Sterne de Leonis, refusa de se plier au mariage arrangé par ses parents et abandonna dans la foulée son village natal. Lors de l'épreuve d'admission à « Fortem », la première division menée par Sterne, la jeune guerrière se rua sans hésiter à l'intérieur d'un repaire de squelettes. Hélas, n'ayant aucun sens de l'orientation, elle se perdit dans le dédale des grottes."
+        },
+        {
+            "key": "UN_LW_P_ETRE",
+            "value": "Éthéa quitta son foyer afin de réaliser son rêve de rejoindre « Fortem » ; un espoir né de l'amour éperdu qu'elle voue au prince Sterne de Leonis depuis leur première rencontre. Originaire d'un village démuni souffrant d'un cruel manque d'armes, elle choisit de devenir une moniale, combattant à mains nues et repoussant les limites de ses facultés par le biais de son entraînement spécial."
+        },
+        {
+            "key": "UN_FFT_P_RAMZ",
+            "value": "Le troisième fils de la grande Maison militaire de Béoulve. Il apparaît dans la légende des Pierres du Zodiaque, un mythe que racontent depuis toujours les habitants du royaume lointain d'Ivalice. Il est devenu chevalier après un dur entraînement à l'Académie royale, mais il est le cadet d'une fratrie de Généraux déjà reconnus et nés d'une autre mère, ce qui n'a cessé de nourrir ses complexes."
+        },
+        {
+            "key": "UN_FFT_P_GFGR",
+            "value": "Un mercenaire au service de l'Ordre du Septentrion. Il apparaît dans la légende des Pierres du Zodiaque, un mythe que racontent depuis toujours les habitants du royaume lointain d'Ivalice. Son passé trouble est un mélange de gloire en tant que Général de l'Ordre du Levant pendant la guerre de 50 ans, et de la sombre réputation des actes qu'il commit au nom de la victoire à cette occasion, menant jusqu'à son exclusion à la fin de la guerre."
+        },
+        {
+            "key": "UN_FFT_P_ORND",
+            "value": "Ce guerrier, dont la féroce réputation raconte qu'il fut invaincu pendant la guerre de 50 ans, apparaît dans la légende des Pierres du Zodiaque, un mythe que racontent depuis toujours les habitants du royaume lointain d'Ivalice. Ne se battant que pour le peuple, il désaprouve fermement la guerre des Lions qui déchire le pays pour de triviales raisons de succession."
+        },
+        {
+            "key": "UN_LW_P_WHIS",
+            "value": "Une femme créée par Sadali, qu'elle suit comme son ombre et protège à la manière d'un garde du corps personnel. Ses lèvres couleur de sang demeurent à jamais fermées, mais certains jurent que l'esquisse d'un sourire se dessine sur son visage lorsqu'elle abat ceux qui osent défier son maître."
+        },
+        {
+            "key": "UN_LW_P_KTON",
+            "value": "Une shinobi au service de Leonis. Originaire du village de Saiga, Kitone fut vendue pour servir le royaume de Hourne durant son enfance. Elle fut toutefois fort émue par l'attitude chaleureuse de Lilyth et de ses compagnons à son égard, et jura ainsi de servir Leonis à jamais. Elle est très reconnaissante envers Mont, au point d'éprouver pour lui des sentiments qui dépassent certainement la gratitude."
+        },
+        {
+            "key": "UN_LW_P_MRND",
+            "value": "Une mage rouge originaire de l'est que Seymore a pris sous sa tutelle. L'ambition première de Miranda était de rejoindre les rangs des samouraïs, mais il lui fallut admettre qu'elle ne possédait pas les qualités exigées par la vocation. Elle voue une grande admiration à Graziella en raison de l'importance qu'elle accorde à sa propre famille, et se bat contre le roi Khory aux côtés de « Spirare »."
+        },
+        {
+            "key": "UN_LW_P_DRND",
+            "value": "Un mercenaire machiavélique qui parcourt le monde. Si Dorando œuvre pour le compte de Sadali, c'est uniquement parce qu'il est convaincu que ce dernier accédera un jour au pouvoir. Le scélérat a en outre ses propres desseins à l'endroit de Muraga... En effet, il prévoit d'éliminer ce dernier une fois la conquête de Rundall achevée à l'ouest, pour ensuite s'emparer lui-même du trône de Fennes."
+        },
+        {
+            "key": "UN_LW_P_LUCA",
+            "value": "Une Artilleuse ambidextre à la tête de la troisième division de Rundall, « Calorum ». Bien que souvent calme et maîtresse d'elle-même, ses pistolets criblent de balles quiconque se trouve au mauvais endroit au mauvais moment quand elle est en colère, en faisant une ennemie et une alliée redoutée. Elle admire le roi Jayden avec ferveur et rêve d'être promue dans « Vanum »."
+        },
+        {
+            "key": "UN_LW_P_ADLD",
+            "value": "Un jeune mage rouge qui commande Nitor, la seconde division de Hourne. Rares sont les choses qui sont capables de percer l'armure de sérénité que semble porter Adelard. On peut cependant déceler en lui une faiblesse : sa sœur Saliah, qu'il chérit plus que tout au monde. Il est depuis peu en proie à certains doutes à son endroit, et craint de l'avoir trop gâtée. Hélas, le mal est fait."
+        },
+        {
+            "key": "UN_LW_P_MURG",
+            "value": "Le roi de Fennes, un pays de barbares tenant les terres frontalières d'une main de fer. Muraga est convaincu que l'« anneau séculaire » détenu par Leonis est la seule chose qui se dresse entre le royaume et son invincible armée de sauvages. Il obéit à Sadali, l'autorité suprême de l'Église, et prévoit de s'emparer lui-même du pouvoir de Leonis pour anéantir Hourne."
+        },
+        {
+            "key": "UN_LW_P_VKTR",
+            "value": "Une dragonnière qui voyage de contrée en contrée et répugne à l'idée de dépenser son argent sur toute chose autre que son apparence. Sommée par le roi Khory de rentrer en son pays natal de Wezett, elle accepta en effet l'invitation, mais uniquement car le monarque promit de faire d'elle sa reine si elle lui apportait la victoire."
+        },
+        {
+            "key": "UN_LW_P_THLA",
+            "value": "Une mage noire de « Nitor », la seconde division de Hourne. Saliah est la sœur cadette d'Adelard, et a la fâcheuse tendance de s'adresser au roi Rob sur un ton débordant d'irrévérence. Elle aime tendrement son frère et perçoit quiconque tente de se rapprocher de lui comme une menace, au point d'être devenue mage noire pour le protéger."
+        },
+        {
+            "key": "UN_LW_P_RAIN",
+            "value": "Un chevalier du royaume de Grandshelt. Pilote prodige passé aux commandes d'un vaisseau dès l'âge de dix-huit ans, il garde une attitude insouciante ; certains diraient même nonchalante. Il a la confiance totale du roi et de tout son peuple, ce qu'il doit en grande partie à la réputation de son père comme fidèle chevalier du royaume."
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "Une magilame originaire d'un autre continent. Dissimulant son héritage elfique, elle est à la recherche d'un équipement à la hauteur des nombreuses aptitudes qu'elle maîtrise. Elle a découvert que rien ne la ravissait plus que de croiser le fer avec un adversaire, si bien qu'elle espère à présent pouvoir se mesurer aux guerriers du monde entier."
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Une assassine de Fennes qui fut enlevée dès l'enfance par Muraga, puis instruite toute sa vie dans l'art de l'assassinat. Par un dessein de Sadali, Vinera fut envoyée en Hourne, où elle se fit passer pour la fille du roi Muraga dans le but de supprimer Dario, le prince hournois."
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "Le prince de Hourne et le frère aîné de Machalie. Bien que magilame exceptionnellement doué, l'idée de combattre lui répugne encore plus qu'il hait son père, et il n'a aucune intention d'hériter du trône. Avant le départ de Machalie pour son propre mariage, Dario accepte de prendre pour épouse Vinera, la fille du roi de Fennes."
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "Un chevalier formé dans le Repaire du serpent, le centre d'entraînement des shinobis de Fennes. Il fut envoyé pour escorter Vinera jusqu'à Hourne, où celle-ci devait épouser le prince Dario avant de l'assassiner. Au début, ses sentiments pour Vinera le firent haïr le prince, mais..."
+        },
+        {
+            "key": "UN_FF1_P_WROL",
+            "value": "Un grand héros dont on chante les louanges dans un monde lointain. Les quatre guerriers dénués de mémoire transportaient chacun sur eux un cristal que la lumière avait quitté. Ils finirent par comprendre que ces cristaux étaient inextricablement liés au devenir de leur monde, et partirent en quête d'un moyen de leur redonner tout leur éclat."
+        },
+        {
+            "key": "UN_LW_P_QILF",
+            "value": "Le bras droit d'Oldoa. Elle vient d'un village glacial près de la frontière entre Fennes et Wezett. Malgré sa réticence, elle fut forcée de prendre part à la guerre à cause de son inégalable talent. Seul l'espoir de revoir son petit frère en vie, lui aussi fait prisonnier et dont elle n'a plus de nouvelles, la maintient en vie."
+        },
+        {
+            "key": "UN_LW_P_SIMR",
+            "value": "Un samouraï de l'est dont l'habileté remarquable à l'épée lui a valu d'être invité à la cour de Wezett par le roi Khory. Or lorsqu'il découvrit la souffrance infligée par la tyrannie du roi sur son peuple, il se rapprocha de la faction de Graziella. Son amour pour l'alcool est bien connu."
+        },
+        {
+            "key": "UN_LW_P_ORDR",
+            "value": "Une épéiste, cousine éloignée du roi Muraga de Fennes, et seule stratège de l'armée du royaume. Sa profonde admiration pour Muraga lui fait naturellement entretenir une certaine rancœur à l'endroit de Sadali qui le traite comme un subordonné."
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "Une épéiste qui erre d'un royaume à l'autre après la perte de ses parents et de son plus jeune frère. Un mystérieux dessein l'a menée jusqu'à l'extrême Orient et elle a confié à Owe et Seymore son désir de devenir samouraï de l'Est. Mais quelles sont ses véritables intentions ?"
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "Une chevalière au service de la famille royale Atkascha et garde du corps personnel de la princesse Ovelia. Elle apparaît dans le conte des pierres du Zodiaque, raconté depuis des siècles dans le monde lointain d'Ivalice. Elle est connue pour sa noblesse d'esprit, son indéfectible loyauté et son sens aiguisé de la justice. Aussi ne peut-elle s'empêcher de plaindre la princesse qui ne cesse d'être jetée à la merci du chaos du monde."
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "Le fils d'un fermier au service de la Maison Béoulve. Il apparaît dans le conte des pierres du Zodiaque, raconté depuis des siècles dans le monde lointain d'Ivalice. Après la mort de ses parents, il fut généreusement recueilli par le père de Ramza, Barbaneth, et put ainsi suivre les enseignements de l'académie militaire réservée d'ordinaire aux enfants de la noblesse."
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "Un jeune mineur de la cité mécanique de Goug, étonnamment doué avec les armes à feu. Il apparaît dans le conte des pierres du Zodiaque, raconté depuis des siècles dans le monde lointain d'Ivalice. Traqué par la Compagnie commerciale de Baert après qu'il a excavé une de ces pierres dans les mines, il est heureusement sauvé par Ramza."
+        },
+        {
+            "key": "UN_LW_P_IRDL",
+            "value": "Une arithméticienne de Leonis qui aurait rêvé de devenir tacticienne comme sa défunte mère. Craignant pour sa sécurité, la reine Helena a plutôt choisi de lui confier la charge des finances du royaume. Elle est persuadée que les mathématiques sont capables de changer le cours d'une bataille."
+        },
+        {
+            "key": "UN_LW_P_STRN_01",
+            "value": "Sterne arborant l'armure dorée que lui a donnée Sadali, le fondateur de l'Église du Cristal. Porteuse d'un pouvoir maléfique, elle amplifie la haine que ressent Sterne à l'égard de son père, Eldo. Consumé par la rage, le prince semble incapable de différencier ses alliés de ses ennemis."
+        },
+        {
+            "key": "UN_LW_P_LSWL",
+            "value": "Un chevalier du royaume de Grandshelt. Il partage le commandement de son vaisseau avec son ami d'enfance, Rain. Ses aptitudes, qui n'ont rien à envier à celles de Rain, et son sérieux lui valent la confiance de ses supérieurs comme de ses subordonnés. Il a toutefois tendance à se laisser entraîner par Rain, souvent à tort."
+        },
+        {
+            "key": "UN_LW_P_GRSR",
+            "value": "La fille de Khory, le roi de Wezett. Elle fut enfantée non pas par la reine, mais par une simple domestique ; ceci étant, elle a dû faire face à de nombreuses tentatives d'assassinat commanditées par ceux qui espèrent prendre sa place dans l'ordre de succession. Graziella méprise son père, le roi Khory, et s'efforce d'assembler sa propre brigade dans le plus grand secret afin de lancer une révolution."
+        },
+        {
+            "key": "UN_LW_P_RRIR",
+            "value": "Cheffe de la tribu de Gouga, elle fut nommée à ce poste par l'ancien dirigeant de ce village, soucieux de l'avenir de ses habitants, transformés en une bande de meurtriers égoïstes et sans scrupules. Ironie du sort, elle finit par tomber amoureuse du chef de Saiga, et nourrit désormais l'espoir de pouvoir un jour unir les deux nations."
+        },
+        {
+            "key": "UN_LW_P_RYER_01",
+            "value": "Si tu ne prononces pas mon nom correctement, tu peux oublier les bonbons, tu n'auras que le sort ! Quoi, ça te fait rire ? Mais je suis très sérieuse ! « Ce qui va se passer si tu écorches mon nom ? » Essaie un peu, pour voir, mais tu risques de le regretter !"
+        },
+        {
+            "key": "UN_LW_P_RIRY_01",
+            "value": "Alors c'est ici que se passe la petite fête d'Halloween ? Regardez-moi tout ce beau monde... C'est l'heure de leur faire une petite surprise ! N'ayez crainte, il y en aura pour tout le monde, et je vais pas les louper."
+        },
+        {
+            "key": "UN_LW_P_HWLT",
+            "value": "Beau chevalier runique, il est l'aîné de la famille Groms. Amoureux de la gente féminine, il préfère passer du temps avec les femmes qu'il considère comme de réelles princesses plutôt que d'assister à ses entraînements. Son comportement lui vaudra d'être déshérité par son père et maître, l'amenant ainsi à voyager sur les routes accompagné de Thytas, son jeune frère, et de Chel, sa petite sœur."
+        },
+        {
+            "key": "UN_LW_E_IRDL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LILS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_STRN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SZRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MACR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MURG",
+            "value": "Équivalent MR/Viking/Chevalier/Soldat : valeur max inclut l'équilibrage de Job"
+        },
+        {
+            "key": "UN_LW_E_ADLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THLA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_HLNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SDLX",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GRGS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OOOO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RIRY",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VSTR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CLEY",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_NASR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ETRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ZIZA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELDE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ZZAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_STRN_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_STRN_01_TO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRND",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SRJS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_UNII",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SEVR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GRSR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CMLO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_WHIS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_KTON",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRZA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RART",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RRIR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VKTR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLMS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BYLO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RYER",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MURM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRIO",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_02_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00",
+            "value": "Applique les caractéristiques du voleur N"
+        },
+        {
+            "key": "UN_LW_E_TH_01",
+            "value": "Applique les caractéristiques du voleur N"
+        },
+        {
+            "key": "UN_LW_E_TH_02",
+            "value": "Applique les caractéristiques du voleur R"
+        },
+        {
+            "key": "UN_LW_E_TH_02_THI",
+            "value": "Applique les caractéristiques du voleur R"
+        },
+        {
+            "key": "UN_LW_E_TH_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_CLR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_TIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_GRM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_RDM_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_THI_RA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00",
+            "value": "Applique les caractéristiques du guerrier N"
+        },
+        {
+            "key": "UN_LW_E_SO_00_HUN",
+            "value": "Applique les caractéristiques du chasseur ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_MNK",
+            "value": "Applique les caractéristiques du moine ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_LAN",
+            "value": "Applique les caractéristiques du lancier ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_SAM",
+            "value": "Applique les caractéristiques du samouraï ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_GUN",
+            "value": "Applique les caractéristiques de l'artilleur ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_WAR",
+            "value": "Applique les caractéristiques du guerrier ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_KNT",
+            "value": "Applique les caractéristiques du chevalier ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_SWN",
+            "value": "Applique les caractéristiques de l'épéiste ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_THI",
+            "value": "Applique les caractéristiques du voleur ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_MGK",
+            "value": "Applique les caractéristiques du magilame ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_04_MGK",
+            "value": "Applique les caractéristiques du magilame ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_00_PLD",
+            "value": "Applique les caractéristiques du paladin ennemi"
+        },
+        {
+            "key": "UN_LW_E_SO_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01",
+            "value": "Applique les caractéristiques du guerrier N"
+        },
+        {
+            "key": "UN_LW_E_SO_01_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_04_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_VIK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_NIN_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_01_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_02_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_03_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_04",
+            "value": "Applique les caractéristiques du guerrier N"
+        },
+        {
+            "key": "UN_LW_E_BM_00",
+            "value": "Applique les caractéristiques estimées du mage noir N"
+        },
+        {
+            "key": "UN_LW_E_WM_00",
+            "value": "Applique les caractéristiques estimées du mage blanc N"
+        },
+        {
+            "key": "UN_LW_E_TM_00",
+            "value": "Applique les caractéristiques estimées du chronomage N"
+        },
+        {
+            "key": "UN_LW_E_NJ_00",
+            "value": "Applique les caractéristiques du ninja N"
+        },
+        {
+            "key": "UN_LW_E_NJ_01",
+            "value": "Applique les caractéristiques du ninja N"
+        },
+        {
+            "key": "UN_LW_E_PR_01",
+            "value": "Moine R basique"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "Mage noir R basique"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_TIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_TIM_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OGRE",
+            "value": "Applique les caractéristiques du guerrier R"
+        },
+        {
+            "key": "UN_LW_E_OGRE_01",
+            "value": "Applique les caractéristiques du guerrier SR"
+        },
+        {
+            "key": "UN_LW_E_OGRE_02",
+            "value": "Applique les caractéristiques du mage noir R"
+        },
+        {
+            "key": "UN_LW_E_BOMB",
+            "value": "Applique les caractéristiques du magilame N"
+        },
+        {
+            "key": "UN_LW_E_BOMB_01",
+            "value": "Applique les caractéristiques du magilame R"
+        },
+        {
+            "key": "UN_LW_E_BOMB_02",
+            "value": "Applique les caractéristiques du magilame SR"
+        },
+        {
+            "key": "UN_LW_E_MABR",
+            "value": "Applique les caractéristiques du paladin R"
+        },
+        {
+            "key": "UN_LW_E_MABR_01",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_MABR_02",
+            "value": "Applique les caractéristiques du paladin MR"
+        },
+        {
+            "key": "UN_LW_E_MABR_03",
+            "value": "Applique les caractéristiques du paladin MR"
+        },
+        {
+            "key": "UN_LW_E_WOLF",
+            "value": "Applique les caractéristiques du voleur N"
+        },
+        {
+            "key": "UN_LW_E_WOLF_01",
+            "value": "Applique les caractéristiques du voleur R"
+        },
+        {
+            "key": "UN_LW_E_WOLF_02",
+            "value": "Applique les caractéristiques du voleur SR"
+        },
+        {
+            "key": "UN_LW_E_WOLF_02_RA",
+            "value": "Applique les caractéristiques du voleur SR"
+        },
+        {
+            "key": "UN_LW_E_ZUUU",
+            "value": "Applique les caractéristiques du dragonnier N"
+        },
+        {
+            "key": "UN_LW_E_ZUUU_01",
+            "value": "Applique les caractéristiques du dragonnier R"
+        },
+        {
+            "key": "UN_LW_E_ZUUU_02",
+            "value": "Applique les caractéristiques du dragonnier SR"
+        },
+        {
+            "key": "UN_LW_E_SKEL",
+            "value": "Applique les caractéristiques du magilame N"
+        },
+        {
+            "key": "UN_LW_E_SKEL_01",
+            "value": "Applique les caractéristiques du magilame R"
+        },
+        {
+            "key": "UN_LW_E_SKEL_02",
+            "value": "Applique les caractéristiques du magilame SR"
+        },
+        {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "Applique les caractéristiques du magilame SR"
+        },
+        {
+            "key": "UN_LW_E_ARMN",
+            "value": "Applique les caractéristiques du dragonnier N"
+        },
+        {
+            "key": "UN_LW_E_ARMN_01",
+            "value": "Applique les caractéristiques du dragonnier R"
+        },
+        {
+            "key": "UN_LW_E_ARMN_02",
+            "value": "Applique les caractéristiques du dragonnier SR"
+        },
+        {
+            "key": "UN_LW_E_ELEM",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_ELEM_01",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_ELEM_02",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_ELEM_03",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_ELEM_04",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_ELEM_05",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_ELEM_06",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_ELEM_07",
+            "value": "Applique les caractéristiques du mage vert R"
+        },
+        {
+            "key": "UN_LW_E_LAMA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LAMA_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LAMA_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FF14_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FF14BOSS",
+            "value": ""
+        },
+        {
+            "key": "UN_FF14_E_YSTL",
+            "value": ""
+        },
+        {
+            "key": "UN_FF14_E_TNCR",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CHCB",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CHCB_01",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CHCB1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CCLI",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_GFGR",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_MSTD",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_AGRA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_QE",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_01",
+            "value": "Applique les caractéristiques du paladin MR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_01_QE",
+            "value": "Applique les caractéristiques du paladin MR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_2",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_IGNT_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_BLM",
+            "value": "Applique les caractéristiques estimées du mage noir N"
+        },
+        {
+            "key": "UN_LW_E_BHMT",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_BHMT_01",
+            "value": "Applique les caractéristiques du paladin MR"
+        },
+        {
+            "key": "UN_LW_E_BHMT_02",
+            "value": "Applique les caractéristiques du paladin UR"
+        },
+        {
+            "key": "UN_LW_E_GLSP",
+            "value": "Applique les caractéristiques du paladin N"
+        },
+        {
+            "key": "UN_LW_E_CACT",
+            "value": "Applique les caractéristiques du paladin R"
+        },
+        {
+            "key": "UN_LW_E_CACT_01",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_CACT_02",
+            "value": "Applique les caractéristiques du paladin SR"
+        },
+        {
+            "key": "UN_LW_E_IFRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IFRT_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SIRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SHIV",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLEM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ODIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TSLP",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SLIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_BLM_RA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CACT_03",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CACT_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IFRT_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BHMT_01_RAID",
+            "value": "Applique les caractéristiques du paladin MR"
+        },
+        {
+            "key": "UN_LW_E_TNBR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TNBR_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_PT_NO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_PT_HA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IFRT_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ODIN_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SIRE_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SHIV_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMU_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLEM_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_SIREN2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MABR_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BHMT_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TSLP_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDFY",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDFY_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FNRR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FNRR_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TITN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TITN_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BLMN_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "Le troisième fils de la grande Maison militaire de Béoulve. Il apparaît dans la légende des Pierres du Zodiaque, un mythe que racontent depuis toujours les habitants du royaume lointain d'Ivalice. Il est devenu chevalier après un dur entraînement à l'Académie royale, mais il est le cadet d'une fratrie de Généraux déjà reconnus et nés d'une autre mère, ce qui n'a cessé de nourrir ses complexes."
+        },
+        {
+            "key": "UN_LW_E_IRDL_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VKTR_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AYKA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMD_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELDE_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GRSR_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LSWL_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_HLNA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RYER_01_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MONT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_STRN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_RAMD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_BOMB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_ZUUU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MACR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_SZRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_BHMT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_WOLF",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_MONT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_STRN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_ELDE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_RAMD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_LILS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_BYLO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_AILN",
+            "value": "Une machiniste venue d'un continent étranger, situé au-delà des frontières d'Ardra. Elle se spécialise dans la confection d'armes sur mesure. Aileen a quitté sa ville natale pour parcourir le monde et parfaire ses talents. Sa devise est : « Il existe une arme pour tout le monde »."
+        },
+        {
+            "key": "UN_LW_BGN_LRNZ",
+            "value": "Un dragonnier de « Solidus », la première division de Hourne, qui idolâtre Engelbert et sa volonté de se sacrifier pour protéger ses alliés. Réputé pour son tempérament de feu, Lorenzo est aussi le descendant d'un des seuls hommes jamais reconnus par le dragon. Il est toutefois le premier à tempérer l'orgueil que pourrait lui inspirer sa lignée."
+        },
+        {
+            "key": "UN_LW_BGN_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_KTON",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_RART",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_AYKA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_MACR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_MICE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_SEVR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_OGRE",
+            "value": "Applique les caractéristiques du guerrier R"
+        },
+        {
+            "key": "UN_LW_BGN_OGRE_01",
+            "value": "Applique les caractéristiques du guerrier SR"
+        },
+        {
+            "key": "UN_LW_BGN_OGRE_02",
+            "value": "Applique les caractéristiques du mage noir R"
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU",
+            "value": "Applique les caractéristiques du dragonnier N"
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU_01",
+            "value": "Applique les caractéristiques du dragonnier R"
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU_02",
+            "value": "Applique les caractéristiques du dragonnier SR"
+        },
+        {
+            "key": "UN_LW_U_TOAD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_U_CHKN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_U_CHCB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IFRT",
+            "value": "Une chimère d'une puissance phénoménale qui contrôle le feu avec aisance. Son corps gigantesque et sa tête ornée de deux cornes imposantes lui donnent l'allure d'une bête sauvage. Il peut se changer à volonté en une épaisse fumée noire ou en torrent de feu. On dit que son tempérament est aussi violent que les flammes d'un brasier."
+        },
+        {
+            "key": "UN_LW_S_IFRT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IFRT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_GLEM",
+            "value": "Un amas de rochers amené à la vie par une ancienne magie. Il vit pour protéger son créateur, aux ordres duquel il ne peut désobéir. Mais Golem est aussi connu pour prêter main forte à ses amis, dans la limite de son libre-arbitre."
+        },
+        {
+            "key": "UN_LW_S_GLEM_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_GLEM_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SIRE",
+            "value": "Une chimère à l'apparence d'une magnifique femme ailée dont la voix envoûtante ensorcelle l'esprit des marins. Très peu de ceux qui se sont laissé bercer par sa mélodie en sont revenus vivants. Son allure séduisante lui vaut aussi d'être surnommée « L'ange de la mort »."
+        },
+        {
+            "key": "UN_LW_S_SIRE_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SIRE_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IGNT",
+            "value": "Un monstre géant entièrement revêtu d'une armure de fer qui l'immunise contre la plupart des attaques. La puissance de ses coups égale la démesure de sa taille et frappe ses adversaires de terreur. D'aucun racontent qu'il n'est que le cadavre d'un ogre, mû au combat par quelque magie ou malédiction."
+        },
+        {
+            "key": "UN_LW_S_IGNT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IGNT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BHMT",
+            "value": "On prétend que le Béhémot parcourait déjà ces terres avant la naissance des premiers hommes et qu'il possède une puissance terrifiante. Ses deux cornes et sa crinière lui donnent l'allure d'une bête, mais ses épines dorsales et sa large queue rappellent plutôt un reptile. Qu'il soit l'un ou l'autre, sa férocité est sans égal."
+        },
+        {
+            "key": "UN_LW_S_BHMT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BHMT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MABR",
+            "value": "Une plante monstrueuse et mangeuse d'hommes à la gueule hérissée d'épines aussi tranchantes que des crocs. Ses dizaines d'yeux sans angle mort en font un prédateur redoutable pour les proies piégées dans ses lianes semblables à des tentacules. Pour couronner le tout, son haleine fétide a le pouvoir d'étourdir ses victimes."
+        },
+        {
+            "key": "UN_LW_S_MABR_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MABR_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_CACT",
+            "value": "Un monstre aux allures de cactus que l'on retrouve principalement dans le désert. S'il sent le regard d'un humain sur lui, il s'immobilise tel une plante, mais tentera de se sauver à la moindre occasion. Bien qu'équipé d'une paire de jambes et d'une paire de bras, sa démarche est assez maladroite."
+        },
+        {
+            "key": "UN_LW_S_CACT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_CACT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ARMN_01",
+            "value": "Un monstre seulement composé d'un œil géant, d'une bouche démesurée et d'une paire d'ailes semblables à celles des chauve-souris, qui lui permettent d'attaquer depuis les cieux. Son caractère peu téméraire le rend cependant facile à repousser. Prenez garde à ne pas trop vous laisser attendrir par sa gaucherie, il s'agit avant tout d'un démon."
+        },
+        {
+            "key": "UN_LW_S_ARMN_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ARMN_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ZUUU",
+            "value": "Un monstre ailé colossal au plumage semblable à une crinière, aux griffes acérées et à la longue queue ornée de plumes. Le Zu est aussi appelé « Oiseau tempête » car un seul battement de ses ailes aussi larges qu'une maison suffit à déchaîner de violentes bourrasques de vent."
+        },
+        {
+            "key": "UN_LW_S_ZUUU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ZUUU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OGRE",
+            "value": "Un monstre géant longtemps craint par les humains pour sa sauvagerie et sa combativité. Il fait la taille de plusieurs hommes et mieux ne vaut pas sous-estimer la force de son poing. S'il n'est certes pas très intelligent, il peut quand même jeter d'énormes rochers sur ses ennemis."
+        },
+        {
+            "key": "UN_LW_S_OGRE_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OGRE_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BOMB",
+            "value": "Un monstre parfois surnommé « Boule de feu » et craint depuis des temps immémoriaux. Au cœur de l'agglomérat de flammes qui le compose, on sait qu'il possède un petit noyau physique. De nature généralement affable, il est néanmoins prompt à s'embraser si approché sans ménagement et peut aller jusqu'à s'autodétruire de rage."
+        },
+        {
+            "key": "UN_LW_S_BOMB_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BOMB_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SHIV",
+            "value": "Un être légendaire au cœur si froid qu'on l'appelle la Reine de Glace. Ses mains gelées ont le pouvoir de plonger des royaumes entiers dans une désolation hivernale. Certains racontent qu'elle était autrefois une simple humaine, mais d'autres vont jusqu'à affirmer qu'elle régnait jadis sur un pays tropical."
+        },
+        {
+            "key": "UN_LW_S_SHIV_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SHIV_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_RAMU",
+            "value": "Un vieux sage qui manipule la foudre avec une aisance effrayante. L'adresse dont se vantent certains mages noirs n'est rien face à la maîtrise absolue des éclairs et la puissance destructrice de Ramuh. On dit même que sa magie foudroie les âmes corrompues, aussi est-elle redoutée par tous ceux dont les cœurs sont remplis de culpabilité."
+        },
+        {
+            "key": "UN_LW_S_RAMU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_RAMU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN",
+            "value": "Dieu parmi les guerriers, Odin traverse le champ de bataille au galop sur son cheval à six jambes, son manteau claquant au vent. La célérité d'une course aussi formidable permet à sa lame de transpercer n'importe quel ennemi qui se dresse sur son terrible chemin."
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_LAMA_01",
+            "value": "Un monstre au buste de femme magnifique et à la queue de serpent. Cette créature intelligente est capable de reproduire avec ingéniosité l'attitude et la parole des humains. Elle aborde sournoisement les proies alléchantes pour les manipuler avant de les dévorer."
+        },
+        {
+            "key": "UN_LW_S_LAMA_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_LAMA_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TSLP",
+            "value": "La forme chimérique des quatre sœurs éoliennes, des harpies dotées d'ailes qui leur sortent de la tête. On raconte qu'elles ont le pouvoir de commander la fureur de tornades colossales et que nul ne peut apaiser le chaos qu'elles déchaînent quand elles sont enragées."
+        },
+        {
+            "key": "UN_LW_S_TSLP_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TSLP_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU",
+            "value": "Un titan végétal dont la gueule énorme s'ouvre sur des rangées de crocs acérés. Il se sert de ses innombrables tentacules comme d'armes et quand il s'ébroue de rage, son corps libère un nuage de pollen toxique autour de lui."
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG",
+            "value": "Un dragon bicéphale dont la simple existence annoncerait l'arrivée du chaos. On raconte qu'aucune lame ne peut pénétrer son armure d'écailles dorées et qu'aucun bouclier ne peut parer le double souffle incandescent de ses deux têtes attaquant ensemble."
+        },
+        {
+            "key": "UN_LW_S_THDG_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC",
+            "value": "Le monstre mécanique de la forteresse flottante d'un monde lointain et dont les apparitions sont aussi rares que dévastatrices. On raconte que l'assaut combiné de toute son artillerie a bien failli causer la perte des Guerriers de la lumière."
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL",
+            "value": "Une créature exotique qui semble pouvoir être invoquée depuis un royaume de ténèbres. Avec ses épaisses cornes tordues, ses grandes ailes noires rappelant celles des chauves-souris et sa queue en pointe acérée, elle ressemble aux démons des contes ancestraux."
+        },
+        {
+            "key": "UN_LW_S_DABL_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "Un chocobo rouge qu'on aurait été aperçu près d'une rivière dans un monde lointain. Il est plus irascible et agressif que les chocobos ordinaires, profitant d'une vitesse fulgurante et d'un mystérieux pouvoir lui permettant d'invoquer de petites météorites."
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MDFY",
+            "value": "Un monstre à tête de pieuvre et mains humaines. Doté de pouvoirs magiques, il fait également preuve d'une intelligence remarquable et terrifiante, puisqu'on raconte qu'il l'a obtenue en dévorant directement le cerveau de créatures pensantes, dont les humains."
+        },
+        {
+            "key": "UN_LW_S_MDFY_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MDFY_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_FNRR",
+            "value": "Une chimère dont l'apparence rappelle celle d'un loup à ceci près qu'elle arbore un manteau bleu nuit touffu, des ailes monstrueuses, ainsi que des lames en forme de faucille à l'arrière de ses pattes avant. Possédant un physique suffisamment imposant pour ne faire d'un humain qu'une bouchée, on raconte également que son puissant hurlement perçant glace le sang de quiconque viendrait à l'entendre."
+        },
+        {
+            "key": "UN_LW_S_FNRR_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_FNRR_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TITN",
+            "value": "Une espèce de géants bénis par le pouvoir de la terre et dont on raconte qu'elle se prélasse dans les tréfonds d'une certaine caverne. Une seule attaque portée par l'un de ces spécimens au physique imposant suffit à fendre la terre en deux et réduire n'importe qui en poussière. Bien que leur allure extérieure rappelle celle des humains, ces titans sont dépourvus d'intelligence, rendant les échanges difficiles."
+        },
+        {
+            "key": "UN_LW_S_TITN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TITN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BLMN",
+            "value": "Un monstre aux allures de pleine lune écarlate, longtemps considéré avec crainte comme un sinistre présage. Non seulement sa coquille aussi dure que le roc résiste à toutes les attaques physiques, mais les dégâts cataclysmiques que lui permet d'infliger sa maîtrise experte de la magie concourent à justifier sa réputation apocalyptique."
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TREASURE",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_CRYSTAL",
+            "value": "Restaure les PV/PT (S) et augmente Bravoure"
+        },
+        {
+            "key": "UN_GM_CRYSTAL_01",
+            "value": "Restaure les PV/PT (S), augmente Bravoure et l'acquisition de PJ"
+        },
+        {
+            "key": "UN_GM_SWITCH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_02",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_03",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_KATA",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED",
+            "value": "Inflige des dégâts perçants à la cible qui marche dans le piège"
+        },
+        {
+            "key": "UN_GM_PLACED_FIRE",
+            "value": "Inglige des dégâts magiques de feu à la cible qui marche dans le piège et aux unités alentours"
+        },
+        {
+            "key": "UN_GM_PLACED_ATK",
+            "value": "Inflige des dégâts projectiles en ligne droite"
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_02",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_OPOT_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_FIRE_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_KENZAN_01",
+            "value": "Inflige des dégâts à la cible après qu'elle soit rentrée dans la zone"
+        }
+    ]
+}

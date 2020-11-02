@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "Strudeltiefen"
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "Infernohöhle"
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "Faulmoor"
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "Kälteklirrkamm"
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "Donnerebenen"
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "Zwielichtforst"
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "Gleißsande"
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "Sturmwindschlucht"
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "Schmettereisenminen"
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "Ätherisches Terrain"
+        },
+        {
+            "key": "AD_AREA_FFT_01",
+            "value": "Garten des Klosters von Orbonne "
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Matoyas Höhle"
+        }
+    ]
+}

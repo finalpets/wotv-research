@@ -1,0 +1,120 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<line-height=15><cspace=1>Starter-Pakete jetzt erhältlich!"
+        },
+        {
+            "key": "2",
+            "value": "<line-height=15>„1 Million Downloads“-Feierladen"
+        },
+        {
+            "key": "3",
+            "value": "<line-height=15>„2 Millionen Downloads“-Feierladen"
+        },
+        {
+            "key": "4",
+            "value": "<line-height=15>Ramza erhältlich!"
+        },
+        {
+            "key": "5",
+            "value": "<line-height=15>FFT-Kollabo endet am 12.5."
+        },
+        {
+            "key": "6",
+            "value": "<line-height=15>„Kapitel 6 veröffentlicht!“-Laden"
+        },
+        {
+            "key": "7",
+            "value": "<line-height=15>„5 Millionen Downloads“-Laden"
+        },
+        {
+            "key": "8",
+            "value": "<line-height=15>„5 Millionen Downloads“-Laden Teil II!"
+        },
+        {
+            "key": "9",
+            "value": "<line-height=15>Laden zur Feier des Versionsupdates"
+        },
+        {
+            "key": "10",
+            "value": "<line-height=15>Spezialitätenladen zur Feier der Kraftprobe!"
+        },
+        {
+            "key": "11",
+            "value": "<line-height=15>Frühsommer-<br>Spezialitätenladen"
+        },
+        {
+            "key": "12",
+            "value": "<line-height=15>MOBIUS FF<br>Kollaboladen"
+        },
+        {
+            "key": "13",
+            "value": "<line-height=15>Porzellanturm:<br>Laden zur Eröffnungsfeier!"
+        },
+        {
+            "key": "14",
+            "value": "<line-height=15>Laden zur<br>Gildenunterstützung"
+        },
+        {
+            "key": "15",
+            "value": "<line-height=15>Spezialitätenladen<br>zur Feier der Kraftprobe!"
+        },
+        {
+            "key": "16",
+            "value": "<line-height=15>„Sommer 2020“-<br>Kampagnenladen"
+        },
+        {
+            "key": "17",
+            "value": "<line-height=15>FFI-Kollabo endet am 11.8."
+        },
+        {
+            "key": "18",
+            "value": "<line-height=15>„Kapitel 8 veröffentlicht!“-Laden"
+        },
+        {
+            "key": "19",
+            "value": "<line-height=15>Laden zur Feier des<br>Super-Versionsupdates"
+        },
+        {
+            "key": "20",
+            "value": "<line-height=15>Limitierte<br>Kollabopakete!"
+        },
+        {
+            "key": "21",
+            "value": "<line-height=15>Ramza garantiert erhältlich"
+        },
+        {
+            "key": "22",
+            "value": "<line-height=15>FFT-Kollabo endet am 15.9."
+        },
+        {
+            "key": "23",
+            "value": "<line-height=15>Countdown zum Halbjährigen Jubiläum:<br> Laden!"
+        },
+        {
+            "key": "24",
+            "value": "<line-height=15>Der Laden zum<br>Halbjährigen Jubiläum hat offen!"
+        },
+        {
+            "key": "25",
+            "value": "<line-height=15>Laden zum<br>Halbjährigen Jubiläum Teil II!"
+        },
+        {
+            "key": "26",
+            "value": "<line-height=15>Laden zum<br>Halbjährigen Jubiläum Teil III!"
+        },
+        {
+            "key": "27",
+            "value": "<line-height=15>Feierladen zum<br>Halbjährigen Jubiläum Teil IV!"
+        },
+        {
+            "key": "28",
+            "value": "<line-height=15>Halloween-<br>Kampagnenladen Teil I"
+        },
+        {
+            "key": "29",
+            "value": "<line-height=15>Halloween-<br>Kampagnenladen Teil II"
+        }
+    ]
+}

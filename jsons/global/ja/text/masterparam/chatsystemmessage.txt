@@ -1,0 +1,68 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "${playerName}さんがギルドに加入しました"
+        },
+        {
+            "key": "2",
+            "value": "新しいギルドエンブレムを獲得しました"
+        },
+        {
+            "key": "3",
+            "value": "${playerName}さんにギルドリーダーのポストが譲渡されました"
+        },
+        {
+            "key": "4",
+            "value": "${playerName}さんがギルドから追放されました"
+        },
+        {
+            "key": "5",
+            "value": "${playerName}さんがギルドを脱退しました"
+        },
+        {
+            "key": "6",
+            "value": "前ギルドリーダーの一定日数ログインがなかったため、${playerName}さんを新ギルドリーダーに自動任命しました"
+        },
+        {
+            "key": "7",
+            "value": "${playerName}さんがサブリーダーに任命されました"
+        },
+        {
+            "key": "8",
+            "value": "${statueName}がLv${level}になりました"
+        },
+        {
+            "key": "9",
+            "value": "ギルドバトルにエントリーしました"
+        },
+        {
+            "key": "10",
+            "value": "参加条件を満たしていないため、ギルドバトルにエントリーできませんでした。"
+        },
+        {
+            "key": "11",
+            "value": "${guildName}とのバトルが決まりました"
+        },
+        {
+            "key": "12",
+            "value": "今回のギルドバトルは不戦勝となりました"
+        },
+        {
+            "key": "13",
+            "value": "${guildName}とのギルドバトルに勝利しました"
+        },
+        {
+            "key": "14",
+            "value": "${guildName}とのギルドバトルに敗北しました"
+        },
+        {
+            "key": "15",
+            "value": "リーグレベルが${beforeLevelName}から${afterLevelName}に昇格しました"
+        },
+        {
+            "key": "23",
+            "value": "リーグレベルが${beforeLevelName}から${afterLevelName}に降格しました"
+        }
+    ]
+}

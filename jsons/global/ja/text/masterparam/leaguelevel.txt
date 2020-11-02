@@ -1,0 +1,92 @@
+{
+    "infos": [
+        {
+            "key": "GL_BRONZE3",
+            "value": "ブロンズ3"
+        },
+        {
+            "key": "GL_BRONZE2",
+            "value": "ブロンズ2"
+        },
+        {
+            "key": "GL_BRONZE1",
+            "value": "ブロンズ1"
+        },
+        {
+            "key": "GL_SILVER3",
+            "value": "シルバー3"
+        },
+        {
+            "key": "GL_SILVER2",
+            "value": "シルバー2"
+        },
+        {
+            "key": "GL_SILVER1",
+            "value": "シルバー1"
+        },
+        {
+            "key": "GL_GOLD3",
+            "value": "ゴールド3"
+        },
+        {
+            "key": "GL_GOLD2",
+            "value": "ゴールド2"
+        },
+        {
+            "key": "GL_GOLD1",
+            "value": "ゴールド1"
+        },
+        {
+            "key": "GL_PLATINUM3",
+            "value": "プラチナ3"
+        },
+        {
+            "key": "GL_PLATINUM2",
+            "value": "プラチナ2"
+        },
+        {
+            "key": "GL_PLATINUM1",
+            "value": "プラチナ1"
+        },
+        {
+            "key": "GL_DIA3",
+            "value": "ダイヤモンド3"
+        },
+        {
+            "key": "GL_DIA2",
+            "value": "ダイヤモンド2"
+        },
+        {
+            "key": "GL_DIA1",
+            "value": "ダイヤモンド1"
+        },
+        {
+            "key": "GL_CHAMPION3",
+            "value": "チャンピオン3"
+        },
+        {
+            "key": "GL_CHAMPION2",
+            "value": "チャンピオン2"
+        },
+        {
+            "key": "GL_CHAMPION1",
+            "value": "チャンピオン1"
+        },
+        {
+            "key": "GL_TITAN3",
+            "value": "マスター3"
+        },
+        {
+            "key": "GL_TITAN2",
+            "value": "マスター2"
+        },
+        {
+            "key": "GL_TITAN1",
+            "value": "マスター1"
+        },
+        {
+            "key": "GL_LEGEND",
+            "value": "レジェンド"
+        }
+    ]
+}

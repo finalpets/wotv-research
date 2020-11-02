@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "PB_LGB_Noraml01",
+            "value": "Normale Gruppe"
+        },
+        {
+            "key": "PB_LGB_Normal02",
+            "value": "Normale Gruppe"
+        },
+        {
+            "key": "PB_LGB_Normal03",
+            "value": "Normale Gruppe"
+        },
+        {
+            "key": "PB_LGB_Male",
+            "value": "Männliche Gruppe"
+        },
+        {
+            "key": "PB_LGB_Female",
+            "value": "Weibliche Gruppe"
+        }
+    ]
+}

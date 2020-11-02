@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "LGBA_001",
+            "value": "Explorar"
+        },
+        {
+            "key": "LGBA_002",
+            "value": "Repostar"
+        },
+        {
+            "key": "LGBA_003",
+            "value": "Conjurar"
+        }
+    ]
+}

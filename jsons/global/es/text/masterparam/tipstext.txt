@@ -1,0 +1,100 @@
+{
+    "infos": [
+        {
+            "key": "TIPS_ALL_001",
+            "value": "Puedes obtener más información del juego en la sección de Avisos."
+        },
+        {
+            "key": "TIPS_ALL_002",
+            "value": "Cuando el rango de jugador aumenta, tu energía se restaura por completo. El límite de amigos y de energía también aumenta."
+        },
+        {
+            "key": "TIPS_ALL_003",
+            "value": "Puedes enviar regalos a tus amigos a partir de las 00:00 (PST) del día después de haberos hecho amigos. ¡Haz nuevos amigos y envíales regalos todos los días!"
+        },
+        {
+            "key": "TIPS_ALL_004",
+            "value": "Los artículos de la tienda se actualizan cada 6 horas."
+        },
+        {
+            "key": "TIPS_ALL_006",
+            "value": "Recibirás una bonificación de acceso la primera vez que te conectes cada día. También podrás ganar bonificaciones de acceso por acumulación con recompensas basadas en el número total de días que te has conectado, así que asegúrate de hacerlo todos los días."
+        },
+        {
+            "key": "TIPS_ALLQE_001",
+            "value": "Antes de atacar a un oponente, el daño estimado que puedes infligirle aparecerá en pantalla.<br>*El daño de críticos y las reducciones de daño por las reacciones de los oponentes no se cuentan en la estimación de daño."
+        },
+        {
+            "key": "TIPS_ALLQE_003",
+            "value": "El grado que determina cómo se llevan las unidades entre sí se llama afinidad. Las unidades cercanas en proximidad que tienen una afinidad alta entre ellas recibirán un aumento de sus atributos. A medida que aumente el nivel de afinidad de las unidades, el alcance y efecto de los atributos también lo harán.   "
+        },
+        {
+            "key": "TIPS_ALLQE_004",
+            "value": "Atacar o usar habilidades mientras el aumento de los atributos está activo incrementará la EXP de afinidad. Por otra parte, si la VIT de una unidad llega a 0 y queda KO mientras el aumento de los atributos está activo, la EXP de afinidad bajará."
+        },
+        {
+            "key": "TIPS_ALLQE_002",
+            "value": "Hay tres tipos de maestría de equipo: maestría de arma, maestría de armadura y maestría de accesorio. Ganarás EXP de maestría para cada tipo al atacar o usar habilidades cuando lleves la pieza de equipo correspondiente. "
+        },
+        {
+            "key": "TIPS_ALLQE_005",
+            "value": "Cuanto mayor sea la rareza de una pieza de equipo, mayor será su nivel de maestría recomendado. Aunque es posible llevar equipo sin tener el nivel de maestría correspondiente, no podrás desatar todo su poder."
+        },
+        {
+            "key": "TIPS_ALLQE_006",
+            "value": "Cuando haya habilidades de grupo con el mismo efecto, solo se activará la que posea un efecto mayor. Sin embargo, si tu formación incluye un compañero registrado como amigo y este activa una habilidad de grupo con el mismo efecto, se puede acumular."
+        },
+        {
+            "key": "TIPS_ALLQE_007",
+            "value": "Si completas una misión con un esper equipado, aumentará la resonancia de la unidad con dicho esper. Cuando la resonancia sobrepase una cantidad determinada, las bonificaciones de nivel y atributos del esper aumentarán."
+        },
+        {
+            "key": "TIPS_ALLQE_008",
+            "value": "Con Batalla automática, puedes dar prioridad a los cofres del tesoro y desactivar habilidades en el menú de ajustes de batalla. Además, si configuras una Batalla automática en la pantalla de formaciones, los ajustes se guardarán para la próxima batalla."
+        },
+        {
+            "key": "TIPS_ALLQE_009",
+            "value": "La probabilidad de activar una habilidad de reacción al recibir daño físico es proporcional al nivel de bravura de la unidad. Si la bravura es de 9 o inferior, la unidad pasará al estado gallina y no podrás controlarla."
+        },
+        {
+            "key": "TIPS_ALLQE_010",
+            "value": "La cantidad de daño mágico infligido y recibido, la probabilidad de activar una habilidad de reacción al recibir daño mágico, y la tasa de activación de los cambios de estado son proporcionales al nivel de fe de la unidad."
+        },
+        {
+            "key": "TIPS_ALLQE_011",
+            "value": "Aproximadamente 1/4 de las fluctuaciones en los niveles de bravura o fe de una unidad que tengan lugar durante una batalla se traspasarán y, por ende, tendrán efecto sobre el siguiente combate. *Esto no se aplica a las fluctuaciones causadas por los efectos de habilidades con restricciones de turnos."
+        },
+        {
+            "key": "TIPS_ALLQE_012",
+            "value": "Las unidades pasarán al estado gallina si su bravura baja de los 9 puntos, y se transformarán en gallinas. Cada turno que transcurre se recupera un punto de bravura, y las unidades volverán a su forma normal al alcanzar los 10 puntos."
+        },
+        {
+            "key": "TIPS_DUEL_001",
+            "value": "Puedes ganar una gran cantidad de puntos y medallas de la Arena al vencer a oponentes que tienen una alta valoración. Por el contrario, si tu oponente tiene una valoración no muy alta, la recompensa al vencerlo no será tan buena."
+        },
+        {
+            "key": "TIPS_DUEL_002",
+            "value": "Puedes recibir hasta cinco recompensas de participación al día incluso si pierdes."
+        },
+        {
+            "key": "TIPS_DUEL_003",
+            "value": "Las clasificaciones se reiniciarán cada lunes a las 00:00 (PST). Las recompensas de clasificación semanales son mejores que las que pueden obtenerse diariamente, así que esfuérzate por conseguir un rango alto al final de la semana."
+        },
+        {
+            "key": "TIPS_MULTI_001",
+            "value": "Puedes comunicarte con otros jugadores pulsando en Sellos. Envía sellos a otros jugadores y disfrutad de las misiones juntos."
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Puedes recibir recompensas 5 veces al día, y estas cambiarán según el resultado de tus duelos. No podrás recibir recompensas a partir del 6.º duelo en adelante."
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Puedes elegir entre modo en solitario, modo para 2 jugadores (Pareja) y modo para 4 jugadores (Cuarteto). Puedes obtener más puntos completando asaltos en los modos Pareja y Cuarteto que jugando solo. Derrota al jefe con tus amigos."
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Aunque no puedas vencer al jefe de asalto en una sola batalla, su VIT restante será la misma en la siguiente. ¡Derrota a los jefes de asalto antes de que escapen!"
+        }
+    ]
+}

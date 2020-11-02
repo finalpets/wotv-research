@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "TW_01_PR",
+            "value": "Torre de Porcelana"
+        },
+        {
+            "key": "TW_02_PR",
+            "value": "Abismo Medialuz"
+        },
+        {
+            "key": "TW_03_PR",
+            "value": "Torre de Porcelana"
+        }
+    ]
+}

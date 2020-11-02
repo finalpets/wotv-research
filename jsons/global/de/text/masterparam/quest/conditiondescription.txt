@@ -1,0 +1,584 @@
+{
+    "infos": [
+        {
+            "key": "COND_HA_LW_STRN",
+            "value": "Einheit „Styr Leonis“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ELDE",
+            "value": "Einheit „Yrde Leonis“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ROBB",
+            "value": "Einheit „Robb Hourne“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ENBT",
+            "value": "Einheit „Engelbert“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ZIZA",
+            "value": "Einheit „Xiza“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_AILN",
+            "value": "Einheit „Aileen“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MDNA",
+            "value": "Einheit „Mediena“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_AYKA",
+            "value": "Einheit „Ayaka“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_HLNA",
+            "value": "Einheit „Helena Leonis“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_LILS",
+            "value": "Einheit „Lilith“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_RAMD",
+            "value": "Einheit „Lhamada“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_OOOO",
+            "value": "Einheit „Ornh“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_LRNZ",
+            "value": "Einheit „Lorenzo“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_RIRY",
+            "value": "Einheit „Rairyu“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_VSTR",
+            "value": "Einheit „Vystraal“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_CLEY",
+            "value": "Einheit „Khuri Wezette“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_KADI",
+            "value": "Einheit „Cadia“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MRLK",
+            "value": "Einheit „Meriluuk“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MGRT",
+            "value": "Einheit „Margarete“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_PRAY",
+            "value": "Einheit „‚Grazie‘“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_BYLO",
+            "value": "Einheit „Baelo“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_RYER",
+            "value": "Einheit „Lilli“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_SCIA",
+            "value": "Einheit „Sosha“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_VRID",
+            "value": "Einheit „Vallaid“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_NAIA",
+            "value": "Einheit „Naiah“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_SRJS",
+            "value": "Einheit „Sarjes“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_UNII",
+            "value": "Einheit „Yuni“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_SEVR",
+            "value": "Einheit „Severo“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_VADM",
+            "value": "Einheit „Vadim“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MURM",
+            "value": "Einheit „‚Murmeln‘“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_PHBE",
+            "value": "Einheit „Phoebe“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_RART",
+            "value": "Einheit „Learte“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MICE",
+            "value": "Einheit „Myshe“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MIIA",
+            "value": "Einheit „Mia“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ZZAN",
+            "value": "Einheit „Zazan“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_SDLX",
+            "value": "Einheit „Schattenluchs“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_FDRC",
+            "value": "Einheit „Frederika“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_YERM",
+            "value": "Einheit „Yerma“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_NASR",
+            "value": "Einheit „Nashia“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MACR",
+            "value": "Einheit „Margery“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_FINA",
+            "value": "Einheit „Fina“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_SZRT",
+            "value": "Einheit „Schuzelt“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_GLMS",
+            "value": "Einheit „Gilgamesch“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_WHIS",
+            "value": "Einheit „‚Wispern‘“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_KTON",
+            "value": "Einheit „Kiton“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MRND",
+            "value": "Einheit „Miranda“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_DRND",
+            "value": "Einheit „Dorando“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_VKTR",
+            "value": "Einheit „Viktora“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "Einheit „Salire“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_LUCA",
+            "value": "Einheit „Lu'Cia“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ADLD",
+            "value": "Einheit „Adelard“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_RAIN",
+            "value": "Einheit „Rain“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "Einheit „Dario Hourne“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "Einheit „Vinera Fennes“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_FF1_WROL",
+            "value": "Einheit „Krieger des Lichts“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "Einheit „Seymore“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "Einheit „Kilphe“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ORDR",
+            "value": "Einheit „Oldoa“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "Einheit „Ravesse“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "Einheit „Delita“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "Einheit „Agrias“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_IRDL",
+            "value": "Einheit „Ildyra“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_ST_01",
+            "value": "Einheit „Styr (Ritter des Untergangs)“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_LSWL",
+            "value": "Einheit „Lasswell“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_GRSR",
+            "value": "Einheit „Glaziela Wezette“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_RRIR",
+            "value": "Einheit „Loreila“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_CH_LW_MONT",
+            "value": "Einheit „Mont Leonis“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_CH_LW_STRN",
+            "value": "Einheit „Styr Leonis“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ELDE",
+            "value": "Einheit „Yrde Leonis“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ROBB",
+            "value": "Einheit „Robb Hourne“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ENBT",
+            "value": "Einheit „Engelbert“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ZIZA",
+            "value": "Einheit „Xiza“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_AILN",
+            "value": "Einheit „Aileen“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MDNA",
+            "value": "Einheit „Mediena“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_AYKA",
+            "value": "Einheit „Ayaka“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_HLNA",
+            "value": "Einheit „Helena Leonis“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_LILS",
+            "value": "Einheit „Lilith“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RAMD",
+            "value": "Einheit „Lhamada“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_OOOO",
+            "value": "Einheit „Ornh“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_LRNZ",
+            "value": "Einheit „Lorenzo“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RIRY",
+            "value": "Einheit „Rairyu“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_VSTR",
+            "value": "Einheit „Vystraal“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_CLEY",
+            "value": "Einheit „Khuri Wezette“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_KADI",
+            "value": "Einheit „Cadia“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MRLK",
+            "value": "Einheit „Meriluuk“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MGRT",
+            "value": "Einheit „Margarete“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_PRAY",
+            "value": "Einheit „‚Grazie‘“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_BYLO",
+            "value": "Einheit „Baelo“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RYER",
+            "value": "Einheit „Lilli“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_SCIA",
+            "value": "Einheit „Sosha“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_VRID",
+            "value": "Einheit „Vallaid“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_NAIA",
+            "value": "Einheit „Naiah“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_SRJS",
+            "value": "Einheit „Sarjes“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_UNII",
+            "value": "Einheit „Yuni“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_SEVR",
+            "value": "Einheit „Severo“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_VADM",
+            "value": "Einheit „Vadim“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MURM",
+            "value": "Einheit „‚Murmeln‘“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_PHBE",
+            "value": "Einheit „Phoebe“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RART",
+            "value": "Einheit „Learte“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MICE",
+            "value": "Einheit „Myshe“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MIIA",
+            "value": "Einheit „Mia“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN",
+            "value": "Einheit „Zazan“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_GLMS",
+            "value": "Einheit „Gilgamesch“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_GLMS2",
+            "value": "Einheit „Gilgamesch“ befindet sich mindestens auf St. 80"
+        },
+        {
+            "key": "COND_CH_FF14_YST",
+            "value": "Einheit „Y’shtola“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FF14_TNC",
+            "value": "Einheit „Thancred“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MACR",
+            "value": "Einheit „Margery“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_SZRT",
+            "value": "Einheit „Schuzelt“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_FINA",
+            "value": "Einheit „Fina“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_FDRC",
+            "value": "Einheit „Frederika“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_SDLX",
+            "value": "Einheit „Schattenluchs“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_YERM",
+            "value": "Einheit „Yerma“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_NASR",
+            "value": "Einheit „Nashia“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ETRE",
+            "value": "Einheit „Etre“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FFT_RAMZ",
+            "value": "Einheit „Ramza“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FFT_GFGR",
+            "value": "Einheit „Gaffgarion“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FFT_ORND",
+            "value": "Einheit „Orlandeau“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_WHIS",
+            "value": "Einheit „‚Wispern‘“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_KTON",
+            "value": "Einheit „Kiton“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MRND",
+            "value": "Einheit „Miranda“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_DRND",
+            "value": "Einheit „Dorando“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_LUCA",
+            "value": "Einheit „Lu'Cia“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ADLD",
+            "value": "Einheit „Adelard“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "Einheit „Salire“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "Einheit „Viktora“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "Einheit „Fryevia“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "Einheit „Rain“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "Einheit „Dario Hourne“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "Einheit „Vinera Fennes“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "Einheit „Tyrrel“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "Einheit „Krieger des Lichts“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "Einheit „Seymore“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "Einheit „Kilphe“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ORDR",
+            "value": "Einheit „Oldoa“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "Einheit „Ravesse“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "Einheit „Mustadio“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "Einheit „Delita“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "Einheit „Agrias“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_IRDL",
+            "value": "Einheit „Ildyra“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_ST_01",
+            "value": "Einheit „Styr (Ritter des Untergangs)“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_LSWL",
+            "value": "Einheit „Lasswell“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_GRSR",
+            "value": "Einheit „Glaziela Wezette“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RRIR",
+            "value": "Einheit „Loreila“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RY_01",
+            "value": "Einheit „Lilli (Halloween)“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_RI_01",
+            "value": "Einheit „Rairyu (Halloween)“ befindet sich mindestens auf St. 40"
+        }
+    ]
+}

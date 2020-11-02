@@ -1,0 +1,172 @@
+{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "<size=98>N<cspace=-6><size=82>IV</cspace>EAU</size> SUPÉRIEUR</cspace></size>"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "<cspace=2><size=96>É<size=80>VEIL"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "<cspace=4><size=96>L<size=80>IMITE</size></cspace> <cspace=-3><size=96>B</size><size=80>RISÉE"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "<cspace=-4>C<size=72>ONFIANCE</size> A<size=72>BSOLUE"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "<cspace=-2><size=88>N<size=72>iveau<cspace=-2> de </cspace><size=88>J<size=72><cspace=-3>ob</cspace> <size=88>A<size=72>ugmenté</cspace><cspace=0>"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "Nouveau pouvoir débloqué<size=60> !"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "Force améliorée<size=60> !"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "<size=98>N<cspace=-6><size=82>IV</cspace>EAU</size> SUPÉRIEUR</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "<size=90>R<cspace=1><size=76>ang</cspace></size> Supérieur</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rang"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "Endurance max"
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "Nbr d'amis max"
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "Débloqué"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "<size=98>N<cspace=-6><size=82>IV</cspace>EAU</size> SUPÉRIEUR</cspace></size>"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "<size=98>C<cspace=-6><size=82>ARACTÉRISTIQUES</cspace></size> AUGMENTÉES</cspace></size>"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "<cspace=0.01em><size=1.4em>M</size>ISSION <size=1.4em>T</size>ERMINÉE"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "<cspace=0.04em><size=1.4em>B</size>INGO<size=1.4em> !"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "À <cspace=0.5>suivre..."
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "Objets obtenus !"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "<cspace=-5>Un boss de raid est apparu !"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "<size=1.16em>N</size>IVEAU<space=0.1em> SUPÉRIEUR !"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "<size=1.2em>É</size><space=-0.05em>VEIL !"
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "<cspace=-0.04em>Bonus d'entraînement max"
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "Bonus de 1re fois"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "Guilde formée"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "<size=98>N<cspace=-6><size=82>IV</cspace>EAU</size> SUPÉRIEUR</cspace></size>"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "<cspace=1.5>Débloquer l'effet"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "La ligue évolue !"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "La ligue régresse"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "RÉSULTATS"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "<cspace=-0.03em>F<size=0.7em>IÈVRE</size> !"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "Boutique surprise"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "<cspace=0.05em>Boutique surprise"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "<cspace=0.05em>OUVERTE"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "Plus tard"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "En direction de la boutique surprise"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "<cspace=0.02em>Récompenses de première réussite !"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "<cspace=0.02em>Récompenses de réussite !"
+        },
+        {
+            "key": "POINTQUEST_REWARD_TITLE",
+            "value": "Obtenu !"
+        },
+        {
+            "key": "POINTQUEST_REWARD_POINT",
+            "value": "pts atteints !"
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_HIGH_SCORE",
+            "value": "Récompenses de réussite du meilleur score."
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_TOTAL",
+            "value": "Récompenses pour l'accumulation des points."
+        }
+    ]
+}

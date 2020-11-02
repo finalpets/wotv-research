@@ -1,0 +1,108 @@
+{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "이벤트"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "특별한 아이템을 획득하세요!"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "멀티"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "동료와 함께 퀘스트에 도전하세요!"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "레이드"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "다 함께 협력하여 강적과 싸우세요!"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "백자탑"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "고난도 퀘스트"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "강적의 방"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "소환수 각성 재료를 모으세요!"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "콜라보 이벤트 개최 중!"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "테스트 새로운 장 돌입!"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "테스트 결투장 코인 2배!"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "테스트 마주침 이벤트 개최 중!"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "데스 머신에게 도전하라!"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "레이드 보상 수령 기간 중"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "킹 베히모스에게 도전하라!"
+        },
+        {
+            "key": "QLN_RAID_4",
+            "value": "레이드 보스에게 도전하라!"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "백자탑 개최 중!"
+        },
+        {
+            "key": "QLN_TOWER_4",
+            "value": "지금 '물의 업의 반지'를 획득하세요!"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "철거인 신규 등장!"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "개방 조건"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "개방 조건은 아래와 같습니다.<br>플레이어 랭크 {0} 도달"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "개최 기간 외"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "도전 기간 종료"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "지금 '진홍의 군도'를 획득하세요!"
+        }
+    ]
+}

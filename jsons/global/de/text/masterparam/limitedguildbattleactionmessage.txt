@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "LGBA_001",
+            "value": "Zeigt die Gruppe von Gegner 1 an."
+        },
+        {
+            "key": "LGBA_002",
+            "value": "Erhöht die Zahl möglicher Angriffe der Gruppe des Verbündeten 1 um 1."
+        },
+        {
+            "key": "LGBA_003",
+            "value": "Stellt die Fähigkeiteneinsätze der Gruppe des Verbündeten 1 um 1 wieder her."
+        }
+    ]
+}

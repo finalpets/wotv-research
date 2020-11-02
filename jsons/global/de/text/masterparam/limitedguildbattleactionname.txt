@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "LGBA_001",
+            "value": "Auskundschaften"
+        },
+        {
+            "key": "LGBA_002",
+            "value": "Auffüllen"
+        },
+        {
+            "key": "LGBA_003",
+            "value": "Zaubern"
+        }
+    ]
+}

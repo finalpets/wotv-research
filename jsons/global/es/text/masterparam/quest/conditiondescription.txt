@@ -1,0 +1,584 @@
+{
+    "infos": [
+        {
+            "key": "COND_HA_LW_STRN",
+            "value": "[Stern Leonis] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ELDE",
+            "value": "[Elde Leonis] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ROBB",
+            "value": "[Rob Hourne] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ENBT",
+            "value": "[Engelberto] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ZIZA",
+            "value": "[Yiza] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_AILN",
+            "value": "[Aileen] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MDNA",
+            "value": "[Mediena] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_AYKA",
+            "value": "[Ayaka] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_HLNA",
+            "value": "[Helena Leonis] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_LILS",
+            "value": "[Lilit] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_RAMD",
+            "value": "[Ramada] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_OOOO",
+            "value": "[Owe] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_LRNZ",
+            "value": "[Lorenzo] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_RIRY",
+            "value": "[Lairyu] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_VSTR",
+            "value": "[Vistral] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_CLEY",
+            "value": "[Kuri Wezette] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_KADI",
+            "value": "[Cadia] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MRLK",
+            "value": "[Meriluke] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MGRT",
+            "value": "[Margritte] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_PRAY",
+            "value": "[Gracia] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_BYLO",
+            "value": "[Beilo] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_RYER",
+            "value": "[Lili] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_SCIA",
+            "value": "[Sosha] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_VRID",
+            "value": "[Valaido] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_NAIA",
+            "value": "[Naia] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_SRJS",
+            "value": "[Serjes] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_UNII",
+            "value": "[Yuni] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_SEVR",
+            "value": "[Severo] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_VADM",
+            "value": "[Vadim] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MURM",
+            "value": "[Murmullo] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_PHBE",
+            "value": "[Febe] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_RART",
+            "value": "[Learte] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MICE",
+            "value": "[Miche] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MIIA",
+            "value": "[Mía] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ZZAN",
+            "value": "[Zazán] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_SDLX",
+            "value": "[Numbralince] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_FDRC",
+            "value": "[Federica] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_YERM",
+            "value": "[Yelma] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_NASR",
+            "value": "[Nasha] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MACR",
+            "value": "[Machérie] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_FINA",
+            "value": "[Fina] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_SZRT",
+            "value": "[Schuzelt] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_GLMS",
+            "value": "[Gilgamesh] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_WHIS",
+            "value": "[Susurro] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_KTON",
+            "value": "[Kiton] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MRND",
+            "value": "[Miranda] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_DRND",
+            "value": "[Dorand] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_VKTR",
+            "value": "[Victra] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "[Saria] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_LUCA",
+            "value": "[Lu'Cía] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ADLD",
+            "value": "[Adelardo] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_RAIN",
+            "value": "[Rain] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "[Darío Hourne] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "[Vinera Fennes] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_FF1_WROL",
+            "value": "[Guerrero de la Luz] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "[Seymore] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "[Kilfe] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ORDR",
+            "value": "[Oldoa] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "[Raviesse] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "[Delita] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "[Agrias] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_IRDL",
+            "value": "[Ildira] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_ST_01",
+            "value": "[Stern (caballero de la destrucción)] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_LSWL",
+            "value": "[Lasswell] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_GRSR",
+            "value": "[Graciela Wezette] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_RRIR",
+            "value": "[Loreila] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MONT",
+            "value": "[Mont Leonis] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_STRN",
+            "value": "[Stern Leonis] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ELDE",
+            "value": "[Elde Leonis] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ROBB",
+            "value": "[Rob Hourne] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ENBT",
+            "value": "[Engelberto] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ZIZA",
+            "value": "[Yiza] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_AILN",
+            "value": "[Aileen] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MDNA",
+            "value": "[Mediena] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_AYKA",
+            "value": "[Ayaka] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_HLNA",
+            "value": "[Helena Leonis] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_LILS",
+            "value": "[Lilit] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RAMD",
+            "value": "[Ramada] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_OOOO",
+            "value": "[Owe] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_LRNZ",
+            "value": "[Lorenzo] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RIRY",
+            "value": "[Lairyu] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_VSTR",
+            "value": "[Vistral] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_CLEY",
+            "value": "[Kuri Wezette] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_KADI",
+            "value": "[Cadia] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MRLK",
+            "value": "[Meriluke] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MGRT",
+            "value": "[Margritte] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_PRAY",
+            "value": "[Gracia] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_BYLO",
+            "value": "[Beilo] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RYER",
+            "value": "[Lili] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SCIA",
+            "value": "[Sosha] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_VRID",
+            "value": "[Valaido] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_NAIA",
+            "value": "[Naia] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SRJS",
+            "value": "[Serjes] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_UNII",
+            "value": "[Yuni] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SEVR",
+            "value": "[Severo] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_VADM",
+            "value": "[Vadim] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MURM",
+            "value": "[Murmullo] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_PHBE",
+            "value": "[Febe] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RART",
+            "value": "[Learte] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MICE",
+            "value": "[Miche] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MIIA",
+            "value": "[Mía] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN",
+            "value": "[Zazán] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_GLMS",
+            "value": "[Gilgamesh] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_GLMS2",
+            "value": "[Gilgamesh] de nv. 80 o superior"
+        },
+        {
+            "key": "COND_CH_FF14_YST",
+            "value": "[Y'shtola] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FF14_TNC",
+            "value": "[Thancred] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MACR",
+            "value": "[Machérie] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SZRT",
+            "value": "[Schuzelt] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_FINA",
+            "value": "[Fina] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_FDRC",
+            "value": "[Federica] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SDLX",
+            "value": "[Numbralince] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_YERM",
+            "value": "[Yelma] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_NASR",
+            "value": "[Nasha] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ETRE",
+            "value": "[Etra] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_RAMZ",
+            "value": "[Ramza] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_GFGR",
+            "value": "[Gaffgarion] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_ORND",
+            "value": "[Orlandeau] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_WHIS",
+            "value": "[Susurro] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_KTON",
+            "value": "[Kiton] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MRND",
+            "value": "[Miranda] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_DRND",
+            "value": "[Dorand] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_LUCA",
+            "value": "[Lu'Cía] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ADLD",
+            "value": "[Adelardo] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "[Saria] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "[Victra] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "[Fryevia] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "[Rain] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "[Darío Hourne] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "[Vinera Fennes] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "[Tyrell] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "[Guerrero de la Luz] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "[Seymore] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "[Kilfe] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ORDR",
+            "value": "[Oldoa] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "[Raviesse] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "[Mustadio] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "[Delita] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "[Agrias] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_IRDL",
+            "value": "[Ildira] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_ST_01",
+            "value": "[Stern (caballero de la destrucción)] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_LSWL",
+            "value": "[Lasswell] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_GRSR",
+            "value": "[Graciela Wezette] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RRIR",
+            "value": "[Loreila] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RY_01",
+            "value": "[Lili (Halloween)] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_RI_01",
+            "value": "[Lairyu (Halloween)] de nv. 40 o superior"
+        }
+    ]
+}

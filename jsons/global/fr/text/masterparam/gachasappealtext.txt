@@ -1,0 +1,116 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "Collaboration FFXIV<br>Invoquez maintenant !"
+        },
+        {
+            "key": "2",
+            "value": "Nouvelles unités et<br>chimères !"
+        },
+        {
+            "key": "3",
+            "value": "Nouvelles unités et<br>chimères !"
+        },
+        {
+            "key": "4",
+            "value": "Collaboration FFT<br>Invoquez maintenant !"
+        },
+        {
+            "key": "5",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "6",
+            "value": "Nouveaux atouts-visions<br>disponibles !"
+        },
+        {
+            "key": "7",
+            "value": "Nouvelles unités <br>et chimères !"
+        },
+        {
+            "key": "8",
+            "value": "Nouvelles unités <br>et chimères !"
+        },
+        {
+            "key": "9",
+            "value": "Invocation du moment<br>disponible !"
+        },
+        {
+            "key": "10",
+            "value": "Nouvelles unités <br>et chimères !"
+        },
+        {
+            "key": "11",
+            "value": "Invocation du moment<br>disponible !"
+        },
+        {
+            "key": "12",
+            "value": "Nouveautés !<br>Disponibles dès maintenant !"
+        },
+        {
+            "key": "13",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "14",
+            "value": "Nouveaux atouts-visions<br>disponibles !"
+        },
+        {
+            "key": "15",
+            "value": "Collaboration FFI<br>Invoquez maintenant !"
+        },
+        {
+            "key": "16",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "17",
+            "value": "Nouveaux atouts-visions<br>disponibles !"
+        },
+        {
+            "key": "18",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "19",
+            "value": "Collaboration FFT<br>Invoquez maintenant !"
+        },
+        {
+            "key": "20",
+            "value": "Réédition de <br>Ramza et Orlandeau !"
+        },
+        {
+            "key": "21",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "22",
+            "value": "<space=7>Nouveaux atouts-visions<br>FFCCRE<br>disponibles !"
+        },
+        {
+            "key": "23",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "24",
+            "value": "Nouveaux atouts-visions<br>disponibles !"
+        },
+        {
+            "key": "25",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "26",
+            "value": "Nouveaux atouts-visions<br>disponibles !"
+        },
+        {
+            "key": "27",
+            "value": "Nouvelles unités<br>disponibles !"
+        },
+        {
+            "key": "28",
+            "value": "Nouveaux atouts-visions<br>disponibles !"
+        }
+    ]
+}

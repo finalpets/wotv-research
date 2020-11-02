@@ -1,0 +1,584 @@
+{
+    "infos": [
+        {
+            "key": "SE_ST_010101",
+            "value": "鉄の美姫"
+        },
+        {
+            "key": "SE_ST_010102",
+            "value": "蛮族の王"
+        },
+        {
+            "key": "SE_ST_010103",
+            "value": "誓いの言葉"
+        },
+        {
+            "key": "SE_ST_010201",
+            "value": "大役"
+        },
+        {
+            "key": "SE_ST_010202",
+            "value": "義に生きる"
+        },
+        {
+            "key": "SE_ST_010203",
+            "value": "≪蒼穹≫帰還す"
+        },
+        {
+            "key": "SE_ST_010301",
+            "value": "北を目指して"
+        },
+        {
+            "key": "SE_ST_010302",
+            "value": "ムラガの秘密"
+        },
+        {
+            "key": "SE_ST_010303",
+            "value": "反撃の狼煙"
+        },
+        {
+            "key": "SE_ST_010401",
+            "value": "今がそのとき"
+        },
+        {
+            "key": "SE_ST_010402",
+            "value": "王妃の決意"
+        },
+        {
+            "key": "SE_ST_010403",
+            "value": "混沌"
+        },
+        {
+            "key": "SE_ST_010501",
+            "value": "迫りくる脅威"
+        },
+        {
+            "key": "SE_ST_010502",
+            "value": "リオニスのために"
+        },
+        {
+            "key": "SE_ST_010503",
+            "value": "天帝の剣"
+        },
+        {
+            "key": "SE_ST_010601",
+            "value": "白き牙"
+        },
+        {
+            "key": "SE_ST_010602",
+            "value": "穢れた血筋"
+        },
+        {
+            "key": "SE_ST_010603",
+            "value": "獅子と狼"
+        },
+        {
+            "key": "SE_ST_010701",
+            "value": "東へ"
+        },
+        {
+            "key": "SE_ST_010702",
+            "value": "ムラガ親衛隊"
+        },
+        {
+            "key": "SE_ST_010703",
+            "value": "シクルの砦攻防戦"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "砦攻防戦、決着"
+        },
+        {
+            "key": "SE_WD_010101",
+            "value": "リオンズ大森林"
+        },
+        {
+            "key": "SE_WD_010102",
+            "value": "リオニス城"
+        },
+        {
+            "key": "SE_WD_010103",
+            "value": "ソーギ山"
+        },
+        {
+            "key": "SE_WD_010104",
+            "value": "リオンズ街道"
+        },
+        {
+            "key": "SE_WD_010105",
+            "value": "獅子の祠"
+        },
+        {
+            "key": "SE_WD_010106",
+            "value": "北シンバス平原"
+        },
+        {
+            "key": "SE_WD_010107",
+            "value": "南シンバス平原"
+        },
+        {
+            "key": "SE_WD_010108",
+            "value": "リーダル山脈"
+        },
+        {
+            "key": "SE_WD_010109",
+            "value": "ザナガル砦"
+        },
+        {
+            "key": "SE_WD_010110",
+            "value": "ラシーナ森林"
+        },
+        {
+            "key": "SE_WD_010201",
+            "value": "シクル砦"
+        },
+        {
+            "key": "SE_WD_010202",
+            "value": "ヤーム洞穴"
+        },
+        {
+            "key": "SE_WD_010203",
+            "value": "白狼の祠"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "ウォルマの村"
+        },
+        {
+            "key": "SE_WD_010205",
+            "value": "ウェズエット城"
+        },
+        {
+            "key": "SE_SB_01",
+            "value": "強敵の間"
+        },
+        {
+            "key": "SE_SB_02",
+            "value": "鉄巨人チャレンジ"
+        },
+        {
+            "key": "SE_MU_SB_02",
+            "value": "鉄巨人チャレンジ"
+        },
+        {
+            "key": "SE_SB_03",
+            "value": "チョコプリンチャレンジ"
+        },
+        {
+            "key": "SE_MU_SB_03",
+            "value": "チョコプリンチャレンジ"
+        },
+        {
+            "key": "SE_SB_04",
+            "value": "オチューチャレンジ"
+        },
+        {
+            "key": "SE_MU_SB_04",
+            "value": "オチューチャレンジ"
+        },
+        {
+            "key": "SE_EV_UNITEXP_01",
+            "value": "経験の間"
+        },
+        {
+            "key": "SE_EV_GIL_01",
+            "value": "ギルの間"
+        },
+        {
+            "key": "SE_EV_AFEXP_01",
+            "value": "鉱石の間"
+        },
+        {
+            "key": "SE_EV_VCEXP_01",
+            "value": "グロウエッグ獲得クエスト"
+        },
+        {
+            "key": "SE_EV_WAEXP_01",
+            "value": "ポット獲得クエスト"
+        },
+        {
+            "key": "SE_EV_AW_FIRE",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_AW_WIND",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_AW_WATER",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_AW_ICE",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_AW_SOIL",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_AW_DARK",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_AW_THUN",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_AW_SHIN",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_EV_SM_FIRE_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_SM_WTR_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_SM_WIND_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_SM_EAR_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_SM_THUN_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_SM_ICE_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_SM_DARK_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_SM_SHIN_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_GIL",
+            "value": "ギルの間"
+        },
+        {
+            "key": "SE_EV_AFEXP",
+            "value": "鉱石の間"
+        },
+        {
+            "key": "SE_BGN_QUEST",
+            "value": "初心者クエスト"
+        },
+        {
+            "key": "SE_EV_GL_1M_DL",
+            "value": "100万DL記念クエスト"
+        },
+        {
+            "key": "SE_EV_FF14_01",
+            "value": "Final Fantasy XIV 漆黒の反逆者"
+        },
+        {
+            "key": "SE_EV_FF14_EX_01",
+            "value": "Final Fantasy XIV 漆黒の反逆者 【EX】"
+        },
+        {
+            "key": "SE_EV_ETRE",
+            "value": "エトア育成クエスト"
+        },
+        {
+            "key": "SE_EV_ETRE_EX",
+            "value": "高難度　エトア育成　EXクエスト"
+        },
+        {
+            "key": "SE_EV_01_01",
+            "value": "憧れの王子様"
+        },
+        {
+            "key": "SE_EV_01_EX_01",
+            "value": "憧れの王子様"
+        },
+        {
+            "key": "SE_MU_EV_01_EX",
+            "value": "憧れの王子様 【EX】"
+        },
+        {
+            "key": "SE_EV_02_01",
+            "value": "西の脅威ランダル"
+        },
+        {
+            "key": "SE_EV_02_EX_01",
+            "value": "西の脅威ランダル"
+        },
+        {
+            "key": "SE_MU_EV_02_EX",
+            "value": "西の脅威ランダル【EX】"
+        },
+        {
+            "key": "SE_EV_03_01",
+            "value": "命を燃やし尽くすために"
+        },
+        {
+            "key": "SE_EV_03_EX_01",
+            "value": "命を燃やし尽くすために【EX】"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "東方遥かなり"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "東方遥かなり【EX】"
+        },
+        {
+            "key": "SE_MU_EV_03_EX",
+            "value": "命を燃やし尽くすために【EX】 マルチ"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "東方遥かなり【EX】 マルチ"
+        },
+        {
+            "key": "SE_EV_SBEXP_01",
+            "value": "魔石獲得クエスト"
+        },
+        {
+            "key": "SE_EV_ANV_19_10",
+            "value": "リリース記念クエスト"
+        },
+        {
+            "key": "SE_EV_GL_2M_DL",
+            "value": "2 Million Downloads Commemoration JP Quest"
+        },
+        {
+            "key": "SE_EV_GL_3M_DL",
+            "value": "3 Million Downloads Celebration Quest"
+        },
+        {
+            "key": "SE_MU_AW_FIRE",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_AW_WIND",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_AW_WATER",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_AW_ICE",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_AW_SOIL",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_AW_DARK",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_AW_THUN",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_AW_SHIN",
+            "value": "（仮）ジョブ強化属性素材の間"
+        },
+        {
+            "key": "SE_MU_SM_FIRE_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_SM_WTR_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_SM_WIND_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_SM_EAR_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_SM_THUN_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_SM_ICE_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_SM_DARK_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_SM_SHIN_01",
+            "value": "召喚獣覚醒の間"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_01",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_EV_ETRE_EX",
+            "value": "高難度　エトア育成　EXクエストマルチ"
+        },
+        {
+            "key": "SE_EV_ART_CRF_01",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_FFT_01",
+            "value": "FINAL FANTASY TACTICSコラボクエスト"
+        },
+        {
+            "key": "SE_EV_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICSコラボクエスト 【EX】"
+        },
+        {
+            "key": "SE_MU_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICSコラボクエスト 【EX】"
+        },
+        {
+            "key": "SE_EV_ART_SCR_00",
+            "value": "高難度　秘伝書獲得クエスト"
+        },
+        {
+            "key": "SE_MU_EV_SCR_00",
+            "value": "高難度　秘伝書獲得クエストマルチ"
+        },
+        {
+            "key": "SE_EV_ART_SCR_01",
+            "value": "高難度　秘伝書獲得クエスト"
+        },
+        {
+            "key": "SE_MU_EV_SCR_01",
+            "value": "高難度　秘伝書獲得クエストマルチ"
+        },
+        {
+            "key": "SE_EV_JP_001",
+            "value": "JP獲得クエスト"
+        },
+        {
+            "key": "SE_EV_ART_CRF_02",
+            "value": "超高難度 武具育成クエスト"
+        },
+        {
+            "key": "SE_MU_ART_CRF_02",
+            "value": "超高難度 武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_ART_CRF_03",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_MU_ART_CRF_03",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "SE_EV_ART_SCR_02",
+            "value": "高難度　秘伝書獲得クエスト"
+        },
+        {
+            "key": "SE_MU_EV_SCR_02",
+            "value": "高難度　秘伝書獲得クエストマルチ"
+        },
+        {
+            "key": "SE_EV_BEGN_2001",
+            "value": "ユニット育成応援クエスト"
+        },
+        {
+            "key": "SE_EV_RAIN_01",
+            "value": "限定ハードクエスト（レイン）"
+        },
+        {
+            "key": "SE_EV_VKTR_01",
+            "value": "限定ハードクエスト（ヴィクトラ）"
+        },
+        {
+            "key": "SE_EV_THLA",
+            "value": "サリアの欠片獲得クエスト"
+        },
+        {
+            "key": "SE_EV_THLA_EX",
+            "value": "高難度　サリアの欠片獲得　EXクエスト"
+        },
+        {
+            "key": "SE_MU_EV_THLA_EX",
+            "value": "高難度　サリアの欠片獲得　EXクエストマルチ"
+        },
+        {
+            "key": "SE_EV_VNLA_01",
+            "value": "限定ハードクエスト（ヴィネラ・フェネス）"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "限定ハードクエスト（光の戦士）"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "限定ハードクエスト（キルフェ）"
+        },
+        {
+            "key": "SE_EV_ORDR_01",
+            "value": "限定ハードクエスト（オルドア）"
+        },
+        {
+            "key": "SE_EV_ARENA_1",
+            "value": "アリーナ模擬戦"
+        },
+        {
+            "key": "SE_EV_GL_FFEXU_01",
+            "value": "FF EXVIUS ユニバースクエスト"
+        },
+        {
+            "key": "SE_EV_NEWMAP_001",
+            "value": "ギルドバトル模擬戦"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "ギルドバトル模擬戦"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "FINAL FANTASY I コラボクエスト"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "FINAL FANTASY I コラボクエスト 【EX】"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "FINAL FANTASY I コラボクエスト 【EX】"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "チャレンジクエスト"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": ""
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": ""
+        }
+    ]
+}

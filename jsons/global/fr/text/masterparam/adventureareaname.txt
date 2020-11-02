@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "Profondeurs tourbillonnantes"
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "Cave des enfers"
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "Boue putride"
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "Crête du blizzard"
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "Plaines foudroyantes"
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "Bois du crépuscule"
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "Dunes éblouissantes"
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "Ravin venteux"
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "Les mines de l'acier"
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "Frontière de l'invocateur"
+        },
+        {
+            "key": "AD_AREA_FFT_01",
+            "value": "Abords du Monastère d'Orbonne"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Tanière de Matoya"
+        }
+    ]
+}

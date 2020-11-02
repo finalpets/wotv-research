@@ -1,0 +1,124 @@
+{
+    "infos": [
+        {
+            "key": "Battle1",
+            "value": "Batailles I"
+        },
+        {
+            "key": "Battle2",
+            "value": "Batailles II"
+        },
+        {
+            "key": "Gacha",
+            "value": "Invocation"
+        },
+        {
+            "key": "Quest",
+            "value": "Quêtes"
+        },
+        {
+            "key": "ChallengeMission",
+            "value": "Missions de défi"
+        },
+        {
+            "key": "UnitStrength",
+            "value": "Unités améliorées"
+        },
+        {
+            "key": "UnitAwake",
+            "value": "Éveil et limite brisée"
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "Équipement artisanal"
+        },
+        {
+            "key": "EventQuest",
+            "value": "Quêtes d'événement"
+        },
+        {
+            "key": "VisionCard",
+            "value": "Atouts-visions"
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "Expédition chocobo et chimères"
+        },
+        {
+            "key": "Party",
+            "value": "Préparation et formations"
+        },
+        {
+            "key": "MultiQuest",
+            "value": "Quêtes multi"
+        },
+        {
+            "key": "Arena",
+            "value": "Arène"
+        },
+        {
+            "key": "FreeMatch",
+            "value": "Combats libres et amicaux"
+        },
+        {
+            "key": "GuildJoin",
+            "value": "Rejoindre et créer une guilde"
+        },
+        {
+            "key": "GuildAttendance",
+            "value": "Fonctions d'une guilde I"
+        },
+        {
+            "key": "GuildBarracks",
+            "value": "Fonctions d'une guilde II"
+        },
+        {
+            "key": "GuildStone",
+            "value": "Fonctions d'une guilde III"
+        },
+        {
+            "key": "GuildBattle",
+            "value": "Combats de guilde"
+        },
+        {
+            "key": "UnitIntimacy",
+            "value": "Affinité"
+        },
+        {
+            "key": "SubQuest",
+            "value": "Quêtes secondaires"
+        },
+        {
+            "key": "Unitsubjob",
+            "value": "Jobs secondaires"
+        },
+        {
+            "key": "HardQuest",
+            "value": "Quêtes difficiles"
+        },
+        {
+            "key": "NetherBeast",
+            "value": "Chimères"
+        },
+        {
+            "key": "CharaQuest",
+            "value": "Quêtes de personnage"
+        },
+        {
+            "key": "Tower",
+            "value": "Tour"
+        },
+        {
+            "key": "ItemExchange",
+            "value": "Boutique d'échange"
+        },
+        {
+            "key": "SupportUnit",
+            "value": "Paramètres des personnages de soutien"
+        },
+        {
+            "key": "Pointquest",
+            "value": "Quêtes de points"
+        }
+    ]
+}

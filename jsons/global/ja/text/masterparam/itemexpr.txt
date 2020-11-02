@@ -1,0 +1,3468 @@
+{
+    "infos": [
+        {
+            "key": "IT_US_POTION",
+            "value": "ユニットのHPを回復（小）"
+        },
+        {
+            "key": "IT_US_HIPOTION",
+            "value": "ユニットのHPを回復（中）"
+        },
+        {
+            "key": "IT_US_EXPOTION",
+            "value": "ユニットのHPを回復（大）"
+        },
+        {
+            "key": "IT_US_ETHER",
+            "value": "ユニットのTPを回復（小）"
+        },
+        {
+            "key": "IT_US_ETHERTURBO",
+            "value": "ユニットのTPを回復（中）"
+        },
+        {
+            "key": "IT_US_ELIXIR",
+            "value": "ユニットのHPとTPを回復"
+        },
+        {
+            "key": "IT_US_PNXFEATHER",
+            "value": "状態異常回復（戦闘不能）"
+        },
+        {
+            "key": "IT_US_ANTIDOTE",
+            "value": "状態異常回復（毒）"
+        },
+        {
+            "key": "IT_US_EYEDROPS",
+            "value": "状態異常回復（暗闇）"
+        },
+        {
+            "key": "IT_US_REMINDER",
+            "value": "状態異常回復（睡眠・混乱）"
+        },
+        {
+            "key": "IT_US_ECHODROP",
+            "value": "状態異常回復（沈黙）"
+        },
+        {
+            "key": "IT_US_UNICORNHORN",
+            "value": "状態異常回復（麻痺）"
+        },
+        {
+            "key": "IT_US_MAIDENKISS",
+            "value": "状態異常回復（トード）"
+        },
+        {
+            "key": "IT_US_GOLDNEEDLE",
+            "value": "状態異常回復（石化）"
+        },
+        {
+            "key": "IT_US_REMEDY",
+            "value": "状態異常回復（毒・暗闇・睡眠・沈黙・麻痺・混乱）"
+        },
+        {
+            "key": "IT_US_ENCHANTDRAG",
+            "value": "状態異常回復（沈黙・ドンムブ・ドンアク）"
+        },
+        {
+            "key": "IT_US_HOLYTORCH",
+            "value": "状態効果解除（ヘイスト・リジェネ・プロテス・シェル・レビテト）"
+        },
+        {
+            "key": "IT_US_HERODRINK",
+            "value": "一時的に攻撃、魔力アップ"
+        },
+        {
+            "key": "IT_US_BACCHUS",
+            "value": "一時的にバーサク効果"
+        },
+        {
+            "key": "IT_US_SHELL",
+            "value": "一時的にシェル効果"
+        },
+        {
+            "key": "IT_US_PROTECT",
+            "value": "一時的にプロテス効果"
+        },
+        {
+            "key": "IT_US_HEALWATER",
+            "value": "一時的にリジェネ効果"
+        },
+        {
+            "key": "IT_US_HPPOTION",
+            "value": "一時的に最大HPアップ"
+        },
+        {
+            "key": "IT_US_ATKPOTION",
+            "value": "一時的に攻撃アップ"
+        },
+        {
+            "key": "IT_US_MAGPOTION",
+            "value": "一時的に魔力アップ"
+        },
+        {
+            "key": "IT_US_SPDPOTION",
+            "value": "一時的に素早さアップ"
+        },
+        {
+            "key": "IT_US_DEXPOTION",
+            "value": "一時的に器用さアップ"
+        },
+        {
+            "key": "IT_ACTP_01",
+            "value": "プレイヤーの体力を回復（小）"
+        },
+        {
+            "key": "IT_ACTP_02",
+            "value": "プレイヤーの体力を回復（中）"
+        },
+        {
+            "key": "IT_ACTP_03",
+            "value": "プレイヤーの体力を回復（大）"
+        },
+        {
+            "key": "IT_ACTP_04",
+            "value": "プレイヤーの体力を回復（極）"
+        },
+        {
+            "key": "IT_ARENAP_02",
+            "value": "アリーナオーブを全回復"
+        },
+        {
+            "key": "IT_RAIDAP_01",
+            "value": "レイドオーブを全回復"
+        },
+        {
+            "key": "IT_RANKMP_02",
+            "value": "クラスマッチに必要なオーブを回復するアイテム（全回復）"
+        },
+        {
+            "key": "IT_CG_01",
+            "value": "ショップで換金できるアイテム（小）"
+        },
+        {
+            "key": "IT_CG_02",
+            "value": "ショップで換金できるアイテム（中）"
+        },
+        {
+            "key": "IT_CG_03",
+            "value": "ショップで換金できるアイテム（大）"
+        },
+        {
+            "key": "IT_CG_04",
+            "value": "ショップで換金できるアイテム（極）"
+        },
+        {
+            "key": "IT_US_EXP_01",
+            "value": "Lv.30までのユニットに使用可能。使用すると経験値を獲得（小）"
+        },
+        {
+            "key": "IT_US_EXP_02",
+            "value": "Lv.60までのユニットに使用可能。使用すると経験値を獲得（中）"
+        },
+        {
+            "key": "IT_US_EXP_03",
+            "value": "Lv.80までのユニットに使用可能。使用すると経験値を獲得（大）"
+        },
+        {
+            "key": "IT_US_EXP_04",
+            "value": "全てのユニットに使用可能。使用すると経験値を獲得（極）"
+        },
+        {
+            "key": "IT_LB_EXP_01",
+            "value": "リミットバーストの経験値を獲得（小）"
+        },
+        {
+            "key": "IT_LB_EXP_02",
+            "value": "リミットバーストの経験値を獲得（中）"
+        },
+        {
+            "key": "IT_LB_EXP_03",
+            "value": "リミットバーストの経験値を獲得（大）"
+        },
+        {
+            "key": "IT_JB_MM_ALL",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ALL_2",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ALL_3",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ALL_4",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ALL_5",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SWORD_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SWORD_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SWORD_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SWORD_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SWORD_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_LSWORD_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_LSWORD_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_LSWORD_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_LSWORD_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_LSWORD_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_JSWORD_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_JSWORD_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_JSWORD_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_JSWORD_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_JSWORD_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_FIST_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_FIST_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_FIST_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_FIST_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_FIST_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SPEAR_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SPEAR_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SPEAR_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SPEAR_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SPEAR_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SSWORD_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SSWORD_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SSWORD_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SSWORD_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_SSWORD_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_KUNAI_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_KUNAI_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_KUNAI_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_KUNAI_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_KUNAI_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_BOW_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_BOW_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_BOW_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_BOW_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_BOW_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_GUN_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_GUN_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_GUN_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_GUN_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_GUN_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_STAFF_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_STAFF_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_STAFF_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_STAFF_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_STAFF_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MACE_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MACE_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MACE_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MACE_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MACE_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_AXE_01",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_AXE_02",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_AXE_03",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_AXE_04",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_AXE_05",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_COMMON",
+            "value": "ジョブLv3の強化に必要なジョブの記憶の代わりに使用できるアイテム"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_2",
+            "value": "ジョブLv6の強化に必要なジョブの記憶の代わりに使用できるアイテム"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_3",
+            "value": "ジョブLv9の強化に必要なジョブの記憶の代わりに使用できるアイテム"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_4",
+            "value": "ジョブLv12の強化に必要なジョブの記憶の代わりに使用できるアイテム"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_5",
+            "value": "ジョブLv15の強化に必要なジョブの記憶の代わりに使用できるアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WAR",
+            "value": "ジョブ（戦士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WAR_2",
+            "value": "ジョブ（戦士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WAR_3",
+            "value": "ジョブ（戦士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WAR_4",
+            "value": "ジョブ（戦士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WAR_5",
+            "value": "ジョブ（戦士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_KNT",
+            "value": "ジョブ（ナイト）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_KNT_2",
+            "value": "ジョブ（ナイト）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_KNT_3",
+            "value": "ジョブ（ナイト）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_KNT_4",
+            "value": "ジョブ（ナイト）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_KNT_5",
+            "value": "ジョブ（ナイト）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_PLD",
+            "value": "ジョブ（パラディン）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_PLD_2",
+            "value": "ジョブ（パラディン）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_PLD_3",
+            "value": "ジョブ（パラディン）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_PLD_4",
+            "value": "ジョブ（パラディン）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_PLD_5",
+            "value": "ジョブ（パラディン）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SWN",
+            "value": "ジョブ（ソルジャー）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SWN_2",
+            "value": "ジョブ（ソルジャー）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SWN_3",
+            "value": "ジョブ（ソルジャー）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SWN_4",
+            "value": "ジョブ（ソルジャー）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SWN_5",
+            "value": "ジョブ（ソルジャー）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MNK",
+            "value": "ジョブ（モンク）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MNK_2",
+            "value": "ジョブ（モンク）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MNK_3",
+            "value": "ジョブ（モンク）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MNK_4",
+            "value": "ジョブ（モンク）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MNK_5",
+            "value": "ジョブ（モンク）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SAM",
+            "value": "ジョブ（侍）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SAM_2",
+            "value": "ジョブ（侍）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SAM_3",
+            "value": "ジョブ（侍）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SAM_4",
+            "value": "ジョブ（侍）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_SAM_5",
+            "value": "ジョブ（侍）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LAN",
+            "value": "ジョブ（槍術士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LAN_2",
+            "value": "ジョブ（槍術士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LAN_3",
+            "value": "ジョブ（槍術士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LAN_4",
+            "value": "ジョブ（槍術士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LAN_5",
+            "value": "ジョブ（槍術士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_DRG",
+            "value": "ジョブ（竜騎士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_DRG_2",
+            "value": "ジョブ（竜騎士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_DRG_3",
+            "value": "ジョブ（竜騎士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_DRG_4",
+            "value": "ジョブ（竜騎士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_DRG_5",
+            "value": "ジョブ（竜騎士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_THI",
+            "value": "ジョブ（シーフ）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_THI_2",
+            "value": "ジョブ（シーフ）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_THI_3",
+            "value": "ジョブ（シーフ）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_THI_4",
+            "value": "ジョブ（シーフ）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_THI_5",
+            "value": "ジョブ（シーフ）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_NIN",
+            "value": "ジョブ（忍者）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_NIN_2",
+            "value": "ジョブ（忍者）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_NIN_3",
+            "value": "ジョブ（忍者）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_NIN_4",
+            "value": "ジョブ（忍者）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_NIN_5",
+            "value": "ジョブ（忍者）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_HUN",
+            "value": "ジョブ（狩人）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_HUN_2",
+            "value": "ジョブ（狩人）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_HUN_3",
+            "value": "ジョブ（狩人）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_HUN_4",
+            "value": "ジョブ（狩人）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_HUN_5",
+            "value": "ジョブ（狩人）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GUN",
+            "value": "ジョブ（ガンナー）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GUN_2",
+            "value": "ジョブ（ガンナー）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GUN_3",
+            "value": "ジョブ（ガンナー）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GUN_4",
+            "value": "ジョブ（ガンナー）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GUN_5",
+            "value": "ジョブ（ガンナー）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WHM",
+            "value": "ジョブ（白魔道士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WHM_2",
+            "value": "ジョブ（白魔道士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WHM_3",
+            "value": "ジョブ（白魔道士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WHM_4",
+            "value": "ジョブ（白魔道士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WHM_5",
+            "value": "ジョブ（白魔道士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_BLM",
+            "value": "ジョブ（黒魔道士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_BLM_2",
+            "value": "ジョブ（黒魔道士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_BLM_3",
+            "value": "ジョブ（黒魔道士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_BLM_4",
+            "value": "ジョブ（黒魔道士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_BLM_5",
+            "value": "ジョブ（黒魔道士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_RDM",
+            "value": "ジョブ（赤魔道士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_RDM_2",
+            "value": "ジョブ（赤魔道士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_RDM_3",
+            "value": "ジョブ（赤魔道士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_RDM_4",
+            "value": "ジョブ（赤魔道士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_RDM_5",
+            "value": "ジョブ（赤魔道士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GRM",
+            "value": "ジョブ（緑魔道士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GRM_2",
+            "value": "ジョブ（緑魔道士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GRM_3",
+            "value": "ジョブ（緑魔道士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GRM_4",
+            "value": "ジョブ（緑魔道士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_GRM_5",
+            "value": "ジョブ（緑魔道士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_TIM",
+            "value": "ジョブ（時魔道士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_TIM_2",
+            "value": "ジョブ（時魔道士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_TIM_3",
+            "value": "ジョブ（時魔道士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_TIM_4",
+            "value": "ジョブ（時魔道士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_TIM_5",
+            "value": "ジョブ（時魔道士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MGK",
+            "value": "ジョブ（魔法剣士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MGK_2",
+            "value": "ジョブ（魔法剣士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MGK_3",
+            "value": "ジョブ（魔法剣士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MGK_4",
+            "value": "ジョブ（魔法剣士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MGK_5",
+            "value": "ジョブ（魔法剣士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_CLR",
+            "value": "ジョブ（クレリック）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_CLR_2",
+            "value": "ジョブ（クレリック）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_CLR_3",
+            "value": "ジョブ（クレリック）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_CLR_4",
+            "value": "ジョブ（クレリック）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_CLR_5",
+            "value": "ジョブ（クレリック）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS",
+            "value": "ジョブ（翼ある者）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_2",
+            "value": "ジョブ（翼ある者）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_3",
+            "value": "ジョブ（翼ある者）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_4",
+            "value": "ジョブ（翼ある者）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_5",
+            "value": "ジョブ（翼ある者）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL",
+            "value": "ジョブ（魔女）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_2",
+            "value": "ジョブ（魔女）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_3",
+            "value": "ジョブ（魔女）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_4",
+            "value": "ジョブ（魔女）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_5",
+            "value": "ジョブ（魔女）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR",
+            "value": "ジョブ（ガンブレイカー）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_2",
+            "value": "ジョブ（ガンブレイカー）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_3",
+            "value": "ジョブ（ガンブレイカー）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_4",
+            "value": "ジョブ（ガンブレイカー）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_5",
+            "value": "ジョブ（ガンブレイカー）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_VIK",
+            "value": "ジョブ（バイキング）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_VIK_2",
+            "value": "ジョブ（バイキング）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_VIK_3",
+            "value": "ジョブ（バイキング）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_VIK_4",
+            "value": "ジョブ（バイキング）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_VIK_5",
+            "value": "ジョブ（バイキング）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR",
+            "value": "ジョブ（ダークナイト）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_2",
+            "value": "ジョブ（ダークナイト）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_3",
+            "value": "ジョブ（ダークナイト）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_4",
+            "value": "ジョブ（ダークナイト）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_5",
+            "value": "ジョブ（ダークナイト）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ",
+            "value": "ジョブ（見習い戦士（ラムザ））のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_2",
+            "value": "ジョブ（見習い戦士（ラムザ））のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_3",
+            "value": "ジョブ（見習い戦士（ラムザ））のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_4",
+            "value": "ジョブ（見習い戦士（ラムザ））のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_5",
+            "value": "ジョブ（見習い戦士（ラムザ））のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND",
+            "value": "ジョブ（剣聖）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_2",
+            "value": "ジョブ（剣聖）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_3",
+            "value": "ジョブ（剣聖）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_4",
+            "value": "ジョブ（剣聖）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_5",
+            "value": "ジョブ（剣聖）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WGN",
+            "value": "ジョブ（ダブルガンナー）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WGN_2",
+            "value": "ジョブ（ダブルガンナー）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WGN_3",
+            "value": "ジョブ（ダブルガンナー）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WGN_4",
+            "value": "ジョブ（ダブルガンナー）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_WGN_5",
+            "value": "ジョブ（ダブルガンナー）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "ジョブ（グランシェルトの騎士（炎））のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "ジョブ（グランシェルトの騎士（炎））のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "ジョブ（グランシェルトの騎士（炎））のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "ジョブ（グランシェルトの騎士（炎））のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "ジョブ（グランシェルトの騎士（炎））のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "ジョブ（アサシン）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "ジョブ（アサシン）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "ジョブ（アサシン）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "ジョブ（アサシン）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "ジョブ（アサシン）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "ジョブ（光の戦士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "ジョブ（光の戦士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "ジョブ（光の戦士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "ジョブ（光の戦士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "ジョブ（光の戦士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "ジョブ（魔杖術士）のLv3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "ジョブ（魔杖術士）のLv6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "ジョブ（魔杖術士）のLv9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "ジョブ（魔杖術士）のLv12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "ジョブ（魔杖術士）のLv15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_1",
+            "value": "火属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_2",
+            "value": "火属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_3",
+            "value": "火属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_4",
+            "value": "火属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_5",
+            "value": "火属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_ICE_1",
+            "value": "氷属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_ICE_2",
+            "value": "氷属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_ICE_3",
+            "value": "氷属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_ICE_4",
+            "value": "氷属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_ICE_5",
+            "value": "氷属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WIND_1",
+            "value": "風属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WIND_2",
+            "value": "風属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WIND_3",
+            "value": "風属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WIND_4",
+            "value": "風属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WIND_5",
+            "value": "風属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_1",
+            "value": "土属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_2",
+            "value": "土属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_3",
+            "value": "土属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_4",
+            "value": "土属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_5",
+            "value": "土属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_1",
+            "value": "雷属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_2",
+            "value": "雷属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_3",
+            "value": "雷属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_4",
+            "value": "雷属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_5",
+            "value": "雷属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WATER_1",
+            "value": "水属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WATER_2",
+            "value": "水属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WATER_3",
+            "value": "水属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WATER_4",
+            "value": "水属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_WATER_5",
+            "value": "水属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_1",
+            "value": "光属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_2",
+            "value": "光属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_3",
+            "value": "光属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_4",
+            "value": "光属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_5",
+            "value": "光属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_DARK_1",
+            "value": "闇属性ユニットのジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_DARK_2",
+            "value": "闇属性ユニットのジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_DARK_3",
+            "value": "闇属性ユニットのジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_DARK_4",
+            "value": "闇属性ユニットのジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_EM_DARK_5",
+            "value": "闇属性ユニットのジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_1",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_2",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_3",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_4",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_5",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_1",
+            "value": "ジョブLv2～3の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_2",
+            "value": "ジョブLv4～6の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_3",
+            "value": "ジョブLv7～9の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_4",
+            "value": "ジョブLv10～12の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_5",
+            "value": "ジョブLv13～15の強化に必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_FIRE",
+            "value": "火属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_ICE",
+            "value": "氷属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WIND",
+            "value": "風属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SOIL",
+            "value": "土属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER",
+            "value": "雷属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WATER",
+            "value": "水属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SHINE",
+            "value": "光属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_DARK",
+            "value": "闇属性ユニットを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R2",
+            "value": "火属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R3",
+            "value": "火属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R4",
+            "value": "火属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R5",
+            "value": "火属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R6",
+            "value": "火属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R2",
+            "value": "氷属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R3",
+            "value": "氷属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R4",
+            "value": "氷属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R5",
+            "value": "氷属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R6",
+            "value": "氷属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R2",
+            "value": "風属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R3",
+            "value": "風属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R4",
+            "value": "風属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R5",
+            "value": "風属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R6",
+            "value": "風属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R2",
+            "value": "土属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R3",
+            "value": "土属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R4",
+            "value": "土属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R5",
+            "value": "土属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R6",
+            "value": "土属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R2",
+            "value": "雷属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R3",
+            "value": "雷属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R4",
+            "value": "雷属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R5",
+            "value": "雷属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R6",
+            "value": "雷属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R2",
+            "value": "水属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R3",
+            "value": "水属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R4",
+            "value": "水属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R5",
+            "value": "水属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R6",
+            "value": "水属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R2",
+            "value": "光属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R3",
+            "value": "光属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R4",
+            "value": "光属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R5",
+            "value": "光属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R6",
+            "value": "光属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R2",
+            "value": "闇属性ユニットを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R3",
+            "value": "闇属性ユニットを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R4",
+            "value": "闇属性ユニットを★4へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R5",
+            "value": "闇属性ユニットを★5へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R6",
+            "value": "闇属性ユニットを★6へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_AW_VBALL_N",
+            "value": "ユニット・ビジョンカードを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_AW_VBALL_R",
+            "value": "ユニット・ビジョンカードを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_AW_VBALL_SR",
+            "value": "ユニット・ビジョンカードを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_AW_VBALL_SSR",
+            "value": "ユニット・ビジョンカードを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_AW_VBALL_UR",
+            "value": "ユニット・ビジョンカードを覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_PI_COM_FIRE",
+            "value": "火属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_ICE",
+            "value": "氷属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_WIND",
+            "value": "風属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_SOIL",
+            "value": "土属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_THUNDER",
+            "value": "雷属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_WATER",
+            "value": "水属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_SHINE",
+            "value": "光属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_DARK",
+            "value": "闇属性ユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_COM_ALL",
+            "value": "全属性のユニットの覚醒用アイテム"
+        },
+        {
+            "key": "IT_PI_LW_MONT",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_STRN",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ELDE",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ROBB",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ENBT",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ZIZA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_AILN",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MDNA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_AYKA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MACR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_HLNA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_LILS",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_RAMD",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_OOOO",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_LRNZ",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_RIRY",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_VSTR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_CLEY",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_KADI",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MRLK",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MGRT",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_PRAY",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_SZRT",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_FINA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_BYLO",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_RYER",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_SCIA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_VRID",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_NAIA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_SRJS",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_UNII",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_SEVR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_VADM",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MURM",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_PHBE",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_RART",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MICE",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MIIA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ZZAN",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_GLMS",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_FF14_YSTL",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_FF14_TNCR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_SDLX",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_FDRC",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_YERM",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_NASR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ETRE",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_FFT_GFGR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_FFT_RAMZ",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_FFT_ORND",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_WHIS",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_KTON",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_MRND",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_DRND",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_LUCA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ADLD",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_VKTR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "ユニットの限界突破に必要なアイテム"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_01",
+            "value": "召喚獣の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_02",
+            "value": "召喚獣の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_03",
+            "value": "召喚獣の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_04",
+            "value": "召喚獣の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_SB_AW_FIRE",
+            "value": "火属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_ICE",
+            "value": "氷属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_THUNDER",
+            "value": "雷属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_WATER",
+            "value": "水属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_WIND",
+            "value": "風属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_SOIL",
+            "value": "土属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_SHINE",
+            "value": "光属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_DARK",
+            "value": "闇属性の召喚獣を覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R2",
+            "value": "イフリートを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R3",
+            "value": "イフリートを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R2",
+            "value": "ゴーレムを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R3",
+            "value": "ゴーレムを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R2",
+            "value": "セイレーンを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R3",
+            "value": "セイレーンを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R2",
+            "value": "鉄巨人を★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R3",
+            "value": "鉄巨人を★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R2",
+            "value": "ベヒーモスを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R3",
+            "value": "ベヒーモスを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R2",
+            "value": "モルボルを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R3",
+            "value": "モルボルを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R2",
+            "value": "シヴァを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R3",
+            "value": "シヴァを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R2",
+            "value": "ラムウを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R3",
+            "value": "ラムウを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R2",
+            "value": "オーディンを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R3",
+            "value": "オーディンを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R2",
+            "value": "ラミアクイーンを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R3",
+            "value": "ラミアクイーンを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R2",
+            "value": "テトラシルフィードを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R3",
+            "value": "テトラシルフィードを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "オチューを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "オチューを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "２ヘッドドラゴンを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "２ヘッドドラゴンを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "ディアボロスを★2へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "ディアボロスを★3へ覚醒させるために必要なアイテム"
+        },
+        {
+            "key": "IT_TICKET_STORY",
+            "value": "ストーリークエストのバトルをスキップできるチケット"
+        },
+        {
+            "key": "IT_TICKET_EVENT",
+            "value": "イベントクエストのバトルをスキップできるチケット"
+        },
+        {
+            "key": "IT_AF_EXP_01",
+            "value": "武具の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_AF_EXP_02",
+            "value": "武具の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_AF_EXP_03",
+            "value": "武具の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_AF_EXP_04",
+            "value": "武具の経験値を獲得（極）"
+        },
+        {
+            "key": "IT_AF_AW_SWORD",
+            "value": "武具種：剣の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_LSWORD",
+            "value": "武具種：大剣の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_FIST",
+            "value": "武具種：拳の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_JSWORD",
+            "value": "武具種：刀の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_SPEAR",
+            "value": "武具種：槍の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_SSWORD",
+            "value": "武具種：短剣の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_KUNAI",
+            "value": "武具種：忍刀の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_BOW",
+            "value": "武具種：弓の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_GUN",
+            "value": "武具種：銃の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_STAFF",
+            "value": "武具種：杖の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_MACE",
+            "value": "武具種：メイスの覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_AXE",
+            "value": "武具種：斧の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_ARMOR",
+            "value": "武具種：防具の覚醒素材"
+        },
+        {
+            "key": "IT_AF_AW_ACCE",
+            "value": "武具種：アクセサリの覚醒素材"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_03",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_04",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_03",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_04",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_03",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_04",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_01",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_02",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_03",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_04",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_OGRE",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_BOMB",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_MABR",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_WOLF",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_ZUUU",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_BONE",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_ARMN",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_MAT_MYTHRIL",
+            "value": "武具のクラフト・覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_AF_LW_SWO_001",
+            "value": "ロングソードのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SWO_002",
+            "value": "ミスリルソードのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SWO_003",
+            "value": "眠りの剣のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SWO_004",
+            "value": "アイスブランドのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SWO_005",
+            "value": "フレイムタンのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SWO_006",
+            "value": "サンゴの剣のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_BSW_001",
+            "value": "クレイモアのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_BSW_002",
+            "value": "ミスリルセイバーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_BSW_003",
+            "value": "ルーンブレイドのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_BSW_004",
+            "value": "ゴールドブレイドのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_KAT_001",
+            "value": "虎鉄のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_KAT_002",
+            "value": "菊一文字のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_KAT_003",
+            "value": "備前長船のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_FIS_001",
+            "value": "メタルナックルのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_FIS_002",
+            "value": "ミスリルクローのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_FIS_003",
+            "value": "猫の爪のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SPE_001",
+            "value": "パルチザンのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SPE_002",
+            "value": "ミスリルスピアのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SPE_003",
+            "value": "ウィンドスピアのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SPE_004",
+            "value": "アイスランスのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_SPE_006",
+            "value": "竜角の槍のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_DAG_001",
+            "value": "ダガーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_DAG_002",
+            "value": "ミスリルダガーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_DAG_004",
+            "value": "マインゴーシュのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_DAG_006",
+            "value": "メイジマッシャーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_NKN_001",
+            "value": "くないのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_NKN_002",
+            "value": "小太刀のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_NKN_003",
+            "value": "佐助の刀のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_BOW_001",
+            "value": "ロングボウのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_BOW_002",
+            "value": "グレートボウのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_BOW_003",
+            "value": "ルーンの弓のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_GUN_001",
+            "value": "カペラのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_GUN_002",
+            "value": "ヴェガのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_GUN_003",
+            "value": "ラス・アルゲテイのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ROD_002",
+            "value": "アイアンロッドのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ROD_004",
+            "value": "癒しの杖のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ROD_005",
+            "value": "プラチナロッドのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_MAC_001",
+            "value": "アイアンメイスのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_MAC_002",
+            "value": "ミスリルメイスのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_MAC_003",
+            "value": "プラチナメイスのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ARM_002",
+            "value": "アイアンプレートのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ARM_003",
+            "value": "ミスリルアーマーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ARM_004",
+            "value": "ゴールドアーマーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_HAT_002",
+            "value": "三角帽子のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_HAT_003",
+            "value": "サークレットのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_HAT_004",
+            "value": "賢者の帽子のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_CLT_001",
+            "value": "皮の服のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_CLT_002",
+            "value": "学者の服のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_CLT_003",
+            "value": "ミラージュベストのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_CLT_004",
+            "value": "インテリコートのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_HLM_002",
+            "value": "アイアンヘルムのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_HLM_003",
+            "value": "ミスリルヘルムのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_HLM_004",
+            "value": "ゴールドヘルムのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_RNG_002",
+            "value": "ブレイブリングのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_RNG_003",
+            "value": "フェアリーリングのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_RNG_004",
+            "value": "ジュエルリングのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_SWO_FF14_TNCT",
+            "value": "ライオンハート・イミテイトのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ROD_007",
+            "value": "賢者の杖のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_ARM_005",
+            "value": "プラチナアーマーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_FFT_SWO_001",
+            "value": "ナグラロクのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_FTW_001",
+            "value": "エルメスの靴のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_AXE_001",
+            "value": "オーガキラーのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_AXE_002",
+            "value": "ミスリルアクスのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_AXE_003",
+            "value": "ゴールドアックスのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "アレキサンドライトの指輪のクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "プラチナローブのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "アーマーオブライトのクラフトに必要なレシピ"
+        },
+        {
+            "key": "IT_AF_SUP_HP",
+            "value": "武具のレベルアップ時“HP”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_SUP_ATK",
+            "value": "武具のレベルアップ時“攻撃”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_SUP_MAG",
+            "value": "武具のレベルアップ時“魔力”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_SUP_MND",
+            "value": "武具のレベルアップ時“精神”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_SUP_DEF",
+            "value": "武具のレベルアップ時“防御”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_SUP_AVO",
+            "value": "武具のレベルアップ時“回避”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_SUP_HIT",
+            "value": "武具のレベルアップ時“命中”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_SUP_CRI",
+            "value": "武具のレベルアップ時“クリティカル”の上がる確率アップ"
+        },
+        {
+            "key": "IT_AF_PT_ATK",
+            "value": "武具のステータスアップ（攻撃）"
+        },
+        {
+            "key": "IT_AF_PT_MAG",
+            "value": "武具のステータスアップ（魔力）"
+        },
+        {
+            "key": "IT_AF_PT_DEF",
+            "value": "武具のステータスアップ（防御）"
+        },
+        {
+            "key": "IT_AF_PT_MND",
+            "value": "武具のステータスアップ（精神）"
+        },
+        {
+            "key": "IT_AF_PT_HIT",
+            "value": "武具のステータスアップ（命中）"
+        },
+        {
+            "key": "IT_AF_PT_CRI",
+            "value": "武具のステータスアップ（クリティカル）"
+        },
+        {
+            "key": "IT_AF_PT_AVO",
+            "value": "武具のステータスアップ（回避）"
+        },
+        {
+            "key": "IT_AF_PT_HP",
+            "value": "武具のステータスアップ（HP）"
+        },
+        {
+            "key": "IT_AF_PT_SPD",
+            "value": "武具のステータスアップ（素早さ）"
+        },
+        {
+            "key": "IT_WA_EXP_01",
+            "value": "武具アビリティの経験値を獲得（小）"
+        },
+        {
+            "key": "IT_WA_EXP_02",
+            "value": "武具アビリティの経験値を獲得（中）"
+        },
+        {
+            "key": "IT_WA_EXP_03",
+            "value": "武具アビリティの経験値を獲得（大）"
+        },
+        {
+            "key": "IT_AF_RESET",
+            "value": "武具のステータスリセットに必要なアイテム<br>※ステータスリセットすると武具の強化に使用した鉱石やドワーフ槌は返却されません"
+        },
+        {
+            "key": "IT_EC_STARQUARTZ",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_ARENA",
+            "value": "アリーナで獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_MULTI",
+            "value": "マルチクエストで獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_RAID",
+            "value": "レイドバトルで獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_MATCH",
+            "value": "マッチバトルで獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_GUILD",
+            "value": "ギルドで獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_SOUL",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SOUL_N",
+            "value": "Nレアリティのユニットの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_SOUL_R",
+            "value": "Rレアリティのユニットの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_SOUL_SR",
+            "value": "SRレアリティのユニットの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_SOUL_SSR",
+            "value": "SSRレアリティのユニットの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_SOUL_UR",
+            "value": "URレアリティのユニットの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_MOOGLE",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_TOWER",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_SUMMON",
+            "value": "仕様未定"
+        },
+        {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "新ユニット／ビジョンカード召喚で獲得できるメダル。【使用期限】2019年12月9日14:59まで"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_A",
+            "value": "新ユニット／ビジョンカード召喚、クリスマス記念召喚で獲得できるメダル。【使用期限】2019年12月31日23:59まで"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_B",
+            "value": "クリスマス記念召喚 第2弾で獲得できるメダル。【使用期限】2020年1月15日14:59まで"
+        },
+        {
+            "key": "IT_EC_VISION",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_VISION_N",
+            "value": "Nレアリティのビジョンカードの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_VISION_R",
+            "value": "Rレアリティのビジョンカードの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_VISION_SR",
+            "value": "SRレアリティのビジョンカードの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_VISION_SSR",
+            "value": "SSRレアリティのビジョンカードの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_VISION_UR",
+            "value": "URレアリティのビジョンカードの欠片を、上限数を超えて獲得したときに変換されるメダル"
+        },
+        {
+            "key": "IT_EC_FRIEND",
+            "value": "フレンドギフトで獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_FF14_1",
+            "value": "FF14コラボイベントで獲得できる交換用アイテム　トームストーン魔典交換所でアイテムと交換できる"
+        },
+        {
+            "key": "IT_EC_FF14_2",
+            "value": "FFXIVコラボ記念召喚で獲得できるメダル　コラボ召喚メダル交換所でアイテムと交換できる"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "FF14コラボイベントで獲得する「トームストーン魔典」との交換で獲得できるチケット"
+        },
+        {
+            "key": "IT_EC_SUMMON_03_A",
+            "value": "ユニット／ビジョンカード召喚で獲得できるメダル。【使用期限】2020年4月14日23:59まで"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 4/21/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_B",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 4/28/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 6/2/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_B",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 6/16/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 6/30/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 7/14/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 7/28/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 8/11/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 9/1/2020)"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 11:59 p.m. PST, 9/15/2020)"
+        },
+        {
+            "key": "IT_EC_FFT_1",
+            "value": "FFTコラボイベントで獲得できる交換用アイテム　FFTコラボイベントメダル交換所でアイテムと交換できる"
+        },
+        {
+            "key": "IT_EC_FFT_2_A",
+            "value": "FFTコラボ記念召喚で獲得できるメダル　FFTコラボ召喚メダルA交換所でアイテムと交換できる　【使用期限】2020年5月26日23:59まで"
+        },
+        {
+            "key": "IT_EC_FFT_2_B",
+            "value": "FFTコラボ記念召喚で獲得できるメダル　FFTコラボ召喚メダルB交換所でアイテムと交換できる　【使用期限】2020年5月26日23:59まで"
+        },
+        {
+            "key": "IT_EC_TOWER_001",
+            "value": "白磁の塔で獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_EV02_1",
+            "value": "イベント「西の脅威ランダル」で獲得できる交換用アイテム　西の脅威ランダルメダル交換所でアイテムと交換できる"
+        },
+        {
+            "key": "IT_EC_EV03_1",
+            "value": "イベント「命を燃やし尽くすために」で獲得できる交換用アイテム　【7月】イベントメダル交換所でアイテムと交換できる"
+        },
+        {
+            "key": "IT_EC_EV04_1",
+            "value": "イベント「東方遥かなり」で獲得できる交換用アイテム　【8月】イベントメダル交換所でアイテムと交換できる"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "FF1コラボイベントで獲得できる交換用アイテム　FF1コラボイベントメダル交換所でアイテムと交換できる"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "FF1コラボ記念召喚で獲得できるメダル　FF1コラボ召喚メダル交換所でアイテムと交換できる　【使用期限】2020年8月25日23:59まで"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "FINAL FANTASY TACTICSコラボイベントで獲得できるチケット"
+        },
+        {
+            "key": "IT_AD_TICKET_2",
+            "value": "探検チョコボで2時間高速化できるチケット"
+        },
+        {
+            "key": "IT_AD_TICKET_5",
+            "value": "探検チョコボで5時間高速化できるチケット"
+        },
+        {
+            "key": "IT_AD_TICKET_10",
+            "value": "探検チョコボで10時間高速化できるチケット"
+        },
+        {
+            "key": "IT_US_GACHA_01",
+            "value": "レア召喚で1枚消費することで、ユニット1体もしくはビジョンカード1枚の召喚が可能となるチケット"
+        },
+        {
+            "key": "IT_US_GACHA_10",
+            "value": "レア召喚をまとめて１0回引くことが出来るチケット"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "A ticket guaranteed to summon 10 units or vision cards, including a unit of MR rarity or better"
+        },
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "SR以上のレアリティのビジョンカード1枚が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "SSR以上のレアリティのビジョンカード1枚が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_GL_G_V_SSR_UR_01",
+            "value": "SSR以上のレアリティのビジョンカード1枚が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "SSR以上のレアリティのユニット1体が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_1",
+            "value": "覚醒で必要になる各属性の想いの欠片10個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "覚醒で必要になる各属性の想いの欠片200個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_02",
+            "value": "覚醒で必要になる各属性の想いの欠片100個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_02",
+            "value": "覚醒で必要になる覚醒輝源100個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_03",
+            "value": "覚醒で必要になる覚醒輝源50個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "覚醒で必要になる覚醒輝源200個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_01",
+            "value": "覚醒で必要になる各属性の想いの欠片50個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_01_01",
+            "value": "ジョブの強化で必要になる各属性の輝石・翠30個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "ジョブの強化で必要になる各属性の輝石・碧10個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_02",
+            "value": "ジョブの強化で必要になる各属性の輝石・碧70個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_03_01",
+            "value": "ジョブの強化で必要になる各属性の輝石・紫70個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_SB_AW_01",
+            "value": "召喚獣の覚醒に必要になる各属性の獣醒石20個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_01",
+            "value": "召喚獣の強化に必要になる属性別の魔石（大）50個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_02",
+            "value": "召喚獣の強化に必要になる属性別の魔石（極）10個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_03",
+            "value": "召喚獣の強化に必要になる属性別の魔石（中）50個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "URレアリティのユニット1体が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "URレアリティのユニット1体が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "URレアリティのユニット1体もしくはビジョンカード1枚が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "URレアリティのユニット1体もしくはビジョンカード1枚が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "R以上のレアリティのユニット1体が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "R以上のレアリティのビジョンカード1枚が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "URレアリティのビジョンカード1枚が確定で召喚されるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "ジョブの強化に必要になる各種のジョブの記憶・翠の中から、いずれか1種類を選んで、1個を召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "ジョブの強化に必要になる各種のジョブの記憶・碧の中から、いずれか1種類を選んで、2個を召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "ジョブの強化に必要になる各種のジョブの記憶・紫の中から、いずれか1種類を選んで、3個を召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "ジョブの強化に必要になる各種のジョブの記憶・橘の中から、いずれか1種類を選んで、4個を召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "ジョブの強化に必要になる各種のジョブの記憶・緋の中から、いずれか1種類を選んで、5個を召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "URレアリティのユニット1体を選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "覚醒で必要になる覚醒輝源10個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_UR_V_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_04",
+            "value": "覚醒で必要になる覚醒輝源30個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_05",
+            "value": "覚醒で必要になる覚醒輝源NN個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_VPI_LW_GLEM",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_IFRT",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_SIRE",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_SOKYU",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_TRAINING",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_MACR",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_MURG",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_GRSR",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_FF14_MV1",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_HOLYNIGHT",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_FFT_MV1",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_ODIN",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_IGNT",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_BHMT",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_MABR",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_SHIV",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_RAMU",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_FAMILY",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_KTON",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_PROPOSE",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_SDLX",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_TEAPARTY",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_HUNT",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_FF14_MV2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_NEWYEAR",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_LAMA_01",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_GUARD",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_CACT",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_ARMN_01",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_ZUUU",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_OGRE",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_BOMB",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_JOBCRYSTAL",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_BYLO",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_RART",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_RYER",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_RIRY",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_CRYSTAL",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_DYNVERK",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_01",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_02",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_MIRROR",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_TSLP",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_LILS",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "ビジョンカードの覚醒に必要なアイテム"
+        },
+        {
+            "key": "IT_VC_EXP_01",
+            "value": "ビジョンカードの経験値を獲得（小）"
+        },
+        {
+            "key": "IT_VC_EXP_02",
+            "value": "ビジョンカードの経験値を獲得（中）"
+        },
+        {
+            "key": "IT_VC_EXP_03",
+            "value": "ビジョンカードの経験値を獲得（大）"
+        },
+        {
+            "key": "IT_VC_EXP_04",
+            "value": "ビジョンカードの経験値を獲得（極）"
+        },
+        {
+            "key": "IT_GU_FOOD_01",
+            "value": "ギルド兵舎の食糧を補充（1,000）"
+        },
+        {
+            "key": "IT_GU_FOOD_02",
+            "value": "ギルド兵舎の食糧を補充（2,000）"
+        },
+        {
+            "key": "IT_GU_FOOD_03",
+            "value": "ギルド兵舎の食糧を補充（3,000）"
+        },
+        {
+            "key": "IT_GU_FOOD_04",
+            "value": "ギルド兵舎の食糧を補充（5,000）&獲得JPボーナス（小）"
+        },
+        {
+            "key": "IT_GU_FOOD_05",
+            "value": "ギルド兵舎の食糧を補充（7,500）&獲得JPボーナス（中）"
+        },
+        {
+            "key": "IT_GU_FOOD_06",
+            "value": "ギルド兵舎の食糧を補充（10,000）&獲得JPボーナス（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S2_01",
+            "value": "ギルド【大蛇の石像】の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S2_02",
+            "value": "ギルド【大蛇の石像】の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S2_03",
+            "value": "ギルド【大蛇の石像】の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S3_01",
+            "value": "ギルド【牡牛の石像】の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S3_02",
+            "value": "ギルド【牡牛の石像】の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S3_03",
+            "value": "ギルド【牡牛の石像】の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S4_01",
+            "value": "ギルド【麒麟の石像】の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S4_02",
+            "value": "ギルド【麒麟の石像】の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S4_03",
+            "value": "ギルド【麒麟の石像】の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S1_01",
+            "value": "ギルド【獅子の石像】の経験値を獲得（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S1_02",
+            "value": "ギルド【獅子の石像】の経験値を獲得（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S1_03",
+            "value": "ギルド【獅子の石像】の経験値を獲得（大）"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "レイドで獲得できるメダル"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "ホワイトマシュマロレイドで獲得できるメダル"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "召喚獣の強化に必要になる属性別の魔石（中）500個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "召喚獣の強化に必要になる属性別の魔石（中）10個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "召喚獣の強化に必要になる属性別の魔石（中）25個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "召喚獣の強化に必要になる属性別の魔石（大）100個を、8属性の中から選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "2020/5/20までに登場したURのビジョンカードの欠片、1種類50個を選んで召喚できるチケット ※ 期間限定・コラボは対象外です"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "2020/6/24までに登場したURのビジョンカードの欠片、1種類50個を選んで召喚できるチケット ※「漆黒の群像」「ベオルブの名を継ぐ者」は対象外です"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "2020/6/17までに登場したURのビジョンカードの欠片、1種類50個を選んで召喚できるチケット ※期間限定・コラボのビジョンカードは対象外です"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "2020/7/22までに登場したURのビジョンカードの欠片、1種類50個を選んで召喚できるチケット ※ 期間限定・コラボは対象外です"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "2020/8/12までに登場したURのビジョンカードの欠片、1種類50個を選んで召喚できるチケット ※ 期間限定・コラボは対象外です"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "おすすめのURユニットの中から1体を選んで召喚できるチケット　すでに所持しているユニットを召喚した場合は欠片40個に変換されます"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "おすすめのSSRユニットの中から1体を選んで召喚できるチケット　すでに所持しているユニットを召喚した場合は欠片20個に変換されます"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "MRレアリティのユニット1体を選んで召喚できるチケット"
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "2020/6/17までに登場したURのユニットの欠片、1種類40個を選んで召喚できるチケット ※期間限定・コラボユニットは対象外です"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "URユニットの欠片40個を選べるチケット"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "ユニットの欠片やビジョンカードの欠片などのアイテムを獲得できるチケット"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "infos": [
+        {
+            "key": "AUTOLAP_TITLE",
+            "value": "AUTO周回について"
+        },
+        {
+            "key": "AUTOLAP_DESC",
+            "value": "クエストをクリア後に利用できます"
+        },
+        {
+            "key": "ARTSELL_TITLE",
+            "value": "売却不可"
+        },
+        {
+            "key": "ARTSELL_FAVORITE_DESC",
+            "value": "お気に入りに設定されています"
+        },
+        {
+            "key": "ARTSELL_EQUIP_DESC ",
+            "value": "装備中のユニットが存在します"
+        },
+        {
+            "key": "ARTSELL_NOT_DESC",
+            "value": "売却不可の武具です"
+        }
+    ]
+}

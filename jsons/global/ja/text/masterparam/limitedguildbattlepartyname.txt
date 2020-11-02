@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "PB_LGB_Noraml01",
+            "value": "通常パーティー"
+        },
+        {
+            "key": "PB_LGB_Normal02",
+            "value": "通常パーティー"
+        },
+        {
+            "key": "PB_LGB_Normal03",
+            "value": "通常パーティー"
+        }
+    ]
+}

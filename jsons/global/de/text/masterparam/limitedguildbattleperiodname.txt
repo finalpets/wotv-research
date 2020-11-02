@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "LGBP_2006",
+            "value": "Limitierter Gildenkampf im Juni"
+        }
+    ]
+}

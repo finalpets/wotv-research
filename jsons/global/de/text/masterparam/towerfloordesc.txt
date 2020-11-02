@@ -1,0 +1,268 @@
+{
+    "infos": [
+        {
+            "key": "TW_01_001",
+            "value": "Empfohlene Einheiten: Erdelement"
+        },
+        {
+            "key": "TW_01_002",
+            "value": "Empfohlene Einheiten: Blitzelement, Jäger"
+        },
+        {
+            "key": "TW_01_003",
+            "value": "Empfohlene Einheiten: Wasserelement<br>Empfohlene Fähigkeiten: Einheitenangriff"
+        },
+        {
+            "key": "TW_01_004",
+            "value": "Empfohlene Einheiten: Windelement<br>Empfohlene Fähigkeiten: ABW-Durchbohren<br>Sonstiges: Metallkaktor setzt 1000 Nadeln ein, wenn er dreimal angegriffen wird."
+        },
+        {
+            "key": "TW_01_005",
+            "value": "Empfohlene Einheiten: Wasserelement, Blitzelement, Magieangreifer"
+        },
+        {
+            "key": "TW_01_006",
+            "value": "Empfohlene Einheiten: Lichtelement<br>Empfohlene Fähigkeiten: Medica"
+        },
+        {
+            "key": "TW_01_007",
+            "value": "Empfohlene Einheiten: Dunkelelement, Schlitzangreifer"
+        },
+        {
+            "key": "TW_01_008",
+            "value": "Empfohlene Einheiten: Feuerelement, Durchbohrangreifer"
+        },
+        {
+            "key": "TW_01_009",
+            "value": "Empfohlene Einheiten: Wasserelement<br>Empfohlene Fähigkeiten: Bereichsangriff"
+        },
+        {
+            "key": "TW_01_010",
+            "value": "Empfohlene Einheiten: Durchbohrangreifer"
+        },
+        {
+            "key": "TW_01_EX1",
+            "value": "Empfohlene Einheiten: Hohe AGI und Bewegung<br>Sonstiges: Das Monster wird bei Betreten des letzten Beschwörungskreises besiegt."
+        },
+        {
+            "key": "TW_01_011",
+            "value": "Empfohlene Einheiten: Windelement<br>Empfohlene Fähigkeiten: Treffergarantie"
+        },
+        {
+            "key": "TW_01_012",
+            "value": "Empfohlene Einheiten: Lichtelement, Magieangreifer<br>Sonstiges: Der Gegner setzt eventuell LP-absorbierende Angriffe ein."
+        },
+        {
+            "key": "TW_01_013",
+            "value": "Empfohlene Einheiten: Eiselement"
+        },
+        {
+            "key": "TW_01_014",
+            "value": "Empfohlene Einheiten: Feuerelement"
+        },
+        {
+            "key": "TW_01_015",
+            "value": "Empfohlene Einheiten: Froschresistenz, Schwarzmagier"
+        },
+        {
+            "key": "TW_01_016",
+            "value": "Empfohlene Einheiten: Blitzelement"
+        },
+        {
+            "key": "TW_01_017",
+            "value": "Empfohlene Einheiten: Erdelement, Durchbohrangreifer"
+        },
+        {
+            "key": "TW_01_018",
+            "value": "Empfohlene Einheiten: Wasserelement<br>Sonstiges: Die Gegner sind in Gruppen mit niedrigen Resistenzen gegen Magie, Schlitzen und Durchbohren aufgeteilt. Überlege dir die Anfangsplatzierung deiner Einheiten gut."
+        },
+        {
+            "key": "TW_01_019",
+            "value": "Empfohlene Einheiten: Dunkelelement, Magieangreifer<br>Empfohlene Fähigkeiten: ABW-Durchbohren, Betörung, typenlose Angriffe"
+        },
+        {
+            "key": "TW_01_EX2",
+            "value": "Empfohlene Fähigkeiten: Heilung von Zustandsveränderungen"
+        },
+        {
+            "key": "TW_01_020",
+            "value": "Empfohlene Fähigkeiten: ABW-Durchbohren, Treffergarantie"
+        },
+        {
+            "key": "TW_02_001",
+            "value": "Empfohlene Einheiten: Wasserelement"
+        },
+        {
+            "key": "TW_02_002",
+            "value": "Empfohlene Einheiten: Lichtelement, Dunkelelement"
+        },
+        {
+            "key": "TW_02_003",
+            "value": "Empfohlene Einheiten: Windelement"
+        },
+        {
+            "key": "TW_02_004",
+            "value": "Empfohlene Einheiten: Eiselement, Windelement"
+        },
+        {
+            "key": "TW_02_005",
+            "value": "Empfohlene Fähigkeiten: Magieresistenz-Erhöhung"
+        },
+        {
+            "key": "TW_02_006",
+            "value": "Empfohlene Einheiten: Blitzelement, Giftresistenz"
+        },
+        {
+            "key": "TW_02_007",
+            "value": "Empfohlene Einheiten: Erdelement"
+        },
+        {
+            "key": "TW_02_008",
+            "value": "Empfohlene Einheiten: Erdelement<br>Empfohlene Fähigkeiten: Geschossresistenz-Erhöhung"
+        },
+        {
+            "key": "TW_02_009",
+            "value": "Empfohlene Einheiten: Eiselement<br>Empfohlene Fähigkeiten: Präzisions-Erhöhung, Hass-Erhöhung"
+        },
+        {
+            "key": "TW_02_EX1",
+            "value": "Empfohlene Einheiten: Betörungsresistenz, Lähmungresistenz, Konfusresistenz<br>Empfohlene Fähigkeiten: Treffergarantie, Medica, Unheilabwehr"
+        },
+        {
+            "key": "TW_02_010",
+            "value": "Empfohlene Einheiten: Eiselement<br>Empfohlene Fähigkeiten: Treffergarantie<br>Sonstiges: Abhängig von ihrer Art verfügen die Gegner über hohe Resistenzen."
+        },
+        {
+            "key": "TW_03_001",
+            "value": "Empfohlene Einheiten: Lichtelement"
+        },
+        {
+            "key": "TW_03_002",
+            "value": "Empfohlene Einheiten: Dunkelelement, Hiebangreifer"
+        },
+        {
+            "key": "TW_03_003",
+            "value": "Empfohlene Einheiten: Feuerelement, Magieangreifer"
+        },
+        {
+            "key": "TW_03_004",
+            "value": "Empfohlene Einheiten: Windelement, Geschossangreifer"
+        },
+        {
+            "key": "TW_03_005",
+            "value": "Empfohlene Einheiten: Schlitzresistenz"
+        },
+        {
+            "key": "TW_03_006",
+            "value": "Empfohlene Einheiten: Eiselement, Schlitzangreifer"
+        },
+        {
+            "key": "TW_03_007",
+            "value": "Empfohlene Einheiten: Erdelement, Magieangreifer"
+        },
+        {
+            "key": "TW_03_008",
+            "value": "Empfohlene Einheiten: Blitzelement"
+        },
+        {
+            "key": "TW_03_009",
+            "value": "Empfohlene Einheiten: Wasserelement, Durchbohrangreifer"
+        },
+        {
+            "key": "TW_03_010",
+            "value": "Empfohlene Einheiten: Bereichsangreifer<br>Sonstiges: Der Gegner hat nur eine geringe Konfusresistenz."
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": "Empfohlene Einheiten: Magieangreifer, Durchbohrangreifer<br>Sonstiges: Achte darauf, den Feind nicht zu viele Verstärkungen rufen zu lassen."
+        },
+        {
+            "key": "TW_03_011",
+            "value": "Empfohlene Einheiten: Dunkelelement, Schlitzangreifer, Geschossangreifer<br>Sonstiges: Der Gegner verfügt über einen hohen Ausweichwert, also erhöhe deine Präzision."
+        },
+        {
+            "key": "TW_03_012",
+            "value": "Empfohlene Einheiten: Dunkelelement, Schlitzangreifer"
+        },
+        {
+            "key": "TW_03_013",
+            "value": "Empfohlene Einheiten: Feuerelement, Durchbohrangreifer"
+        },
+        {
+            "key": "TW_03_014",
+            "value": "Empfohlene Einheiten: Windelement, Magische Tanks"
+        },
+        {
+            "key": "TW_03_015",
+            "value": "Empfohlene Einheiten: Schwarzmagier<br>Sonstiges: Der Gegner verfügt über eine hohe Abwehr, ist aber anfällig für Schlaf."
+        },
+        {
+            "key": "TW_03_016",
+            "value": "Empfohlene Einheiten: Eiselement, Bereichsangreifer"
+        },
+        {
+            "key": "TW_03_017",
+            "value": "Empfohlene Einheiten: Erdelement, Einheitenangreifer<br>Sonstiges: Der Gegner hat nur eine geringe Blindresistenz."
+        },
+        {
+            "key": "TW_03_018",
+            "value": "Empfohlene Einheiten: Blitzelement, Magieangreifer"
+        },
+        {
+            "key": "TW_03_019",
+            "value": "Empfohlene Einheiten: Wasserelement"
+        },
+        {
+            "key": "TW_03_020",
+            "value": "Empfohlene Einheiten: Lichtelement, Feuerelement, Eiselement, ABW-Durchbohren"
+        },
+        {
+            "key": "TW_03_EX2",
+            "value": "Empfohlene Einheiten: Weißmagier, Mönche<br>Sonstiges: Pass auf die Zustandsveränderungen des Feindes auf."
+        },
+        {
+            "key": "TW_03_021",
+            "value": "Empfohlene Einheiten: Lichtelement"
+        },
+        {
+            "key": "TW_03_022",
+            "value": "Empfohlene Einheiten: Dunkelelement, Schlitzangreifer, Geschossangreifer"
+        },
+        {
+            "key": "TW_03_023",
+            "value": "Empfohlene Einheiten: Feuerelement"
+        },
+        {
+            "key": "TW_03_024",
+            "value": "Empfohlene Einheiten: Windelement"
+        },
+        {
+            "key": "TW_03_025",
+            "value": "Empfohlene Einheiten: Magieangreifer"
+        },
+        {
+            "key": "TW_03_026",
+            "value": "Empfohlene Einheiten: Eiselement, Bereichsangreifer"
+        },
+        {
+            "key": "TW_03_027",
+            "value": "Empfohlene Einheiten: Erdelement<br>Sonstiges: Pass auf die Schlaf- und Immobilisierungsangriffe des Feindes auf."
+        },
+        {
+            "key": "TW_03_028",
+            "value": "Empfohlene Einheiten: Blitzelement, Magieangreifer"
+        },
+        {
+            "key": "TW_03_029",
+            "value": "Empfohlene Einheiten: Wasserelement"
+        },
+        {
+            "key": "TW_03_030",
+            "value": "Empfohlene Einheiten: Blitzelement, Wasserelement, Magieangreifer, Durchbohrangreifer<br>Sonstiges: Pass auf die Schlafangriffe des Feindes auf."
+        },
+        {
+            "key": "TW_03_EX3",
+            "value": "Empfohlene Einheiten: Bereichangriffsresistenz, Magieangriffsresistenz<br>Empfohlene Fähigkeiten: Prozession der Heiligen"
+        }
+    ]
+}

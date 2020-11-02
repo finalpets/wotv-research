@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "LGBP_2006",
+            "value": "Combat de guilde limité de juin"
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "MV_OP",
+            "value": "Animación de inicio"
+        }
+    ]
+}

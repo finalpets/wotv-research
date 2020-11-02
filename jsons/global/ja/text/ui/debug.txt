@@ -1,0 +1,148 @@
+{
+  "infos": [
+    {
+      "key": "LBL_FPS",
+      "value": "FPS表示する"
+    },
+    {
+      "key": "LBL_NEW_GAME",
+      "value": "NewGame"
+    },
+    {
+      "key": "LBL_MAX_UNIT",
+      "value": "ユニットカンスト"
+    },
+    {
+      "key": "LBL_OFFLINE_MODE",
+      "value": "オフライン"
+    },
+    {
+      "key": "LBL_DATA_ENCRYPTION",
+      "value": "マスターデータの暗号化"
+    },
+    {
+      "key": "LBL_API_ENCRYPTION",
+      "value": "通信の暗号化"
+    },
+    {
+      "key": "LBL_DISABLE_GUIDANCE",
+      "value": "ガイダンスを無効にする"
+    },
+    {
+      "key": "LBL_ENABLE_TUTORIAL",
+      "value": "チュートリアルを有効にする"
+    },
+    {
+      "key": "LBL_SERVER_ENV_VAR",
+      "value": "Override Environment"
+    },
+    {
+      "key": "LBL_SERVER_OPTION",
+      "value": "Server:"
+    },
+    {
+      "key": "LBL_NET_VER_OPTION",
+      "value": "Net Ver:"
+    },
+    {
+      "key": "LBL_DLC_OPTION",
+      "value": "DLC Ver:"
+    },
+    {
+      "key": "BTN_PLAY",
+      "value": "Play"
+    },
+    {
+      "key": "BTN_MOVIE_CHECK",
+      "value": "MovieCheck"
+    },
+    {
+      "key": "LBL_EDITOR_TITLE",
+      "value": "Editor"
+    },
+    {
+      "key": "LBL_MULTI_TITLE",
+      "value": "Multi:"
+    },
+    {
+      "key": "LBL_ENABLE_DLC_TITLE",
+      "value": "EnableDLC"
+    },
+    {
+      "key": "BTN_RESTART",
+      "value": "Restart"
+    },
+    {
+      "key": "BTN_DLC_TEST_1",
+      "value": "DLC test1"
+    },
+    {
+      "key": "BTN_ROLLBACK_BACK",
+      "value": "戻る"
+    },
+    {
+      "key": "BTN_ROLLBACK_ROOT",
+      "value": "ロールバック(ルート)"
+    },
+    {
+      "key": "BTN_DEFAULT_PUSH_1",
+      "value": "追加１"
+    },
+    {
+      "key": "BTN_DEFAULT_PUSH_2",
+      "value": "追加2"
+    },
+    {
+      "key": "BTN_DEFAULT_PUSH_3",
+      "value": "追加3"
+    },
+    {
+      "key": "BTN_DEFAULT_POP",
+      "value": "削除"
+    },
+    {
+      "key": "BTN_DEFAULT_CLOSE",
+      "value": "閉じる"
+    },
+    {
+      "key": "BTN_LAYER_1_PUSH_1",
+      "value": "レイヤ１へ追加１"
+    },
+    {
+      "key": "BTN_LAYER_1_PUSH_2",
+      "value": "レイヤ１へ追加2"
+    },
+    {
+      "key": "BTN_LAYER_1_PUSH_3",
+      "value": "レイヤ１へ追加3"
+    },
+    {
+      "key": "BTN_LAYER_1_POP",
+      "value": "レイヤ１の削除"
+    },
+    {
+      "key": "BTN_LAYER_1_CLOSE",
+      "value": "レイヤ１の閉じる"
+    },
+    {
+      "key": "BTN_LAYER_2_PUSH_1",
+      "value": "レイヤ２へ追加１"
+    },
+    {
+      "key": "BTN_LAYER_2_PUSH_2",
+      "value": "レイヤ２へ追加2"
+    },
+    {
+      "key": "BTN_LAYER_2_PUSH_3",
+      "value": "レイヤ２へ追加3"
+    },
+    {
+      "key": "BTN_LAYER_2_POP",
+      "value": "レイヤ２の削除"
+    },
+    {
+      "key": "BTN_LAYER_2_CLOSE",
+      "value": "レイヤ２の閉じる"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "渦巻く水底"
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "猛火の洞窟"
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "泥土の腐海"
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "吹雪の氷壁"
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "轟雷の平原"
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "宵闇の森林"
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "烈光の砂丘"
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "大風の峡谷"
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "鍛鉄の鉱山"
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "召魔の秘境"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "マトーヤの洞窟"
+        }
+    ]
+}

@@ -1,0 +1,936 @@
+{
+    "infos": [
+        {
+            "key": "JB_LW_WAR",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_WAR_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Angriffsverstärkungen und Regenerationsfähigkeiten nutzt, um in verschiedensten Situationen die Oberhand zu behalten."
+        },
+        {
+            "key": "JB_LW_PLD",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_FIRE",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_ICE",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_WIND",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_SOIL",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_THUN",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_WATER",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_SHINE",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_PLD_DARK",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, dessen Spezialität die Defensive ist und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_KNT",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_KNT_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch Angriffe, die ANG und MAG des Gegners senken, das Blatt eines Kampfes zu seinen Gunsten wenden kann"
+        },
+        {
+            "key": "JB_LW_SWN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_SWN_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf Feuerkraft verlässt und LP verbraucht, um extrem schädigende Angriffe zu entfesseln."
+        },
+        {
+            "key": "JB_LW_HUN",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_FIRE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_ICE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_WIND",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_SOIL",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_THUN",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_WATER",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_SHINE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_HUN_DARK",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein bogenführender Job, der aus der Ferne angreift. Hochgelegene Ausgangspunkte erhöhen seine Reichweite."
+        },
+        {
+            "key": "JB_LW_MNK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_MNK_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der Ketten erschaffen und mit Fertigkeiten wie „Ansturm“ und „Geduldsprobe“ massiven Schaden austeilen kann."
+        },
+        {
+            "key": "JB_LW_LAN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_LAN_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe ausführt. Durch Erhöhung seiner kritischen Trefferrate teilt er noch mehr Schaden aus."
+        },
+        {
+            "key": "JB_LW_CLR",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_FIRE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_ICE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_WIND",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_SOIL",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_THUN",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_WATER",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_SHINE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_CLR_DARK",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der Verbündete gegen Statusveränderungen schützt sowie deren Resistenzen gegenüber Licht und Dunkel erhöht."
+        },
+        {
+            "key": "JB_LW_SAM",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_SAM_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der durch das Erhöhen der Courage und des Ausweichgeschicks seiner Verbündeten neue Möglichkeiten auf dem Schlachtfeld eröffnet."
+        },
+        {
+            "key": "JB_LW_DRG",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_DRG_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein speertragender Job, der zwei Felder weit reichende Durchbohrangriffe mit seiner Sprungfertigkeit kombiniert. Die Reaktionsfähigkeit „Drachenklinge“ macht ihn zu einem noch zäheren Kämpfer."
+        },
+        {
+            "key": "JB_LW_BLM_FIRE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_BLM_WATR",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_BLM_ICE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_BLM_SOIL",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_BLM_THUN",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_BLM_WIND",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_BLM_SHINE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_BLM_DARK",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_LW_THI",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_THI_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und vom Gegner gehaltene Gegenstände stehlen kann."
+        },
+        {
+            "key": "JB_LW_NIN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_WATR",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_SHIN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_NIN_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und durch Einsatz von „Verstecken“ schwieriger zum Ziel gegnerischer Angriffe wird."
+        },
+        {
+            "key": "JB_LW_GUN",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_FIRE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_ICE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_WIND",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_SOIL",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_THUN",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_WATER",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_SHINE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GUN_DARK",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und mit Fertigkeiten wie „Blackout“ und „Beinschuss“ Statusveränderungen zufügen kann."
+        },
+        {
+            "key": "JB_LW_GRM_FIRE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_GRM_ICE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_GRM_WIND",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_GRM_SOIL",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_GRM_THUN",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_GRM_SHIN",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_GRM_DARK",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_GRM_WATR",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein unterstützender Job, der die Elementarresistenzen seiner Verbündeten erhöhen und ABW und PSY seiner Gegner senken kann, um das Austeilen von Schaden zu erleichtern."
+        },
+        {
+            "key": "JB_LW_MGK_FIRE",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_MGK_WATR",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_MGK_ICE",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_MGK_SOIL",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_MGK_THUN",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_MGK_SHINE",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_MGK_DARK",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_MGK_WIND",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job mit hohem magischen Verteidigungspotenzial, der feindliche Angriffe auf sich ziehen kann."
+        },
+        {
+            "key": "JB_LW_RDM_FIRE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_RDM_ICE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_RDM_WIND",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_RDM_SOIL",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_RDM_THUN",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_RDM_WATR",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_RDM_SHIN",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_RDM_DARK",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe und Regenerationszauber wettmacht."
+        },
+        {
+            "key": "JB_LW_TIM",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_FIRE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_ICE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_WIND",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_SOIL",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_THUN",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_WATER",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_SHINE",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_TIM_DARK",
+            "value": "Nachhutklasse (Typ: Unterstützung)<br><br>Ein Job, der durch Manipulation der Zeit mit Sprüchen wie „Hast“ und „Gemacht“ die EZ seiner Gegner kontrollieren und das Blatt des Kampfes wenden kann."
+        },
+        {
+            "key": "JB_LW_WHM",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_FIRE",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_ICE",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_WIND",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_SOIL",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_THUN",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_WATER",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_SHINE",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_WHM_DARK",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der sich auf die Wiederherstellung der LP seiner Verbündeten spezialisiert. Mit Fähigkeiten wie „Protes“ und „Vallum“ kann er außerdem Durchhaltevermögen seiner Verbündeten erhöhen."
+        },
+        {
+            "key": "JB_LW_GLMS",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sich durch Angriffe, Verstärkung der eigenen Werte sowie Heilung der LP seiner Verbündeten vielseitig zeigt."
+        },
+        {
+            "key": "JB_FF14_YSTL",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige, großflächige Magieangriffe wettmacht."
+        },
+        {
+            "key": "JB_FF14_TNCR",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der sich auf offensive Fertigkeiten sowie solche, die seine eigene ABW erhöhen, spezialisiert, was ihn sehr ausdauernd macht."
+        },
+        {
+            "key": "JB_LW_WGN_FIRE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_WGN_ICE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_WGN_WIND",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_WGN_SOIL",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_WGN_THUN",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_WGN_WATER",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_WGN_SHINE",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_WGN_DARK",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der zusätzlich zu Nahangriffen auch aus der Distanz angreifen kann."
+        },
+        {
+            "key": "JB_LW_VIK",
+            "value": ""
+        },
+        {
+            "key": "JB_LW_VIK_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_VIK_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_VIK_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_VIK_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_VIK_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_VIK_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_VIK_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_VIK_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der „Großer Wurf“ einsetzen kann, welcher mit hoher Wahrscheinlichkeit zu kritischen Treffern führt. Die Reaktionsfähigkeit „Kampfgeist“ kann außerdem LP heilen, und der Berserker-Status erhöht den ANG."
+        },
+        {
+            "key": "JB_LW_FINA",
+            "value": "Nachhutklasse (Typ: Heiler)<br><br>Ein Job, der die LP seiner Verbündeten heilen und auch mit dem Bogen angreifen kann."
+        },
+        {
+            "key": "JB_FFT_RAMZ",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über Angriffsfähigkeiten wie „Dreifachschlag“ und zusätzlich Unterstützungsfähigkeiten wie „Schrei“ und „Anfeuern“ verfügt."
+        },
+        {
+            "key": "JB_FFT_GFGR",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der LP verbraucht, um mächtige Attacken zu entfesseln, und verlorene LP mit der Fähigkeit „Schattenklinge“ wiederherstellt."
+        },
+        {
+            "key": "JB_FFT_ORND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über diverse mächtige Angriffe wie „Panzerbruch“, welcher die ABW des Feindes reduziert, und „Heiliger Blitz“, der in einem kreuzförmigen Bereich Schaden zufügt, verfügt."
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job, der feindliche Angriffe auf sich ziehen kann und mächtige Zauber wirken kann."
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der enorme Agilität bietet und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über enorme Agilität verfügt und bei Angriffen von hinten die ABW erheblich senken kann."
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "Vorhutklasse (Typ: Physischer Tank)<br><br>Ein Job, der sich mithilfe von Fähigkeiten gegen magische Angriffe verteidigen kann und der seine Verbündeten schützt, indem er Angriffe auf sich lenkt."
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der Entfesselungszeit benötigt, dies aber durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "Vorhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der sein Benötigen von Entfesselungszeit durch mächtige Magieangriffe wettmacht. Seine hohe ABW ermöglicht ihm das Gefecht an vorderster Front."
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "Vorhutklasse (Typ: Magischer Tank)<br><br>Ein Job von hoher Belastbarkeit, der den Gegner mit Zustandsveränderungen aus der Bahn werfen und seine Verbündeten mit Fähigkeiten wie Regena und Barrieren beschützen kann."
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der mit seinen Angriffen oft Zustandsveränderungen und Schwächungen erteilt. Seine Fähigkeiten, die sowohl LP als auch AP schädigen, erweisen sich besonders gegen auf Nahkampf spezialisierte Jobklassen als nützlich."
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "Mittelpositionsklasse (Typ: Physische Offensive)<br><br>Ein Job, der aus der Ferne angreifen und Statusveränderungen wie Ausschalten und Immobilisierung zufügen kann."
+        },
+        {
+            "key": "JB_LW_CAL_FIRE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_CAL_ICE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_CAL_WIND",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_CAL_SOIL",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_CAL_THUN",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_CAL_WATER",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_CAL_SHINE",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_CAL_DARK",
+            "value": "Nachhutklasse (Typ: Magische Offensive)<br><br>Ein Job, der über Fähigkeiten ohne Entfesselungszeit verfügt, die mit Höhe und Stufe des Ziels mächtiger werden. "
+        },
+        {
+            "key": "JB_LW_STRN",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der mit Kombo-Attacken und Angriffen nach Bewegung über viele mächtige Techniken verfügt."
+        },
+        {
+            "key": "JB_LW_GRSR",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein lanzenführender Job, dem es möglich ist, in viele Richtungen zuzuschlagen, sei es mit Durchbohrangriffen über zwei Felder, Drei-Felder-Kreuzangriffen oder Bereichsangriffen über eine X-förmige Fläche."
+        },
+        {
+            "key": "JB_LW_LSWL",
+            "value": "Vorhutklasse (Typ: Physische Offensive)<br><br>Ein Job, der über verschiedene Möglichkeiten verfügt, seine ABW-Durchbohrrate zu erhöhen, was ihn sehr effektiv gegen Feinde mit hoher Verteidigung macht."
+        },
+        {
+            "key": "JB_LW_MKN",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_FIRE",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_ICE",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_WIND",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_SOIL",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_THUN",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_WATER",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_SHINE",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        },
+        {
+            "key": "JB_LW_MKN_DARK",
+            "value": "Vorhutklasse (Typ: Magischer Angreifer)<br><br>Ein Job, der sich auf MAG-abhängige Angriffe spezialisiert und diesen durch magiestärkende Fähigkeiten noch weiter anheben kann, um großen Schaden anzurichten."
+        }
+    ]
+}

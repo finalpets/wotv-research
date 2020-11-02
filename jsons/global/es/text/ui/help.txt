@@ -1,0 +1,1184 @@
+{
+    "infos": [
+        {
+            "key": "HOMETOP_TITLE",
+            "value": "Pantalla principal"
+        },
+        {
+            "key": "HOMETOP_DESC",
+            "value": "■ Pantalla principal<br>Puedes acceder a Regalos, Avisos, eventos en progreso, y más información importante en la pantalla principal. <br>Aparecerá un icono cuando se pueda entrenar a una unidad, cuando tengas recompensas por reclamar o cuando haya alguna actualización. <br><br>Puedes restaurar energía y comprar visiores tocando los botones + en la parte superior de la pantalla. <br><br>■ Ajustes de la unidad de la pantalla principal <br>La unidad que aparece en la pantalla principal se puede cambiar tocando el botón de la parte inferior izquierda de la pantalla."
+        },
+        {
+            "key": "BUYLAPIS_TITLE",
+            "value": "Comprar visiores"
+        },
+        {
+            "key": "BUYLAPIS_DESC",
+            "value": "■ Visiores<br>Los visiores son objetos muy valiosos que se pueden usar para invocar unidades, comprar objetos en la tienda y restaurar energía.<br>Al adquirir visiores, puedes obtener «visiores de pago» y «visiores gratuitos».<br><br>* Estos visiores no se pueden transferir de una plataforma a otra.<br><br>* Los visiores se consumen en el siguiente orden: visiores gratuitos > visiores normales > visiores de pago.<br><br>■ Pasaporte<br>Esta característica otorga varios efectos tras la compra. <br>Los efectos se activarán una vez se refleje la compra en el juego, y el periodo de validez empezará a las 00:00, hora mundial (PST), del día siguiente.. <br>Toca [Detalles] en la pantalla de compra para más información sobre los efectos y el periodo de validez. <br><br>*Los efectos de los pasaportes adquiridos se comparten entre todas las plataformas en las que se use la misma cuenta. <br><br>*Ten en cuenta que no podrás cambiar tu fecha de nacimiento una vez la hayas registrado. <br><br>■ Verificación de las compras dentro de la aplicación <br>Puede que las compras tarden un poco en aparecer reflejadas en el juego dependiendo de tu conexión o el estado de la tienda de aplicaciones correspondiente. <br>Asegúrate de contar con una conexión estable antes de realizar ninguna compra."
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "Rango vip"
+        },
+        {
+            "key": "VIP_DESC",
+            "value": "El rango vip es una función especial que te permite obtener una serie de beneficios. Los detalles de los efectos de bonificación recibidos gracias al rango vip se pueden ver tocando el botón Rango vip en la pantalla Comprar visiores. Podrás adquirir puntos vip para incrementar tu rango vip comprando visiores. Consigue suficientes puntos para subir tu rango vip."
+        },
+        {
+            "key": "APHEAL_TITLE",
+            "value": "Restaurar energía"
+        },
+        {
+            "key": "APHEAL_DESC",
+            "value": "Recuperarás energía una vez cada 3 minutos hasta que alcances tu nivel máximo de energía.<br><br>■ Restaurar con visiores<br>・ Visiores necesarios: la cantidad de visiores que necesitas aumenta según el número de veces que la restaures.<br>Cantidad de energía restaurada: Recuperas la máxima cantidad de energía según el rango del jugador.<br><br>■ Restaurar con objetos<br>•Objetos necesarios: los objetos de recuperación se pueden obtener como recompensas de misión, etc.<br>•Cantidad de energía restaurada: la cantidad de energía restaurada dependerá del objeto en sí y también de cuántos utilices.<br><br>La cantidad máxima de energía que puedes restaurar son 1000 puntos.<br><br>■ Aumento de energía y del rango del jugador<br>Cuando aumenta tu rango de jugador tu energía también subirá al siguiente valor máximo, y restaurarás automáticamente una cantidad de energía equivalente al nuevo valor máximo.<br><br>Ejemplo: tu rango de jugador aumenta cuando tu energía es de 20/35, y tu nuevo valor máximo es 36. En tal caso, tras subir de rango, tu energía será de 56/36."
+        },
+        {
+            "key": "EXPEDITION_TITLE",
+            "value": "Expedición chocobo"
+        },
+        {
+            "key": "EXPEDITION_DESC",
+            "value": "■ Expedición chocobo<br>La expedición chocobo es una función especial que te permite formar un grupo de expedición con unidades propias y aventurarte en ciertos lugares para obtener diferentes objetos.<br>Los objetos que se pueden obtener en una expedición chocobo varían según la zona.<br><br>■ Tu grupo<br>Puedes formar un grupo para ir a explorar una zona determinada.<br>Puedes conseguir bonificaciones de unidad según las unidades que elijas.<br>También puedes desbloquear espacios para unidades para usarlas en tu grupo, hasta un máximo de 5 unidades.<br>Además, desbloquearás un segundo grupo de exploración si aumentas tu rango vip.<br><br>■ Bonificaciones de unidad<br>Podrás obtener una serie de efectos durante tus expediciones según las unidades que haya en tu grupo.<br>Si dos unidades tienen la misma bonificación, solo se aplicará la más fuerte de las dos.<br><br>Por ejemplo, imagina que tienes los siguientes dos efectos de bonificación de unidad:<br>A: Aumenta considerablemente la tasa de aparición de objetos raros y la tasa de obtención de EXP x1.5<br>B: Aumenta enormemente la tasa de aparición de objetos raros y la tasa de obtención de EXP x1.3<br>Si tuvieras que ir de expedición bajo esas circunstancias, solo se aplicaría el efecto A."
+        },
+        {
+            "key": "BEGINNER_TITLE",
+            "value": "Sala de los principiantes"
+        },
+        {
+            "key": "BEGINNER_DESC",
+            "value": "En la Sala de los principiantes hay misiones que sirven más como experiencia de batallas que como tutoriales. <br>En las misiones de principiantes los jugadores siguen las instrucciones mientras controlan libremente a unidades predeterminadas y pueden completar la misión si se cumplen ciertas condiciones de victoria.<br>También hay muchos consejos y pistas que te ayudarán a avanzar en el juego."
+        },
+        {
+            "key": "GACHA_TITLE",
+            "value": "Invocaciones"
+        },
+        {
+            "key": "GACHA_DESC",
+            "value": "■ Invocaciones insólitas <br>Obtienes unidades y cartas de visión. <br><br>■ Invocaciones normales <br>Obtienes unidades y objetos útiles.<br><br>■ Invocación con tícket<br>Los tíckets se pueden usar para realizar invocaciones especiales. <br><br>Si invocas a una unidad o carta de visión que ya tienes, en su lugar recibirás fragmentos relacionados con la unidad o la rareza de la carta de visión. <br>También podrás recibir una esfera de visión para despertar o para la ruptura de límite. <br><br>No podrás adquirir más fragmentos del máximo requerido para la ruptura de límite de esa unidad o el despertar de la carta de visión.<br>Si has alcanzado la cantidad máxima de fragmentos, entonces recibirás medallas de alma en lugar de fragmentos de unidad, o medallas de visión en lugar de fragmentos de carta de visión en relación a la rareza del objeto invocado. <br>Estas medallas se pueden intercambiar por objetos en la Mogutienda. <br><br>■ Tasas de aparición<br>Toca el botón de Tasas de aparición para obtener más información sobre lo que puedes invocar y a qué porcentaje. <br><br>■ Atributos <br>Toca el botón de Atributos para ver los detalles de la unidad o de la carta de visión destacadas en la invocación."
+        },
+        {
+            "key": "GACHA_DESC_GL",
+            "value": "■ Invocaciones insólitas <br>Obtienes unidades y cartas de visión. <br><br>■ Invocaciones normales <br>Obtienes unidades y otros objetos útiles. <br><br>■ Invocación con vídeo <br>Consigue objetos útiles y rellena la barra de progreso para recibir recompensas por objetivos.<br><br>■ Invocación con tícket<br>Los tíckets de invocación se pueden usar para realizar invocaciones especiales. <br><br>Si invocas a una unidad o carta de visión que ya tienes, en su lugar recibirás fragmentos relacionados con la unidad o la rareza de la carta de visión. <br>También podrás recibir una esfera de visión para despertar o para la ruptura de límite. <br><br>No podrás adquirir más fragmentos del máximo requerido para la ruptura de límite de esa unidad o el despertar de la carta de visión.<br>Si has alcanzado la cantidad máxima de fragmentos, entonces recibirás medallas de alma en lugar de fragmentos de unidad, o medallas de visión en lugar de fragmentos de carta de visión según la rareza de la unidad o carta de visión invocada. <br>Estas medallas se pueden intercambiar por objetos en la Mogutienda. <br><br>■ Tasas de aparición<br>Toca el botón de Tasas de aparición para obtener más información sobre lo que puedes invocar y a qué porcentaje. <br><br>■ Atributos <br>Toca el botón de Atributos para ver los detalles de la unidad o de la carta de visión destacadas en la invocación."
+        },
+        {
+            "key": "SHOP_TITLE",
+            "value": "Tienda"
+        },
+        {
+            "key": "SHOP_DESC",
+            "value": "■ Tienda<br>Puedes comprar una gran variedad de productos con visiores o guiles en la tienda.<br>Puede que de vez en cuando aparezca aleatoriamente una tienda durante tiempo limitado cuando completes una misión.<br><br>Toca en Vender en la parte inferior de la pantalla para vender los objetos que tienes a cambio de guiles."
+        },
+        {
+            "key": "UNIT_TOP_TITLE",
+            "value": "Unidades"
+        },
+        {
+            "key": "UNIT_TOP_DESC",
+            "value": "Comprueba la lista de unidades para ver las que posees.<br>Toca las pestañas de los diferentes elementos para cambiar los ajustes del filtro y mostrar solo aquellas unidades que cumplan con determinadas condiciones.<br>*Cuando la opción «Filtro: SÍ» esté activa, tus objetos se filtrarán en ese momento."
+        },
+        {
+            "key": "F",
+            "value": ""
+        },
+        {
+            "key": "e",
+            "value": ""
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE",
+            "value": "Detalles de unidad"
+        },
+        {
+            "key": "UNIT_DETAIL_DESC",
+            "value": "■ Despertar<br>Las unidades pueden se pueden despertar con materiales de despertar, esferas de visión, y guiles.<br>Si despiertas una unidad aumentarás su nivel máximo y estallidos límite, y también desbloquearás subprofesiones y casillas de la tabla de habilidades. <br><br>■ Rupturas de límite <br>Los fragmentos de unidad y las esferas de visión se pueden usar para romper el límite de una unidad. <br>Las rupturas de límite aumentan el nivel máximo de una unidad y su nivel de profesión máximo, y también desbloquean espacios para piezas de equipo. <br><br>■ Mejora de profesión <br>Para mejorar profesiones puedes usar materiales de mejora de profesión y guiles. <br>Al mejorar profesiones aumentas los atributos de tus unidades y desbloqueas casillas de la tabla de habilidades. <br><br> ■ Equipo favorito <br>Si registras una pieza de equipo como Equipo favorito, la unidad relevante se equipará automáticamente con ella durante la fase de formación de unidades. <br>El equipo se clasifica en tres cateogrías: armas, armaduras y accesorios. Las armas y armaduras solo pueden asignarse a un espacio de equipo cada una. <br> *Si ya llevas equipada un arma o armadura, el equipo de dicha categoría no aparecerá cuando estés seleccionando el equipo para otros espacios. <br><br>Si equipas muchos objetos que aumenten o disminuyan el mismo atributo, se priorizará el atributo con un mayor potenciador junto al siguiente que le siga aplicado en porcentajes más bajos. <br> *El mayor porcentaje posible es del 100%. <br> *El mismo potenciador no se duplicará (solo se aplica el que tiene el valor más alto).<br><br> Solo podrás equiparte con equipo maestro fiel si cuentas con un 3er espacio de equipo. <br> *Adquirirás equipo maestro fiel tras romper el límite y despertar a una unidad cinco veces (cada acción). <br><br> ■ Maestría de equipo <br>La maestría de equipo de una unidad se puede mejorar al equiparla con objetos y pasando a la acción en las misiones. <br>Pero embarcarte en una misión y limitarte a mover a la unidad no aumentará la maestría. <br>La maestría de equipo apropiada de cualquier objeto en concreto dependerá de su rareza, y si tu unidad no tiene la maestría suficiente para llevarlo se reducirán los atributos del objeto. <br>La maestría solo mejorará en las categorías de los objetos que lleves equipados. <br><br>Por ejemplo, si solo te has equipado con un arma, tu nivel de maestría de arma mejorará, pero no lo hará el nivel de maestría de armaduras o accesorios."
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_TITLE",
+            "value": "Tabla de habilidades"
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_DESC",
+            "value": "■ La tabla de habilidades<br>En la tabla de habilidades puedes desbloquear las habilidades de una unidad, o mejorar diferentes habilidades y estallidos límite.<br>Una vez desbloqueada, puedes mejorar una habilidad usando PdP y guiles. <br>*Los estallidos límite se pueden mejorar con tarros de límite. <br><br>Las habilidades se pueden establecer como secundarias, o como habilidades de apoyo o de reacción. <br>Las habilidades y sus funciones se estructuran como se explica a continuación. <br><br>■ Habilidades principales <br>Estas habilidades son fijas. Las habilidades listadas como principales pueden usarse durante la batalla. <br><br>■ Habilidades secundarias<br>Estas habilidades se pueden establecer libremente. Las habilidades señaladas como secundarias en la lista de las profesiones de tus unidades pueden usarse durante la batalla. <br>*Tocando y dejando pulsado en una profesión te permitirá ver y confirmar las habilidades que puedes usar. <br><br>■ Habilidades de apoyo <br>Estas habilidades pueden usarse normalmente para aumentar los parámetros u otorgar algunos efectos especiales. Puedes establecer hasta dos tipos de habilidades de apoyo.<br>Ten en cuenta que algunos efectos solo se aplican a profesiones o habilidades específicas. <br>Por ejemplo, el efecto Alcance +1 de la habilidad Sabiduría del montaraz solo se aplica a las profesiones y habilidades de tipo proyectiles. <br><br>■ Habilidades de reacción <br>Estas habilidades se activan automáticamente cuando una unidad es atacada por un oponente. <br><br>■ Otros <br>•Estallidos límite <br>Habilidades especialmente poderosas que solo poseen ciertas unidades. <br>•Habilidades maestras<br>Estas habilidades únicas pueden adquirirse tras completar misiones de personaje."
+        },
+        {
+            "key": "UNIT_RELEASE_TITLE",
+            "value": "Desbloquear habilidades"
+        },
+        {
+            "key": "UNIT_RELEASE_DESC",
+            "value": "Se pueden desbloquear habilidades usando PdP.<br>Las habilidades no se podrán desbloquear hasta cumplir con las condiciones de cada casilla."
+        },
+        {
+            "key": "UNIT_RELEASEALL_TITLE",
+            "value": "Desbloquear múltiples casillas de la tabla de habilidades"
+        },
+        {
+            "key": "UNIT_RELEASEALL_DESC",
+            "value": "Puedes desbloquear varias habilidades a la vez si cumples con las condiciones de cada una de ellas.<br><br>Al desbloquear múltiples habilidades a la vez se usará la cantidad de PdP que necesita cada casilla."
+        },
+        {
+            "key": "UNIT_RESET_TITLE",
+            "value": "Restablecer la tabla de entrenamiento de esper"
+        },
+        {
+            "key": "UNIT_RESET_DESC",
+            "value": "Todas las casillas desbloqueadas con PH pueden restablecerse, y así volver a entrenar al esper desde el principio.<br>Si aumentas tu rango vip podrás desbloquear el restablecimiento gratuito de la tabla de entrenamiento de esper una vez a la semana y aumentar el número de veces que puedes restablecerla gratis.<br><br>*Se te devolverán todos los PH que hayas utilizado para desbloquear casillas.<br>*El primer restablecimiento colectivo para todos los espers es gratuito. A partir de la segunda vez en adelante, tendrás que usar visiores."
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE",
+            "value": "Afinidad"
+        },
+        {
+            "key": "UNIT_INTIMACY_DESC",
+            "value": "Tocar en el icono de una unidad te permitirá confirmar su afinidad con otras unidades y comprobar cuánto necesita para alcanzar el siguiente nivel. <br><br>La afinidad entre unidades aumenta cuando se embarcan juntas en el mismo combate. <br>Cuando unidades con un nivel de afinidad alto se posicionan cerca durante el combate, aumenta su AGI, DES y suerte. <br>Si aumentas aún más el nivel de afinidad de las unidades, aumentarán sus atributos y la distancia máxima entre ellas a las que dichos aumentos tienen efecto."
+        },
+        {
+            "key": "GUILD_JOINSELECT_TITLE",
+            "value": "Crear o unirse a un gremio"
+        },
+        {
+            "key": "GUILD_JOINSELECT_DESC",
+            "value": "Tienes la opción de establecer tu propio gremio o alistarte en uno existente.<br>En él podrás interactuar con otros miembros del gremio, o luchar juntos en combates de gremio.<br>Toca en Buscar para encontrar gremios a los que puedes unirte.<br><br>Afiliarse a un gremio te aportará varios beneficios y, cuanto más crezca el gremio, mayores serán estos.<br><br>Algunos ejemplos:<br>•Los efectos de las estatuas de piedra pueden aumentar los atributos de tu unidad en combate.<br>•Consigue objetos según tu asistencia al gremio<br>•Consigue objetos mediante el envío y recibo de regalos.<br>•Consigue PdP en los barracones del gremio<br><br>*Si abandonas o te expulsan de un gremio, tendrás que esperar 24 horas antes de crear uno nuevo o alistarte en otro."
+        },
+        {
+            "key": "GUILD_SEARCH_TITLE",
+            "value": "Búsqueda de gremio"
+        },
+        {
+            "key": "GUILD_SEARCH_DESC",
+            "value": "■ Búsqueda<br>Aparecerá una lista de los gremios a los que puedes unirte.<br>Puedes cambiar varias condiciones de búsqueda como nombre del gremio, ID, límite de rango, aceptación automática o nivel de liga.<br>■ Búsqueda de gremio recomendada<br>Aparecerá una lista de los gremios más activos últimamente."
+        },
+        {
+            "key": "GUILD_TOP_TITLE",
+            "value": "Vestíbulo del gremio"
+        },
+        {
+            "key": "GUILD_TOP_DESC",
+            "value": "Hay mucha información disponible en el vestíbulo del gremio.<br>Toca la ventana del chat para agrandar.<br><br>■ Miembros<br>Aquí podrás ver información de los miembros del gremio.<br>Toca Detalles para ver las unidades que han sido establecidas como compañeros.<br><br>■ Menú<br>•Información del gremio<br>Aquí podrás ver los registros de combates del gremio.<br>Los líderes del gremio también pueden cambiar el nombre del gremio, editar los anuncios del gremio o invitar a más miembros a unirse.<br><br>•Gestionar miembros<br>Designa sublíderes, asigna miembros a otros puestos o expúlsalos del gremio.<br>* Solo los líderes de gremio pueden usar esta función.<br><br>•Solicitudes/invitaciones para unirse<br>Acepta a nuevos miembros, edita nuevos mensajes de reclutamiento o envíalos por chat.<br>* Solo los líderes y sublíderes de gremio pueden usar esta función.<br><br>■ Nivel de liga<br>Toca la lupa en la parte superior derecha de la pantalla de combates de gremio para obtener más información sobre tu nivel de liga."
+        },
+        {
+            "key": "GUILD_LEADERREWARD_TITLE",
+            "value": "Recompensas del líder de gremio"
+        },
+        {
+            "key": "GUILD_LEADERREWARD_DESC",
+            "value": "Los líderes o sublíderes de gremio pueden recibir esta recompensa una vez al día.<br>Mejorar la estatua de piedra de la serpiente te permitirá obtener mejores recompensas.<br><br>*Para saber más, toca Detalles de recompensa en la pantalla de información del líder."
+        },
+        {
+            "key": "GUILD_RANKING_TITLE",
+            "value": "Clasificación de gremios"
+        },
+        {
+            "key": "GUILD_RANKING_DESC",
+            "value": "El número de trofeos de un gremio determina su puesto en la clasificación y la liga a la que pertenecen.<br>Al final de los combates de gremio, se te enviarán recompensas como regalo según la liga a la que tu gremio esté afiliada."
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_TITLE",
+            "value": "Recompensas de asistencia al gremio"
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_DESC",
+            "value": "El número de miembros que toca el botón Asistir en el vestíbulo del gremio cada día determina las recompensas que recibirán los miembros que toquen el botón al día siguiente.<br>Aumentar el nivel de la estatuilla de piedra de serpiente también te permitirá obtener mejores recompensas.<br><br>*Si no tocas el botón Asistir, tu asistencia no contará, y no recibirás ninguna recompensa al día siguiente.<br>*Para saber más, toca el botón Detalles de recompensa en la pantalla de Asistencia."
+        },
+        {
+            "key": "GUILD_BARRACKS_TITLE",
+            "value": "Barracones del gremio"
+        },
+        {
+            "key": "GUILD_BARRACKS_DESC",
+            "value": "Si vas rellenando las provisiones en los barracones, podrás adquirir PdP en relación al tiempo que tu unidad pase ahí. <br>Aumentará también su bravura, pero su fe disminuirá cuanto más tiempo se quede. <br><br>*Algunas provisiones otorgan bonificaciones de PdP. <br>*Si mejoras la estatua de piedra del kirin, aumentará el número de unidades que se pueden asignar a los barracones. <br>*Se pueden usar visiores para alargar la barra de provisiones."
+        },
+        {
+            "key": "GUILD_STATUE_TITLE",
+            "value": "Estatuas del gremio"
+        },
+        {
+            "key": "GUILD_STATUE_DESC",
+            "value": "Hay 4 tipos de estatuas de gremio, y todos los miembros del gremio pueden recibir varias bendiciones si las construyen y las mejoran.<br><br>Ejemplos:<br>-Aumenta los atributos de la unidad en combate.<br>-Aumenta o mejora el contenido de las recompensas de asistencia al gremio.<br>-Función de los barracones desbloqueada."
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_TITLE",
+            "value": "Mejorar estatuas del gremio"
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_DESC",
+            "value": "Si mejoras las estatuas de piedra aumentarás su nivel y desbloquearás más efectos que beneficiarán a todos los miembros del gremio.<br>Puedes ver los efectos que has desbloqueado tocando Efectos desbloqueados en la parte superior derecha de la pantalla.<br>También puedes ver el nivel de las estatuas y sus efectos desbloqueables tocando la lupa de cada una.<br><br>Aumentar el nivel de las estatuas de piedra te permitirá también construir otras nuevas."
+        },
+        {
+            "key": "GUILDBATTLE_TITLE",
+            "value": "Combates de gremio"
+        },
+        {
+            "key": "GUILDBATTLE_DESC",
+            "value": "Un combate contra otros gremios para adquirir ★. La entrada al combate y la selección del gremio rival se realizan automáticamente si se cumplen las condiciones de participación.<br><br> >■ Condiciones de participación<br>-El número total de miembros del gremio (incluyendo al líder y a los sublíderes) ha de ser de 10 como mínimo.<br>-El líder del gremio ha tenido que conectarse al juego en los últimos 3 días.<br><br>Las formaciones del grupo de los combates de gremio se dividen en ataque y defensa. Se puede establecer cada grupo en la pantalla de formaciones.<br>*La formación del grupo se establece una vez ha comenzado la selección del gremio rival. Ten en cuenta que los cambios que realices en la formación una vez comience la selección del rival no se reflejarán en el combate de gremio.<br><br>■ Si vences<br>Aumentarán los trofeos del gremio.<br>Cuantas más ★ adquieras en combate y cuantos más trofeos posea el oponente, mayor será el valor de tu victoria.<br>Los usuarios que ataquen a oponentes más de una vez en combate podrán obtener recompensas individuales según sus resultados.<br><br>■ Si pierdes<br>Disminuirán los trofeos del gremio.<br> Cuantas más ★ adquieras en combate y cuantos más trofeos posea el oponente, menor será la penalización de tu derrota.<br>Los usuarios que ataquen a oponentes más de una vez en combate podrán obtener recompensas individuales según sus resultados.<br><br>El número de trofeos no aumentará ni disminuirá en caso de que el combate de gremio termine en empate.<br><br>>*El número de ★ que se pueden obtener al derrotar a un enemigo depende del número de personas en la formación del grupo.<br>*Al final del periodo de combate, el gremio que más daño haya ocasionado en total al equipo opuesto será el vencedor, en el caso de que ambos gremios obtengan la misma cantidad de ★.<br> *Si el número de ★ que se adquieran y el daño total ocasionado al equipo opuesto es el mismo, se considerará empate.<br><br> ■ Recompensas <br>Puedes ganar medallas de gremio durante los combates de gremio a cambio de cierta cantidad de recompensas. <br> - Recompensas individuales según el número de ★ que se adquieran en cada combate.<br> - Recompensas individuales a cambio de ★ que se adquieran en combate durante el periodo de combate de gremio. <br> - Recompensas de gremio según la tasa de ★ que adquiere cada miembro."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Combates de gremio limitados"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "En los combates de gremio, podrás usar acciones para atacar a tu enemigo o apoyar a tus aliados obstaculazando a los adversarios. <br><br>Si tu gremio cumple con las siguientes condiciones de participación, entrará automáticamente en combate y será emparejado con un oponente. <br>-Un nivel de liga establecido o superior<br>-El gremio está compuesto por al menos 10 miembros (incluyendo al líder y al sublíder) <br>-El líder de gremio se ha conectado en los últimos tres días<br>Las formaciones de grupo para los combates de gremio se dividen en formaciones de ataque y formaciones de defensa. Puedes elegir a los miembros de estas formaciones en «Limitado» en combate de gremio, desde la pantalla de formación.<br>*El número de grupos que puedes crear y las condiciones de formación dependerán del combate de gremio.<br>*Tu oponente podrá conseguir fácilmente ★ si no preparas grupos defensivos, lo que puede ser perjudicial. <br>*Las formaciones de grupo para los combates de gremio serán definitivas una vez seas emparejado con un oponente. Los cambios de la formación tras el emparejamiento no se aplicarán a dicho combate de gremio.<br><br>■Resultado de batalla<br>Al final del periodo de batalla, el gremio con mayor número de ★ por miembro será el vencedor. <br>Si ambos gremios poseen el mismo número de ★, el que tenga un mayor porcentaje de daño acumulado será el que gane. <br>Si ambos gremios poseen el mismo número de ★ y el mismo porcentaje de daño acumulado, el gremio con el mayor valor acumulado entre todos los grupos defensivos será el vencedor. <br>*El número de ★ conseguidas derrotando a varias unidades dependerá del tamaño del grupo del gremio oponente.<br><br>■Puntos por resultado<br>Puedes conseguir puntos por resultado independientemente de si tu gremio ha ganado la batalla o no.<br>La clasificación general se determina a través de tus puntos por resultado.<br><br>Además, podrás ganar una gran cantidad de puntos al hacer lo siguiente.<br>-Ganando combates de gremio<br>-Consiguiendo un gran porcentaje de ★ durante la batalla<br>-Teniendo un gran valor acumulado entre todos los grupos defensivos<br>-Ganando batallas consecutivas<br><br>■Recompensas<br>Podrás ganar las siguientes recompensas durante los combates de gremio limitados.<br>-Recompensas de participación dependiendo del número de batallas individuales en las que hayas participado<br>-Recompensas de participación dependiendo del número de ★ conseguidas por ataques individuales que pueden ganarse en cada batalla<br>-Recompensas de acción dependiendo de los puntos de acción empleados en apoyo individual<br>-Recompensas de resultado dependiendo del porcentaje en que todos los miembros del gremio consiguen ★<br>-Recompensas de clasificación general dependiendo de la clasificación final de tu gremio."
+        },
+        {
+            "key": "DUEL_TITLE",
+            "value": "JcJ"
+        },
+        {
+            "key": "DUEL_DESC",
+            "value": "Aquí podrás participar en la Arena o en duelos."
+        },
+        {
+            "key": "ARENA_TOP_TITLE",
+            "value": "Arena"
+        },
+        {
+            "key": "ARENA_TOP_DESC",
+            "value": "■ La Arena <br>En la Arena, el grupo que hayas formado combatirá contra un grupo formado por otro jugador. <br>Necesitas orbes de la Arena para participar en los combates. <br>*Los orbes de la Arena se reponen cada día a las 00:00, hora mundial (PST), pero también puedes restaurarlos con visiores u objetos. <br><br>Los combates se desarrollan de forma automática, y el grupo que logre derrotar por completo a su oponente dentro del número de movimientos establecido será el vencedor. <br>Si no se ha declarado un vencedor en el número de movimientos establecido, ganará el jugador con más unidades en pie en el grupo. Si ambos jugadores tienen el mismo número de unidades en pie, el vencedor será el jugador con más VIT restante. <br>No podrás adquirir EXP de rango, EXP de unidad o PdP por ganar en combates de la Arena. <br>Algunos combates se llevarán a cabo bajo unas reglas o condiciones especiales que las unidades deberán cumplir para poder participar. <br><br>■ Clasificaciones <br>Las clasificaciones se deciden por la cantidad de puntos de clasificación que acumulas durante una semana entre las 00:00 del lunes hasta las 23:59 del domingo siguiente, hora mundial (PST). <br>Podrás adquirir más puntos de clasificación ganando bonificaciones por victorias consecutivas o bonificaciones de unidad. Los puntos de clasificación se restablecen cada semana. <br>*Toca Unidades con bonificación en la Arena para obtener más información. <br>*Solo se aplicará el valor más alto de las bonificaciones de unidad. <br>Por ejemplo, si tienes una unidad con una bonificación de +100 % y otra bonificación de +75 %, solo se aplicará la de +100 %. <br><br>■ Recompensas <br>Hay 3 tipos de recompensas en la Arena: recompensas de participación, recompensas diarias y recompensas semanales. Cada una tiene sus propias condiciones y objetos disponibles. <br>*Las recompensas se enviarán a tu caja de regalos (y tendrás un tiempo limitado para reclamarlas) <br><br>■ Las medallas de la Arena <br>Podrás adquirir medallas de la Arena participando en los combates.<br>Las medallas de la Arena se pueden intercambiar por objetos en la mogutienda."
+        },
+        {
+            "key": "ARENA_PARTYEDIT_TITLE",
+            "value": "Formar un grupo en la Arena"
+        },
+        {
+            "key": "ARENA_PARTYEDIT_DESC",
+            "value": "■ Formar un grupo en la Arena <br>Puedes recibir puntos de clasificación como efecto de bonificación según las unidades de tu grupo. <br>Solo se aplicará el valor más alto de bonificaciones de unidad. <br><br>Por ejemplo, si tienes una unidad con una bonificación de +100 % y otra con una bonificación de +75 % en tu grupo, solo se aplicará la de +100 %."
+        },
+        {
+            "key": "ARENA_LIST_TITLE",
+            "value": "Seleccionar los oponentes de la Arena"
+        },
+        {
+            "key": "ARENA_LIST_DESC",
+            "value": "■ Selección de oponente<br>El combate dará comienzo cuando hayas seleccionado a tu oponente y toques Comenzar la batalla.<br>Todos los oponentes tienen una tasa determinada y, cuanto más alta sea la tasa del oponente al que derrotes, más puntos de clasificación conseguirás."
+        },
+        {
+            "key": "ARENA_REWARD_TITLE",
+            "value": "Lista de recompensas de la Arena"
+        },
+        {
+            "key": "ARENA_REWARD_DESC",
+            "value": "Hay 3 tipos de recompensas en la Arena: [recompensas de participación], [recompensas diarias] y [recompensas semanales].<br>*Cada recompensa se enviará a [Regalos (limitado)]."
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_TITLE",
+            "value": "Recibir las recompensas de la Arena"
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_DESC",
+            "value": "Las recompensas se enviarán a tu caja de regalos como regalo limitado.<br>*Los regalos deben reclamarse en el plazo de 2 semanas.<br>Se perderán los objetos que no se hayan reclamado en ese plazo."
+        },
+        {
+            "key": "MATCH_TITLE",
+            "value": "Duelos"
+        },
+        {
+            "key": "MATCH_DESC",
+            "value": "Existen tres tipos de duelos: duelos de clase, duelos aleatorios, y duelos amistosos. <br>*En los combates de la Arena y en los duelos se usa el mismo grupo."
+        },
+        {
+            "key": "MATCH_PARTYEDIT_TITLE",
+            "value": "Formar un grupo de duelo"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_DESC",
+            "value": "Los grupos para los duelos pueden ser de hasta 3 miembros.<br>*En los combates de la Arena y en los duelos se usa el mismo grupo."
+        },
+        {
+            "key": "MATCH_MAKEROOM_TITLE",
+            "value": "Duelos amistosos"
+        },
+        {
+            "key": "MATCH_MAKEROOM_DESC",
+            "value": "■ Duelos amistosos<br>En los duelos amistosos puedes combatir contra amigos.<br><br>■ Crear una sala<br>Crea una sala y envía la contraseña al amigo contra el que quieras combatir.<br>Si quieres combatir contra un miembro del gremio u otro jugador, selecciona Invitar en la ventana del chat para enviarles un enlace de participación.<br><br>■ Introducir una contraseña<br>Puedes acceder a la sala con la contraseña de invitación."
+        },
+        {
+            "key": "CLASSMATCH_TITLE",
+            "value": "Duelos de clase"
+        },
+        {
+            "key": "CLASSMATCH_DESC",
+            "value": "■ Los duelos de clase<br>En los duelos de clase puedes combatir contra otros jugadores (JcJ) para llegar a la cima de tu clase.<br>Los duelos de clase solo están disponibles en ciertos momentos del día y puedes participar hasta cinco veces. <br> Ganar combates te dará puntos, y perderlos te los quitará.<br>Serás promocionado o degradado en la clase dependiendo de tu cantidad total de puntos. <br>También hay bonificaciones por victorias consecutivas que te harán ganar todavía más puntos.<br>*Si no eres capaz de ganar un combate con un jugador en tu clase, serás emparejado con un jugador de otra clase.<br><br>    ■ Las victorias y las derrotas<br>Si no hay un vencedor tras un número de movimientos determinado, el jugador con más unidades en pie será el ganador.<br>Si ambos jugadores tienen el mismo número de unidades en pie, el ganador será el que tenga la mayor VIT restante. Si los dos tienen la misma VIT restante, el duelo terminará en empate.<br>*Si te retiras o si pierdes la conexión durante el combate, contará como perdido.<br><br>■ Los duelos de ascenso de clase<br>Cuando hayas acumulado puntos suficientes, podrás realizar un duelo de ascenso de clase para subir a la siguiente clase.<br>Tienes que ganar 2 combates de 3 en el duelo para poder subir de clase.<br>Puedes intentarlo tantas veces como sea necesario hasta que consigas tu ascenso. <br>*El número de victorias consecutivas seguirá contándose, pero los puntos ni aumentarán ni disminuirán. <br><br>■ Las recompensas<br>•Recompensas de ascenso de clase: recompensas que obtienes la primera vez que subes de clase.<br>*Las recompensas de ascenso no se reiniciarán y solo se ganarán una vez por temporada<br><br>•Recompensas de clase: recompensas que obtienes según tu clase al final de la temporada.<br>Ascenso*No podrás recibir estas recompensas si no participas en ningún combate durante la temporada.<br>*Los jugadores de clase maestro diamante no reciben recompensas de clase.<br>En su lugar, a estos jugadores se les otorga recompensas según sus puntos de clasificación.<br>*Toca Recompensas para obtener más información."
+        },
+        {
+            "key": "CLASSMATCH_INFO_TITLE",
+            "value": "Información de clase"
+        },
+        {
+            "key": "CLASSMATCH_INFO_DESC",
+            "value": "El coste máximo de cada clase se puede ver en Información de clase."
+        },
+        {
+            "key": "CLASSMATCH_REWARD_TITLE",
+            "value": "Lista de recompensas de los duelos de clase"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_DESC",
+            "value": "Lista de recompensas <br>Las recompensas de ascenso y las recompensas de clase se pueden ver en la lista de recompensas.<br><br>Recompensas de ascenso<br> Recompensas que obtienes al subir de clase. <br><br>Recompensas de clase<br>Las recompensas de clase dependen de la clase y se pueden obtener cuando termina un periodo de evento."
+        },
+        {
+            "key": "LOBBY_TITLE",
+            "value": "El Etéreo"
+        },
+        {
+            "key": "LOBBY_DESC",
+            "value": "En el Etéreo puedes participar en eventos, multicombates, la Torre de Porcelana, la Guarida de la Bestia y asaltos.<br>Si el Etéreo no está disponible cuando empieces a jugar, podrás desbloquearlo si avanzas en la historia o aumentas tu rango de jugador."
+        },
+        {
+            "key": "SUMMONQUEST_TITLE",
+            "value": "Guarida de la Bestia"
+        },
+        {
+            "key": "SUMMONQUEST_DESC",
+            "value": "En la Guarida de la Bestia hay eventos en los que podrás obtener materiales necesarios para entrenar espers."
+        },
+        {
+            "key": "SUPPORT_LIST_TITLE",
+            "value": "Seleccionar compañero"
+        },
+        {
+            "key": "SUPPORT_LIST_DESC",
+            "value": "■ Selección de compañero <br>El compañero es la sexta unidad que te acompaña en las misiones. <br>Los compañeros amigos o los sugeridos proporcionan habilidades de grupo que te pueden venir muy bien en las misiones. <br><br>Estos son los tipos de compañeros disponibles. <br>•Amigos: unidades de otros jugadores de tu lista de amigos. Estas unidades no necesitan guiles y otorgan un efecto de habilidad de grupo. <br>•Sugeridos: compañeros disponibles oficialmente. Como los compañeros amigos, no necesitan guiles y tienen efecto de habilidad de grupo. <br>•Otros compañeros: las demás unidades necesitarán guiles según su nivel y no otorgan efecto de habilidad de grupo. <br><br>■ Las habilidades de grupo <br>Son efectos que se consiguen al equipar cartas de visión y que influyen en todas las unidades aliadas del mismo grupo."
+        },
+        {
+            "key": "MULTI_TOP_TITLE",
+            "value": "Multijugador"
+        },
+        {
+            "key": "MULTI_TOP_DESC",
+            "value": "■ Multijugador<br>Aquí puedes formar un grupo de hasta 4 personas con otros jugadores para completar las misiones.<br>Puedes seleccionar la sala en la que participar introduciendo la contraseña que estableciste al crear la multisala.<br>Los tipos de multimisión se dividen en cuartetos y parejas.<br><br>Cuartetos: hay 4 jugadores y cada uno controla una unidad.<br>Pareja: hay 2 jugadores y cada uno controla 2 unidades.<br><br>■ Bonificación de anfitrión<br>El jugador que crea la sala recibirá una recompensa adicional en forma de objeto tras el combate conocida como «bonificación de anfitrión».<br>*No se recibirán bonificaciones de anfitrión si se empieza el combate sin invitados en la sala.<br><br>■ Bonificación de primera vez<br>Se pueden obtener visiores de bonificación de primera vez al completar una misión con otro jugador por primera vez.<br>Las bonificaciones de primera vez son 200 visiores para las primeras 10 personas, y 40 visiores por jugador a partir del 11.º.<br>* Puedes recibir una bonificación de primera vez por las primeras 50 personas con las que juegues en Multijugador y en Asaltos.<br>* Solo se pueden recibir bonificaciones si es la primera vez que juegas junto a otro jugador. Los jugadores que hayan jugado juntos anteriormente no la recibirán.<br>*No recibirás una bonificación si abandonas en mitad de la misión."
+        },
+        {
+            "key": "MULTI_QUESTLIST_TITLE",
+            "value": "Seleccionar multimisiones"
+        },
+        {
+            "key": "MULTI_QUESTLIST_DESC",
+            "value": "■ Selección de multimisiones<br>La selección de multimisiones te permite elegir la multimisión en la que quieres participar.<br>Toca la lupa para ver las recompensas por completar por primera vez de cada misión, los objetos que puedes obtener y más información.<br>Solo consume energía el jugador que haya creado la sala."
+        },
+        {
+            "key": "MULTI_ROOMLIST_TITLE",
+            "value": "Lista de multirreclutamiento"
+        },
+        {
+            "key": "MULTI_ROOMLIST_DESC",
+            "value": "Pantalla principal de Multijugador → Lista de reclutamiento: aparecerá una lista de salas en las que buscan miembros. <br>Pantalla de selección de misión → Unirse a la sala: aparece una lista de salas que buscan miembros para la misión seleccionada. <br>En la lista de multirreclutamiento, ve a Crear sala para confirmar las salas en las que se están reclutando jugadores para la misión seleccionada. <br>Si tocas Actualizar podrás ver una nueva lista de reclutamiento."
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_TITLE",
+            "value": "Seleccionar el estilo de juego"
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_DESC",
+            "value": "■ Selección del estilo de juego<br>Puedes elegir Crear sala para crear una sala como organizador o seleccionar Unirse a la sala para unirte como invitado.<br>Si decides crear una sala, tendrás acceso a los siguientes ajustes:<br>•Contraseña: si enciendes esta opción solo los que tengan la contraseña podrán unirse a tu sala.<br>•Requisitos de entrada: puedes restringir la entrada a la sala a los jugadores con unidades de cierto nivel o con experiencia completando misiones, etc.<br>•Doble velocidad: se puede jugar a las multimisiones al doble de velocidad.<br>*Disponible únicamente al aumentar tu rango vip.<br>•Comentarios: puedes escribir un comentario que aparecerá en la lista de multirreclutamiento."
+        },
+        {
+            "key": "MULTI_ROOM_TITLE",
+            "value": "Multisalas"
+        },
+        {
+            "key": "MULTI_ROOM_DESC",
+            "value": "En la multisala puedes comprobar la información de jugador de los que se han unido a la sala, cambiar la formación de tu grupo, administrar solicitudes de refuerzo, la función de expulsar, opciones de la sala y de combate, o abandonar la sala.<br>Antes de partir, todos los jugadores tienen que haber completado los preparativos.<br>También hay un chat multijugador al que solo pueden acceder los miembros dentro de la sala.<br>Si la multisala tiene contraseña, se mostrará en el lado izquierdo de la pantalla.<br>Cuando otros usuarios introduzcan la contraseña podrán entrar en la multisala.<br>Además, si el líder de la sala toca el icono del candado, los ajustes de la contraseña se desactivarán y cualquiera podrá entrar en la sala."
+        },
+        {
+            "key": "MULTI_PARTYEDIT_TITLE",
+            "value": "Pantalla de formación de grupo"
+        },
+        {
+            "key": "MULTI_PARTYEDIT_DESC",
+            "value": "■ Pantalla de formación de grupo<br>Aquí podrás seleccionar unidades para grupos de cuartetos o parejas.<br>En la pantalla de formación en sala, las unidades seleccionadas para estos grupos aparecerán con un icono de partida."
+        },
+        {
+            "key": "MULTI_RPLAYER_TITLE",
+            "value": "Información de jugador"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_TITLE",
+            "value": "Información de otros jugadores"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_DESC",
+            "value": "Puedes ver las unidades que otros jugadores tienen en sus grupos. <br>Si tocas y mantienes pulsado en los iconos de Equipo, Carta de visión y Esper, podrás ver información más detallada."
+        },
+        {
+            "key": "RAID_ENCOUNT_TITLE",
+            "value": "Enfrentamientos de asalto"
+        },
+        {
+            "key": "RAID_ENCOUNT_DESC",
+            "value": "Los jefes de asalto aparecen al azar al completar una misión.<br>Cuando aparece un jefe de asalto con el que te has enfrentado personalmente, no aparecerán otros jefes de asalto.<br>Puedes derrotar al jefe de asalto o, cuando se acabe el tiempo y escape, puedes intentar volver a enfrentarte a él."
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Asaltos"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "■ Asaltos<br>Para desafiar a un jefe de asalto se necesita un orbe de asalto.<br>En los siguientes casos, podrás desafiar a un jefe sin usar un orbe:<br> - Es tu primera vez enfrentándote a este jefe de asalto.<br> - Es tu primera vez enviando refuerzos en un desafío contra este jefe de asalto (hasta 20 veces al día).<br><br>Los orbes de asalto se reponen cada día a las 00:00, hora mundial (PST), a un orbe por hora.<br>Pueden reponerse también con visiores u objetos de recuperación.<br><br>Si no logras herir al jefe tras un determinado número de movimientos, o si tu equipo cae derrotado, la VIT del jefe continuará como está en la siguiente batalla.<br>El jefe de asalto huirá si no se le derrota en el tiempo límte.<br><br>Si otros jugadores desafían al jefe de asalto después de que hayas perdido los derechos de encuentro, el jugador que lo desafió adquirirá los derechos del encuenro.<br>Los jefes de asalto suben de nivel con cada victoria.<br>Las recompensas que puedes adquirir por derrotar a un jefe de asalto de nivel alto son mayores que las de un jefe de nivel bajo.<br>*El siguiente jefe de asalto aparecerá cuando hayas reclamado tus recompensas.<br><br>Puedes adquirir las siguientes bonificaciones de asaltos:<br><br>■ Bonificación de ayuda<br>Esta bonificación se otorga a los jugadores que brindan refuerzos contra un jefe de asalto a favor de un jugador de menor rango.<br>Hay un límite para el máximo de recompensas que puedes reclamar que se reinicia en cada desafío.<br><br>■ Bonificación de primera vez<br> Puedes conseguir visiores de bonificación por primera vez cuando derrotes a un jefe de asalto con otro jugador por primera vez.<br>Las bonificaciones por primera vez son de 200 visiores para las primeras 10 personas, y 40 visiores para cada jugador a partir del 11º.<br>*Puedes recibir una bonificación por primera vez para las primeras cincuenta personas con las que juegues en multimisiones y asaltos.<br>*Solo recibirás las bonificaciones en los primeros encuentros. Las personas que ya hayan jugado juntas anteriormente no recibirán la bonificación."
+        },
+        {
+            "key": "RAID_ROOM_TITLE",
+            "value": "Salas de asalto"
+        },
+        {
+            "key": "RAID_ROOM_DESC",
+            "value": "En la sala de asalto puedes comprobar la información de jugador de los que se han unido a la sala, cambiar la formación de tu grupo, administrar solicitudes de refuerzo, la función de expulsar, opciones de la sala y de combate, o abandonar la sala.<br>Antes de partir, todos los jugadores tienen que haber completado los preparativos.<br>También hay un chat multijugador al que solo pueden acceder los miembros dentro de la sala."
+        },
+        {
+            "key": "RAID_BOSS_TITLE",
+            "value": "Jefes de asalto"
+        },
+        {
+            "key": "RAID_BOSS_DESC",
+            "value": "Las recompensas de los jefes de asalto, los jugadores que han asistido, las clasificaciones y demás información se puede ver en la pantalla de jefe de asalto.<br>Al desafiar a un jefe de asalto, puedes elegir el modo de combate: cuarteto, pareja o solo.<br><br>-Cuarteto: 4 jugadores. Cada uno controla una unidad.<br>-Pareja: 2 jugadores. Cada uno controla dos unidades.<br>-Solo: juegas tú solo y controlas las cuatro unidades."
+        },
+        {
+            "key": "RAID_DEFEAT_TITLE",
+            "value": "Derrotar a jefes de asalto"
+        },
+        {
+            "key": "RAID_DEFEAT_DESC",
+            "value": "Puedes comprobar la lista de refuerzos, puntos de victoria, puntos de victoria totales y las clasificaciones."
+        },
+        {
+            "key": "RAID_END_TITLE",
+            "value": "Asaltos completados"
+        },
+        {
+            "key": "RAID_END_DESC",
+            "value": "Puedes confirmar tus resultados después de derrotar al jefe de asalto y conseguir tus recompensas."
+        },
+        {
+            "key": "RAID_REWARD_TITLE",
+            "value": "Recompensas de asalto"
+        },
+        {
+            "key": "RAID_REWARD_DESC",
+            "value": "■ Recompensas de asalto<br>Podrás adquirir las siguientes recompensas de asalto.<br><br> Recompensas de desafío<br>Los jugadores que se enfrenten al jefe de asalto recibirán estas recompensas después de derrotarlo.<br><br> Recompensas de participación<br>Cualquier jugador que haya desafiado al jefe de asalto recibirá estas recompensas.<br><br>Recompensas por daño<br>Los jugadores recibirán recompensas según el daño que efectúen en combate.<br><br>Recompensas por victoria<br>Los jugadores recibirán estas recompensas cuando venzan a un jefe de asalto.<br><br>Recompensas de clasificación<br>Los jugadores se clasifican según los puntos que hayan ganado durante una temporada según su clasificación.<br><br>*Si no desafías a un jefe de asalto en un periodo determinado, pierdes el derecho a enfrentarte a él.<br>*Las recompensas que se pueden conseguir y los tipos de recompensa pueden variar según el estilo de juego.<br>Solo < Pareja < Cuarteto."
+        },
+        {
+            "key": "RAID_PARTYEDIT_TITLE",
+            "value": "Pantalla de formación"
+        },
+        {
+            "key": "RAID_PARTYEDIT_DESC",
+            "value": "La formación de tu grupo de asalto serán las unidades que utilices al desafiar a un jefe de asalto. <br>Hay 3 tipos de desafíos que afectarán al número de unidades que participen en el combate: Cuarteto de 4 jugadores, Pareja de 2 jugadores, y Solo de un jugador. <br>En la pantalla de formación en sala, las unidades que vayan a partir aparecerán con un icono de partida.<br>*La formación será la misma que se usa para las multimisiones."
+        },
+        {
+            "key": "RAID_HELP_TITLE",
+            "value": "Pedir refuerzos"
+        },
+        {
+            "key": "RAID_HELP_DESC",
+            "value": "Solicitar refuerzos permite que otros jugadores participen en la sala.<br>*Tendrás que esperar cierto tiempo antes de poder realizar la solicitud."
+        },
+        {
+            "key": "RAID_OTHERPLAYER_TITLE",
+            "value": "Información de otros jugadores"
+        },
+        {
+            "key": "RAID_OTHERPLAYER_DESC",
+            "value": "Puedes ver las unidades que otros jugadores tienen en sus grupos. <br>Si tocas y mantienes pulsado en los iconos de Equipo, Carta de visión y Esper, podrás ver información más detallada."
+        },
+        {
+            "key": "OTHERPLAYER_TITLE",
+            "value": "Información de otros jugadores"
+        },
+        {
+            "key": "OTHERPLAYER_DESC",
+            "value": "Puedes ver el rango del jugador seleccionado, cuándo jugó por última vez y su compañero.<br>Además puedes tocar y mantener pulsado en los iconos de unidad o carta de visión para obtener información de estado más detallada."
+        },
+        {
+            "key": "EVENT_TITLE",
+            "value": "Eventos"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Hay dos tipos de misiones de evento: eventos limitados y eventos diarios/de entrenamiento. <br><br>Para algunas misiones, hay un límite en el número de veces que se pueden intentar en un solo día. <br>*Los intentos que se muestran cuentan para todas las misiones que aparecen en la lista. <br>*Los intentos se restablecen cada día a las 00:00, hora mundial (PST). <br><br> También están disponibles las siguientes campañas de día específico. <br><br>• Objetos x2 <br>Lunes: Cámara de la EXP, Cámara de los guiles, Cámara de los minerales, Cámara de los huevos nutritivos, Cámara de los tarros <br>Martes: Cámara de los alcrists (fuego y viento), Cámara del despertar de los espers (fuego y viento) <br>Miércoles: Cámara de los alcrists (agua y hielo), Cámara del despertar de los espers (agua y hielo) <br>Jueves: Cámara de los alcrists (tierra y oscuridad), Cámara del despertar de los espers (tierra y oscuridad) <br>Viernes: Cámara de los alcrists (rayo y luz), Cámara del despertar de los espers (rayo y luz) <br>• Intentos ilimitados <br>Sábado y domingo: Cámara de los guiles, Cámara de los minerales"
+        },
+        {
+            "key": "EVENT_QUESTLIST_TITLE",
+            "value": "Lista de misiones de evento"
+        },
+        {
+            "key": "EVENT_QUESTLIST_DESC",
+            "value": "■ La lista de misiones<br>Toca el botón de detalles en la parte inferior derecha del banner del evento para obtener más información del evento.<br>Toca la lupa en la lista de misiones para saber los detalles de cada misión."
+        },
+        {
+            "key": "MOGSHOP_TITLE",
+            "value": "Mogutienda"
+        },
+        {
+            "key": "MOGSHOP_DESC",
+            "value": "Las medallas que consigas en el juego se pueden intercambiar en la mogutienda por objetos necesarios para entrenar unidades y espers, o por otros objetos útiles."
+        },
+        {
+            "key": "STORY_TITLE",
+            "value": "Misiones de historia"
+        },
+        {
+            "key": "STORY_DESC",
+            "value": "■ Misiones de historia<br>Son las misiones que permiten avanzar en la historia de los personajes principales.<br>A medida que completes las misiones, irás desbloqueando nuevas secciones y capítulos.<br>Toca en Seleccionar capítulo para navegar por los capítulos y sus secciones. Toca la lupa para ver los detalles de la misión."
+        },
+        {
+            "key": "STORY_SELECT_TITLE",
+            "value": "Misiones de historia"
+        },
+        {
+            "key": "STORY_SELECT_DESC",
+            "value": "■ Misiones de historia<br>Son las misiones que permiten avanzar en la historia de los personajes principales.<br>A medida que completes las misiones, irás desbloqueando nuevas secciones y capítulos.<br>Toca en Seleccionar capítulo para navegar por los capítulos y sus secciones. Toca la lupa para ver los detalles de la misión."
+        },
+        {
+            "key": "STORY_SORTIE_TITLE",
+            "value": "Pantalla de partida"
+        },
+        {
+            "key": "STORY_SORTIE_DESC",
+            "value": "■ Pantalla de partida<br>Aquí puedes formar grupos para embarcarte en misiones.<br>Toca tu inventario para seleccionar los objetos que te llevarás al combate.<br>Si desactivas Posición inicial, podrás saltarte el posicionamiento de las unidades al inicio del combate.<br>Con Omitir batalla podrás usar energía y objetos especiales para saltarte batallas.<br><br>*No podrás cambiar la formación de tu grupo en misiones que requieran unas unidades específicas.<br>*Omitir batalla no puede usarse en algunas misiones.<br>*Para poder usar Omitir batalla, tendrás que haber completado todos los objetivos de esa misión."
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_TITLE",
+            "value": "Historia: Salida forzosa"
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_DESC",
+            "value": "En algunas misiones solo puedes partir con determinadas unidades en tu grupo.<br>No puedes eliminar a estas unidades de tu grupo."
+        },
+        {
+            "key": "STORY_LIST_TITLE",
+            "value": "Seleccionar compañero"
+        },
+        {
+            "key": "STORY_LIST_DESC",
+            "value": "■ Selección de compañero <br>El compañero es la sexta unidad que te acompaña en las misiones. <br>Los compañeros amigos o los sugeridos proporcionan habilidades de grupo que te pueden venir muy bien en las misiones. <br><br>Estos son los tipos de compañeros disponibles. <br>•Amigos: unidades de otros jugadores de tu lista de amigos. Estas unidades no necesitan guiles y otorgan un efecto de habilidad de grupo. <br>•Sugeridos: compañeros disponibles oficialmente. Como los compañeros amigos, no necesitan guiles y tienen efecto de habilidad de grupo. <br>•Otros compañeros: las demás unidades necesitarán guiles según su nivel y no otorgan efecto de habilidad de grupo. <br><br>■ Las habilidades de grupo <br>Son efectos que se consiguen al equipar cartas de visión y que influyen en todas las unidades aliadas del mismo grupo."
+        },
+        {
+            "key": "WORLD_TITLE",
+            "value": "Mapa del mundo"
+        },
+        {
+            "key": "WORLD_DESC",
+            "value": "El mapa mundial te permite comprobar dónde tienen lugar determinados eventos. <br>Sigue leyendo para obtener más información acerca de las misiones que aparecen en la pantalla Misión global. <br><br>•Misiones difíciles: en estas misiones puedes obtener fragmentos de una unidad específica. Hay un límite en el número de veces por día que puedes intentar las misiones difíciles. <br>No obstante, puedes restablecer el número de intentos aumentando tu rango vip. <br>*El número máximo de intentos de todas las misiones difíciles juntas es de 10 por día. <br>*Esto incluye cualquier restablecimiento utilizado para jugar a las mismas misiones otra vez. <br><br>•Misiones de personaje: estas misiones te ayudarán a desbloquear la habilidad maestra de una unidad específica. <br><br>•Misiones secundarias: consigue recompensas respondiendo a los favores que se te pidan al cumplir con ciertas condiciones en alguna otra parte del juego. <br>*Puedes confirmar qué misiones secundarias has recibido o aceptado en la Lista de misiones secundarias."
+        },
+        {
+            "key": "WORLD_AREA_TITLE",
+            "value": "Mapa de zona"
+        },
+        {
+            "key": "WORLD_AREA_DESC",
+            "value": "Toca los iconos de cada zona en el Mapa de zona para ver las diferentes misiones a las que puedes acceder.<br>Debes cumplir ciertas condiciones para desbloquear y acceder a cada zona y cada misión."
+        },
+        {
+            "key": "WORLD_QUESTLIST_TITLE",
+            "value": "Lista de misiones globales"
+        },
+        {
+            "key": "WORLD_QUESTLIST_DESC",
+            "value": "Mira la lista de misiones correspondiente a cada zona.<br>También puedes tocar la lupa para ver los detalles de la misión."
+        },
+        {
+            "key": "WORLD_SORTIE_TITLE",
+            "value": "Pantalla de formación de grupo"
+        },
+        {
+            "key": "WORLD_SORTIE_DESC",
+            "value": "Aquí puedes comprobar qué misiones han sido desbloqueadas en las zonas correspondientes. Toca la lupa para ver los detalles."
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_TITLE",
+            "value": "Mundo: Salida forzosa"
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_DESC",
+            "value": "A algunas misiones solo puedes partir con las unidades requeridas.<br>No podrás cambiar las unidades de tu grupo en misiones de salida forzosa."
+        },
+        {
+            "key": "WORLD_LIST_TITLE",
+            "value": "Seleccionar compañero"
+        },
+        {
+            "key": "WORLD_LIST_DESC",
+            "value": "■ Selección de compañero <br>El compañero es la sexta unidad que te acompaña en las misiones. <br>Los compañeros amigos o los sugeridos proporcionan habilidades de grupo que te pueden venir muy bien en las misiones. <br><br>Estos son los tipos de compañeros disponibles. <br>•Amigos: unidades de otros jugadores de tu lista de amigos. Estas unidades no necesitan guiles y otorgan un efecto de habilidad de grupo. <br>•Sugeridos: compañeros disponibles oficialmente. Como los compañeros amigos, no necesitan guiles y tienen efecto de habilidad de grupo. <br>•Otros compañeros: las demás unidades necesitarán guiles según su nivel y no otorgan efecto de habilidad de grupo. <br><br>■ Las habilidades de grupo <br>Son efectos que se consiguen al equipar cartas de visión y que influyen en todas las unidades aliadas del mismo grupo."
+        },
+        {
+            "key": "WORLD_SUBQUEST_TITLE",
+            "value": "Lista de misiones secundarias"
+        },
+        {
+            "key": "WORLD_SUBQUEST_DESC",
+            "value": "Si miras la lista de misiones secundarias podrás comprobar cuáles has aceptado.<br>Las misiones secundarias se pueden aceptar en las listas de misiones de cada zona.<br><br>•Las misiones secundarias que estés llevando a cabo aparecerán bajo En curso.<br>•Las misiones secundarias aparecerán bajo Cumplidas si aún no has aceptado las recompensas. Selecciona una misión y toca Recibir para obtenerlas.<br>*Las recompensas de las misiones secundarias también pueden obtenerse en las listas de misiones.<br>*Tras aceptar las recompensas las misiones secundarias aparecerán bajo Reclamadas."
+        },
+        {
+            "key": "FRIEND_TITLE",
+            "value": "Amigos"
+        },
+        {
+            "key": "FRIEND_DESC",
+            "value": "■ Los amigos <br>Hacer amigos te permite enviar y recibir regalos. También puedes seleccionar las unidades de tus amigos como compañeros sin que te cueste un guil. <br>Los compañeros de tus amigos también tendrán un efecto de habilidad de grupo. <br><br>■ Las notificaciones de amigos <br>Las solicitudes de amigos se pueden administrar en la pantalla Notificaciones de amigos. <br>Una vez llega, tienes 2 días para aceptar una solicitud de amigo antes de que esta sea eliminada. <br><br>■ Bloquear <br>Puedes bloquear a otros jugadores si tocas el botón de Bloquear en la pantalla de detalles del personaje. <br>El bloqueo impedirá que los jugadores participen en las mismas multisalas, salas de asalto, y duelos amistosos. <br>Los comentarios de los jugadores bloqueados tampoco aparecerán en el chat. <br>*Cuando ambos jugadores estén jugando como invitados, los dos podrán participar. <br><br>Puedes ver los jugadores que has bloqueado en la Lista de bloqueados. <br>Se puede desbloquear a jugadores tocando en el botón de Desbloquear. <br>*Las unidades de jugadores bloqueados aparecerán en la pantalla de selección de compañero. <br><br>■ Los regalos <br>Los amigos pueden enviarse ciertos objetos y guiles entre ellos como regalo. <br>Se puede enviar un regalo al día. <br><br>*Enviar objetos o guiles de regalo no reduce el número de tus propios objetos y guiles. <br>*Se podrán enviar regalos a los jugadores a partir de las 00:00 (hora mundial, PST) del día después de haberos hecho amigos. <br>*Los regalos enviados deberán reclamarse en un periodo de siete días o serán eliminados."
+        },
+        {
+            "key": "FRIEND_GIFT_TITLE",
+            "value": "Regalos de amigos"
+        },
+        {
+            "key": "FRIEND_GIFT_DESC",
+            "value": "Los regalos son ciertos objetos o guiles que puedes enviar a jugadores que se hayan convertido en amigos.<br>Puedes enviar y recibir regalos una vez al día<br><br>*Enviar regalos no reducirá los objetos/guiles de tu inventario.<br>*Solo podrás enviar regalos a jugadores 24 horas más tarde de haberte hecho su amigo.<br>*Los regalos caducarán en 7 días tras haberlos recibido."
+        },
+        {
+            "key": "SUBMENU_QUEST_TITLE",
+            "value": "Formar un grupo de misión"
+        },
+        {
+            "key": "SUBMENU_QUEST_DESC",
+            "value": "Puedes seleccionar qué unidades te acompañarán en las siguientes misiones.<br>Los grupos de misión se utilizarán en misiones de historia, eventos, la Guarida de la bestia y misiones globales."
+        },
+        {
+            "key": "SUBMENU_DUEL_TITLE",
+            "value": "Formar un grupo JcJ"
+        },
+        {
+            "key": "SUBMENU_DUEL_DESC",
+            "value": "Puedes seleccionar que unidades se usarán en los combates JcJ.<br>Los grupos de JcJ se usarán en la Arena y en los duelos."
+        },
+        {
+            "key": "SUBMENU_MULTI_TITLE",
+            "value": "Formar un grupo Multijugador"
+        },
+        {
+            "key": "SUBMENU_MULTI_DESC",
+            "value": "Podrás seleccionar qué grupos se usarán para Multijugador y para los asaltos.<br>El icono que aparece en la parte superior derecha de cada unidad indica si esta se encuentra asignada a Cuarteto, Pareja o Solo."
+        },
+        {
+            "key": "SUBMENU_GUILD_TITLE",
+            "value": "Formar un grupo de combate de gremio"
+        },
+        {
+            "key": "SUBMENU_GUILD_DESC",
+            "value": "Puedes escoger qué unidades usarás para los combates de gremio.<br>Puedes escoger qué unidades asignar al grupo de ataque y al grupo de defensa. Toca el botón del grupo de ataque para pasar a la pantalla de formación del grupo de defensa."
+        },
+        {
+            "key": "SUBMENU_SUPPORT_TITLE",
+            "value": "Ajustes de compañero"
+        },
+        {
+            "key": "SUBMENU_SUPPORT_DESC",
+            "value": "■ Los ajustes de compañero<br>Puedes seleccionar una unidad compañero para reclutarla según su elemento.<br>Todo el equipo, espers y cartas de visión que selecciones aquí se equiparán cuando reclutes a la unidad.<br>*Seleccionar TODO permitirá que cualquier unidad pueda ser reclutada independientemente de su elemento.<br><br>■ Las recompensas de compañero<br>Se podrán adquirir guiles basados en el nivel de la unidad.<br>También recibirás una recompensa de compañero cuando un amigo seleccione como compañero a tu unidad.<br>Las recompensas de compañero se enviarán a tu caja de regalos."
+        },
+        {
+            "key": "ARTI_TITLE",
+            "value": "Detalles de equipo"
+        },
+        {
+            "key": "ARTI_DESC",
+            "value": "Aquí puedes revisar los atributos de una pieza de equipo y las habilidades o efectos que pueda tener, así como cualquier condición que deba cumplirse para poder equiparla.<br>Hay distintos tipos de piezas de equipo, y los atributos máximos y su tasa de crecimiento difieren entre sí.<br><br>Los diferentes tipos o características de las armas están debajo.<br> Vital: La VIT sube más fácilmente.<br> Fuerte: El ATQ sube más fácilmente. <br> Mágico: La MAG sube más fácilmente.<br> Certero: El acierto sube más fácilmente.<br> Esquivo: La evasión sube más fácilmente. <br> Crítico: El crítico sube más fácilmente. <br> Defensor: La DEF sube más fácilmente. <br> Mental: El ESP sube más fácilmente.<br>"
+        },
+        {
+            "key": "ARTI_LIST_TITLE",
+            "value": "Lista de equipo"
+        },
+        {
+            "key": "ARTI_LIST_DESC",
+            "value": "Aquí puedes ver el equipo que posees.<br>Los objetos que tienes equipados mostrarán una «E» en la parte superior del icono.<br>La <color=#99FF33>E</color> indica que el objeto está equipado.<br>La <color=#FF99FF>E</color> indica que el objeto se ha registrado como equipo favorito.<br>*Si tienes un objeto equipado que también se ha registrado como equipo favorito, se mostrará la <color=#99FF33>E</color> que señala que el objeto está equipado.<br><br>Puedes usar las pestañas y filtros para mostrar objetos que cumplan con ciertas condiciones.<br>*Cuando se muestre «Filtro: SÍ» en la pantalla, significará que tus objetos se encuentran filtrados en ese momento."
+        },
+        {
+            "key": "ARTI_ENHANCE_TITLE",
+            "value": "Mejorar equipo"
+        },
+        {
+            "key": "ARTI_ENHANCE_DESC",
+            "value": "Puedes subir el nivel de una pieza de equipo usando adamantita para mejorarla. Los puntos de los atributos se asignan de forma aleatoria al subir de nivel.<br>Si usas un sello mientras mejoras, los atributos afectados por el sello crecen más fácilmente. *Los sellos solo pueden usarse una vez por nivel.<br><br>El nivel máximo para las piezas de equipo se encuentra enumerado debajo.<br><br>▼Nivel máximo para piezas de equipo<br>★: Nv.10 <br>★★: Nv.20<br>★★★: Nv.30<br>★★★★: Nv.40 <br>★★★★★: Nv.50<br>*Puede haber excepciones."
+        },
+        {
+            "key": "ARTI_AWAKE_TITLE",
+            "value": "Despertar equipo"
+        },
+        {
+            "key": "ARTI_AWAKE_DESC",
+            "value": "Despertar te permite aumentar el límite de nivel de tu equipo.<br>Cuando una pieza de equipo alcanza su nivel máximo puedes despertarla con el libro secreto de refinado."
+        },
+        {
+            "key": "ARTI_STATUS_TITLE",
+            "value": "Mejorar atributos de equipo"
+        },
+        {
+            "key": "ARTI_STATUS_DESC",
+            "value": "Se pueden aumentar los atributos del equipo con martillos enanos.<br>*Cada pieza de equipo tiene un número de veces que se pueden usar los martillos enanos para aumentar los atributos determinado.<br>"
+        },
+        {
+            "key": "ARTI_ABILITY_TITLE",
+            "value": "Mejorar habilidades de equipo"
+        },
+        {
+            "key": "ARTI_ABILITY_DESC",
+            "value": "Se pueden mejorar las habilidades de equipo con tarros acorazados.<br>"
+        },
+        {
+            "key": "ARTI_RESET_TITLE",
+            "value": "Restablecer equipo"
+        },
+        {
+            "key": "ARTI_RESET_DESC",
+            "value": "Si restableces una pieza de equipo, esta vuelve al nivel 1 sin desmontarse para que puedas mejorarla de nuevo desde el principio.<br>Los atributos y el número de veces que puedes usar el martillo enano con esa pieza también se restablecerá.<br>*El progreso del despertar, el tipo de desarrollo y el nivel de habilidad de equipo no se restablecerá."
+        },
+        {
+            "key": "ARTI_CRAFT_TITLE",
+            "value": "Elaborar"
+        },
+        {
+            "key": "ARTI_CRAFT_DESC",
+            "value": "Aquí puedes ver las piezas de equipo con receta.<br>Podrás elaborar equipo cuando reunas los materiales necesarios.<br>*Las piezas de equipo que registres como equipo favorito no pueden usarse como materiales de elaboración."
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_TITLE",
+            "value": "Detalles de elaboración"
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_DESC",
+            "value": "Se pueden elaborar objetos equipable con las recetas y los materiales necesarios.<br>Los métodos de obtención de cada material se pueden ver tocando en su icono.<br>*El tipo de equipo se decide al azar, por lo que sus atributos pueden variar antes y después de elaborarlo.<br>*Al elaborar objetos +1 o superior, podrás elegir los tipos de equipo que quieras usar como materiales."
+        },
+        {
+            "key": "ARTI_SELL_TITLE",
+            "value": "Vender equipo"
+        },
+        {
+            "key": "ARTI_SELL_DESC",
+            "value": "Vender equipo te permite cambiar las piezas de equipo en tu inventario por guiles.<br>*El equipo maestro fiel, las piezas que lleva equipadas una unidad y las registradas como favoritas no se pueden vender.<br>*No se te devolverá el equipo que hayas vendido por error.<br>Te recomendamos que registres como favorita cualquier pieza de equipo que no quieras vender por error.<br>Puedes añadir piezas de equipo a favoritos tocando la estrella en la pantalla de detalles."
+        },
+        {
+            "key": "ARTI_BULK_TITLE",
+            "value": "Desmontar equipo"
+        },
+        {
+            "key": "ARTI_BULK_DESC",
+            "value": "Puedes obtener materiales de elaboración y otros objetos desmontando piezas de equipo. <br>Si desmontas equipo despertado podrás obtener también libros secretos de mejora. <br>Confirma qué materiales producir desmontándolos tocando y manteniendo pulsado el icono de una pieza de equipo <br>y seleccionando Desmontar para abrir la pantalla de Confirmar materiales. <br><br>Las piezas de equipo que adquieras al desmontar serán nuevas, y no ninguna de las que se usaron para crear la pieza desmontada. <br>*El nivel de la pieza de equipo adquirida, así como su estado de despertar, se reiniciarán, y su tipo se decidirá de forma aleatoria.<br><br> *Hay un número límite de piezas de equipo que puedes desmontar por día. <br>*Al desmontar una pieza de equipo, no se te devolverán las adamantitas, martillos enanos y sellos que utilizaras para mejorarla.<br>*El equipo maestro fiel, las piezas que lleva equipadas una unidad y las registradas como favoritas no se pueden desmontar. <br>*No se te devolverán las piezas de equipo que hayas desmontado por error. <br>Te recomendamos que registres como favorita cualquier pieza de equipo que no quieras desmontar o perder por error. <br>Puedes añadir piezas de equipo a favoritos tocando la estrella en la pantalla de detalles."
+        },
+        {
+            "key": "NETHERBEAST_LIST_TITLE",
+            "value": "Lista de espers"
+        },
+        {
+            "key": "NETHERBEAST_LIST_DESC",
+            "value": "Revisa la lista de espers para ver los que posees.<br>Los espers equipados se marcarán con una E en la parte superior de su icono.<br>Toca la pestaña de Elemento para cambiar las opciones de filtro y muestra solo los espers afines con diferentes condiciones.<br>*Cuando se muestra «Filtro: SÍ» en pantalla, tus espers se filtran en ese momento."
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_TITLE",
+            "value": "Detalles del esper"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_DESC",
+            "value": "■ Los detalles del esper<br>Aquí podrás ver información detallada sobre los espers.<br>También podrás mejorar o despertar espers con magicitas y piedras del despertar que coincidan con el elemento del esper.<br><br>■ El despertar de espers<br>Podrás despertar a un esper cuando este alcance su nivel máximo. Si lo despiertas, aumentarás el límite de nivel del esper.<br>Al despertarlo, el esper volverá al nivel 1, pero no perderá ningún PH.<br>La tabla de entrenamiento del esper tampoco se verá afectada.<br><br>■ La resonancia de esper<br>Equipar a una unidad con un esper en misiones aumentará la resonancia entre el esper y la unidad.<br>Aumentar la resonancia te otorgará un aumento de estado y prolongará los efectos de mapa de la magia de invocación del esper."
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_TITLE",
+            "value": "Mejora manual"
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_DESC",
+            "value": "Se pueden desbloquear de una vez múltiples casillas en la tabla de entrenamiento de esper si cumples los requisitos necesarios."
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_TITLE",
+            "value": "Tabla de entrenamiento de esper"
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_DESC",
+            "value": "■ Las tablas de entrenamiento de esper<br>Las tablas de entrenamiento te permiten mejorar aún más los atributos de un esper y desbloquear casillas que otorgarán ciertas habilidades a las unidades que se equipen con ese esper.<br>Para desbloquear casillas en la tabla de entrenamiento de esper se necesitan PH.<br>Obtendrás PH al aumentar el nivel de tus espers.<br><br>■ Restablecer la tabla<br>Las casillas desbloqueadas se pueden restablecer tocando el botón Restablecer tabla.<br>Si restableces la tabla podrás volver a entrenar de nuevo al esper desde el principio.<br>*Solo el primer restablecimiento será gratuito. A partir de la segunda vez, solo podrás restablecer la tabla si consumes visiores."
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_TITLE",
+            "value": "Desbloquear la tabla de entrenamiento de esper"
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_DESC",
+            "value": "■ Requisitos de desbloqueo<br>Además de necesitar PH, se deben cumplir ciertos requisitos para poder desbloquear las casillas.<br>Cada casilla tiene una ventana emergente en la que puedes ver qué se necesita para desbloquearla."
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_TITLE",
+            "value": "Desbloquear casillas (tabla de entrenamiento de esper)"
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_DESC",
+            "value": "Puedes desbloquear varias casillas de la tabla de entrenamiento de esper si cumples con los requisitos que exige cada una.<br><br>Al desbloquear múltiples casillas a la vez, se utilizará la cantidad total de PH que necesita cada casilla."
+        },
+        {
+            "key": "NETHERBEAST_RESET_TITLE",
+            "value": "Restablecer la tabla de entrenamiento de esper"
+        },
+        {
+            "key": "NETHERBEAST_RESET_DESC",
+            "value": "Todas las casillas desbloqueadas con PH pueden restablecerse, y así volver a entrenar al esper desde el principio.<br>Si aumentas tu rango vip podrás desbloquear el restablecimiento gratuito de la tabla de entrenamiento de esper una vez a la semana y aumentar el número de veces que puedes restablecerla gratis.<br><br>*Se te devolverán todos los PH que hayas utilizado para desbloquear casillas.<br>*El primer restablecimiento colectivo para todos los espers es gratuito. A partir de la segunda vez en adelante, tendrás que usar visiores."
+        },
+        {
+            "key": "VISION_LIST_TITLE",
+            "value": "Lista de cartas de visión"
+        },
+        {
+            "key": "VISION_LIST_DESC",
+            "value": "Revisa la lista de cartas de visión para ver los que posees.<br>Las cartas de visión equipadas se marcarán con una E en la parte superior de su icono.<br>Toca la pestaña de Favoritos para cambiar las opciones de filtro y muestra solo las cartas de visión afines con diferentes condiciones.<br>*Cuando se muestra «Filtro: SÍ» en pantalla, tus cartas de visión se filtran en ese momento."
+        },
+        {
+            "key": "VISION_ENHANCE_TITLE",
+            "value": "Mejora"
+        },
+        {
+            "key": "VISION_ENHANCE_DESC",
+            "value": "Aquí puedes ver los atributos y otros detalles de carta de visión.<br><br>■ Mejorar<br>Puedes usar huevos nutritivos y guiles para aumentar el nivel de las cartas de visión.<br>Aumentar el nivel de las cartas de visión te permitirá aumentar los atributos de las cartas, los efectos y las habilidades de grupo.<br><br>■ Despertar<br>Puedes usar fragmentos de carta de visión, esferas de visión y guiles para despertar cartas de visión.<br>Al despertarla, aumentarás el límite de nivel de la carta de visión.<br><br>■ Bonificaciones de despertar<br>Despertar algunas cartas de visión puede activar un efecto con bonificación o una habilidad de grupo.<br>Toca Bonificación de despertar para ver la lista de las diferentes bonificaciones."
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_TITLE",
+            "value": "Fusión de cartas"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_DESC",
+            "value": "Fusión de cartas te permite seleccionar cartas de visión para usarlas como materiales de mejora.<br>Al fusionar cartas de visión idénticas aparecerá el icono de despertar. <br><br>En Mejora manual, si seleccionas los objetos que quieres usar como mejora según rareza y tipo podrás convertir múltiples cartas en materiales de despertar de una vez.<br>*Las cartas equipadas o favoritas no se pueden seleccionar.<br>*Se pueden seleccionar 99 cartas a la vez. <br>Se dará prioridad a las cartas de menor rareza."
+        },
+        {
+            "key": "VISION_SELL_TITLE",
+            "value": "Vender cartas de visión"
+        },
+        {
+            "key": "VISION_SELL_DESC",
+            "value": "Puedes vender las cartas de visión adquiridas por guiles y medallas de visión.<br>*Todas las ventas son definitivas, y no podrás recuperar las cartas de visión una vez vendidas.<br>*Las cartas de visión equipadas o favoritas no se pueden vender."
+        },
+        {
+            "key": "VISION_DETAIL_TITLE",
+            "value": "Cartas de visión"
+        },
+        {
+            "key": "VISION_DETAIL_DESC",
+            "value": "Aquí puedes ver los atributos y otros detalles de carta de visión.<br><br>■ Mejorar<br>Puedes usar huevos nutritivos y guiles para aumentar el nivel de las cartas de visión.<br>Aumentar el nivel de las cartas de visión te permitirá aumentar los atributos de las cartas, los efectos y las habilidades de grupo.<br><br>■ Despertar<br>Puedes usar fragmentos de carta de visión, esferas de visión y guiles para despertar cartas de visión.<br>Al despertarla, aumentarás el límite de nivel de la carta de visión.<br><br>■ Bonificaciones de despertar<br>Despertar algunas cartas de visión puede activar un efecto con bonificación o una habilidad de grupo.<br>Toca Bonificación de despertar para ver la lista de las diferentes bonificaciones."
+        },
+        {
+            "key": "； ミッション",
+            "value": ""
+        },
+        {
+            "key": "MISSION_TITLE",
+            "value": "Tareas"
+        },
+        {
+            "key": "MISSION_DESC",
+            "value": "■ Tareas<br>Las tareas te permiten obtener recompensas si cumples ciertos requisitos.<br><br>• Tareas diarias<br>Las tareas diarias se pueden realizar cada día.<br>La barra de progreso de las tareas diarias se irá rellenando a medida que las completes y, cuando alcance un valor determinado, podrás obtener recompensas.<br>También existen las tareas de los lunes, disponibles durante tiempo limitado, de 00:00 a 23:59, hora mundial (PST) los lunes.<br><br>• Retos<br>Los retos son tareas por las que puedes obtener recompensas por tu progreso en misiones de historia o entrenando a unidades.<br>Algunas tareas solo están disponibles durante los eventos.<br><br>• Tareas de lote<br>Las tareas de lote pueden desbloquearse comprando lotes de tareas en la tienda.<br><br>■Sobre recibir recompensas de una vez<br>Toca el botón «Recibir todo» para adquirir todas las recompensas de las tareas de esa categoría a la vez.<br><br>*Si tu inventario está lleno, se enviarán las recompensas a tu caja de regalos.<br>*Las tareas diarias se restablecen cada día a las 00:00, hora mundial (PST), momento en que podrás realizarlas de nuevo.<br>Las recompensas que no se hayan reclamado antes de que se restablezcan las tareas diarias se perderán y no podrás obtenerlas."
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "Menú"
+        },
+        {
+            "key": "OPTION_DESC",
+            "value": "■ El menú<br>En el menú podrás acceder a mucha información útil y a varios ajustes del juego. <br><br>■ Opciones<br>Podrás personalizar las siguientes opciones:<br>• Opciones<br>Aquí podrás cambiar los ajustes gráficos, de sonido o de ahorro de energía.<br>• Chat<br>Aquí podrás habilitar o deshabilitar el chat o editar tus mensajes.<br>• Descargas<br>Aquí podras descargar o volver a descargar datos de voz o realizar descargas conjuntas.<br>• Notificaciones<br>Aquí podrás activar o desactivar las notificaciones push."
+        },
+        {
+            "key": "OPTION_PLAYERINFO_TITLE",
+            "value": "Información de jugador"
+        },
+        {
+            "key": "OPTION_PLAYERINFO_DESC",
+            "value": "Aquí podrás comprobar tu ID de usuario y personalizar las siguientes partes del juego. <br><br>•Nombre de jugador <br>•Comentario de jugador <br>•Unidad que aparece en la pantalla principal <br><br>Tendrás que esperar 10 días para volver a cambiar el nombre de jugador. <br>No obstante, esta regla no se aplica a los jugadores de rango vip 2 o superior."
+        },
+        {
+            "key": "OPTION_STORYMEMORY_TITLE",
+            "value": "Volver a ver"
+        },
+        {
+            "key": "OPTION_STORYMEMORY_DESC",
+            "value": "Aquí podrás ver cinemáticas de las misiones de historia que hayas completado, animaciones dinámicas de los espers que tengas, y otros clips."
+        },
+        {
+            "key": "ITEM_TITLE",
+            "value": "Objetos"
+        },
+        {
+            "key": "ITEM_DESC",
+            "value": "En la pantalla de objetos podrás consultar información relacionada con los objetos."
+        },
+        {
+            "key": "CHARGEBONUS_TITLE",
+            "value": "Compra diaria de bonificaciones"
+        },
+        {
+            "key": "CHARGEBONUS_DESC",
+            "value": "Si compras más de una cantidad establecida de visiores de pago durante el periodo de evento podrás recibir dos tipos de bonificaciones.<br>• Bonificaciones de compra diaria que puedes recibir cada día.<br>• Una bonificación por acumulación según el número de días que hayas comprado visiores.<br><br>*Las bonificaciones no se pueden adquirir una vez haya terminado el periodo de evento.<br>*Si no quedan días suficientes en el evento, no podrás recibir las bonificaciones de esos días.<br>*Tanto las bonificaciones diarias como las acumulativas cambian a las 00:00, hora mundial (PST).<br>*Los visiores de pago incluidos en los lotes cuentan como bonificaciones."
+        },
+        {
+            "key": "EXCHANGE_TITLE",
+            "value": "Tienda de intercambio de objetos"
+        },
+        {
+            "key": "EXCHANGE_DESC",
+            "value": "Hay tres tipos de materiales en la tienda de intercambio de objetos.<br>Los objetos que puedes usar para el intercambio dependen del tipo que elijas.<br>*El tipo de intercambio también dependerá en la rareza de los objetos que desees obtener.<br><br> Intercambio superior: los objetos de rareza más baja podrán intercambiarse.<br> Intercambio inferior: los objetos de rareza más alta podrán intercambiarse.<br> Intercambio equivalente: los objetos tendrán que intercambiarse por unos de rareza equivalente."
+        },
+        {
+            "key": "；白磁の塔",
+            "value": ""
+        },
+        {
+            "key": "TOWER_TOP_TITLE",
+            "value": "Torre de Porcelana"
+        },
+        {
+            "key": "TOWER_TOP_DESC",
+            "value": "La Torre de Porcelana es una misión de evento que tiene lugar durante un periodo de tiempo limitado."
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Detalles"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "En la Torre de Porcelana, podrás aumentar la bravura o la fe cada vez que uses VIT, habilidades (incluyendo habilidades de equipo) y magia de invocación en combate.<br>*Si equipas objetos o espers a una unidad distinta, no se reiniciará el número de usos.<br>*La disminución de bravura o fe no se transferirá de un combate al siguiente.<br>Podrás restaurar la VIT y los usos de habilidades de todas las unidades una vez gratis a intervalos regulares.<br><br>Hay varias recompensas que puedes obtener al completar cada planta de la torre.<br>Si completas plantas EX, desbloquearás misiones EX.<br>Las misiones EX son misiones especiales donde podrás seguir usando unidades que quedaron KO en otras plantas.<br><br>La primera vez que completes todas las plantas, podrás reiniciar la torre sin coste. Puedes usar visiores para reiniciar a partir de una segunda vez.<br>Toca la lupa para ver qué recompensas están disponibles en cada planta."
+        },
+        {
+            "key": "TOWER_PARTY_TITLE",
+            "value": "Pantalla de partida"
+        },
+        {
+            "key": "TOWER_PARTY_DESC",
+            "value": "Se mostrará en pantalla «No se puede partir» cuando no puedas partir a una misión o formar un grupo.<br> Para ver qué habilidades y magia de invocación puedes usar con tu equipo actual, toca y mantén el icono de la unidad para mostrar los detalles en pantalla, y toca «Habilidades disponibles». "
+        },
+        {
+            "key": "；オートバトル対象アビリティ",
+            "value": ""
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Habilidades de batalla automática"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Las habilidades que estén desactivadas no se usarán durante las batallas automáticas.<br>También puedes habilitar otras opciones tocando el botón de ajustes avanzados.<br>*Las habilidades disponibles pueden variar incluso si están activadas en las batallas automáticas debido a la configuración de profesiones de la unidad o a estados alterados."
+        },
+        {
+            "key": "CONTACT_US_TITLE",
+            "value": "Contáctanos/Ayuda"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_INFO_TITLE",
+            "value": "Información de jugador"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_IDENTIFIER_TITLE",
+            "value": "ID de jugador"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_NAME_TITLE",
+            "value": "Nombre de jugador"
+        },
+        {
+            "key": "CONTACT_US_INQUIRIES_TITLE",
+            "value": "Consultas"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_TYPE_TITLE",
+            "value": "Tipo de problema"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_AREA_TITLE",
+            "value": "Zona del problema"
+        },
+        {
+            "key": "CONTACT_US_EMAIL_TITLE",
+            "value": "Correo electrónico (opcional)"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_TITLE",
+            "value": "Comentarios"
+        },
+        {
+            "key": "CONTACT_US_SEND_BUTTON",
+            "value": "Enviar"
+        },
+        {
+            "key": "CONTACT_US_TICKETS_BUTTON",
+            "value": "Mis tíckets"
+        },
+        {
+            "key": "ISSUE_TYPE_GENERAL",
+            "value": "General"
+        },
+        {
+            "key": "ISSUE_TYPE_ACCOUNT",
+            "value": "Cuenta"
+        },
+        {
+            "key": "ISSUE_TYPE_GAMEPLAY",
+            "value": "Juego"
+        },
+        {
+            "key": "ISSUE_TYPE_BUG",
+            "value": "Error"
+        },
+        {
+            "key": "ISSUE_TYPE_EVENT",
+            "value": "Evento"
+        },
+        {
+            "key": "ISSUE_TYPE_FEEDBACK",
+            "value": "Opiniones"
+        },
+        {
+            "key": "ISSUE_TYPE_IN_APP_PURCHASE",
+            "value": "Compras dentro de la aplicación"
+        },
+        {
+            "key": "ISSUE_TYPE_BILLING",
+            "value": "Facturación"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_LOST",
+            "value": "Cuenta perdida"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_SHARD",
+            "value": "Error al recibir fragmentos"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_LAPIS",
+            "value": "Error al recibir visiores"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_EQUIPMENT",
+            "value": "Error al recibir equipo"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_SUSPENDED",
+            "value": "Cuenta suspendida"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_OTHERS",
+            "value": "Otros"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_MISSING_REWARDS",
+            "value": "Error al recibir recompensas"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_CRASH",
+            "value": "El evento se cuelga"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_BUG",
+            "value": "Error en el evento"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_OTHERS",
+            "value": "Otro"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_UNABLE_TO_DOWNLOAD",
+            "value": "Error de descarga"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_LOADING",
+            "value": "Carga"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_QUEST",
+            "value": "Misiones"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_GACHA",
+            "value": "Invocaciones"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_ARENA",
+            "value": "Arena"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_CONNECTION_ERROR",
+            "value": "Error de conexión"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_OTHERS",
+            "value": "Otro"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_IMAGE",
+            "value": "Imágenes"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TEXT",
+            "value": "Texto"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TRANSLATION",
+            "value": "Traducción"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_SKILL",
+            "value": "Técnicas"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_OTHERS",
+            "value": "Otro"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_MISSING_PURCHASE",
+            "value": "Error con la compra"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_REFUND",
+            "value": "Reembolso"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_BUNDLE",
+            "value": "Lotes"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_APPLE",
+            "value": "App Store de Apple"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_GOOGLE",
+            "value": "Google Play"
+        },
+        {
+            "key": "SUPPORT_TICKETS_TITLE",
+            "value": "Mis tíckets"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_CAPTION",
+            "value": "Escribe tu consulta"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_DIALOG_TITLE",
+            "value": "Respuesta"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_SUCCESS_DIALOG_DESC",
+            "value": "Tu mensaje se ha enviado correctamente."
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_FAIL_DIALOG_DESC",
+            "value": "Ha habido un error. No se ha podido enviar el mensaje."
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_TITLE",
+            "value": "Confirmar"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
+            "value": "¿Enviar mensaje?"
+        },
+        {
+            "key": "； ポイントクエスト",
+            "value": ""
+        },
+        {
+            "key": "POINT_QUEST_TOP_TITLE",
+            "value": "Pruebas del Veredicto"
+        },
+        {
+            "key": "POINT_QUEST_TOP_DESC",
+            "value": "■ Pruebas del Veredicto<br>Puedes conseguir puntos al completar misiones de evento o batallas de jefe.<br>El número de puntos varía según los resultados de tus acciones.<br>Recibirás recompensas de acuerdo al número de puntos que consigas, y también al completar los objetivos de misión. *Si usas un tícket de avance para completar una misión, solo se tendrán en cuenta tus puntos de victoria para las recompensas. *Completar una misión en modo normal desbloquea el modo difícil.<br><br>■ Las invocaciones de evento<br>Puedes intercambiar las medallas que consigas por invocaciones de evento.<br>Tras haber invocado la recompensa principal de cada paso, podrás reiniciar la invocación y también continuar al siguiente paso.<br>Al completar todos los pasos, podrás invocar un número de veces ilimitado en el último paso.<br><br>Toca Detalles de evento para saber más sobre el evento y sus recompensas."
+        },
+        {
+            "key": "ARTI_SELECT_TITLE",
+            "value": "Seleccionar mejora"
+        },
+        {
+            "key": "ARTI_SELECT_DESC",
+            "value": "■ Mejorar<br>Mejorar te permite usar objetos de mejora para aumentar el nivel o los parámetros del equipo y mejorar habilidades de equipo.<br>Hay diferentes tipos de equipo, y los atributos máximos y la tasa a la que aumentan al ser mejorados difieren entre ellos.<br>*El aumento de atributos al subir de nivel es aleatorio.<br>*Cada parámetro tiene un valor máximo.<br>*El número de veces que puedes usar el martillo enano para aumentar los parámetros varía según la pieza de equipo.<br><br><br>Los niveles máximos del equipo son los siguientes:<br><br>Nivel máximo de equipo<br>★: Nv. 10<br>★★: Nv. 20<br>★★★: Nv. 30<br>★★★★: Nv. 40<br>★★★★★: Nv. 50<br>*Puede haber algunas excepciones."
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "${playerName} a rejoint la guilde."
+        },
+        {
+            "key": "2",
+            "value": "Nouvel emblème de guilde obtenu."
+        },
+        {
+            "key": "3",
+            "value": "${playerName} a été désigné comme Chef de guilde."
+        },
+        {
+            "key": "4",
+            "value": "${playerName} a été exclu de la guilde."
+        },
+        {
+            "key": "5",
+            "value": "${playerName} a quitté la guilde."
+        },
+        {
+            "key": "6",
+            "value": "Le chef de la guide ne s'étant pas connecté pendant plusieurs jours d'affilée, ${playerName} a automatiquement été nommé Chef de guilde."
+        },
+        {
+            "key": "7",
+            "value": "${playerName} a été nommé bras-droit du Chef de guilde."
+        },
+        {
+            "key": "8",
+            "value": "${statueName} a atteint le niv. ${level}."
+        },
+        {
+            "key": "9",
+            "value": "La guilde participe à un combat de guilde."
+        },
+        {
+            "key": "10",
+            "value": "Vous ne pouvez pas accéder aux combats de guilde car vous ne remplissez pas les conditions nécessaires requises."
+        },
+        {
+            "key": "11",
+            "value": "Que le combat contre la guilde ${guildName} commence."
+        },
+        {
+            "key": "12",
+            "value": "Ce combat de guilde a été remporté par forfait."
+        },
+        {
+            "key": "13",
+            "value": "Votre guilde a remporté son combat contre la guilde ${guildName}."
+        },
+        {
+            "key": "14",
+            "value": "Votre guilde a perdu son combat contre ${guildName}."
+        },
+        {
+            "key": "15",
+            "value": "Votre niveau de ligue est monté de ${beforeLevelName} à ${afterLevelName}."
+        },
+        {
+            "key": "16",
+            "value": "La guilde participe à un combat de guilde limité."
+        },
+        {
+            "key": "17",
+            "value": "Vous ne pouvez pas accéder à ce combat de guilde limité car vous ne remplissez pas les conditions nécessaires requises."
+        },
+        {
+            "key": "18",
+            "value": "Que le combat contre la guilde ${guildName} commence."
+        },
+        {
+            "key": "19",
+            "value": "Ce combat de guilde limité a été remporté par forfait."
+        },
+        {
+            "key": "20",
+            "value": "Le combat de guilde limité contre ${guildName} a commencé."
+        },
+        {
+            "key": "21",
+            "value": "Votre guilde a remporté le combat de guilde limité contre ${guildName}."
+        },
+        {
+            "key": "22",
+            "value": "Votre guilde a perdu le combat de guilde limité contre la guilde ${guildName}."
+        },
+        {
+            "key": "23",
+            "value": "Votre niveau de ligue est tombé de ${beforeLevelName} à ${afterLevelName}."
+        },
+        {
+            "key": "24",
+            "value": "<color=#00F0FF>${fromName}</color> a attaqué <color=#E03030>${toName}</color> et lui a volé ★ x${star}."
+        },
+        {
+            "key": "25",
+            "value": "<color=#00F0FF>${fromName}</color> a utilisé ${actionIname} sur <color=#00F0FF>${toName}</color>."
+        },
+        {
+            "key": "26",
+            "value": "<color=#00F0FF>${fromName}</color> a utilisé ${actionIname} sur <color=#E03030>${toName}</color>."
+        }
+    ]
+}

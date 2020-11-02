@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "GACHA_ID_0001",
+            "value": "N'oubliez pas d'échanger vos médailles <br>des Épreuves du Jugement contre des récompenses."
+        }
+    ]
+}

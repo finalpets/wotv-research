@@ -1,0 +1,936 @@
+{
+    "infos": [
+        {
+            "key": "JB_LW_WAR",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_WATER",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_WAR_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de renforcer ses propres attaques et de soutenir des alliés pour se rendre indispensable en toutes circonstances."
+        },
+        {
+            "key": "JB_LW_PLD",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_FIRE",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_ICE",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_WIND",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_SOIL",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_THUN",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_WATER",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_SHINE",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_PLD_DARK",
+            "value": "Tank physique de première ligne<br><br>Un job spécialisé en défense qui permet de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_KNT",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_WATER",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_KNT_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de prendre l'avantage en combat en baissant l'ATT et la MAGIE de l'ennemi à chaque attaque."
+        },
+        {
+            "key": "JB_LW_SWN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_WATER",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_SWN_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser de puissantes attaques, qui consomment des PV mais infligent de lourds dégâts."
+        },
+        {
+            "key": "JB_LW_HUN",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_FIRE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_ICE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_WIND",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_SOIL",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_THUN",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_WATER",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_SHINE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_HUN_DARK",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui se joue à l'arc et permet d'attaquer à distance. Les positions en hauteur augmentent la portée."
+        },
+        {
+            "key": "JB_LW_MNK",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_ICE",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_WIND",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_THUN",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_WATER",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_MNK_DARK",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en enchaînements qui permet d'infliger de lourds dégâts grâce aux compétences Poings furieux et Accumulation."
+        },
+        {
+            "key": "JB_LW_LAN",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_WATER",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_LAN_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance pour attaquer sur deux cases. Les coups critiques peuvent être augmentés pour infliger encore plus de dégâts."
+        },
+        {
+            "key": "JB_LW_CLR",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_FIRE",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_ICE",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_WIND",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_SOIL",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_THUN",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_WATER",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_SHINE",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_CLR_DARK",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet de protèger ses alliés contre les altérations d'état et d'augmenter les résistances contre les ennemis de type Lumière et Ombre."
+        },
+        {
+            "key": "JB_LW_SAM",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_WATER",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_SAM_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui permet de créer des ouvertures en combat en renforçant la Bravoure et l'Esquive des alliés."
+        },
+        {
+            "key": "JB_LW_DRG",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_WATER",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_DRG_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui se joue à la lance et permettant de combiner des attaques sur deux cases avec la compétence Sauter. L'aptitude de réaction de la Lame draconique permet de résister plus longtemps."
+        },
+        {
+            "key": "JB_LW_BLM_FIRE",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_BLM_WATR",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_BLM_ICE",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_BLM_SOIL",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_BLM_THUN",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_BLM_WIND",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_BLM_SHINE",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_BLM_DARK",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_THI",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_ICE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_WIND",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_THUN",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_WATER",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_THI_DARK",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité et permettant de se déplacer avec aisance pour dérober les objets tenus par les ennemis."
+        },
+        {
+            "key": "JB_LW_NIN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_WATR",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_SHIN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_NIN_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'allier mobilité et Dissimulation afin d'échapper à l'attention des ennemis."
+        },
+        {
+            "key": "JB_LW_GUN",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_FIRE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_ICE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_WIND",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_SOIL",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_THUN",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_WATER",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_SHINE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GUN_DARK",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet d'attaquer à distance et d'infliger des altérations d'état avec les compétences Noir total et Tir dans le pied."
+        },
+        {
+            "key": "JB_LW_GRM_FIRE",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_GRM_ICE",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_GRM_WIND",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_GRM_SOIL",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_GRM_THUN",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_GRM_SHIN",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_GRM_DARK",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_GRM_WATR",
+            "value": "Soutien de troisième ligne<br><br>Un job de soutien qui permet d'augmenter les résistances élémentaires des alliés et de réduire la DEF et la PSY des ennemis, les rendant vulnérables aux dégâts."
+        },
+        {
+            "key": "JB_LW_MGK_FIRE",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MGK_WATR",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MGK_ICE",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MGK_SOIL",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MGK_THUN",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MGK_SHINE",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MGK_DARK",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MGK_WIND",
+            "value": "Tank magique de première ligne<br><br>Un job qui octroie une puissante défense magique et qui permet d'attirer les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_RDM_FIRE",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_RDM_ICE",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_RDM_WIND",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_RDM_SOIL",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_RDM_THUN",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_RDM_WATR",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_RDM_SHIN",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_RDM_DARK",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance et des sorts de soin après un certain délai d'activation."
+        },
+        {
+            "key": "JB_LW_TIM",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_FIRE",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_ICE",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_WIND",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_SOIL",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_THUN",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_WATER",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_SHINE",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_TIM_DARK",
+            "value": "Soutien de troisième ligne<br><br>Un job qui permet de prendre l'avantage en combat en manipulant le CT en faveur de ses alliés avec Booster ou en ralentissant les ennemis avec Lenteur."
+        },
+        {
+            "key": "JB_LW_WHM",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_FIRE",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_ICE",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_WIND",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_SOIL",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_THUN",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_WATER",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_SHINE",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_WHM_DARK",
+            "value": "Guérisseur de troisième ligne<br><br>Un job spécialisé dans la restauration des PV des alliés. Il permet aussi d'augmenter la résistance grâce aux aptitudes Bouclier et Barrière."
+        },
+        {
+            "key": "JB_LW_GLMS",
+            "value": "Mage de première ligne<br><br>Un job aux mille facettes qui permet aussi bien d'attaquer que de renforcer ses caractéristiques ou encore de restaurer les PV des alliés."
+        },
+        {
+            "key": "JB_FF14_YSTL",
+            "value": "Mage de troisième ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques à distance après un certain délai d'activation."
+        },
+        {
+            "key": "JB_FF14_TNCR",
+            "value": "Combattant de première ligne<br><br>Un job spécialisé en attaque mais permettant également de renforcer sa propre DEF pour rester plus longtemps en combat."
+        },
+        {
+            "key": "JB_LW_WGN_FIRE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_WGN_ICE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_WGN_WIND",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_WGN_SOIL",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_WGN_THUN",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_WGN_WATER",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_WGN_SHINE",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_WGN_DARK",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer une attaque à courte comme à longue distance."
+        },
+        {
+            "key": "JB_LW_VIK",
+            "value": ""
+        },
+        {
+            "key": "JB_LW_VIK_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_VIK_ICE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_VIK_WIND",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_VIK_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_VIK_THUN",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_VIK_WATER",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_VIK_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_VIK_DARK",
+            "value": "Combattant de première ligne<br><br>Un job qui permet d'utiliser Lancement, une attaque au fort taux de coups critiques. L'aptitude de réaction Combativité restaure également les PV et renforce l'ATT grâce au statut de Berserk."
+        },
+        {
+            "key": "JB_LW_FINA",
+            "value": "Guérisseur de troisième ligne<br><br>Un job qui permet de restaurer les PV des alliés et d'attaquer avec un arc."
+        },
+        {
+            "key": "JB_FFT_RAMZ",
+            "value": "Combattant de première ligne<br><br>Un job qui combine des aptitudes d'attaque comme Triple explosion à de puissantes aptitudes de soutien comme Cri et Vent arrière pour venir en renfort aux alliés."
+        },
+        {
+            "key": "JB_FFT_GFGR",
+            "value": "Combattant de première ligne<br><br>Un job qui consomme des PV pour infliger de lourds dégâts. Les PV sont restaurés grâce à l'aptitude Saignée obscure."
+        },
+        {
+            "key": "JB_FFT_ORND",
+            "value": "Combattant de première ligne<br><br>Un job qui dispose de nombreuses attaques comme Ravage de plastron qui réduit la DEF de l'ennemi, ou Éclair inimitable qui inflige des dégâts dans une zone en forme de croix."
+        },
+        {
+            "key": "JB_LW_RAIN",
+            "value": "Tank magique de première ligne<br><br>Un job qui permet d'attirer les attaques ennemies et qui donne la possibilité d'envoyer de puissants sorts."
+        },
+        {
+            "key": "JB_LW_ASS",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_FIRE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_ICE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_WIND",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_SOIL",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_THUN",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_WATER",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_SHINE",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_LW_ASS_DARK",
+            "value": "Combattant de première ligne<br><br>Un job procurant une grande agilité qui permet de réduire considérablement la DEF lorsque l'unité attaque par derrière."
+        },
+        {
+            "key": "JB_FF1_WROL",
+            "value": "Tank physique de première ligne<br><br>Un job qui permet l'utilisation d'aptitudes qui octroient une défense contre les attaques magiques, et permet également de protéger les alliés en attirant les attaques ennemies."
+        },
+        {
+            "key": "JB_LW_MST_FIRE",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_WATER",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_ICE",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_SOIL",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_THUN",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_WIND",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_SHINE",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_LW_MST_DARK",
+            "value": "Mage de première ligne<br><br>Un job qui permet de lancer de puissantes attaques magiques après un certain délai d'activation. La DEF qu'il octroie permet à l'unité de combattre en première ligne."
+        },
+        {
+            "key": "JB_FFT_AGRA",
+            "value": "Tank magique de première ligne<br><br>Un job très résistant, capable d'affaiblir l'adversaire avec des altérations d'état et de protéger les alliés grâce à des compétences comme Récup et Barrière."
+        },
+        {
+            "key": "JB_FFT_DELT",
+            "value": "Combattant de première ligne<br><br>Un job qui facilite l'utilisation d'altérations d'état et de malus lorsque l'unité passe à l'attaque. Il permet de s'en prendre autant aux PV qu'aux PA, ce qui est particulièrement utile contre les unités spécialistes du corps-à-corps."
+        },
+        {
+            "key": "JB_FFT_MSTD",
+            "value": "Combattant de deuxième ligne<br><br>Un job qui permet de lancer des attaques à distance, notamment en 3 coups. Il permet également d'infliger des altérations d'état comme Incapacité et Immobilisation."
+        },
+        {
+            "key": "JB_LW_CAL_FIRE",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_CAL_ICE",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_CAL_WIND",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_CAL_SOIL",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_CAL_THUN",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_CAL_WATER",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_CAL_SHINE",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_CAL_DARK",
+            "value": "Mage de troisième ligne<br><br>Un job doté de sorts sans délai d'activation et dont la puissance dépend de la hauteur de la cible et du niveau de l'unité. "
+        },
+        {
+            "key": "JB_LW_STRN",
+            "value": "Combattant de première ligne<br><br>Un job qui octroie des aptitudes d'attaque très puissantes telles que des combos et des frappes lancées après qu'un mouvement ait été effectué."
+        },
+        {
+            "key": "JB_LW_GRSR",
+            "value": "Combattant de première ligne<br><br>Un job qui octroie des aptitudes d'attaque capables de lancer des assauts dans plusieurs directions, allant des attaques de lances perçantes s'étalant sur 2 cases, en passant par des attaques perpendiculaires sur 3 cases jusqu'aux attaques de zone en forme de croix."
+        },
+        {
+            "key": "JB_LW_LSWL",
+            "value": "Combattant de première ligne<br><br>Un job qui offre un panel d'options qui vous permettront d'augmenter le taux de perforation de la DEF, détail intéressant si vous vous retrouvez face à des ennemis avec une puissante défense."
+        },
+        {
+            "key": "JB_LW_MKN",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_FIRE",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_ICE",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_WIND",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_SOIL",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_THUN",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_WATER",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_SHINE",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        },
+        {
+            "key": "JB_LW_MKN_DARK",
+            "value": "Attaquant magique de première ligne<br><br>Un job qui permet l'utilisation d'attaques magiques infligeant de gros dégâts, pouvant être renforcées par le biais d'aptitudes augmentant la MAGIE du lanceur."
+        }
+    ]
+}

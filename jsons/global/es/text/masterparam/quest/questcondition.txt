@@ -1,0 +1,352 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "los aliados"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "los enemigos"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "mecanismos"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "y"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "o más"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "o menos"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "Todos {0} aniquilados"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "Derrota a {0}"
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "Todos {1} aniquilados excepto {0}"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "Acaba con {0}"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0} destruido(s)"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0} sigue(n) con vida"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "El héroe ha muerto"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "El héroe sigue con vida"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "Reduce la VIT de {0} al {1} % {2}"
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "El número de acciones de {0} llega a {1} {2}"
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0} se coloca al lado de {1}"
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0} llega al objetivo"
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0} está en la misma casilla que {1}"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0} usa la técnica {1} en el objetivo"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0} usa la técnica {2} en {1}"
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "El terreno cambia a {0}"
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "Llega a la puerta principal del castillo o aniquila al enemigo"
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "Muraga Fennes derrotado"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Muraga Fennes derrotado"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "Bandido jefe derrotado"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "Enemigos aniquilados"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "Todos los aliados aniquilados excepto Schuzelt"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "Todos los aliados aniquilados excepto Stern (Caballero de la Destrucción"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "Camilo derrotado"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Causa cierta cantidad de daño al carruaje"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "Vadim derrotado"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "¡Derrota a todos los enemigos!"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_1",
+            "value": "Rescata a Mustadio, el maquinista"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_2",
+            "value": "Mustadio, el maquinista derrotado"
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "Flan de chocolate derrotado"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "Flan de chocolate derrotado"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "Flan de chocolate derrotado"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "Flan de chocolate derrotado"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Derrota al malvavisco blanco"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Derrota al malvavisco blanco"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Derrota al malvavisco blanco"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Derrota al malvavisco blanco"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "Dea derrotada"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Oldoa derrotada"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Derrota a Máquina mortal"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Derrota a Máquina mortal"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Derrota a Máquina mortal"
+        },
+        {
+            "key": "QE_RAID_EV_09_01",
+            "value": "Derrota a Ifrit"
+        },
+        {
+            "key": "QE_RAID_EV_09_02",
+            "value": "Derrota a Ifrit"
+        },
+        {
+            "key": "QE_RAID_EV_09_03",
+            "value": "Derrota a Ifrit"
+        },
+        {
+            "key": "QE_RAID_EV_09_04",
+            "value": "Derrota al cactilio dorado"
+        },
+        {
+            "key": "QE_RAID_EV_09_05",
+            "value": "Derrota al cactilio dorado"
+        },
+        {
+            "key": "QE_RAID_EV_09_06",
+            "value": "Derrota al cactilio dorado"
+        },
+        {
+            "key": "QE_PT_001_BOSS_1",
+            "value": "Derrota al Dragón bicéfalo"
+        },
+        {
+            "key": "QE_PT_001_BOSS_2",
+            "value": "Derrota al Dragón bicéfalo"
+        },
+        {
+            "key": "QE_RAID_EV_10_01",
+            "value": "Derrota al Rey Bégimo"
+        },
+        {
+            "key": "QE_RAID_EV_10_02",
+            "value": "Derrota al Rey Bégimo"
+        },
+        {
+            "key": "QE_RAID_EV_10_03",
+            "value": "Derrota al Rey Bégimo"
+        },
+        {
+            "key": "QE_RAID_EV_10_04",
+            "value": "Derrota a Tomberi"
+        },
+        {
+            "key": "QE_RAID_EV_10_05",
+            "value": "Derrota a Tomberi"
+        },
+        {
+            "key": "QE_RAID_EV_10_06",
+            "value": "Derrota a Tomberi"
+        },
+        {
+            "key": "QE_COND_USESKILL",
+            "value": "{0} usa {1}"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": "Ayuda a Rob Hourne a retirarse o aniquila al enemigo"
+        },
+        {
+            "key": "QE_SB_BLMN_01",
+            "value": "Derrota a la Luna sangrienta"
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": "Derrota a la Disonancia perdonada"
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": "Derrota a la Disonancia perdonada"
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
+            "value": "Derrota a la Disonancia perdonada"
+        },
+        {
+            "key": "QE_RAID_EV_12_01",
+            "value": "Derrota al Dragón bicéfalo"
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": "Derrota al Dragón bicéfalo"
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": "Derrota al Dragón bicéfalo"
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": "Derrota a Mont o a Machérie"
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": "Derrota a los entes del fuego"
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": "Derrota a los entes del hielo"
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": "Derrota a los entes del viento"
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": "Derrota a los entes de la tierra"
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": "Derrota a los entes del rayo"
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": "Derrota a los entes del agua"
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": "Derrota a los entes sacros"
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": "Derrota a los entes oscuros"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Derrota a todos los enemigos, incluyendo los cañones de Rundal"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Derrota a todos los enemigos, incluyendo los cañones de Rundal"
+        },
+        {
+            "key": "QE_EV_FF14_EX",
+            "value": "Derrota a la Disonancia perdonada"
+        },
+        {
+            "key": "QE_PT_001_05",
+            "value": "Derrota al muro infernal"
+        },
+        {
+            "key": "QE_PT_001_HA05",
+            "value": "Derrota al muro infernal"
+        },
+        {
+            "key": "QE_COND_NONE",
+            "value": "Nada"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "infos": [
+        {
+            "key": "Battle1",
+            "value": ""
+        },
+        {
+            "key": "Battle2",
+            "value": ""
+        },
+        {
+            "key": "Gacha",
+            "value": "Lord Mont, habéis hecho un gran trabajo sometiendo a esos monstruos."
+        },
+        {
+            "key": "Quest",
+            "value": ""
+        },
+        {
+            "key": "ChallengeMission",
+            "value": ""
+        },
+        {
+            "key": "UnitStrength",
+            "value": "Por cierto, lord Mont, ¿habéis oído hablar de un material llamado cubo de EXP?"
+        },
+        {
+            "key": "UnitAwake",
+            "value": "Lord Mont, esperad un momento. Esa mirada... No hay duda."
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "Lord Mont, ahora podéis crear nuevas piezas de equipo, así como mejorarlas y despertarlas."
+        },
+        {
+            "key": "EventQuest",
+            "value": "Por cierto, lord Mont, ¿habéis escuchado hablar del Etéreo?"
+        },
+        {
+            "key": "VisionCard",
+            "value": "Lord Mont, ¿tenéis aún la carta de visión de Cactilio que conseguisteis antes?"
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "¿Qué os parece si emprendemos una expedición chocobo para conseguir objetos necesarios para entrenar espers?"
+        },
+        {
+            "key": "Party",
+            "value": "Eso me recuerda una cosa. ¿Habéis estado haciendo uso de Autoformación, lord Mont?"
+        },
+        {
+            "key": "MultiQuest",
+            "value": "Lord Mont, ¡ya podéis hacer frente al desafío de las Multimisiones!"
+        },
+        {
+            "key": "Arena",
+            "value": "Lord Mont, ya podéis visitar la Arena."
+        },
+        {
+            "key": "FreeMatch",
+            "value": "Lord Mont, ya podéis participar en los duelos."
+        },
+        {
+            "key": "GuildJoin",
+            "value": "Lord Mont, ya podéis uniros a un gremio o crear uno en el Etéreo."
+        },
+        {
+            "key": "GuildAttendance",
+            "value": "Bienvenido al Vestíbulo del gremio. Os explicaré brevemente lo que podéis hacer aquí."
+        },
+        {
+            "key": "GuildBarracks",
+            "value": "Por aquí están los Barracones, lord Mont."
+        },
+        {
+            "key": "GuildStone",
+            "value": "Esta es la Sala de las estatuas, donde podéis ver las estatuas del gremio."
+        },
+        {
+            "key": "GuildBattle",
+            "value": "Por último, deberíais participar en vuestro primer Combate de gremio."
+        },
+        {
+            "key": "UnitIntimacy",
+            "value": "Lord Mont, ¿estáis comunicándoos con los otros miembros del grupo?"
+        },
+        {
+            "key": "SubQuest",
+            "value": "Lord Mont, parece que hay personas pidiendo nuestra ayuda."
+        },
+        {
+            "key": "Unitsubjob",
+            "value": "Lord Mont, cuando rompisteis el límite, adquiristeis una nueva subprofesión: paladín."
+        },
+        {
+            "key": "HardQuest",
+            "value": "Lord Mont, ya podéis hacer frente al desafío de las Misiones difíciles."
+        },
+        {
+            "key": "NetherBeast",
+            "value": "Habéis obtenido un esper."
+        },
+        {
+            "key": "CharaQuest",
+            "value": "Lord Mont, habéis crecido mucho desde la primera vez que nos vimos."
+        },
+        {
+            "key": "Tower",
+            "value": "Veo que habéis atravesado el umbral de la Torre de Porcelana..."
+        },
+        {
+            "key": "ItemExchange",
+            "value": "Lord Mont, parece que la tienda de intercambio se encuentra disponible. ¿Qué os parece si vamos a verla?"
+        },
+        {
+            "key": "SupportUnit",
+            "value": "Lord Mont, ¿sabéis qué son los ajustes de compañero?"
+        },
+        {
+            "key": "Pointquest",
+            "value": "Lord Mont, ya podéis hacer frente a las Pruebas del Veredicto."
+        }
+    ]
+}

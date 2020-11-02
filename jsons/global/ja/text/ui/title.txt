@@ -1,0 +1,64 @@
+{
+    "infos": [
+        {
+            "key": "TITLE_START",
+            "value": "<cspace=2.5>TOUCH<space=14>START"
+        },
+        {
+            "key": "TITLE_DATA",
+            "value": "データ"
+        },
+        {
+            "key": "TITLE_SUPPORT",
+            "value": "サポート"
+        },
+        {
+            "key": "TITLE_VERSION",
+            "value": "ver."
+        },
+        {
+            "key": "TITLE_ID",
+            "value": "プレイヤーID:"
+        },
+        {
+            "key": "TITLE_COPYRIGHT",
+            "value": "<line-height=15>©2019 SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION:  ISAMU KAMIKOKURYO"
+        },
+        {
+            "key": "TITLE_SUPPORT_TITLE",
+            "value": "サポート"
+        },
+        {
+            "key": "TITLE_SUPPORT_NEWS",
+            "value": "お知らせ"
+        },
+        {
+            "key": "TITLE_SUPPORT_HELP",
+            "value": "ヘルプ"
+        },
+        {
+            "key": "TITLE_SUPPORT_CONTACT",
+            "value": "お問い合わせ"
+        },
+        {
+            "key": "TITLE_DATA_TITLE",
+            "value": "データ"
+        },
+        {
+            "key": "TITLE_DATA_CONNECT",
+            "value": "データ引き継ぎ"
+        },
+        {
+            "key": "TITLE_DATA_DELETE",
+            "value": "ダウンロードデータ削除"
+        },
+        {
+            "key": "TITLE_ACOUNT_DELETE",
+            "value": "ユーザーアカウント削除"
+        },
+        {
+            "key": "WW_TITLE_COPYRIGHT",
+            "value": "<line-height=15>© 2019, 2020 SQUARE ENIX CO., LTD. All Rights Reserved. Co-Developed by gumi Inc.<br>LOGO ILLUSTRATION: © 2018 YOSHITAKA AMANO<br>IMAGE ILLUSTRATION: ISAMU KAMIKOKURYO"
+        }
+    ]
+}

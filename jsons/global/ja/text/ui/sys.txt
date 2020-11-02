@@ -1,0 +1,4880 @@
+{
+    "infos": [
+        {
+            "key": "FILE_LOAD_FAILED",
+            "value": "<size=22>ファイルの読み込みに失敗しました。<br><br>データが破損している可能性があるため、<br>タイトル画面より「ダウンロードデータ削除」を<br>行ってください。</size>"
+        },
+        {
+            "key": "RESUME_TITLE",
+            "value": "クエスト中断復帰"
+        },
+        {
+            "key": "RESUME_CHECK",
+            "value": "クエストが中断されています。<br>再開しますか？"
+        },
+        {
+            "key": "RESUME_FAILED",
+            "value": "クエスト情報が取得出来ませんでした。<br>クエストを再開出来ません。"
+        },
+        {
+            "key": "MULTI_RESUME_TITLE",
+            "value": "マルチクエスト中断復帰"
+        },
+        {
+            "key": "MULTI_RESUME_DESC",
+            "value": "マルチクエストに復帰可能です。<br>復帰しますか？"
+        },
+        {
+            "key": "MULTI_RESUME_DECIDE_OWNER",
+            "value": "復帰しました。<br><br><color=#FFF080>あなたが部屋主になりました。</color>"
+        },
+        {
+            "key": "MULTI_RESUME_DECIDE_MEMBER",
+            "value": "復帰しました。"
+        },
+        {
+            "key": "MULTI_RESUME_END",
+            "value": "他プレイヤーが全員退室したため、<br>マルチクエストは終了しました。"
+        },
+        {
+            "key": "MULTI_RESUME_OTHER_PLAYER",
+            "value": "{0}が復帰しました。"
+        },
+        {
+            "key": "MULTI_RESUME_OTHER_PLAYER_OWNER",
+            "value": "{0}が復帰しました。<br><br><color=#FFF080>{1}が部屋主になりました。</color>"
+        },
+        {
+            "key": "FIRST_MEET_TITLE",
+            "value": "初顔合わせ報酬"
+        },
+        {
+            "key": "FIRST_MEET_DESC",
+            "value": "{0}人目と初顔合わせしました。<br><br>※報酬は直接付与されました。"
+        },
+        {
+            "key": "FIRST_MEET_DESC_2",
+            "value": "{0}人目と初顔合わせしました。<br>報酬：幻導石{1}個取得しました。<br><br>※報酬は直接付与されました。"
+        },
+        {
+            "key": "FOLLOW_MEDAL_TITLE",
+            "value": "フォローボーナス"
+        },
+        {
+            "key": "FOLLOW_MEDAL_DESC",
+            "value": "メダルを{0}枚獲得しました。<br><br>※報酬は直接付与されました。"
+        },
+        {
+            "key": "GUIDANCE_SKIP_TITLE",
+            "value": "◆{0}◆"
+        },
+        {
+            "key": "GUIDANCE_SKIP_MSG",
+            "value": "{0}に関するチュートリアルをみますか？"
+        },
+        {
+            "key": "TUTORIAL_SKIP",
+            "value": "チュートリアルをスキップしますか？"
+        },
+        {
+            "key": "UNLOCK_DIALOG_TITLE",
+            "value": "ロック【{0}】"
+        },
+        {
+            "key": "UNLOCK_DIALOG_MSG",
+            "value": "{0}。"
+        },
+        {
+            "key": "ACTIVEGUIDE_DIALOG_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "ACTIVEGUIDE_DIALOG_MSG",
+            "value": "{0}。"
+        },
+        {
+            "key": "STORAGE_SPACE_TITLE",
+            "value": "容量不足"
+        },
+        {
+            "key": "STORAGE_SPACE_ERROR",
+            "value": "空き容量が不足しています。<br>ゲームを遊ぶには約{0}MBの空き容量が必要です。"
+        },
+        {
+            "key": "DL_RESTART",
+            "value": "ダウンロードが中断されました。<br>ダウンロードを再開します。"
+        },
+        {
+            "key": "DL_RESTART_BUTTON",
+            "value": "再開"
+        },
+        {
+            "key": "DLC_NOWLOADING",
+            "value": "<cspace=1.2>Now Loading..."
+        },
+        {
+            "key": "DLC_NOWLOADING_VALUE",
+            "value": "({0}MB / {1}MB)"
+        },
+        {
+            "key": "DLC_SIZE_INFO",
+            "value": "必要なデータをダウンロードします。<br><color=#F0C040>(約{0}MB)</color><br><br><size=22>通信環境によって完了まで時間がかかります。<br><color=#F0C040>Wi-Fi環境</color>でのダウンロードをお勧めします。</size>"
+        },
+        {
+            "key": "DLC_SIZE_TUTORIAL_INFO",
+            "value": "チュートリアルと同時に必要なデータを<br>ダウンロードします。<br><color=#F0C040>(約{0}MB)</color><br><br><size=22>通信環境によって完了まで時間がかかります。<br><color=#F0C040>Wi-Fi環境</color>でのダウンロードをお勧めします。</size>"
+        },
+        {
+            "key": "DLC_CAUTION",
+            "value": "通信環境によって完了まで時間がかかります。<color=#F0C040>Wi-Fi環境</color>でのダウンロードをお勧めします。"
+        },
+        {
+            "key": "DLC_CHECK_TITLE",
+            "value": "データダウンロード"
+        },
+        {
+            "key": "DLC_CHECK_DESC",
+            "value": "<line-height=31>チュートリアルと同時に必要なデータを<br>ダウンロードします。<br><br><voffset=10>ボイスを含む場合　<color=#F0C040>(約{0}MB)</color><br>ボイスを除く場合　<color=#F0C040>(約{1}MB)</color><line-height=25><br></voffset><br><line-height=30><size=22>通信環境によって完了まで時間がかかります。<br><color=#F0C040>Wi-Fi環境</color>でのダウンロードをお勧めします。"
+        },
+        {
+            "key": "DLC_CHECK_DESC_ANDROID",
+            "value": "<line-height=31>チュートリアルに必要なデータを<br>ダウンロードします。<br><br><voffset=10>ボイスを含む場合　<color=#F0C040>(約{0}MB)</color><br>ボイスを除く場合　<color=#F0C040>(約{1}MB)</color><line-height=25><br></voffset><br><line-height=30><size=22>通信環境によって完了まで時間がかかります。<br><color=#F0C040>Wi-Fi環境</color>でのダウンロードをお勧めします。"
+        },
+        {
+            "key": "DLC_CHECK_VOICE",
+            "value": "ボイスデータも含めてダウンロードする"
+        },
+        {
+            "key": "DLC_CHECK_DOWNLOAD",
+            "value": "ダウンロード"
+        },
+        {
+            "key": "PLAYER_NAME_INPUT_TITLE",
+            "value": "プレイヤー名入力"
+        },
+        {
+            "key": "PLAYER_NAME_INPUT_DESC",
+            "value": "Enter your player name.<br>(You can change this later)"
+        },
+        {
+            "key": "PLAYER_NAME_INPUT_DESC_FIRST",
+            "value": "※プレイヤー名は後から変更可能です"
+        },
+        {
+            "key": "ERROR_DIALOG_TITLE",
+            "value": "エラー"
+        },
+        {
+            "key": "BTN_SITE",
+            "value": "公式サイト"
+        },
+        {
+            "key": "BTN_STORE",
+            "value": "Store"
+        },
+        {
+            "key": "APP_QUIT_TITLE",
+            "value": "ゲーム終了"
+        },
+        {
+            "key": "APP_QUIT",
+            "value": "ゲームを終了しますか？"
+        },
+        {
+            "key": "GOTO_TITLE",
+            "value": "タイトルへ戻る"
+        },
+        {
+            "key": "GOTO_TITLE_DESC",
+            "value": "ゲームを中断し、タイトルに戻りますか？"
+        },
+        {
+            "key": "CONNECT_SELECT_TITLE",
+            "value": "データ引き継ぎ"
+        },
+        {
+            "key": "CONNECT_SELECT_CODE",
+            "value": "プレイヤーIDで引き継ぐ"
+        },
+        {
+            "key": "CONNECT_SELECT_SQEX",
+            "value": "SQEXアカウントで引き継ぐ"
+        },
+        {
+            "key": "CONNECT_SELECT_ALPHA_NUMERIC_ONLY",
+            "value": "半角英数で入力してください。"
+        },
+        {
+            "key": "CONNECT_SELECT_END_ADD_DEVICE",
+            "value": "引き継ぎが完了しました。"
+        },
+        {
+            "key": "TUTORIAL_TITLE_ON_CHECK",
+            "value": "チュートリアルバトルについて"
+        },
+        {
+            "key": "TUTORIAL_DESC_ON_CHECK",
+            "value": "説明文有りのチュートリアルバトルにしますか？"
+        },
+        {
+            "key": "DEBUG_USER_MSG",
+            "value": "デバッグユーザーとしてプレイしますか？"
+        },
+        {
+            "key": "SKIP_TUTORIAL_BATTLE_TITLE",
+            "value": "チュートリアルをスキップしますか？"
+        },
+        {
+            "key": "SKIP_TUTORIAL_BATTLE_DESC",
+            "value": "以下をスキップして<br>ダウンロード待ちになります。<br>・チュートリアルバトル<br>・オープニングムービー<br><br>※オープニングムービーは<br>ストーリー回想で後で閲覧可能です。"
+        },
+        {
+            "key": "SKIP_TUTORIAL_YES",
+            "value": "スキップする"
+        },
+        {
+            "key": "SKIP_TUTORIAL_NO",
+            "value": "チュートリアル開始"
+        },
+        {
+            "key": "TERMS_SELECT_TITLE",
+            "value": "ユーザー規約"
+        },
+        {
+            "key": "TERMS_SELECT_DESC",
+            "value": "このゲームをプレイするには、<br>ユーザー規約に同意して頂く必要があります。<br>ユーザー規約をご確認の上、<br>「同意する」を選択してください。"
+        },
+        {
+            "key": "TERMS_SELECT_TERMS",
+            "value": "ユーザー規約"
+        },
+        {
+            "key": "TERMS_SELECT_PRIVACYPOLICY",
+            "value": "プライバシーポリシー"
+        },
+        {
+            "key": "TERMS_SELECT_YES",
+            "value": "同意する"
+        },
+        {
+            "key": "TERMS_SELECT_NO",
+            "value": "同意しない"
+        },
+        {
+            "key": "YES",
+            "value": "はい"
+        },
+        {
+            "key": "NO",
+            "value": "いいえ"
+        },
+        {
+            "key": "DECIDE",
+            "value": "決定"
+        },
+        {
+            "key": "OK",
+            "value": "OK"
+        },
+        {
+            "key": "NG",
+            "value": "NG"
+        },
+        {
+            "key": "BACK",
+            "value": "戻る"
+        },
+        {
+            "key": "CANCEL",
+            "value": "キャンセル"
+        },
+        {
+            "key": "RETRY",
+            "value": "リトライ"
+        },
+        {
+            "key": "RESET",
+            "value": "リセット"
+        },
+        {
+            "key": "CLEAR",
+            "value": "クリア"
+        },
+        {
+            "key": "SELECT_CLEAR",
+            "value": "選択をクリア"
+        },
+        {
+            "key": "BACKTITLE",
+            "value": "タイトルへ戻る"
+        },
+        {
+            "key": "BACKHOME",
+            "value": "ホームへ戻る"
+        },
+        {
+            "key": "NEXT",
+            "value": "次へ"
+        },
+        {
+            "key": "HELP",
+            "value": "ヘルプ"
+        },
+        {
+            "key": "SEPARATOR",
+            "value": "、"
+        },
+        {
+            "key": "SKIP",
+            "value": "Skip"
+        },
+        {
+            "key": "NONE",
+            "value": "なし"
+        },
+        {
+            "key": "CLOSE",
+            "value": "閉じる"
+        },
+        {
+            "key": "DETAIL",
+            "value": "詳細"
+        },
+        {
+            "key": "CONFIG",
+            "value": "設定"
+        },
+        {
+            "key": "APPROVAL",
+            "value": "承認"
+        },
+        {
+            "key": "REJECTION",
+            "value": "拒否"
+        },
+        {
+            "key": "RELEASE",
+            "value": "解除"
+        },
+        {
+            "key": "COPY",
+            "value": "コピ－"
+        },
+        {
+            "key": "PASTE",
+            "value": "コピ－を反映"
+        },
+        {
+            "key": "PASTE_SHORT",
+            "value": "反映"
+        },
+        {
+            "key": "UPDATE",
+            "value": "更新"
+        },
+        {
+            "key": "LEAVE",
+            "value": "退室"
+        },
+        {
+            "key": "UPDATE_EX",
+            "value": "更新する"
+        },
+        {
+            "key": "NOT_UPDATE",
+            "value": "更新しない"
+        },
+        {
+            "key": "SEND",
+            "value": "送信"
+        },
+        {
+            "key": "ON",
+            "value": "ON"
+        },
+        {
+            "key": "OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "BUY",
+            "value": "購入"
+        },
+        {
+            "key": "SELL",
+            "value": "売却"
+        },
+        {
+            "key": "ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "END",
+            "value": "終了"
+        },
+        {
+            "key": "MAP",
+            "value": "MAP"
+        },
+        {
+            "key": "NEWS",
+            "value": "お知らせ"
+        },
+        {
+            "key": "EQUIP",
+            "value": "装備"
+        },
+        {
+            "key": "APPLY",
+            "value": "適用"
+        },
+        {
+            "key": "UNKNOWN",
+            "value": "?"
+        },
+        {
+            "key": "CHECK",
+            "value": "確認"
+        },
+        {
+            "key": "LATER",
+            "value": "あとで"
+        },
+        {
+            "key": "BRACKETS_START",
+            "value": "("
+        },
+        {
+            "key": "BRACKETS_END",
+            "value": ")"
+        },
+        {
+            "key": "COLON",
+            "value": ":"
+        },
+        {
+            "key": "COLON_L",
+            "value": "："
+        },
+        {
+            "key": "LIMIT_NONE",
+            "value": "期限なし"
+        },
+        {
+            "key": "MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "TYPE",
+            "value": "タイプ"
+        },
+        {
+            "key": "PERIOD_OUTSIDE",
+            "value": "開催期間外"
+        },
+        {
+            "key": "THREE_DOTS",
+            "value": "..."
+        },
+        {
+            "key": "NO_INFOMATION",
+            "value": "表示する情報はありません"
+        },
+        {
+            "key": "INPUT_COMMENT",
+            "value": "コメントを入力してください"
+        },
+        {
+            "key": "NO_COMMENT",
+            "value": "コメントはありません"
+        },
+        {
+            "key": "NO_DROPS",
+            "value": "獲得アイテムなし"
+        },
+        {
+            "key": "NON_PARTICIPATION",
+            "value": "不参加"
+        },
+        {
+            "key": "GET_REWARD",
+            "value": "報酬の受け取り"
+        },
+        {
+            "key": "AUTO",
+            "value": "Auto"
+        },
+        {
+            "key": "AUTO_SEPARATE",
+            "value": "Auto:"
+        },
+        {
+            "key": "FORMAT_ARG",
+            "value": "{0}"
+        },
+        {
+            "key": "PERIOD",
+            "value": "開催期間："
+        },
+        {
+            "key": "PERIOD_REWARD",
+            "value": "報酬受取期間："
+        },
+        {
+            "key": "VALUE_SLASH",
+            "value": "/"
+        },
+        {
+            "key": "VALUE_ADD",
+            "value": "+"
+        },
+        {
+            "key": "VALUE_MINUS",
+            "value": "-"
+        },
+        {
+            "key": "VALUE_MULTIPLY",
+            "value": "×"
+        },
+        {
+            "key": "VALUE_PERCENT_SHORT",
+            "value": "%"
+        },
+        {
+            "key": "VALUE_PERCENT",
+            "value": "{0}<size=85%>%</size>"
+        },
+        {
+            "key": "VALUE_NONE",
+            "value": "--"
+        },
+        {
+            "key": "VALUE_NONE_LARGE",
+            "value": "ー"
+        },
+        {
+            "key": "VALUE_HYPHEN",
+            "value": "－"
+        },
+        {
+            "key": "VALUE_REAL_MONEY",
+            "value": "¥<space=3>{0}"
+        },
+        {
+            "key": "VALUE_LIMIT",
+            "value": "あと"
+        },
+        {
+            "key": "VALUE_DAY",
+            "value": "日"
+        },
+        {
+            "key": "VALUE_HOUR",
+            "value": "時間"
+        },
+        {
+            "key": "VALUE_MONTH",
+            "value": "月"
+        },
+        {
+            "key": "VALUE_YEAR",
+            "value": "年"
+        },
+        {
+            "key": "VALUE_AD",
+            "value": "西暦"
+        },
+        {
+            "key": "VALUE_MINUITES",
+            "value": "分"
+        },
+        {
+            "key": "VALUE_SECONDS",
+            "value": "秒"
+        },
+        {
+            "key": "VALUE_PERIOD",
+            "value": "まで"
+        },
+        {
+            "key": "VALUE_SECONDS_AGO",
+            "value": "秒前"
+        },
+        {
+            "key": "VALUE_MINUITES_AGO",
+            "value": "分前"
+        },
+        {
+            "key": "VALUE_BY_THE_TIME",
+            "value": "時間前"
+        },
+        {
+            "key": "VALUE_DAYS_AGO",
+            "value": "日前"
+        },
+        {
+            "key": "VALUE_MINUITES_PER",
+            "value": "毎分"
+        },
+        {
+            "key": "VALUE_SECOND_PER",
+            "value": "毎時"
+        },
+        {
+            "key": "VALUE_LAST_PLAY",
+            "value": "最終プレイ"
+        },
+        {
+            "key": "VALUE_MORE",
+            "value": "{0}以上"
+        },
+        {
+            "key": "VALUE_JUST_DAY",
+            "value": "<size=125%>{0}<size=100%>日目"
+        },
+        {
+            "key": "VALUE_SELECT_AMOUNT",
+            "value": "選択数"
+        },
+        {
+            "key": "VALUE_PEOPLE",
+            "value": "人"
+        },
+        {
+            "key": "VALUE_RANK",
+            "value": "位"
+        },
+        {
+            "key": "VALUE_TO",
+            "value": "~"
+        },
+        {
+            "key": "VALUE_TO_LARGE",
+            "value": "～"
+        },
+        {
+            "key": "VALUE_TO_LARGE_SPACE",
+            "value": " ～ "
+        },
+        {
+            "key": "VALUE_STATUS_PLUS",
+            "value": "({0})"
+        },
+        {
+            "key": "VALUE_HOURS_MINUITES_SECONDS_COLON_FORMAT",
+            "value": "{0}:{1}:{2}"
+        },
+        {
+            "key": "VALUE_DAYS_SLASH_FORMAT",
+            "value": "{0}/{1}"
+        },
+        {
+            "key": "VALIE_DATE_FORMAT_MDHMM",
+            "value": "M/d H:mm"
+        },
+        {
+            "key": "VALUE_VALIDITY_SECOND",
+            "value": "あと{0}秒間有効"
+        },
+        {
+            "key": "VALUE_VALIDITY_MINUTE",
+            "value": "あと{0}分間有効"
+        },
+        {
+            "key": "VALUE_VALIDITY_HOUR",
+            "value": "あと{0}時間有効"
+        },
+        {
+            "key": "VALUE_VALIDITY_DAY",
+            "value": "あと{0}日間有効"
+        },
+        {
+            "key": "NEED_GIL",
+            "value": "必要ギル"
+        },
+        {
+            "key": "GET_GIL",
+            "value": "獲得ギル"
+        },
+        {
+            "key": "GET_MEDAL",
+            "value": "獲得メダル"
+        },
+        {
+            "key": "GIL",
+            "value": "ギル"
+        },
+        {
+            "key": "GIL_DESC",
+            "value": "ショップでのアイテム購入の際に使える他に、ユニットの育成などでも使用する通貨"
+        },
+        {
+            "key": "LAPIS",
+            "value": "幻導石"
+        },
+        {
+            "key": "LAPIS_DESC",
+            "value": "ユニットの「召喚」やショップでのアイテム購入の際に使える他に、体力の回復などでも使用する"
+        },
+        {
+            "key": "RANKEXP",
+            "value": "Rank EXP"
+        },
+        {
+            "key": "RANKEXP_DESC",
+            "value": "一定量貯めることでプレイヤーRankを上げることができる"
+        },
+        {
+            "key": "STAMINA",
+            "value": "体力"
+        },
+        {
+            "key": "STAMINA_DESC",
+            "value": "クエストに出撃するために必要なポイント"
+        },
+        {
+            "key": "VIPEXP",
+            "value": "Royalポイント"
+        },
+        {
+            "key": "VIPEXP_DESC",
+            "value": "RoyalRankを上げるために必要なポイント"
+        },
+        {
+            "key": "AP_RAID",
+            "value": "レイドオーブ"
+        },
+        {
+            "key": "AP_ARENA",
+            "value": "アリーナオーブ"
+        },
+        {
+            "key": "AP_CLASS_MATCH",
+            "value": "クラスマッチオーブ"
+        },
+        {
+            "key": "COST",
+            "value": "消費"
+        },
+        {
+            "key": "AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "STATUS",
+            "value": "ステータス"
+        },
+        {
+            "key": "MASTER",
+            "value": "Master"
+        },
+        {
+            "key": "GUEST",
+            "value": "Guest"
+        },
+        {
+            "key": "YOU",
+            "value": "You"
+        },
+        {
+            "key": "ITEM",
+            "value": "アイテム"
+        },
+        {
+            "key": "ELEMENT",
+            "value": "属性"
+        },
+        {
+            "key": "ATTACK_TYPE",
+            "value": "攻撃タイプ"
+        },
+        {
+            "key": "FAVORITE_ARTI",
+            "value": "お気に入り武具"
+        },
+        {
+            "key": "ARTI_PROFICIENCY",
+            "value": "武具熟練度"
+        },
+        {
+            "key": "BELONG_GUILD",
+            "value": "所属ギルド"
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "Royal Rank"
+        },
+        {
+            "key": "BUY_LAPIS",
+            "value": "幻導石購入"
+        },
+        {
+            "key": "POWER_SAVE",
+            "value": "クリスタルに触れて節電モード解除"
+        },
+        {
+            "key": "ACT_SPECIFIED_COMMERCIAL_TRANSACTIONS",
+            "value": "特定商取引法"
+        },
+        {
+            "key": "ACT_PAYMENT_SERVICES",
+            "value": "資金決済法"
+        },
+        {
+            "key": "BUY_CURRENCY",
+            "value": "有償"
+        },
+        {
+            "key": "BUY_CURRENCY_EX",
+            "value": "<space=-0.45em>【有償】"
+        },
+        {
+            "key": "FREE_CURRENCY",
+            "value": "無償"
+        },
+        {
+            "key": "FREE_CURRENCY_EX",
+            "value": "<space=-0.45em>【無償】"
+        },
+        {
+            "key": "HAVE_LAPIS",
+            "value": "所持幻導石"
+        },
+        {
+            "key": "USE_LAPIS_CAUTION",
+            "value": "※幻導石は無償入手分から消費されます。"
+        },
+        {
+            "key": "TIPS",
+            "value": "Tips"
+        },
+        {
+            "key": "LOADING",
+            "value": "Loading..."
+        },
+        {
+            "key": "CONNECTING",
+            "value": "Connecting..."
+        },
+        {
+            "key": "MATCHING",
+            "value": "Matching..."
+        },
+        {
+            "key": "WAITING",
+            "value": "Waiting..."
+        },
+        {
+            "key": "BUY_FINISH_TITLE",
+            "value": "購入完了"
+        },
+        {
+            "key": "BUY_FINISH_DESC",
+            "value": "<color=#F0C040>{0}</color>を<br>購入しました。"
+        },
+        {
+            "key": "SOLD_OUT",
+            "value": "<cspace=0.05em>SOLD<space=0.5em>OUT"
+        },
+        {
+            "key": "CLOSED",
+            "value": "CLOSED"
+        },
+        {
+            "key": "ITEM_LIMIT_TITLE",
+            "value": "所持数超過"
+        },
+        {
+            "key": "ITEM_LIMIT_DESC",
+            "value": "アイテムの所持数が上限に達していたため破棄されました。"
+        },
+        {
+            "key": "SEND_GIFT_TITLE",
+            "value": "所持数超過"
+        },
+        {
+            "key": "SEND_GIFT_DESC",
+            "value": "所持数が上限に達していたため、<br>以下がギフトボックスに送られました。"
+        },
+        {
+            "key": "LIMIT_SECOND",
+            "value": "あと<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>秒"
+        },
+        {
+            "key": "LIMIT_MINUTES",
+            "value": "あと<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>分"
+        },
+        {
+            "key": "LIMIT_HOUR",
+            "value": "あと<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>時間"
+        },
+        {
+            "key": "LIMIT_DAY",
+            "value": "あと<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>日"
+        },
+        {
+            "key": "BADGE_YOU",
+            "value": "<cspace=-0.5>You"
+        },
+        {
+            "key": "BADGE_FRIEND",
+            "value": "<cspace=-0.8>Friend"
+        },
+        {
+            "key": "BADGE_GUILD",
+            "value": "<cspace=-0.5>Guild"
+        },
+        {
+            "key": "BADGE_NEW",
+            "value": "NEW!"
+        },
+        {
+            "key": "BADGE_USED",
+            "value": "使用中"
+        },
+        {
+            "key": "STAMP_GET",
+            "value": "<cspace=1.5>GET!"
+        },
+        {
+            "key": "INVALID_BACKKEY",
+            "value": "バックキーは現在使用できません"
+        },
+        {
+            "key": "BANNER_TYPE_GACHA",
+            "value": "召喚"
+        },
+        {
+            "key": "BANNER_TYPE_EVENT",
+            "value": "<cspace=-3.3>イベント"
+        },
+        {
+            "key": "BANNER_TYPE_SHOP",
+            "value": "<cspace=-3.3>ショップ"
+        },
+        {
+            "key": "BANNER_TYPE_CAMPAIGN",
+            "value": "<cspace=-3.3>キャンペーン"
+        },
+        {
+            "key": "BANNER_TYPE_END",
+            "value": "<cspace=-3.3>イベント終了"
+        },
+        {
+            "key": "RARITY_01",
+            "value": "N"
+        },
+        {
+            "key": "RARITY_02",
+            "value": "R"
+        },
+        {
+            "key": "RARITY_03",
+            "value": "SR"
+        },
+        {
+            "key": "RARITY_04",
+            "value": "SSR"
+        },
+        {
+            "key": "RARITY_05",
+            "value": "UR"
+        },
+        {
+            "key": "RARITY_06",
+            "value": "LR"
+        },
+        {
+            "key": "FUNCTION_SHOP",
+            "value": "ショップ"
+        },
+        {
+            "key": "FUNCTION_TOWER",
+            "value": "タワー"
+        },
+        {
+            "key": "FUNCTION_ARENA",
+            "value": "アリーナ"
+        },
+        {
+            "key": "LOCK_RANK",
+            "value": "<cspace=-1>Rank<space=0.36em><size=1.2em><color=#F0C040>{0}</color></size><space=0.36em>で解放"
+        },
+        {
+            "key": "LOCK_NBEAST",
+            "value": "召喚獣獲得"
+        },
+        {
+            "key": "ELEMENT_FILTER_ALL",
+            "value": "ALL"
+        },
+        {
+            "key": "SORT_TITLE",
+            "value": "ソート"
+        },
+        {
+            "key": "SORT_ASCENDING",
+            "value": "昇順"
+        },
+        {
+            "key": "SORT_DESCENDING",
+            "value": "降順"
+        },
+        {
+            "key": "SORT_RARITY",
+            "value": "レアリティ"
+        },
+        {
+            "key": "SORT_INTIMACY",
+            "value": "親密度順"
+        },
+        {
+            "key": "SORT_SYNCHRO",
+            "value": "共鳴順"
+        },
+        {
+            "key": "SORT_TITLE_GET_ORDER",
+            "value": "入手順"
+        },
+        {
+            "key": "SORT_TITLE_RARITY",
+            "value": "レアリティ"
+        },
+        {
+            "key": "SORT_TITLE_AMOUNT",
+            "value": "所持数"
+        },
+        {
+            "key": "SORT_TITLE_LEVEL",
+            "value": "Lv"
+        },
+        {
+            "key": "SORT_TITLE_ALL_PARAM",
+            "value": "総合順"
+        },
+        {
+            "key": "SORT_TITLE_ATTACK",
+            "value": "攻撃"
+        },
+        {
+            "key": "SORT_TITLE_MAGIC",
+            "value": "魔力"
+        },
+        {
+            "key": "SORT_TITLE_HP",
+            "value": "HP"
+        },
+        {
+            "key": "SORT_TITLE_MP",
+            "value": "TP"
+        },
+        {
+            "key": "SORT_TITLE_AP",
+            "value": "AP"
+        },
+        {
+            "key": "SORT_TITLE_SPEED",
+            "value": "素早さ"
+        },
+        {
+            "key": "SORT_TITLE_HIT",
+            "value": "命中"
+        },
+        {
+            "key": "SORT_TITLE_AVOID",
+            "value": "回避"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "防御"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "精神"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "器用さ"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "運"
+        },
+        {
+            "key": "SORT_TITLE_CRITICAL",
+            "value": "クリティカル"
+        },
+        {
+            "key": "SORT_TITLE_AVOID_CRITICAL",
+            "value": "クリティカル回避"
+        },
+        {
+            "key": "SORT_TITLE_JOB_LEVEL",
+            "value": "JOB Lv"
+        },
+        {
+            "key": "SORT_TITLE_COST",
+            "value": "コスト"
+        },
+        {
+            "key": "SORT_TITLE_AWAKE",
+            "value": "覚醒数"
+        },
+        {
+            "key": "SORT_TITLE_LIMITBREAK",
+            "value": "限界突破数"
+        },
+        {
+            "key": "SORT_TITLE_INTIMACY",
+            "value": "親密度順"
+        },
+        {
+            "key": "SORT_TITLE_SYNCHRO",
+            "value": "共鳴度順"
+        },
+        {
+            "key": "SORT_TITLE_NAME",
+            "value": "名前"
+        },
+        {
+            "key": "SORT_TITLE_ARTIFACT_TYPE",
+            "value": "種類"
+        },
+        {
+            "key": "SORT_TITLE_LAST_PLAY",
+            "value": "最終プレイ"
+        },
+        {
+            "key": "SORT_TITLE_RANK",
+            "value": "Rank"
+        },
+        {
+            "key": "SORT_TITLE_GUILD_CONTRIBUTION",
+            "value": "ギルド貢献度"
+        },
+        {
+            "key": "SORT_TITLE_GUILD_BATTLE_CONTRIBUTION",
+            "value": "ギルドバトル貢献度"
+        },
+        {
+            "key": "SORT_EXHIBIT_TITLE_LV",
+            "value": "Lv."
+        },
+        {
+            "key": "SORT_EXHIBIT_TITLE_JOBLV",
+            "value": "JobLv."
+        },
+        {
+            "key": "SORT_EXHIBIT_TITLE_COST",
+            "value": "Cost"
+        },
+        {
+            "key": "FILTER_TITLE",
+            "value": "フィルタ"
+        },
+        {
+            "key": "FILTER_TITLE_ON",
+            "value": "フィルタ：ON"
+        },
+        {
+            "key": "FILTER_CLEAR",
+            "value": "選択をクリア"
+        },
+        {
+            "key": "FILTER_ALL",
+            "value": "すべて選択"
+        },
+        {
+            "key": "FILTER_CATEGORY_RARITY",
+            "value": "レアリティ"
+        },
+        {
+            "key": "FILTER_CATEGORY_AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "FILTER_CATEGORY_ATTACK_TYPE",
+            "value": "攻撃タイプ"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_ATTACK_TYPE",
+            "value": "攻撃タイプ耐性"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_ELEMENT",
+            "value": "属性耐性"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_CONDITION",
+            "value": "状態異常耐性"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_SERIES",
+            "value": "シリーズ"
+        },
+        {
+            "key": "FILTER_CATEGORY_RANK",
+            "value": "限界突破数"
+        },
+        {
+            "key": "FILTER_CATEGORY_ARTIFACT_TYPE",
+            "value": "種類"
+        },
+        {
+            "key": "FILTER_CATEGORY_ARTIFACT_GROWTH",
+            "value": "型"
+        },
+        {
+            "key": "FILTER_CATEGORY_ABILITY",
+            "value": "アビリティ"
+        },
+        {
+            "key": "FILTER_CATEGORY_ADD_CONDITION",
+            "value": "追加状態異常"
+        },
+        {
+            "key": "FILTER_TITLE_ALL",
+            "value": "ALL"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_01",
+            "value": "N"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_02",
+            "value": "R"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_03",
+            "value": "SR"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_04",
+            "value": "SSR"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_05",
+            "value": "UR"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_06",
+            "value": "LR"
+        },
+        {
+            "key": "FILTER_TITLE_AWAKE_00",
+            "value": "なし"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_01",
+            "value": "斬撃"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_02",
+            "value": "刺突"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_03",
+            "value": "打撃"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_04",
+            "value": "射撃"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_05",
+            "value": "魔法"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_01",
+            "value": "武器"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_02",
+            "value": "防具"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_03",
+            "value": "アクセサリー"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_04",
+            "value": "トラストマスター"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_01",
+            "value": "ヴァイタル"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_02",
+            "value": "アサルト"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_03",
+            "value": "マジック"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_04",
+            "value": "エイム"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_05",
+            "value": "ドッジ"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_06",
+            "value": "クリティカル"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_07",
+            "value": "シールド"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_08",
+            "value": "バリア"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_01",
+            "value": "なし"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_02",
+            "value": "武具アビリティ"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_03",
+            "value": "サポート"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_04",
+            "value": "リミットバースト"
+        },
+        {
+            "key": "FILTER_TITLE_GIL",
+            "value": "ギル"
+        },
+        {
+            "key": "FILTER_TITLE_LAPIS",
+            "value": "幻導石"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_PIECE",
+            "value": "欠片"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_UNIT",
+            "value": "ユニット"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_ARTIFACT",
+            "value": "武具"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_NBEAST",
+            "value": "召喚獣"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_GUILD",
+            "value": "ギルド"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_TICKET",
+            "value": "チケット"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_USED",
+            "value": "消耗品"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_OTHER",
+            "value": "その他"
+        },
+        {
+            "key": "CAUTION_NOT_UNIT",
+            "value": "該当するユニットがいません"
+        },
+        {
+            "key": "CAUTION_NOT_NETHERBEAST",
+            "value": "該当する召喚獣がいません"
+        },
+        {
+            "key": "CAUTION_NOT_SUPPORT",
+            "value": "該当する同行者がいません"
+        },
+        {
+            "key": "CAUTION_NOT_ARTI",
+            "value": "該当する武具がありません"
+        },
+        {
+            "key": "CAUTION_NOT_ITEM",
+            "value": "該当するアイテムがありません"
+        },
+        {
+            "key": "CAUTION_NOT_TICKET",
+            "value": "該当するチケットがありません"
+        },
+        {
+            "key": "CAUTION_NOT_VISION",
+            "value": "該当するビジョンカードがありません"
+        },
+        {
+            "key": "CAUTION_NOT_PARTYABILITY",
+            "value": "<line-height=36>PartyAbilityがありません"
+        },
+        {
+            "key": "CAUTION_NOT_PARTYABILITY_EQUIP",
+            "value": "<line-height=36>PartyAbilityがありません<br>ビジョンカードを装備することにより<br>設定することが出来ます"
+        },
+        {
+            "key": "CAUTION_NOT_ABILITY",
+            "value": "該当するアビリティがありません"
+        },
+        {
+            "key": "CAUTION_NOT_RANKING",
+            "value": "ランキング情報はありません"
+        },
+        {
+            "key": "CAUTION_AGGREGATE",
+            "value": "ランキング集計中"
+        },
+        {
+            "key": "CAUTION_NOT_SUBQUEST",
+            "value": "該当するサブクエストがありません"
+        },
+        {
+            "key": "CAUTION_NOT_DATA",
+            "value": "データがありません"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_RANKING_MY_DATA",
+            "value": "エントリーなし"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_SEARCH",
+            "value": "条件に一致するギルドが存在しませんでした"
+        },
+        {
+            "key": "CAUTION_NOT_VISION_MAX_BONUS",
+            "value": "最大育成ボーナスがありません"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_BATTLE_END_LOG",
+            "value": "戦績に表示できるバトルがありません"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_BATTLE_LOG",
+            "value": "該当するバトルログがありません"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_REWARD",
+            "value": "報酬なし"
+        },
+        {
+            "key": "ERROR_CONNECT_TITLE",
+            "value": "通信が切断されました"
+        },
+        {
+            "key": "ERROR_CONNECT_MSG",
+            "value": "一定時間接続が無かったか、<br>電波状況の問題が考えられます。<br><br>電波状況の良いところで<br>再度アクセスをお試しください。"
+        },
+        {
+            "key": "ERROR_TITLE",
+            "value": "エラー"
+        },
+        {
+            "key": "ERROR_PASSWORD_MSG",
+            "value": "パスワードが正しくありません。"
+        },
+        {
+            "key": "INPUT_CAUTION_MAX",
+            "value": "※最大{0}文字"
+        },
+        {
+            "key": "INPUT_CAUTION_MAX_HALF",
+            "value": "※最大{0}文字 半角のみ"
+        },
+        {
+            "key": "INPUT_CAUTION_MAX_NUM",
+            "value": "※最大{0}文字 数値のみ"
+        },
+        {
+            "key": "PLAYER_STATUS_RANK",
+            "value": "Rank"
+        },
+        {
+            "key": "PLAYER_STATUS_STAMINA",
+            "value": "体力"
+        },
+        {
+            "key": "PLAYER_STATUS_NEXT",
+            "value": "Next"
+        },
+        {
+            "key": "PLAYER_STATUS_EXP",
+            "value": "Exp"
+        },
+        {
+            "key": "STATUS_HP",
+            "value": "HP"
+        },
+        {
+            "key": "STATUS_MP",
+            "value": "TP"
+        },
+        {
+            "key": "STATUS_AP",
+            "value": "AP"
+        },
+        {
+            "key": "STATUS_CT",
+            "value": "CT"
+        },
+        {
+            "key": "STATUS_ATK",
+            "value": "攻撃"
+        },
+        {
+            "key": "STATUS_DEF",
+            "value": "防御"
+        },
+        {
+            "key": "STATUS_MAG",
+            "value": "魔力"
+        },
+        {
+            "key": "STATUS_MND",
+            "value": "精神"
+        },
+        {
+            "key": "STATUS_DEX",
+            "value": "器用さ"
+        },
+        {
+            "key": "STATUS_SPD",
+            "value": "素早さ"
+        },
+        {
+            "key": "STATUS_LUK",
+            "value": "運"
+        },
+        {
+            "key": "STATUS_MOV",
+            "value": "Move"
+        },
+        {
+            "key": "STATUS_JMP",
+            "value": "Jump"
+        },
+        {
+            "key": "STATUS_RANGE",
+            "value": "射程"
+        },
+        {
+            "key": "STATUS_BRAVE",
+            "value": "Brave"
+        },
+        {
+            "key": "STATUS_FAITH",
+            "value": "Faith"
+        },
+        {
+            "key": "STATUS_HATE",
+            "value": "Hate"
+        },
+        {
+            "key": "STATUS_COST",
+            "value": "Cost"
+        },
+        {
+            "key": "STATUS_COST_DOT",
+            "value": "Cost."
+        },
+        {
+            "key": "STATUS_OTHERHIT",
+            "value": "命中"
+        },
+        {
+            "key": "STATUS_OTHERAVOID",
+            "value": "回避"
+        },
+        {
+            "key": "STATUS_OTHERCRTHIT",
+            "value": "<cspace=-3>クリティカル"
+        },
+        {
+            "key": "STATUS_OTHERCRTAVOID",
+            "value": "<cspace=-3>クリティカル回避"
+        },
+        {
+            "key": "STATUS_TOTAL",
+            "value": "　"
+        },
+        {
+            "key": "STATUS_ATK_TOTAL",
+            "value": "総攻撃"
+        },
+        {
+            "key": "STATUS_MAG_TOTAL",
+            "value": "総魔力"
+        },
+        {
+            "key": "STATUS_HP_TOTAL",
+            "value": "総HP"
+        },
+        {
+            "key": "STATUS_LEVEL",
+            "value": "Lv."
+        },
+        {
+            "key": "STATUS_LEVEL_EX",
+            "value": "ユニット Lv."
+        },
+        {
+            "key": "STATUS_JOBLEVEL",
+            "value": "JobLv."
+        },
+        {
+            "key": "STATUS_JP",
+            "value": "JP"
+        },
+        {
+            "key": "STATUS_SP",
+            "value": "SP"
+        },
+        {
+            "key": "STATUS_NEXT_LEVEL",
+            "value": "Next"
+        },
+        {
+            "key": "STATUS_NEXT_LEVEL_EX",
+            "value": "NEXT"
+        },
+        {
+            "key": "STATUS_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "STATUS_RARITY",
+            "value": "Rarity"
+        },
+        {
+            "key": "STATUS_RESIST_ATTACK_TYPE",
+            "value": "攻撃タイプ耐性"
+        },
+        {
+            "key": "STATUS_RESIST_ELEMENT",
+            "value": "属性耐性"
+        },
+        {
+            "key": "STATUS_RESIST_STATUS_ERROR",
+            "value": "状態異常耐性"
+        },
+        {
+            "key": "STATUS_EXP",
+            "value": "EXP"
+        },
+        {
+            "key": "STATUS_RESIST_TITLE",
+            "value": "耐性表示"
+        },
+        {
+            "key": "STATUS_RESIST_VALUE_NONE",
+            "value": "--"
+        },
+        {
+            "key": "STATUS_RESIST_VALUE_MAX",
+            "value": "無効"
+        },
+        {
+            "key": "STATUS_NBEAST_TYPE",
+            "value": "Type:"
+        },
+        {
+            "key": "STATUS_ARTI_GROWTH_TYPE",
+            "value": "タイプ :"
+        },
+        {
+            "key": "ITEM_AMOUNT",
+            "value": "個"
+        },
+        {
+            "key": "ITEM_AMOUNT_CURRENT",
+            "value": "個所持"
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE",
+            "value": "所持"
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE_SEPARATE",
+            "value": "所持:"
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE_EX",
+            "value": "所持数"
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE_EX_SEPARATE",
+            "value": "所持数："
+        },
+        {
+            "key": "ITEM_AMOUNT_TICKET",
+            "value": "枚"
+        },
+        {
+            "key": "ITEM_TIMES",
+            "value": "回"
+        },
+        {
+            "key": "ITEM_REMAINING",
+            "value": "残り"
+        },
+        {
+            "key": "ITEM_USE_AMOUNT_TITLE",
+            "value": "あと"
+        },
+        {
+            "key": "ITEM_DETAIL_TITLE",
+            "value": "アイテム詳細"
+        },
+        {
+            "key": "ITEM_GET_AMOUNT_TITLE",
+            "value": "獲得数"
+        },
+        {
+            "key": "ITEM_TARGET_LIST",
+            "value": "対象一覧"
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_L",
+            "value": "射程"
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_L_ADD",
+            "value": "射程："
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_H",
+            "value": "高低差"
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_H_ADD",
+            "value": "高低差："
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_L_H_ADD",
+            "value": "射程高低差："
+        },
+        {
+            "key": "ABILITY_STATUS_EFF_S",
+            "value": "範囲"
+        },
+        {
+            "key": "ABILITY_STATUS_EFF_S_ADD",
+            "value": "範囲："
+        },
+        {
+            "key": "ABILITY_STATUS_EFF_S_H_ADD",
+            "value": "範囲高低差："
+        },
+        {
+            "key": "ABILITY_STATUS_CAST_SPEED",
+            "value": "詠唱速度"
+        },
+        {
+            "key": "ABILITY_STATUS_COUNT",
+            "value": "使用回数"
+        },
+        {
+            "key": "ABILITY_STATUS_COUNT_NOLIMIT",
+            "value": "無制限"
+        },
+        {
+            "key": "ABILITY_STATUS_COST_MP",
+            "value": "TP"
+        },
+        {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "オートアビリティでの使用"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "詳細設定"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "詳細設定:ON"
+        },
+        {
+            "key": "ABILITY_CAPTION_LEADER",
+            "value": "LeaderAbility"
+        },
+        {
+            "key": "ABILITY_CAPTION_PARTY",
+            "value": "PartyAbility"
+        },
+        {
+            "key": "ABILITY_CAPTION_FRIEND",
+            "value": "Friend Ability"
+        },
+        {
+            "key": "ABILITY_CAPTION_LIMIT_BURST",
+            "value": "Limit Burst"
+        },
+        {
+            "key": "ABILITY_CAPTION_LIMIT_BURST_ENHANCE",
+            "value": "Limit Burst<space=5>強化"
+        },
+        {
+            "key": "ABILITY_CAPTION_WEAPON_ABILITY",
+            "value": "武具アビリティ"
+        },
+        {
+            "key": "ABILITY_LEVEL_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "ABILITY_COMMAND_NORMAL",
+            "value": "通常攻撃"
+        },
+        {
+            "key": "ABILITY_COMMAND_MAIN",
+            "value": "メインアビリティ"
+        },
+        {
+            "key": "ABILITY_COMMAND_SUB",
+            "value": "サブアビリティ"
+        },
+        {
+            "key": "ABILITY_COMMAND_SUPPORT",
+            "value": "サポート"
+        },
+        {
+            "key": "ABILITY_COMMAND_REACTION",
+            "value": "リアクション"
+        },
+        {
+            "key": "ABILITY_COMMAND_OTHER",
+            "value": "その他"
+        },
+        {
+            "key": "ABILITY_LOCKED",
+            "value": "未習得"
+        },
+        {
+            "key": "ABILITY_SELECT_SET",
+            "value": "SET"
+        },
+        {
+            "key": "ABILITY_USE",
+            "value": "使用"
+        },
+        {
+            "key": "ABILITY_HELP_SELF",
+            "value": "操作ユニット"
+        },
+        {
+            "key": "ABILITY_HELP_TARGET",
+            "value": "ターゲット"
+        },
+        {
+            "key": "ABILITY_HELP_RANGE",
+            "value": "射程"
+        },
+        {
+            "key": "ABILITY_HELP_EFF",
+            "value": "対象範囲"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_TITLE",
+            "value": "PartyAbility"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_NOT_FRIEND",
+            "value": "フレンドではないため発動しません"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "オートバトルでの使用"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "クエスト"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "マルチ"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "デュエル"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "ギルドバトル"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "Porcelain Tower / Midlight's Deep"
+        },
+        {
+            "key": "JOB_LEVEL_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "JOB_SUB_SELECT_TITLE",
+            "value": "サブジョブ選択"
+        },
+        {
+            "key": "JOB_SUB_SELECT_NOT_JOB",
+            "value": "選択可能なジョブがありません"
+        },
+        {
+            "key": "ARTIFACT_PROFICIENCY",
+            "value": "熟練度"
+        },
+        {
+            "key": "ARTIFACT_PROFICIENCY_LACK",
+            "value": "<cspace=-0.05em>武具熟練度不足"
+        },
+        {
+            "key": "ARTIFACT_SET_POSSIBLE_JOB",
+            "value": "装備可能ジョブ"
+        },
+        {
+            "key": "ARTIFACT_SET_CONDITION",
+            "value": "装備可能条件"
+        },
+        {
+            "key": "ARTIFACT_RESIST",
+            "value": "耐性表示"
+        },
+        {
+            "key": "ARTIFACT_DETAIL_TITLE",
+            "value": "詳細"
+        },
+        {
+            "key": "INTIMACY_BONUS_TITLE",
+            "value": "親密度ボーナス"
+        },
+        {
+            "key": "INTIMACY_BONUS_RANGE",
+            "value": "適用範囲"
+        },
+        {
+            "key": "UNITLIST_UNIT",
+            "value": "ユニット"
+        },
+        {
+            "key": "UNITLIST_PIECE",
+            "value": "ユニット化"
+        },
+        {
+            "key": "UNITLIST_PIECE_TITLE",
+            "value": "欠片"
+        },
+        {
+            "key": "UNITLIST_REFRESH",
+            "value": "更新"
+        },
+        {
+            "key": "UNITLIST_ATTACKABLE",
+            "value": "出撃可能のみ"
+        },
+        {
+            "key": "UNITLIST_NOT_ENHANCE_WEAPON",
+            "value": "強化できる装備がありません"
+        },
+        {
+            "key": "UNITLIST_NOTUSE",
+            "value": "使用不可"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "ユニット選択"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "別のパーティ（{0}）で<br>既に選択済みです。<br>それでも選択しますか？<br>（別のパーティからは<br>対象ユニットは外されます。）"
+        },
+        {
+            "key": "NETHERBEAST_SYNCHRO",
+            "value": "共鳴度"
+        },
+        {
+            "key": "NETHERBEAST_ABILITY",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "QUEST_USE_STAMINA",
+            "value": "消費体力"
+        },
+        {
+            "key": "QUEST_GET_TITLE",
+            "value": "入手可能クエスト"
+        },
+        {
+            "key": "QUEST_DEFAULT_WIN_COND",
+            "value": "敵を殲滅せよ"
+        },
+        {
+            "key": "QUEST_RETRY",
+            "value": "出撃画面に戻る"
+        },
+        {
+            "key": "QUEST_RETRY_TOBATTLE",
+            "value": "すぐに再戦"
+        },
+        {
+            "key": "QUEST_END",
+            "value": "クエスト終了"
+        },
+        {
+            "key": "QUEST_HOST_RETRY",
+            "value": "あとで再挑戦"
+        },
+        {
+            "key": "QUEST_HOST_END",
+            "value": "戦闘継続"
+        },
+        {
+            "key": "QUEST_GUEST_RETRY",
+            "value": "戦闘を抜ける"
+        },
+        {
+            "key": "QUEST_GUEST_END",
+            "value": "戦闘継続"
+        },
+        {
+            "key": "QUEST_NEW",
+            "value": "New"
+        },
+        {
+            "key": "QUEST_CLEAR",
+            "value": "Clear"
+        },
+        {
+            "key": "QUEST_COMPLETE",
+            "value": "<cspace=-0.05em>Complete"
+        },
+        {
+            "key": "QUEST_TRY_LIMIT",
+            "value": "挑戦回数"
+        },
+        {
+            "key": "QUEST_MISSION",
+            "value": "Mission"
+        },
+        {
+            "key": "QUEST_MISSION_COMPLETE",
+            "value": "Complete"
+        },
+        {
+            "key": "QUEST_BATTLE_TITLE",
+            "value": "Battle{0}"
+        },
+        {
+            "key": "QUEST_TRY_AMOUNT",
+            "value": "出撃回数"
+        },
+        {
+            "key": "QUEST_FIRST_NONE",
+            "value": "初挑戦消費なし"
+        },
+        {
+            "key": "QUEST_RECOMMEND_TITLE",
+            "value": "推奨 <voffset=0.1em>:"
+        },
+        {
+            "key": "QUEST_UNITLV",
+            "value": "UnitLv.{0}"
+        },
+        {
+            "key": "QUEST_JOBLV",
+            "value": "JobLv.{0}"
+        },
+        {
+            "key": "QUEST_CLOSE_TITLE",
+            "value": "未開放"
+        },
+        {
+            "key": "QUEST_CLOSE_MSG",
+            "value": "{0} 【{1}】は、<br>まだ挑戦できません。"
+        },
+        {
+            "key": "QUEST_LAP_TITLE",
+            "value": "周回開始まで"
+        },
+        {
+            "key": "QUEST_LAP_MSG",
+            "value": "タップでキャンセル"
+        },
+        {
+            "key": "QUEST_CONDITION_AMOUNT",
+            "value": "回数制限"
+        },
+        {
+            "key": "QUEST_CONDITION_AMOUNT_TITLE",
+            "value": "【1日{0}回限定】"
+        },
+        {
+            "key": "QUEST_CONDITION_LOCK",
+            "value": "強制出撃"
+        },
+        {
+            "key": "QUEST_CONDITION_UNIT",
+            "value": "出撃制限"
+        },
+        {
+            "key": "QUEST_CONDITION_GO_IMPOSSIBLE",
+            "value": "出撃不可"
+        },
+        {
+            "key": "QUEST_CONDITION_DAMAGE",
+            "value": "ダメージ制限"
+        },
+        {
+            "key": "QUEST_CONDITION_CONTINUE",
+            "value": "コンティニュー不可"
+        },
+        {
+            "key": "QUEST_CONDITION_CAMPAIGN",
+            "value": "Rank{0}<space=0.29em>まで消費体力<space=0.14em>0"
+        },
+        {
+            "key": "QUEST_CONDITION_GUILD_LOCK",
+            "value": "変更不可"
+        },
+        {
+            "key": "QUEST_DETAIL_TITLE",
+            "value": "クエスト詳細"
+        },
+        {
+            "key": "QUEST_DETAIL_WIN_CONDITION_TITLE",
+            "value": "勝利条件"
+        },
+        {
+            "key": "QUEST_DETAIL_LOSE_CONDITION",
+            "value": "敗北条件：{0}"
+        },
+        {
+            "key": "QUEST_DETAIL_QUEST_INFO_TITLE",
+            "value": "クエスト情報"
+        },
+        {
+            "key": "QUEST_DETAIL_UNIT_LIMIT_TITLE",
+            "value": "出撃ユニット制限"
+        },
+        {
+            "key": "QUEST_DETAIL_UNIT_NO_LIMIT",
+            "value": "なし"
+        },
+        {
+            "key": "QUEST_DETAIL_MAP_EFF",
+            "value": "マップ効果"
+        },
+        {
+            "key": "QUEST_DETAIL_FIRST_REWARD_TITLE",
+            "value": "初回クリア報酬"
+        },
+        {
+            "key": "QUEST_DETAIL_CLEAR_REWARD_TITLE",
+            "value": "クリア報酬"
+        },
+        {
+            "key": "QUEST_DETAIL_REWARD_TITLE",
+            "value": "クエストをクリアする"
+        },
+        {
+            "key": "QUEST_DETAIL_REWARD_ITEM_TITLE",
+            "value": "報酬："
+        },
+        {
+            "key": "QUEST_DETAIL_MISSION_TITLE",
+            "value": "クエストミッション"
+        },
+        {
+            "key": "QUEST_DETAIL_DROPLIST_TITLE",
+            "value": "入手アイテム"
+        },
+        {
+            "key": "QLN_EVENT_DEF_TITLE",
+            "value": "イベント"
+        },
+        {
+            "key": "QLN_MULTI_DEF_TITLE",
+            "value": "マルチ"
+        },
+        {
+            "key": "QLN_RAID_DEF_TITLE",
+            "value": "レイド"
+        },
+        {
+            "key": "QLN_TOWER_DEF_TITLE",
+            "value": "白磁の塔"
+        },
+        {
+            "key": "HARDQUEST_LIMIT_OVER_TITLE",
+            "value": "ハードクエストプレイ回数上限です"
+        },
+        {
+            "key": "HARDQUEST_LIMIT_OVER_DESC",
+            "value": "本日ハードクエストをプレイできる回数上限に達しました。<br>(回数は毎日0:00 World Time (PST)にリセットされます)"
+        },
+        {
+            "key": "HARDQUEST_RESET_OVER_TITLE",
+            "value": "挑戦回数リセット"
+        },
+        {
+            "key": "HARDQUEST_RESET_OVER_DESC",
+            "value": "リセットした挑戦回数がハードクエストを<br>プレイできる回数を超えますが<br>よろしいですか？"
+        },
+        {
+            "key": "BLOCK_TITLE",
+            "value": "ブロック"
+        },
+        {
+            "key": "BLOCK_UNBLOCK",
+            "value": "ブロック解除"
+        },
+        {
+            "key": "BLOCK_BLOCKING",
+            "value": "ブロック中"
+        },
+        {
+            "key": "QUEST_CAMPAIGN_MULTIPLE",
+            "value": "{0}<size=20>倍"
+        },
+        {
+            "key": "QUEST_CAMPAIGN_HAEF",
+            "value": "{0}/{1}"
+        },
+        {
+            "key": "QUEST_CAMPAIGN_ZERO",
+            "value": "0"
+        },
+        {
+            "key": "PVP_COIN_BADGE_TITLE",
+            "value": "メダル"
+        },
+        {
+            "key": "PVP_REWARD_BADGE_TITLE",
+            "value": "報酬受取"
+        },
+        {
+            "key": "PVP_REWARD_BADGE_DESC",
+            "value": "回数UP"
+        },
+        {
+            "key": "FRIEND_REQUEST_TITLE",
+            "value": "フレンド申請"
+        },
+        {
+            "key": "FRIEND_REQUEST_MSG",
+            "value": "フレンド申請しました！"
+        },
+        {
+            "key": "FRIEND_REQUEST_DESC",
+            "value": "フレンド申請しますか？"
+        },
+        {
+            "key": "FRIEND_REQUEST_NG",
+            "value": "相手のフレンド数が上限に達しているため<br>フレンド申請できませんでした。"
+        },
+        {
+            "key": "FRIEND_BTN_REQUEST",
+            "value": "申請"
+        },
+        {
+            "key": "PVP_ARENA_RATE",
+            "value": "レート<space=6><voffset=0.2em>:"
+        },
+        {
+            "key": "PVP_ARENA_RANK",
+            "value": "<space=-4>{0}<size=0.7em>位</size>"
+        },
+        {
+            "key": "PVP_ARENA_BONUS",
+            "value": "Bonus"
+        },
+        {
+            "key": "PVP_ARENA_PT",
+            "value": "pt"
+        },
+        {
+            "key": "PVP_ARENA_TOTAL",
+            "value": "Total"
+        },
+        {
+            "key": "PVP_REWARD_TITLE",
+            "value": "報酬"
+        },
+        {
+            "key": "PVP_VS_TOTAL_ATTACK",
+            "value": "総攻撃"
+        },
+        {
+            "key": "PVP_VS_TOTAL_MAGIC",
+            "value": "総魔力"
+        },
+        {
+            "key": "PVP_ARENA_JOINREWARD_TITLE",
+            "value": "参戦報酬"
+        },
+        {
+            "key": "PVP_ARENA_JOINREWARD_DESC",
+            "value": "以下のアイテムがプレゼントに送られました。"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_BTN",
+            "value": "パーティー編成"
+        },
+        {
+            "key": "SELECTLIST_REMOVE",
+            "value": "はずす"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_LEADER",
+            "value": "Leader"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER",
+            "value": "Member"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER1",
+            "value": "Member1"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER2",
+            "value": "Member2"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER3",
+            "value": "Member3"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER4",
+            "value": "Member4"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER5",
+            "value": "Member5"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY1",
+            "value": "Party1"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY2",
+            "value": "Party2"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY3",
+            "value": "Party3"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY4",
+            "value": "Party4"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY5",
+            "value": "Party5"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_OFFICIAL",
+            "value": "Trial"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_FRIEND",
+            "value": "Friend"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_HERO",
+            "value": "主人公"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_SUPPORT",
+            "value": "同行者"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_LOCK",
+            "value": "強制出撃"
+        },
+        {
+            "key": "SELECTLIST_TAB_ALL",
+            "value": "ALL"
+        },
+        {
+            "key": "SELECTLIST_TAB_TRUST",
+            "value": "Trust"
+        },
+        {
+            "key": "SELECTLIST_TAB_PAIR",
+            "value": "Pair"
+        },
+        {
+            "key": "SELECTLIST_TAB_QUARTET",
+            "value": "Quartet"
+        },
+        {
+            "key": "SELECTLIST_ARTI_LIST",
+            "value": "一覧"
+        },
+        {
+            "key": "SELECTLIST_ARTI_CRAFT",
+            "value": "クラフト"
+        },
+        {
+            "key": "SELECTLIST_ARTI_DISASSEMBLY",
+            "value": "分解"
+        },
+        {
+            "key": "SELECTLIST_ARTI_DISASSEMBLY_BULK",
+            "value": "まとめて分解"
+        },
+        {
+            "key": "SELECTLIST_ARTI_SELL",
+            "value": "売却"
+        },
+        {
+            "key": "SELECTLIST_ARTI_SELECT_AMOUNT",
+            "value": "選択数"
+        },
+        {
+            "key": "SELECTLIST_ARTI_GET_GIL",
+            "value": "獲得ギル"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_RECIPE",
+            "value": "レシピなし"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_ITEM",
+            "value": "素材不足"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_DISASSEMBLY",
+            "value": "分解不可"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_SELL",
+            "value": "売却不可"
+        },
+        {
+            "key": "SELECTLIST_ARTI_CLEAR",
+            "value": "選択をクリア"
+        },
+        {
+            "key": "SELECTLIST_VISION_BULK_SELL",
+            "value": "一括売却"
+        },
+        {
+            "key": "SELECTLIST_VISION_CLEAR",
+            "value": "選択をクリア"
+        },
+        {
+            "key": "SELECTLIST_VISION_SELL",
+            "value": "売却"
+        },
+        {
+            "key": "SELECTLIST_VISION_SELECT_AMOUNT",
+            "value": "選択数"
+        },
+        {
+            "key": "SELECTLIST_VISION_GET_GIL",
+            "value": "獲得ギル"
+        },
+        {
+            "key": "SELECTLIST_VISION_GET_MEDAL",
+            "value": "獲得メダル"
+        },
+        {
+            "key": "SELECTLIST_VISION_BULK_ENHANCE",
+            "value": "一括強化"
+        },
+        {
+            "key": "SELECTLIST_VISION_GET_EXP",
+            "value": "獲得EXP"
+        },
+        {
+            "key": "SELECTLIST_VISION_NEED_GIL",
+            "value": "必要ギル"
+        },
+        {
+            "key": "SELECTLIST_VISION_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "SELECTLIST_VISION_AWAKE_TITLE",
+            "value": "覚醒★+"
+        },
+        {
+            "key": "NO_SETTING",
+            "value": "設定なし"
+        },
+        {
+            "key": "MAKE_ROOM",
+            "value": "ルームを作成"
+        },
+        {
+            "key": "JOIN_ROOM",
+            "value": "ルームに参加"
+        },
+        {
+            "key": "MOVE_ROOM",
+            "value": "ルームへ移動"
+        },
+        {
+            "key": "READY",
+            "value": "準備完了"
+        },
+        {
+            "key": "READY_EX",
+            "value": "準備完了!"
+        },
+        {
+            "key": "PASS_INPUT",
+            "value": "パスワード入力"
+        },
+        {
+            "key": "ORGANIZING",
+            "value": "編成中"
+        },
+        {
+            "key": "READY_CANCEL",
+            "value": "準備解除"
+        },
+        {
+            "key": "ORGANIZE",
+            "value": "編成"
+        },
+        {
+            "key": "INFORMATION",
+            "value": "情報"
+        },
+        {
+            "key": "INVITE",
+            "value": "招待"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "編成不可"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_BULK",
+            "value": "<line-height=22>出撃画面で<br>選択"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM",
+            "value": "item"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "アイテムは使用できません"
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "なし"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RENAME",
+            "value": "名称変更"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RECOMMEND",
+            "value": "おまかせ編成"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RECOMMEND_SHORT",
+            "value": "おまかせ"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_BREAKUP",
+            "value": "パーティー解散"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_BREAKUP_SHORT",
+            "value": "解散"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_REMOVE",
+            "value": "全て外す"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RECENT",
+            "value": "最新のクリア編成"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOBATTLE",
+            "value": "バトル設定"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOBATTLE_AUTO",
+            "value": "オート"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOBATTLE_ACT_ON",
+            "value": "演出ON"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_UNIT_SET",
+            "value": "初期配置"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOLAP",
+            "value": "自動周回"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "出撃"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RESET",
+            "value": "挑戦回数リセット"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_EDIT_FINISH",
+            "value": "編成完了"
+        },
+        {
+            "key": "PARTYEDITOR_NEED_ITEM",
+            "value": "専用アイテム必要"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "バトルスキップ"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP_AMOUNT",
+            "value": "回"
+        },
+        {
+            "key": "PARTYEDITOR_RECOMMEND_TITLE",
+            "value": "推奨"
+        },
+        {
+            "key": "PARTYEDITOR_MISSION_TITLE",
+            "value": "<cspace=-0.06em>Mission</cspace>"
+        },
+        {
+            "key": "PARTYEDITOR_TOTAL_COST_TITLE",
+            "value": "Cost"
+        },
+        {
+            "key": "PARTYEDITOR_TOTAL_STRENGTH_TITLE",
+            "value": "総合値"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_GO",
+            "value": "条件を満たしていません"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_ENOUGH_TITLE",
+            "value": "編成確認"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_ENOUGH_DESC",
+            "value": "パーティーに空きスロットがあります。<br>このまま開始してもよろしいですか?"
+        },
+        {
+            "key": "PARTYEDITOR_BADGE_GO",
+            "value": "出撃"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_UNIT_VALUE",
+            "value": "<line-height=23><color=#FFF080>出撃制限：<color=#F0C040><size=1.12em>{0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_LOCK_TITLE",
+            "value": "強制出撃："
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_LOCK_CAUTION",
+            "value": "パーティー編成は変更できません"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_GO",
+            "value": "出撃"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_BREAK",
+            "value": "{0}、"
+        },
+        {
+            "key": "PARTYEDITOR_MULTI_TIPS",
+            "value": "Tips"
+        },
+        {
+            "key": "PARTYEDITOR_MULTI_PARTY_TITLE",
+            "value": "パーティー編成"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "通常"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "期間限定"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
+            "value": "攻撃"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_PARTY_DEFENSE",
+            "value": "防御"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CAUTION",
+            "value": "ギルドバトルのマッチング完了からバトル終了までの期間は編成を変更してもバトルに反映されません。"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_PERIOD_TITLE",
+            "value": "ギルドバトル開催期間"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "編成ルール"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>※複数の攻撃パーティーで同じユニット、武具、召喚獣、ビジョンカードの設定はできません。複数の防御パーティーについても同様です。"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_QUEST",
+            "value": "クエスト"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_DUEL",
+            "value": "デュエル"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_MULTI",
+            "value": "マルチ"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_GUILD",
+            "value": "ギルドバトル"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_SUPPORT",
+            "value": "同行者設定"
+        },
+        {
+            "key": "PARTYEDITOR_COPY",
+            "value": "編成をコピー"
+        },
+        {
+            "key": "PARTYEDITOR_COPY_PARTY",
+            "value": "【{0}:{1}】をコピー中"
+        },
+        {
+            "key": "PARTYEDITOR_COPY_DESC",
+            "value": "※コピー自体を取り消したい場合はクリアを選択してください"
+        },
+        {
+            "key": "PARTYEDITOR_SUPPORT_DESC",
+            "value": "同行者として貸し出すユニットを各属性ごとに設定してください。"
+        },
+        {
+            "key": "PARTYEDITOR_BREAKUP_CHECK_TITLE",
+            "value": "パーティー解散"
+        },
+        {
+            "key": "PARTYEDITOR_BREAKUP_CHECK_DESC",
+            "value": "<size=24>パーティー内のユニットを全員解除します。<br>よろしいですか？</size>"
+        },
+        {
+            "key": "PARTYEDITOR_EQUIP_MIGRATE_TITLE",
+            "value": "武具装備"
+        },
+        {
+            "key": "PARTYEDITOR_EQUIP_MIGRATE_DESC",
+            "value": "選択ユニットが装備不可能な武具を装備から外します"
+        },
+        {
+            "key": "PARTY_COPY_TITLE",
+            "value": "編成内容をコピーしますか？"
+        },
+        {
+            "key": "PARTY_PASTE_TITLE",
+            "value": "コピーした編成内容を反映しますか？"
+        },
+        {
+            "key": "PARTY_COPY_TARGET",
+            "value": "コピー対象:【{0}】{1}"
+        },
+        {
+            "key": "PARTY_COPY_CAUTION",
+            "value": "枠が編成不可のため反映されません"
+        },
+        {
+            "key": "PARTY_COPY_DECIDE",
+            "value": "コピー"
+        },
+        {
+            "key": "PARTY_PASTE_DECIDE",
+            "value": "反映"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "バトル設定"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO",
+            "value": "オートバトル"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO_EX",
+            "value": "<line-height=18>オート<br>バトル"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_BTN_ON",
+            "value": "ON"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_BTN_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO_SET_TITLE",
+            "value": "オートバトル設定"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TREASURE",
+            "value": "宝箱優先"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_ABILITY_NOT_USE",
+            "value": "アビリティ不使用"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_ABILITY_DIR_CUT",
+            "value": "アビリティ演出"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO_PROHIBIT",
+            "value": "オート不可"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_DISABLE",
+            "value": "設定不可"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOLAP_TITLE",
+            "value": "オート周回"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "マップ効果"
+        },
+        {
+            "key": "MAP_EFFECT_WEATHER_TITLE",
+            "value": "天候"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "効果"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SIDE_ALL",
+            "value": "全ユニット"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SIDE_PLAYER",
+            "value": "味方ユニット"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SIDE_ENEMY",
+            "value": "敵ユニット"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_WEATHER_NONE",
+            "value": "通常"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_HUMAN",
+            "value": "人系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_NETHERBEAST",
+            "value": "召喚獣系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_BEAST",
+            "value": "獣系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_DEMON",
+            "value": "悪魔系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_DRAGON",
+            "value": "竜系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_PLANCE",
+            "value": "植物系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_BIRD",
+            "value": "鳥系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_INSECT",
+            "value": "虫系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_AQUATIC",
+            "value": "水棲系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_MACHINE",
+            "value": "機械系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_SPIRIT",
+            "value": "精霊系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_UNDEAD",
+            "value": "死霊系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_STONE",
+            "value": "石系の"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_NOT",
+            "value": "効果なし"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "アイテム装備"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "すべて"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "回復"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "攻撃"
+        },
+        {
+            "key": "SKIP_SETTING_TITLE",
+            "value": "スキップチケットを使用する"
+        },
+        {
+            "key": "SKIP_RESET_TITLE",
+            "value": "スキップチケット使用回数リセット"
+        },
+        {
+            "key": "SKIP_TITLE",
+            "value": "Battle{0}"
+        },
+        {
+            "key": "SKIP_SETTING_DESC",
+            "value": "<line-height=32>スキップチケットと体力を使用して<br>クエストをスキップしますか？"
+        },
+        {
+            "key": "SKIP_RESET_DESC",
+            "value": "<color=#FFF080>幻導石{0}個</color>を消費して<br><color=#FFF080>{1}の<br>スキップチケット使用回数({3}/{4})を<br>リセット</color>しますか?"
+        },
+        {
+            "key": "SKIP_RESET_TIMES_DESC",
+            "value": "(本日のリセット可能回数{0}/{1})"
+        },
+        {
+            "key": "SKIP_RESET_CAUTION",
+            "value": "※ラピスは無償入手分から消費されます。"
+        },
+        {
+            "key": "SKIP_RESET_INFO_DESC",
+            "value": "このクエストは本日リセット可能回数の<br>上限に達しています。"
+        },
+        {
+            "key": "SKIP_RESET_INFO_CAUTION",
+            "value": "<color=#FFF080>RoyalRank {0}</color>に到達すると<br><color=#FFF080>(1)日{2}回までリセット可能</color>になります。"
+        },
+        {
+            "key": "SKIP_RESET_COMPLETE_DESC",
+            "value": "スキップチケット使用回数を<br>リセットしました。<br>本日あと{0}回使用可能です。"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_AMOUNT_TITLE",
+            "value": "所持チケット"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_USE_TIMES_TITLE",
+            "value": "使用可能回数"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_HARD_LIMIT",
+            "value": "ハードクエスト挑戦可能回数"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_LAST_USE_TIMES",
+            "value": "あと<space=6><size=30>{0}</color></size><space=4>回"
+        },
+        {
+            "key": "SKIP_RESULT_GET_ITEM",
+            "value": "獲得アイテム"
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "おまかせ編成"
+        },
+        {
+            "key": "RECOMMEND_TEAM_DESC",
+            "value": "優先する項目を設定してください。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "優先項目を選択"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "おまかせ対象選択"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "全部おまかせ"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "武具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "ビジョンカード"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "召喚獣"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>※ユニット・武具・ビジョンカード・召喚獣が、<br>設定された項目に沿って自動的に編成されます。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>※チェックした装備品のみ設定に沿って自動的に編成され、<br>それ以外は現在の編成がそのまま残ります。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_FAVORITE",
+            "value": "お気に入り武具を優先"
+        },
+        {
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>※チェックを入れておくとユニット詳細画面で<br>設定したお気に入り武具が優先して編成されます。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_CALCULATING",
+            "value": "検索中"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "項目にチェックを入れてください"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "武具、ビジョンカード、召喚獣の<br>少なくとも1つに<br>チェックを入れてください。"
+        },
+        {
+            "key": "TEAM_NAME_INPUT_TITLE",
+            "value": "名称変更"
+        },
+        {
+            "key": "TEAM_NAME_INPUT_DESC",
+            "value": "新しいパーティー名を入力してください。"
+        },
+        {
+            "key": "UNIT_TOOLTIP_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "UNIT_TOOLTIP_STATUS_DETAIL",
+            "value": "ステータス詳細"
+        },
+        {
+            "key": "UNIT_TOOLTIP_ABILITY_TITLE",
+            "value": "アビリティ"
+        },
+        {
+            "key": "UNIT_TOOLTIP_NONE",
+            "value": "なし"
+        },
+        {
+            "key": "UNIT_TOOLTIP_ABILITY_USED",
+            "value": "アビリティ使用状況"
+        },
+        {
+            "key": "HARD_RESET_CHECK_TITLE",
+            "value": "挑戦回数リセット"
+        },
+        {
+            "key": "HARD_RESET_CHECK_DESC",
+            "value": "<color=#FFF080>幻導石を{0}個</color>消費して<br><color=#FFF080>挑戦回数({1}/{2})をリセット</color>しますか？"
+        },
+        {
+            "key": "HARD_RESET_CHECK_LIMIT",
+            "value": "(本日のリセット可能回数{0}/{1})"
+        },
+        {
+            "key": "HARD_RESET_CHECK_OVER_DESC",
+            "value": "該当クエストの本日リセット可能回数が<br>上限に達しています。"
+        },
+        {
+            "key": "HARD_RESET_CHECK_OVER_CONDITION",
+            "value": "<color=#FFF080>RoyalRank {0}</color>に到達すると<br><color=#FFF080>1日{1}回までリセット可能</color>になります。"
+        },
+        {
+            "key": "HARD_RESET_OVER",
+            "value": "1日のリセット上限を超えています。"
+        },
+        {
+            "key": "HARD_RESET_FINISH_TITLE",
+            "value": "挑戦回数リセット"
+        },
+        {
+            "key": "HARD_RESET_FINISH_DESC",
+            "value": "挑戦回数をリセットしました。<br>本日あと{0}回出撃可能です。"
+        },
+        {
+            "key": "GUILD_BATTLE_RANK_UP_DESC",
+            "value": "ギルドリーグが{0}に昇格しました。"
+        },
+        {
+            "key": "GUILD_BATTLE_RANK_DOWN_DESC",
+            "value": "ギルドリーグが{0}に降格しました。"
+        },
+        {
+            "key": "MULTI_SOLO",
+            "value": "Solo"
+        },
+        {
+            "key": "MULTI_PAIR",
+            "value": "Pair"
+        },
+        {
+            "key": "MULTI_QUARTET",
+            "value": "Quartet"
+        },
+        {
+            "key": "MULTI_ROOM_PARAM_CHANGE",
+            "value": "ルーム設定が更新されました"
+        },
+        {
+            "key": "MULTI_ROOM_FIRST_COMMENT",
+            "value": "参加大歓迎！"
+        },
+        {
+            "key": "MULTI_ROOM_COMMENT_NONE",
+            "value": "参加大歓迎！"
+        },
+        {
+            "key": "CHAT_TAB_WORLD",
+            "value": "ワールド"
+        },
+        {
+            "key": "CHAT_TAB_GUILD",
+            "value": "ギルド"
+        },
+        {
+            "key": "CHAT_TAB_ROOM",
+            "value": "マルチ"
+        },
+        {
+            "key": "CHAT_TEMPLATE_TITLE",
+            "value": "定型文"
+        },
+        {
+            "key": "CHAT_STAMP_TITLE",
+            "value": "スタンプ"
+        },
+        {
+            "key": "CHAT_CHANNEL_NUM",
+            "value": "CH{0}"
+        },
+        {
+            "key": "CHAT_DISABLE",
+            "value": "チャット機能が無効になっています。<br>オプション画面からチャット機能を有効に出来ます。"
+        },
+        {
+            "key": "CHAT_CUID",
+            "value": "プレイヤーID:[*****{0}]"
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST_TITLE",
+            "value": "ギルド加入申請"
+        },
+        {
+            "key": "CHAT_GUILD_JOIN_TITLE",
+            "value": "ギルド加入確認"
+        },
+        {
+            "key": "CHAT_GUILD_RECRUITMENT",
+            "value": "メンバー募集"
+        },
+        {
+            "key": "CHAT_GUILD_CONDITION",
+            "value": "<color=#FFF080>Rank<space=4>制限</color>： "
+        },
+        {
+            "key": "CHAT_GUILD_AUTO_APPROVAL",
+            "value": "<color=#FFF080>自動承認</color>："
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST",
+            "value": "申請"
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST_DESC_JOIN",
+            "value": "<line-height=38>加入申請を送りますか？<br>※リーダーの承認後加入となります。"
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST_DESC_FAILED",
+            "value": "<line-height=38>加入条件に達していないため<br>加入申請を送ることができませんでした。"
+        },
+        {
+            "key": "CHAT_GUILD_JOIN_DESC",
+            "value": "ギルドに加入しますか？"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "チャット"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "バトルログ"
+        },
+        {
+            "key": "CHAT_NOTTFY_TEXT",
+            "value": "[{0}]:{1}"
+        },
+        {
+            "key": "CHAT_NOTTFY_STAMP",
+            "value": "[{0}]がスタンプを送信しました"
+        },
+        {
+            "key": "CHAT_NOTTFY_GUILD",
+            "value": "[{0}]:{1}"
+        },
+        {
+            "key": "CHAT_NOTIFY_MATCH",
+            "value": "[{0}]:{1}"
+        },
+        {
+            "key": "CHAT_NOTIFY_FRIEND_INVITE",
+            "value": "{0}さんがフレンドマッチに招待しています"
+        },
+        {
+            "key": "CHAT_CHANNEL_SELECT",
+            "value": "チャンネル選択"
+        },
+        {
+            "key": "CHAT_CHANNEL_FILTER_TITLE",
+            "value": "{0}～{1}"
+        },
+        {
+            "key": "CHAT_CHANNEL_GROUP_NAME",
+            "value": "CH{0}<space=6>～<space=6>{1}"
+        },
+        {
+            "key": "CHAT_CHANNEL_ROOM",
+            "value": "ルームチャンネル"
+        },
+        {
+            "key": "CHAT_CHANNEL_GUILD",
+            "value": "ギルドチャンネル"
+        },
+        {
+            "key": "CHAT_FRIEND_RECRUITMENT",
+            "value": "フレンドマッチ開催！"
+        },
+        {
+            "key": "CHAT_FRIEND_JOIN",
+            "value": "参戦"
+        },
+        {
+            "key": "CHAT_FRIEND_WATCH",
+            "value": "観戦"
+        },
+        {
+            "key": "CHAT_FRIEND_INVITE",
+            "value": "招待する"
+        },
+        {
+            "key": "CHAT_FRIEND_INVITE_COMMENT",
+            "value": "フレンドマッチ募集中<br>気軽に参加してください"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_TITLE",
+            "value": "フレンドマッチ招待"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_WATCH",
+            "value": "観戦を許可"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_COMMENT",
+            "value": "コメントの入力"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_DESC",
+            "value": "<line-height=38>ギルドやチャット仲間を<br>フレンドマッチに招待しましょう。"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_FAIL_TITLE",
+            "value": "送信失敗"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_FAIL_DESC",
+            "value": "招待はルームチャンネルでは送信できません。<br>ワールドチャットまたはギルドチャットで送信してください。"
+        },
+        {
+            "key": "CHAT_MATCH_INVITATION_CONFIRM",
+            "value": "<color=#F0C040>{0}</color>の<br>フレンドマッチに参戦します。<br>よろしいですか？"
+        },
+        {
+            "key": "CHAT_FRIEND_JOIN_FAILD_TITLE",
+            "value": "参戦失敗"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MULTI_OWNER",
+            "value": "既にパーティーに参加しています。<br>参戦する場合は<br>一度解散して下さい。"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MULTI_OTHER",
+            "value": "既にパーティーに参加しています。<br>参戦する場合は<br>一度退出して下さい。"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MATCH_OWNER",
+            "value": "既に参戦しています。<br>対戦相手を変更する場合は<br>一度解散して下さい。"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MATCH_OTHER",
+            "value": "既に参戦しています。<br>対戦相手を変更する場合は<br>一度退出して下さい。"
+        },
+        {
+            "key": "CHAT_NOT_EXIST",
+            "value": "参加に失敗しました。<br>ルームが存在しません。"
+        },
+        {
+            "key": "CHAT_CAPACITY_OVER",
+            "value": "参加に失敗しました。<br>既に満員です。"
+        },
+        {
+            "key": "CHAT_RESTRICTED_WATCHING",
+            "value": "現在観戦はできません。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_SUCCESS_TITLE",
+            "value": "ギルド加入成功"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_SEND_JOIN_REQUSET_TITLE",
+            "value": "加入申請送信"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_SUCCESS_DISC",
+            "value": "{0}<br>に加入しました。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_SEND_JOIN_REQUSET_DISC",
+            "value": "{0}<br>に加入申請を送信しました。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_FAILD_TITLE",
+            "value": "ギルド加入失敗"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_FAILD_DISC",
+            "value": "人数が上限に達した為、<br>ギルドに加入できませんでした。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_ALREADY_JOINED_DISC",
+            "value": "ギルドに所属済みです。<br>申請を送る場合は、<br>一度ギルドを脱退して下さい。"
+        },
+        {
+            "key": "GUILD_RECRUIT_AUTO_JOIN_ON",
+            "value": "ON"
+        },
+        {
+            "key": "GUILD_RECRUIT_AUTO_JOIN_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "GUILD_RECRUIT_NOT_LIMITED_RANK",
+            "value": "指定なし"
+        },
+        {
+            "key": "GUILD_RECRUIT_LIMITED_RANK",
+            "value": "{0} 以上"
+        },
+        {
+            "key": "RAID_ENCOUNT_TRY",
+            "value": "今すぐ挑戦！"
+        },
+        {
+            "key": "RAID_ENCOUNT_LATER",
+            "value": "あとで"
+        },
+        {
+            "key": "RAID_ENCOUNT_LIMIT",
+            "value": "残り時間"
+        },
+        {
+            "key": "RAID_BOSS_TYPE_NORMAL",
+            "value": "Normal"
+        },
+        {
+            "key": "RAID_BOSS_TYPE_RARE",
+            "value": "Rare"
+        },
+        {
+            "key": "MISSION_TIMEOUT_TITLE",
+            "value": "期間外のミッションです"
+        },
+        {
+            "key": "MISSION_TIMEOUT_DESC",
+            "value": "期限を過ぎているため受け取れません。"
+        },
+        {
+            "key": "MISSION_TIMEOUT_TRY_TITLE",
+            "value": "期間外のミッションです"
+        },
+        {
+            "key": "MISSION_TIMEOUT_TRY_DESC",
+            "value": "期限を過ぎているため挑戦できません。"
+        },
+        {
+            "key": "FIRE",
+            "value": "火"
+        },
+        {
+            "key": "ICE",
+            "value": "氷"
+        },
+        {
+            "key": "WIND",
+            "value": "風"
+        },
+        {
+            "key": "EARTH",
+            "value": "土"
+        },
+        {
+            "key": "THUNDER",
+            "value": "雷"
+        },
+        {
+            "key": "WATER",
+            "value": "水"
+        },
+        {
+            "key": "SHINE",
+            "value": "光"
+        },
+        {
+            "key": "DARK",
+            "value": "闇"
+        },
+        {
+            "key": "FIRE_ELM",
+            "value": "火属性"
+        },
+        {
+            "key": "ICE_ELM",
+            "value": "氷属性"
+        },
+        {
+            "key": "WIND_ELM",
+            "value": "風属性"
+        },
+        {
+            "key": "EARTH_ELM",
+            "value": "土属性"
+        },
+        {
+            "key": "THUNDER_ELM",
+            "value": "雷属性"
+        },
+        {
+            "key": "WATER_ELM",
+            "value": "水属性"
+        },
+        {
+            "key": "SHINE_ELM",
+            "value": "光属性"
+        },
+        {
+            "key": "DARK_ELM",
+            "value": "闇属性"
+        },
+        {
+            "key": "NOTIFY_TITLE",
+            "value": "FFBE幻影戦争"
+        },
+        {
+            "key": "NOTIFY_STAMINA_MAX",
+            "value": "体力が全回復しました！"
+        },
+        {
+            "key": "NOTIFY_RUNOUT_FOOD",
+            "value": "ギルド兵舎に食料を補充しましょう！"
+        },
+        {
+            "key": "NOTIFY_CHOCOBO_ITEM_MAX",
+            "value": "探検チョコボ、アイテム回収できます！"
+        },
+        {
+            "key": "SUPPORT_TITLE",
+            "value": "お問い合わせ"
+        },
+        {
+            "key": "SUPPORT_ID_TITLE",
+            "value": "あなたのプレイヤーID"
+        },
+        {
+            "key": "SUPPORT_ID_DESC",
+            "value": "<line-height=28>このコードはデータの持ち主であることの証としてサポートの際に必要となります。<br>ご利用の端末以外でも確認できる方法でメモに残し、大切に保管することをおすすめいたします。"
+        },
+        {
+            "key": "SUPPORT_MAIL_TITLE",
+            "value": "<line-height=30>以下よりお問い合わせください。<br>該当のボタンをタップするとメーラーが立ち上がります。<br><br>User support inquiries for this application can be made at gumi Inc. In order for us to provide user support, we collect, process and use users' personal data. There are times when we contract with and disclose such personal data to our wholly owned subsidiaries and our third-party service providers for assistance with this purpose. The handling of such personal data is carried out solely for this purpose in accordance with our Privacy Policy. By clicking on this URL and submitting through this online form an inquiry, you are consenting to such collection, processing, and use of your personal data and agreeing to be bound by our company’s Privacy Policy, a copy of which can be found here:"
+        },
+        {
+            "key": "SUPPORT_MAIL_INHERITANCE_TITLE",
+            "value": "引き継ぎに関するお問い合わせ"
+        },
+        {
+            "key": "SUPPORT_MAIL_INHERITANCE_DESC",
+            "value": "機種変更、ゲームデータが消失した場合"
+        },
+        {
+            "key": "SUPPORT_MAIL_LAPIS_TITLE",
+            "value": "幻導石購入に関するお問い合わせ"
+        },
+        {
+            "key": "SUPPORT_MAIL_LAPIS_DESC",
+            "value": "幻導石を購入したが付与、反映がされない場合"
+        },
+        {
+            "key": "SUPPORT_MAIL_BUG_TITLE",
+            "value": "不具合報告"
+        },
+        {
+            "key": "SUPPORT_MAIL_BUG_DESC",
+            "value": "ゲームが起動できない、マップが表示されない等"
+        },
+        {
+            "key": "SUPPORT_MAIL_REQUEST_TITLE",
+            "value": "ご意見・ご要望"
+        },
+        {
+            "key": "SUPPORT_MAIL_REQUEST_DESC",
+            "value": "ゲームに関するご意見・ご要望の場合"
+        },
+        {
+            "key": "SUPPORT_MAIL_DESC",
+            "value": "<line-height=30>お問い合わせ送信後、自動返信にて受付完了メールが送られますので、<br>ドメイン「@gu3.co.jp」からのメールを受け取れるよう設定のご確認をお願いします。<br>※メールソフトなどによって、迷惑メールフォルダに振り分けられている場合があります。<br><br>▼下記情報がメールへ引用されます。<br>・プレイヤーID<br>・アプリバージョン<br>・DLC_Ver<br>・プレイヤー名<br>・ご使用の機種<br>・ご使用のOSバージョン<br><br>▼お問い合わせの受付時間<br>10:00～18:00(月～金)<br><br>■お問い合わせに関する注意事項<br>・お問い合わせの内容や状況などにより、ご案内までにお時間を頂戴する場合や回答いたしかねる場合がございます。<br>　※土日･祝日、弊社休業期間中は、サポート窓口も休業となるため、返信は翌営業日以降となります。<br>・お問い合わせの受付・回答に関してはメールにて対応させていただきます。<br>・お知らせや公式サイトにてご案内している内容や不具合については、告知内容をもって回答とかえさせていただく場合がございます。予めご了承ください。<br>・ゲームの攻略情報や仕様については、個別にご案内は行っておりません。<br>・ご意見・ご要望に関していただいた内容には原則返信しておりませんが、内容はすべて確認し今後の参考にさせていただきます。<br>・お問い合わせの対応は株式会社gumiにて行っております。<br>・株式会社gumiのプライバシーポリシーについては下記ページをご参照ください。<br>https://gu3.co.jp/policy/ <br>"
+        },
+        {
+            "key": "SUPPORT_MAIL_ADDRESS",
+            "value": "support-visions@gu3.co.jp"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT",
+            "value": "お問い合わせ【FFBE幻影戦争】【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_01",
+            "value": "データ引き継ぎ【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_02",
+            "value": "幻導石購入【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_03",
+            "value": "不具合報告【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_04",
+            "value": "ご意見・ご要望【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_05",
+            "value": "ユーザー通報【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_BODY_TEMPLATE",
+            "value": "■ご記入ください<br>→<br><br><br><br>{0}-----以下編集不要-----<br>"
+        },
+        {
+            "key": "SUPPORT_MAIL_PLAYER_DATA",
+            "value": "・プレイヤーID：{0}<br>・アプリバージョン：{1}<br>・DLC_Ver：{2}<br>・プレイヤー名：{3}<br>・ご使用の機種：{4}<br>・ご使用のOSバージョン：{5}<br>"
+        },
+        {
+            "key": "SUPPORT_MAIL_BODY_OPTION_03",
+            "value": "※原則、本フォームにいただいた内容にはご返信いたしておりませんが、内容により返信をさせていただく場合がございます。予めご了承ください。<br>※ご報告いただいた内容は、お知らせや公式サイトなどの告知にてご案内させていただく場合がございます。<br>"
+        },
+        {
+            "key": "SUPPORT_MAIL_BODY_OPTION_04",
+            "value": "原則、ご意見・ご要望に関していただいた内容にはご返信いたしておりません。予めご了承ください。<br>"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_TITLE",
+            "value": "データ引き継ぎ"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_DESC",
+            "value": "プレイヤーIDと設定した引き継ぎパスワードを入力してください。"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_ID",
+            "value": "プレイヤーID"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_PASS",
+            "value": "引き継ぎ<br>パスワード"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_CHECK",
+            "value": "引き継ぎパスワードを表示する"
+        },
+        {
+            "key": "DATA_CONNECT_CAUTION_TITLE",
+            "value": "注意事項"
+        },
+        {
+            "key": "DATA_CONNECT_CAUTION_DESC",
+            "value": "・データ引き継ぎを行うことで、複数の端末でプレイするときや機種変更をした後も、同じプレイデータで遊ぶことができます。<br>・異なるプラットフォームの端末間でデータ引き継ぎを行った場合は、有償分・無償分の「幻導石」は共有されません。購入した端末と同じプラットフォームであれば、使用することができます。(共通分の「幻導石」は共有されます)<br>・すでに「WAR OF THE VISIONS ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争」を<br>ご利用中の端末にデータ引き継ぎを行った場合、プレイデータは上書きされ、それまでのプレイデータは消えてしまいますので、ご注意ください。<br>複数端末の異なるプレイデータを1つにまとめることはできません。<br>・オプションの設定は、デフォルトに戻ります。<br>・ゲームデータを不正に取引された場合は、アカウント停止などの措置を行うことがあります。<br><br>※遊んでいた端末を売買・譲渡する際は、データ引き継ぎを行なった後に下記の操作を必ず行い、当該端末にバックアップのアカウントが残らないようご注意ください。<br><br>【データバックアップ解除方法】<br>新端末へのデータ移行が正しく完了していることを確認してから、旧端末のタイトル画面、またはアプリ内「メニュー」よりデータバックアップを選択し「アカウント解除」を行なってください。<br>アカウント解除後「WAR OF THE VISIONS ファイナルファンタジー ブレイブエクスヴィアス 幻影戦争」を<br>旧端末から削除してください。"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_TITLE",
+            "value": "ダウンロードデータ削除"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_DESC",
+            "value": "追加されたコンテンツを削除しますか？"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_START",
+            "value": "ダウンロードデータを削除しました"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_NONE",
+            "value": "ダウンロードデータがありません"
+        },
+        {
+            "key": "CACHE_CLEAR_DESC",
+            "value": "<cspace=2>キャッシュをクリアしています..."
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "オプション"
+        },
+        {
+            "key": "OPTION_BATTLE_TITLE",
+            "value": "バトル設定"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE",
+            "value": "オートバトル"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_SUBTITLE",
+            "value": "オートバトル設定"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_TREASURE",
+            "value": "宝箱優先"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_NOT_ABILITY",
+            "value": "アビリティ不使用"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_CAUTION",
+            "value": "初回オート不可"
+        },
+        {
+            "key": "OPTION_ABILITY",
+            "value": "アビリティ演出"
+        },
+        {
+            "key": "OPTION_EFFECT",
+            "value": "範囲エフェクトの表示"
+        },
+        {
+            "key": "OPTION_SOUND",
+            "value": "サウンド"
+        },
+        {
+            "key": "OPTION_BGM",
+            "value": "BGM"
+        },
+        {
+            "key": "OPTION_SE",
+            "value": "SE"
+        },
+        {
+            "key": "OPTION_VOICE",
+            "value": "VOICE"
+        },
+        {
+            "key": "OPTION_SPEEDUP_TITLE",
+            "value": "倍速機能"
+        },
+        {
+            "key": "OPTION_SPEEDUP_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "OPTION_SPEEDUP_VALUE",
+            "value": "×{0:F1}"
+        },
+        {
+            "key": "OPTION_SPEEDUP_VALUE_INT",
+            "value": "×{0}"
+        },
+        {
+            "key": "OPTION_SPEEDUP_LOCK_TITLE",
+            "value": "解放条件："
+        },
+        {
+            "key": "OPTION_SPEEDUP_LOCK",
+            "value": "Royal Rank.{0}"
+        },
+        {
+            "key": "OPTION_CHANGE_TITLE",
+            "value": "描画設定"
+        },
+        {
+            "key": "OPTION_CHANGE_DRAW",
+            "value": "描画設定を切り替えます"
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "周回設定"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "周回制限"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "制限なし"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "周回数"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "アイテム獲得"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "消費体力"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "周回ストップ"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "探検チョコボ Fever"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "気まぐれ屋発見"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "レイド遭遇"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "※ONにしておくと演出が発生した際周回が止まります。"
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "自動体力回復薬使用"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "回復回数上限"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "※周回中に体力が切れた場合に自動で体力を回復します。<br>※回復薬以外での体力回復は行いません。<br>※回復薬は所持しているもので回復量が大きいものより使用されます。"
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "アイテム選択"
+        },
+        {
+            "key": "LAPIS_CAUTION_GOOGLE",
+            "value": "<line-height=32>購入アイテムのリストが取得できませんでした。<br>※取得には、Googleアカウントにログインが必要です。<br>ログイン後、アプリを再起動の上お試しください。"
+        },
+        {
+            "key": "LAPIS_CAUTION_AMAZONSTORE",
+            "value": "<line-height=32>購入アイテムのリストが取得できませんでした。<br>※取得には、AmazonStoreのアプリケーションのインストールとログインが必要です。<br>インストールとログイン後、アプリを再起動の上お試しください。"
+        },
+        {
+            "key": "LAPIS_CAUTION_POP_TITLE",
+            "value": "注意"
+        },
+        {
+            "key": "LAPIS_CAUTION_GOOGLE_POP_DESC",
+            "value": "購入アイテムのリストが<br>取得できませんでした。<br>※取得には、Googleアカウントに<br>ログインが必要です。<br>ログイン後、アプリを再起動の上<br>お試しください。"
+        },
+        {
+            "key": "LAPIS_CAUTION_AMAZON_POP_DESC",
+            "value": "購入アイテムのリストが<br>取得できませんでした。<br>※取得には、AmazonStoreのアプリケーションのインストールと<br>ログインが必要です。<br>インストールとログイン後、アプリを再起動の上お試しください。"
+        },
+        {
+            "key": "LAPIS_PURCHASE_CONFIRM_TITLE",
+            "value": "購入確認"
+        },
+        {
+            "key": "LAPIS_PURCHASE_CONFIRM_MESSAGE",
+            "value": "{0}を<br>{1}で購入します。<br>よろしいですか？"
+        },
+        {
+            "key": "LAPIS_LACK_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "LAPIS_LACK_DESC",
+            "value": "幻導石が不足しています。<br>購入しますか？"
+        },
+        {
+            "key": "LAPIS_LACK_CAUTION",
+            "value": "※幻導石は無償入手分から消費されます。"
+        },
+        {
+            "key": "LAPIS_LACK_BUY",
+            "value": "幻導石購入"
+        },
+        {
+            "key": "_TEMP_LAPIS_LACK_TITLE",
+            "value": "幻導石不足"
+        },
+        {
+            "key": "_TEMP_LAPIS_LACK_DESC",
+            "value": "幻導石が不足しています。"
+        },
+        {
+            "key": "LAPIS_RIGHT_LIMITED",
+            "value": "購入後{0}日間有効"
+        },
+        {
+            "key": "LAPIS_RIGHT_PURCHESED",
+            "value": "購入済み"
+        },
+        {
+            "key": "LAPIS_CHECK_RIGHT_TITLE",
+            "value": "購入確認"
+        },
+        {
+            "key": "LAPIS_CHECK_RIGHT_BTN",
+            "value": "購入"
+        },
+        {
+            "key": "BUY_RIGHT_FINISH_TITLE",
+            "value": "購入完了"
+        },
+        {
+            "key": "BUY_RIGHT_FINISH_DESC",
+            "value": "{0}<br>を購入しました。"
+        },
+        {
+            "key": "BUY_RIGHT_APPEAL_DESC",
+            "value": "<line-height=32>『{0}』<br>が購入可能になりました！"
+        },
+        {
+            "key": "BUY_RIGHT_APPEAL_BTN",
+            "value": "購入へ"
+        },
+        {
+            "key": "GIL_LACK_TITLE",
+            "value": "ギル不足"
+        },
+        {
+            "key": "GIL_LACK_DESC",
+            "value": "ギルが不足しています。"
+        },
+        {
+            "key": "GIL_LACK_DESC_SHORT",
+            "value": "ギルが不足しています"
+        },
+        {
+            "key": "AP_NOT_RECEIVE_FOR_UPPER",
+            "value": "体力が上限に達しているので、<br>報酬を受け取れません。"
+        },
+        {
+            "key": "AP_REMOVE_FOR_OVER",
+            "value": "<size=25>体力が上限を超えた取得分は破棄されます。<br>よろしいですか？</size>"
+        },
+        {
+            "key": "AP_HEAL_UNNEEDED",
+            "value": "体力回復の必要はありません"
+        },
+        {
+            "key": "AP_LACK_TITLE",
+            "value": "体力不足"
+        },
+        {
+            "key": "AP_LACK_DESC",
+            "value": "体力が不足しています。<br>回復しますか？"
+        },
+        {
+            "key": "BP_LACK_TITLE",
+            "value": "オーブ不足"
+        },
+        {
+            "key": "BP_LACK_DESC",
+            "value": "オーブが不足しています。<br>回復しますか？"
+        },
+        {
+            "key": "REWARD_RECEIVE",
+            "value": "報酬受取"
+        },
+        {
+            "key": "CLASSMATCH_PROMOTION_DESC",
+            "value": "昇格戦まであと"
+        },
+        {
+            "key": "CLASSMATCH_PROMOTION_DESC2",
+            "value": "昇格まであと"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_CLASS",
+            "value": "クラス報酬"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_PROM",
+            "value": "昇格報酬"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_CLASS_DESC",
+            "value": "クラス報酬を受け取りました。"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_PROM_DESC",
+            "value": "クラス昇格報酬を受け取りました。"
+        },
+        {
+            "key": "PRESENT_CAP_OVER_TITLE",
+            "value": "受け取り失敗"
+        },
+        {
+            "key": "PRESENT_CAP_OVER_DESC",
+            "value": "所持上限を超えた為、アイテムを受け取れませんでした。"
+        },
+        {
+            "key": "PRESENT_CAP_OVER_DESC_PART",
+            "value": "所持上限を超えた為、一部アイテムを受け取れませんでした。"
+        },
+        {
+            "key": "ANALYZED_DEVICE_TITLE",
+            "value": "描画設定のお知らせ"
+        },
+        {
+            "key": "ANALYZED_DEVICE_DESC",
+            "value": "描画設定を「簡略」に<br>変更することを推奨します。<br>変更しますか？<br><br>※オプションメニューで<br>いつでも変更可能です。"
+        },
+        {
+            "key": "APPGUARD_SECURITY_VIOLATION_TITLE",
+            "value": "エラー"
+        },
+        {
+            "key": "APPGUARD_SECURITY_VIOLATION_MESSAGE",
+            "value": "セキュリティポリシーの違反が検知<br>されたため、ゲームが終了します。<br>[No. {0}]"
+        },
+        {
+            "key": "MEMORY_MENU_STORY",
+            "value": "ストーリー"
+        },
+        {
+            "key": "MEMORY_MENU_EVENT",
+            "value": "イベント"
+        },
+        {
+            "key": "MEMORY_MENU_MOVIE",
+            "value": "ムービー"
+        },
+        {
+            "key": "MEMORY_MENU_SPECIAL",
+            "value": "特別ムービー"
+        },
+        {
+            "key": "MEMORY_MENU_SUMMON",
+            "value": "召喚獣"
+        },
+        {
+            "key": "MEMORY_MOVIE_SKIP_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "MEMORY_MOVIE_SKIP_DESC",
+            "value": "動画をスキップしますか？"
+        },
+        {
+            "key": "MEMORY_STORY_PLAY_DESC",
+            "value": "回想を再生します。<br>よろしいですか？"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_TITLE",
+            "value": "再生完了"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_MSG",
+            "value": "次の回想シーンも続けて再生しますか？"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_YES",
+            "value": "再生する"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_NO",
+            "value": "終了する"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_TITLE",
+            "value": "年齢確認"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_DESC",
+            "value": "<line-height=30>仮想通貨を購入する為には、生年月を登録する必要があります。<br>年齢によって１ヶ月に購入できる金額が決まっています。<br>正しい生年月を登録してください。"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_CAUTION",
+            "value": "※一度登録した生年月は変更できません"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_TITLE",
+            "value": "1ヶ月の購入可能金額"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_01_TITLE",
+            "value": "0歳以上～15歳以下"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_01_VALUE",
+            "value": "5,000円まで"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_02_TITLE",
+            "value": "16歳以上～19歳以下"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_02_VALUE",
+            "value": "30,000円まで"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_03_TITLE",
+            "value": "20歳以上～"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_03_VALUE",
+            "value": "制限なし"
+        },
+        {
+            "key": "REVIEW_APPLY",
+            "value": "レビューする"
+        },
+        {
+            "key": "REVIEW_COMPLAIN",
+            "value": "ご不満はこちらへ"
+        },
+        {
+            "key": "REVIEW_CLOSE",
+            "value": "レビューしない"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_TITLE",
+            "value": "ユーザーアカウント削除"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_DESC",
+            "value": "ユーザー情報が消えてしまいます。<br>よろしいですか？"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_FINAL_CONFIRM_TITLE",
+            "value": "最終確認"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_FINAL_CONFIRM_DESC",
+            "value": "ユーザー情報が消えてしまいます。<br>本当によろしいですか？"
+        },
+        {
+            "key": "DELETE_USER_FINISH",
+            "value": "ユーザーアカウントを削除しました。"
+        },
+        {
+            "key": "DEMO_SKIP",
+            "value": "<cspace=1>Skip"
+        },
+        {
+            "key": "DEMO_AUTO",
+            "value": "<cspace=1>Auto"
+        },
+        {
+            "key": "DEMO_LOG",
+            "value": "<cspace=1>Log"
+        },
+        {
+            "key": "UNIT_UNLOCK_QUEST_TITLE",
+            "value": "キャラクタークエスト解放"
+        },
+        {
+            "key": "UNIT_UNLOCK_QUEST_DESC",
+            "value": "キャラクタークエストが解放されました。"
+        },
+        {
+            "key": "UNIT_UNLOCK_QUEST_BTN",
+            "value": "キャラクタークエスト"
+        },
+        {
+            "key": "AUTOLAP_SALLY_TITLE",
+            "value": "AUTO周回で出撃します"
+        },
+        {
+            "key": "AUTOLAP_SALLY_DESC",
+            "value": "AUTO周回は<br>初期配置はOFF、同行者はなし<br>でのプレイとなります。"
+        },
+        {
+            "key": "TOWER_QUEST_TYPE_NORMAL",
+            "value": "Normal"
+        },
+        {
+            "key": "TOWER_QUEST_TYPE_EX",
+            "value": "Ex"
+        },
+        {
+            "key": "TOWER_SCORE_TOTAL_ACTION",
+            "value": "累計行動回数"
+        },
+        {
+            "key": "TOWER_SCORE_UNIT_DEAD",
+            "value": "ユニット戦闘不能数"
+        },
+        {
+            "key": "TOWER_SCORE_GIVEUP",
+            "value": "撤退回数"
+        },
+        {
+            "key": "TOWER_SCORE_HEAL",
+            "value": "全ユニット回復数"
+        },
+        {
+            "key": "TOWER_SCORE_CHALLENGE",
+            "value": "挑戦回数"
+        },
+        {
+            "key": "TOWER_SCORE_LOSE",
+            "value": "敗北回数"
+        },
+        {
+            "key": "TOWER_SCORE_RESET",
+            "value": "バトルリセット回数"
+        },
+        {
+            "key": "TOWER_RANKING_SPEED",
+            "value": "スピードランキング"
+        },
+        {
+            "key": "TOWER_RANKING_TECHNICAL",
+            "value": "テクニカルランキング"
+        },
+        {
+            "key": "ARTI_CONDITION_TITLE",
+            "value": "装備可能条件"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_TITLE",
+            "value": "装備可能ジョブ"
+        },
+        {
+            "key": "ARTI_CONDITION_NONE",
+            "value": "装備可能条件なし"
+        },
+        {
+            "key": "ARTI_CONDITION_COUNTRY",
+            "value": "・{0}出身"
+        },
+        {
+            "key": "ARTI_CONDITION_SEX",
+            "value": "・{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_UNIT",
+            "value": "・{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_RARITY",
+            "value": "・レアリティ {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_AWAKE",
+            "value": "・覚醒数 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_RANK",
+            "value": "・限界突破数 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_SERIES",
+            "value": "・シリーズ {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_NONE",
+            "value": "すべてのジョブで装備可能です"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
+            "value": "ユニット詳細"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
+            "value": "※覚醒★{0}/限界突破{1}/Lv・全JobLvがMax時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
+            "value": "ビジョンカード詳細"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
+            "value": "※覚醒★{0}/LvMax時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
+            "value": "召喚獣詳細"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
+            "value": "※召喚獣は初回のみ入手できます"
+        },
+        {
+            "key": "VISION_DETAIL_STATUS",
+            "value": "ステータス"
+        },
+        {
+            "key": "VISION_DETAIL_INFO",
+            "value": "情報"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_EFF",
+            "value": "付与効果"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE_BONUS",
+            "value": "覚醒ボーナス"
+        },
+        {
+            "key": "VISION_DETAIL_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_STATUS",
+            "value": "<cspace=0.5>Status"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_SYNCHRO",
+            "value": "共鳴度"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_RESIST",
+            "value": "耐性"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
+            "value": "召喚獣育成ボード"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
+            "value": "召喚獣強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
+            "value": "一括強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
+            "value": "召喚獣Lv.が最大です"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
+            "value": "現在の召喚獣Lv.MAXに必要な経験値を超えますがよろしいですか？"
+        },
+        {
+            "key": "UNIT_DETAIL_AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP",
+            "value": "限界突破"
+        },
+        {
+            "key": "UNIT_DETAIL_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "UNIT_DETAIL_STATUS_DETAIL",
+            "value": "ステータス詳細"
+        },
+        {
+            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
+            "value": "トラストマスター報酬"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_BORD",
+            "value": "アビリティボード"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_SET",
+            "value": "アビリティセット"
+        },
+        {
+            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
+            "value": "召喚獣育成ボード"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_AWAKE",
+            "value": "覚醒"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ABILITY",
+            "value": "アビリティ"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
+            "value": "<cspace=0.5>Trust"
+        },
+        {
+            "key": "UNIT_DETAIL_RANK_LIMIT",
+            "value": "Rank上限"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ON",
+            "value": "お気に入り登録しました"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_OFF",
+            "value": "お気に入り登録解除しました"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP_CONDITION",
+            "value": "限界突破「{0}」で解放"
+        },
+        {
+            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
+            "value": "武具熟練度"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP",
+            "value": "装備"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI",
+            "value": "お気に入り武具"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
+            "value": "設定"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
+            "value": "強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
+            "value": "強化素材がありません"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
+            "value": "一括強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
+            "value": "強化確認"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
+            "value": "ユニットLv.が最大です"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
+            "value": "現在のユニットLv.MAXに必要な経験値を超えますがよろしいですか？"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
+            "value": "Main"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
+            "value": "必要ユニット Lv."
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
+            "value": "ジョブ強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
+            "value": "ジョブ強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
+            "value": "<cspace=-1>JobLv.上限に達しています"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
+            "value": "<cspace=-1>素材が不足しています"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITYSET_SET",
+            "value": "SET"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_STATUS",
+            "value": "<cspace=0.6>Unit Status"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_JOB",
+            "value": "<cspace=0.6>Job"
+        },
+        {
+            "key": "UNIT_ARTI_SET_TITLE",
+            "value": "武具装備"
+        },
+        {
+            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
+            "value": "耐性表示"
+        },
+        {
+            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
+            "value": "装備中の武具を除く"
+        },
+        {
+            "key": "UNIT_ARTI_SET_REMOVE",
+            "value": "はずす"
+        },
+        {
+            "key": "UNIT_ARTI_SET_CONFIRM",
+            "value": "別のユニットが既に装備済です。<br>それでも装備しますか？<br>（装備済のユニットからは<br>装備が外されます。）"
+        },
+        {
+            "key": "ARTI_STATUS_ADD_NONE",
+            "value": "付加能力なし"
+        },
+        {
+            "key": "ARTI_STATUS_WA_TITLE",
+            "value": "WA"
+        },
+        {
+            "key": "ARTI_STATUS_LB_TITLE",
+            "value": "LB"
+        },
+        {
+            "key": "ARTI_STATUS_LB_ENHANCE",
+            "value": "が装備"
+        },
+        {
+            "key": "TRUST_MASTER_TITLE",
+            "value": "トラストマスター報酬"
+        },
+        {
+            "key": "TRUST_MASTER_CONDITION",
+            "value": "限界突破5・覚醒★6で獲得"
+        },
+        {
+            "key": "TRUST_MASTER_COMPLETE",
+            "value": "獲得済み"
+        },
+        {
+            "key": "QRCODE_TAKE_TITLE",
+            "value": "シリアルコード"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
+            "value": "シリアルコードを取り込みました。<br>ホームで確認してください。"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_HOME",
+            "value": "シリアルコードを取り込みました。<br>ホームに戻ります。"
+        },
+        {
+            "key": "DENY",
+            "value": "Deny"
+        },
+        {
+            "key": "IAP_CUR_4217",
+            "value": "EUR;CHF;USD;"
+        },
+        {
+            "key": "CURRENCY_SEPARATOR",
+            "value": "."
+        },
+        {
+            "key": "CONNECT_SELECT_ACCOUNTBINDING",
+            "value": "Account Binding"
+        },
+        {
+            "key": "TARGETADV_AGE_TITLE",
+            "value": "Age Verification"
+        },
+        {
+            "key": "TARGETADV_AGE_CONTENT",
+            "value": "You must be {0} years old and above to receive Personalized Advertising."
+        },
+        {
+            "key": "TARGETADV_AGE_YES",
+            "value": "I am {0} years old and above."
+        },
+        {
+            "key": "TARGETADV_AGE_NO",
+            "value": "I am below {0} years old."
+        },
+        {
+            "key": "TARGETADV_TITLE",
+            "value": "Advertising Consent"
+        },
+        {
+            "key": "TARGETADV_CONTENT",
+            "value": "Would you like to see Personalized or Non-Personalized Advertising?"
+        },
+        {
+            "key": "TARGETADV_OPTION_PERSO",
+            "value": "Personalized"
+        },
+        {
+            "key": "TARGETADV_OPTION_NONPERSO",
+            "value": "Non-Personalized"
+        },
+        {
+            "key": "LANGUAGE_SELECT_TITLE",
+            "value": "Language"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONTENT",
+            "value": "Please select your preferred language.<br>(You can change this later)"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_TITLE",
+            "value": "Language Confirmation"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_CONTENT",
+            "value": "You are switching languages from:<br><color=#F0C040>{0}</color> > <color=#00BB00>{1}</color>.<br><br>Additional downloads will be required and a connection to a Wi-Fi environment is recommended.<br><br>You will be returned to the Main Title Screen. Do you wish to proceed?"
+        },
+        {
+            "key": "NEWGAME_TITLE",
+            "value": "Start Game"
+        },
+        {
+            "key": "NEWGAME_BTN",
+            "value": "New Game"
+        },
+        {
+            "key": "CONTINUE_BTN",
+            "value": "Continue"
+        },
+        {
+            "key": "ACCOUNT_BINDING_TITLE",
+            "value": "Account Binding"
+        },
+        {
+            "key": "ACCOUNT_BINDING_APPLE",
+            "value": "Sign in with Apple"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GOOGLE",
+            "value": "Sign in with Google"
+        },
+        {
+            "key": "ACCOUNT_BINDING_FACEBOOK",
+            "value": "Log in with Facebook"
+        },
+        {
+            "key": "ACCOUNT_BINDING_SQEX",
+            "value": "SQEX Account Login"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GUEST",
+            "value": "Guest"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE",
+            "value": "Download Data"
+        },
+        {
+            "key": "DLC_CHECK_WW_DESC",
+            "value": "DLC Data <color=#F0C040>(Approximately {0}MB)</color><br>A <color=#F0C040>Wi-Fi connection</color> is recommended.<br>(You can change this later)"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_EN",
+            "value": "With English Voiceover"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_JA",
+            "value": "With Japanese Voiceover"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_OFF",
+            "value": "Without Voiceover (Less Data Consumption)"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_TITLE",
+            "value": "Warning"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_DESC",
+            "value": "<color=#F0C040>Account binding failed</color><br>Please try again"
+        },
+        {
+            "key": "FEATURE_DISABLED_CBT",
+            "value": "<color=#F0C040>Function Temporarily disabled for CBT.</color>"
+        },
+        {
+            "key": "LANG_JAPANESE",
+            "value": "Japanese"
+        },
+        {
+            "key": "LANG_ENGLISH",
+            "value": "English"
+        },
+        {
+            "key": "LANG_FRENCH",
+            "value": "French"
+        },
+        {
+            "key": "LANG_GERMAN",
+            "value": "German"
+        },
+        {
+            "key": "LANG_SPANISH",
+            "value": "Spanish"
+        },
+        {
+            "key": "LANG_KOREAN",
+            "value": "Korean"
+        },
+        {
+            "key": "LANG_CHINESE_ZH",
+            "value": "Chinese (Traditional)"
+        },
+        {
+            "key": "STATUS_NBEAST_TYPE_RARE_MONSTER",
+            "value": "Rare Monster"
+        },
+        {
+            "key": "SELECTLIST_NO_UNITS",
+            "value": "該当するユニットが存在しません"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_EFFECT_OVERLAP",
+            "value": "効果重複"
+        },
+        {
+            "key": "CONNECT_SELECT_SUCCESS_TITLE",
+            "value": "SNS connect success"
+        },
+        {
+            "key": "CONNECT_APPLE_TITLE",
+            "value": "Apple Connect"
+        },
+        {
+            "key": "CONNECT_DEVICE_NOT_SUPPORT_DESC",
+            "value": "Apple ID login unsuccessful. Please confirm that your Apple ID has two-factor authentication (2FA) enabled, and that you are signed into iCloud on your iOS 13 (or higher) device."
+        },
+        {
+            "key": "CONNECT_WARNING_TITLE",
+            "value": "Warning"
+        },
+        {
+            "key": "CONNECT_DISCONNECT_PREVIOUS_ACC_DESC",
+            "value": "新しい端末に変更する場合、ゲームデータの引き継ぎにはアカウント連携が必要です。<br>各ソーシャルアカウントと連携できる回数はそれぞれ1回までです。変更する場合、現在連携しているソーシャルアカウントとの再連携はできません。<br>本当に続行しますか？"
+        },
+        {
+            "key": "MULTI_ROOM_SETTING_PASSWORD_DISABLE",
+            "value": "変更不可"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_CANCEL",
+            "value": "適用"
+        },
+        {
+            "key": "TIPS_BACK",
+            "value": "<< Back"
+        },
+        {
+            "key": "TIPS_NEXT",
+            "value": "Next >>"
+        },
+        {
+            "key": "STATUS_TITLE",
+            "value": "<cspace=0.6>Unit Status"
+        },
+        {
+            "key": "SUPPORT_MAIL_DESC_GL",
+            "value": "<line-height=30>Once you have submitted an inquiry, you will receive an automatic reply acknowledging your inquiry. Please check to ensure that your e-mail settings allow you to receive messages from the domain [@wotvffbe.com]. <br>*Depending on your e-mail software, the reply may be sorted into your spam folder. <br><br>The following information will be referenced in the e-mail. <br>-Player ID <br>-App Version <br>-DLC Version <br>-Player Name <br>-Device Used <br>-OS Version Used <br><br>Regarding Inquiries <br>-It may take time for a response to be sent, and depending on the nature of your question, it may not be possible for us to respond to your inquiry. <br>*The support window is unavailable during weekends, holidays, and company closures, and replies will be sent out on the following business day. <br>-We will receive/respond to your inquiry via e-mail. <br>-Regarding bugs and other inquiries that are already mentioned in our notices or on the official website, please understand that we may answer your question via public announcement. <br>-We will not respond to inquiries regarding game walkthroughs or strategies. <br>-As a general rule, we do not respond to opinions or requests about the game, but your input will be taken into consideration as reference for future developments. <br>-Responses to inquiries will be handled by gumi Inc. <br>-Please visit the following site for more information regarding gumi Inc's handling of personal information."
+        },
+        {
+            "key": "EXPENDITION_ITEM_TIMES",
+            "value": "time(s)"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_TITLE",
+            "value": "Warning"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_DESC",
+            "value": "In order to enable the speech-to-text feature, we need access to your microphone. Go to your device's Settings app to enable the permissions."
+        },
+        {
+            "key": "TTS_SPEECH_RATE_SLOW",
+            "value": "Slow"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_NORMAL",
+            "value": "Normal"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_FAST",
+            "value": "Fast"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_TITLE",
+            "value": "Permission Request"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_DESCRIPTION",
+            "value": "In order to enable various functions in the game, we need access to your storage.\\nPlease accept the permission on the next screen to proceed.\\nAlternatively, you can go to Settings to enable the permission."
+        },
+        {
+            "key": "PERMISSION_ANDROID_REQUEST",
+            "value": "Permission"
+        },
+        {
+            "key": "PERMISSION_ANDROID_SETTING",
+            "value": "Settings"
+        },
+        {
+            "key": "DAY_TEXT",
+            "value": "日"
+        },
+        {
+            "key": "HOUR_TEXT",
+            "value": "時"
+        },
+        {
+            "key": "MINUTE_TEXT",
+            "value": "分"
+        },
+        {
+            "key": "MONTH_TEXT",
+            "value": "月"
+        },
+        {
+            "key": "SECOND_TEXT",
+            "value": "秒"
+        },
+        {
+            "key": "YEAR_TEXT",
+            "value": "年"
+        },
+        {
+            "key": "RECOMMEND_TEAM_CAUTION",
+            "value": "<line-height=26>※ユニット・武具・召喚獣・ビジョンカードが、<br>設定された項目に沿って自動的に編成されます。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_LIMITBURST",
+            "value": "リミットバースト武具を優先"
+        },
+        {
+            "key": "DEBUG_SELECT_TUTORIAL_TITLE",
+            "value": "スキップ確認"
+        },
+        {
+            "key": "DEBUG_SELECT_TUTORIAL",
+            "value": "冒頭のチュートリアルバトルを<br>行いますか？"
+        },
+        {
+            "key": "DATA_CONNECT_ERROR_TITLE",
+            "value": "IDか引き継ぎパスワードが間違っています。<br>データ引き継ぎ元の端末でIDと<br>引き継ぎパスワードをご確認の上再度入力してください。"
+        },
+        {
+            "key": "DATA_CONNECT_SUCCESS_TITLE",
+            "value": "データ引き継ぎの処理が完了しました。<br>以前のデータからゲームを再開します。"
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "SNS account limit reached"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "SNS account connection limit reached"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "SNS limit reached"
+        },
+        {
+            "key": "MEMORIE_MENU_STORY",
+            "value": "ストーリー"
+        },
+        {
+            "key": "MEMORIE_MENU_EVENT",
+            "value": "イベント"
+        },
+        {
+            "key": "MEMORIE_MENU_MOVIE",
+            "value": "ムービー"
+        },
+        {
+            "key": "MEMORIE_MENU_SUMMON",
+            "value": "召喚獣"
+        },
+        {
+            "key": "MEMORIE_MOVIE_SKIP_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "MEMORIE_MOVIE_SKIP_DESC",
+            "value": "動画をスキップしますか？"
+        },
+        {
+            "key": "MEMORIE_STORY_PLAY_DESC",
+            "value": "ストーリーを再生します。<br>よろしいですか？"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "infos": [
+        {
+            "key": "ffc2f38f-daa9-4d72-8457-273e13a07b54",
+            "value": "TP_TITLE1_ES"
+        },
+        {
+            "key": "xxc2f38f-daa9-4d72-8457-273e13a07b54",
+            "value": "TP_TITLE2_ES"
+        },
+        {
+            "key": "ID_1",
+            "value": "Título de lote 1"
+        },
+        {
+            "key": "ID_2",
+            "value": "Título de lote 2"
+        },
+        {
+            "key": "ID_3",
+            "value": "Título de lote 3"
+        },
+        {
+            "key": "ID_4",
+            "value": "Título de lote 4"
+        },
+        {
+            "key": "ID_5",
+            "value": "Título de lote 5"
+        }
+    ]
+}

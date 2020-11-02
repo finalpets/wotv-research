@@ -1,0 +1,572 @@
+{
+    "infos": [
+        {
+            "key": "GMG_NORMAL",
+            "value": "ギルドミッション"
+        },
+        {
+            "key": "MG_DAILY_001",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_FF14",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_GUILD",
+            "value": "Guild Daily Event Quest"
+        },
+        {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "Guild Support Campaign Mission"
+        },
+        {
+            "key": "MG_STORY_001",
+            "value": "ストーリークエスト第1部"
+        },
+        {
+            "key": "MG_VIP_LOGB_01",
+            "value": "Royalログインボーナス"
+        },
+        {
+            "key": "MG_PR_001",
+            "value": "幻導石消費"
+        },
+        {
+            "key": "MG_PR_002",
+            "value": "仲間を増やそう"
+        },
+        {
+            "key": "MG_PR_003",
+            "value": "ユニットを覚醒しよう"
+        },
+        {
+            "key": "MG_PR_004",
+            "value": "ユニットを限界突破しよう"
+        },
+        {
+            "key": "MG_SBQ_001",
+            "value": "サブクエストをクリアしよう"
+        },
+        {
+            "key": "MG_MP_SAMPLE_01",
+            "value": "ミッションパックサンプル01"
+        },
+        {
+            "key": "MG_MP_QEST_01",
+            "value": "ストーリークエストパックⅠ"
+        },
+        {
+            "key": "MG_MP_QEST_02",
+            "value": "ストーリークエストパックⅡ"
+        },
+        {
+            "key": "MG_MP_QEST_03",
+            "value": "ストーリークエストパックⅢ"
+        },
+        {
+            "key": "MG_MP_QEST_04",
+            "value": "ストーリークエストパックⅣ"
+        },
+        {
+            "key": "MG_MP_QEST_05",
+            "value": "ストーリークエストパックⅤ"
+        },
+        {
+            "key": "MG_MP_QEST_06",
+            "value": "ストーリークエストパックⅥ"
+        },
+        {
+            "key": "MG_MP_QEST_07",
+            "value": "ストーリークエストパックⅦ"
+        },
+        {
+            "key": "MG_MP_GL_RANK_01",
+            "value": "プレイヤーRankパックⅠ"
+        },
+        {
+            "key": "MG_MP_GL_RANK_02",
+            "value": "プレイヤーRankパックⅡ"
+        },
+        {
+            "key": "MG_MP_GL_RANK_03",
+            "value": "プレイヤーRankパックⅢ"
+        },
+        {
+            "key": "MG_MONDAY_001",
+            "value": "月曜ミッション"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_01",
+            "value": "レイド参加デイリーミッション"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_02",
+            "value": "レイド参加デイリーミッション"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_03",
+            "value": "レイド参加デイリーミッション"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_04",
+            "value": "レイド参加デイリーミッション"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_05",
+            "value": "レイド参加デイリーミッション"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_06",
+            "value": "レイド参加デイリーミッション"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_07",
+            "value": "レイド参加デイリーミッション"
+        },
+        {
+            "key": "MG_FF14_1_01",
+            "value": "Final Fantasy XIV 漆黒の反逆者"
+        },
+        {
+            "key": "MG_FF14_1_02",
+            "value": "Final Fantasy XIV 漆黒の反逆者 【EX】"
+        },
+        {
+            "key": "MG_FFT_1_01",
+            "value": "FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_1_02",
+            "value": "FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "MG_FFT_1_03",
+            "value": "【マルチ】FINAL FANTASY TACTICS 【EX】"
+        },
+        {
+            "key": "MG_FFT_1_M_01",
+            "value": "FINAL FANTASY TACTICS 【中級】"
+        },
+        {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINAL FANTASY I 【中級】"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I 【EX】"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "【マルチ】FINAL FANTASY I 【EX】"
+        },
+        {
+            "key": "MG_EV_IGNT_01",
+            "value": "鉄巨人チャレンジ"
+        },
+        {
+            "key": "MG_MU_IGNT_01",
+            "value": "【マルチ】鉄巨人チャレンジ"
+        },
+        {
+            "key": "MG_EV_CSLI_01",
+            "value": "チョコプリンチャレンジ"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "【マルチ】チョコプリンチャレンジ"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "オチューチャレンジ"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "【マルチ】オチューチャレンジ"
+        },
+        {
+            "key": "MG_EV_ART_CRF_01",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "MG_EV_ART_CRF_02",
+            "value": "超高難度 武具育成クエスト"
+        },
+        {
+            "key": "MG_MU_ART_CRF_02",
+            "value": "【マルチ】超高難度 武具育成クエスト"
+        },
+        {
+            "key": "MG_EV_ART_CRF_03",
+            "value": "武具育成クエスト"
+        },
+        {
+            "key": "MG_MU_ART_CRF_03",
+            "value": "【マルチ】武具育成クエスト"
+        },
+        {
+            "key": "MG_EV01_1_01",
+            "value": "憧れの王子様"
+        },
+        {
+            "key": "MG_EV01_1_02",
+            "value": "憧れの王子様 【EX】"
+        },
+        {
+            "key": "MG_MU_EV01_1_02",
+            "value": "【マルチ】憧れの王子様 【EX】"
+        },
+        {
+            "key": "MG_EV02_1_01",
+            "value": "西の脅威ランダル"
+        },
+        {
+            "key": "MG_EV02_1_02",
+            "value": "西の脅威ランダル【EX】"
+        },
+        {
+            "key": "MG_MU_EV02_1_01",
+            "value": "【マルチ】西の脅威ランダル【EX】"
+        },
+        {
+            "key": "MG_EV03_1_01",
+            "value": "命を燃やし尽くすために"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "命を燃やし尽くすために 【EX】"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "【マルチ】命を燃やし尽くすために 【EX】"
+        },
+        {
+            "key": "MG_EV04_1_01",
+            "value": "東方遥かなり"
+        },
+        {
+            "key": "MG_EV04_1_02",
+            "value": "東方遥かなり 【EX】"
+        },
+        {
+            "key": "MG_MU_EV04_1_02",
+            "value": "【マルチ】東方遥かなり 【EX】"
+        },
+        {
+            "key": "MG_ETRE01_01",
+            "value": "エトア育成クエスト"
+        },
+        {
+            "key": "MG_ETRE01_02",
+            "value": "高難度　エトア育成　EXクエスト"
+        },
+        {
+            "key": "MG_MU_ETRE01_01",
+            "value": "【マルチ】高難度　エトア育成　EXクエスト"
+        },
+        {
+            "key": "MG_THLA01_01",
+            "value": "サリアの欠片獲得クエスト"
+        },
+        {
+            "key": "MG_THLA01_02",
+            "value": "高難度　サリアの欠片獲得　EXクエスト"
+        },
+        {
+            "key": "MG_MU_THLA01_01",
+            "value": "【マルチ】高難度　サリアの欠片獲得　EXクエスト"
+        },
+        {
+            "key": "MG_EV_ART_SCR_00",
+            "value": "高難度　秘伝書獲得クエスト"
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト"
+        },
+        {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "高難度　秘伝書獲得クエスト１"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト１"
+        },
+        {
+            "key": "MG_EV_ART_SCR_02",
+            "value": "高難度　秘伝書獲得クエスト２"
+        },
+        {
+            "key": "MG_MU_ART_SCR_02",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト２"
+        },
+        {
+            "key": "MG_EV_SCR_01",
+            "value": "高難度　秘伝書獲得クエスト(剣、大剣、斧)"
+        },
+        {
+            "key": "MG_MU_SCR_01",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(剣、大剣、斧)"
+        },
+        {
+            "key": "MG_EV_SCR_02",
+            "value": "高難度　秘伝書獲得クエスト(槍、拳、銃)"
+        },
+        {
+            "key": "MG_MU_SCR_02",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(槍、拳、銃)"
+        },
+        {
+            "key": "MG_EV_SCR_03",
+            "value": "高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
+        },
+        {
+            "key": "MG_MU_SCR_03",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(防具、アクセサリ、忍刀)"
+        },
+        {
+            "key": "MG_EV_SCR_04",
+            "value": "高難度　秘伝書獲得クエスト(杖、刀、短剣)"
+        },
+        {
+            "key": "MG_MU_SCR_04",
+            "value": "【マルチ】高難度　秘伝書獲得クエスト(杖、刀、短剣)"
+        },
+        {
+            "key": "MG_DAILY_002_5",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_002_6",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_002_7",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_002_1",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_002_2",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_002_3",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_002_4",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_DAILY_003_7",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "MG_MONTHLY_001_1",
+            "value": "【マンスリーミッション】ストーリークエスト"
+        },
+        {
+            "key": "MG_MONTHLY_001_2",
+            "value": "【マンスリーミッション】ハードクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_001_3",
+            "value": "【マンスリーミッション】マルチクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_001_4",
+            "value": "【マンスリーミッション】経験の間"
+        },
+        {
+            "key": "MG_MONTHLY_001_5",
+            "value": "【マンスリーミッション】アリーナ"
+        },
+        {
+            "key": "MG_MONTHLY_001_6",
+            "value": "【マンスリーミッション】ギルドバトル"
+        },
+        {
+            "key": "MG_MONTHLY_001_7",
+            "value": "【マンスリーミッション】ギルド石像"
+        },
+        {
+            "key": "MG_MONTHLY_GL_01",
+            "value": "【マンスリーミッション】探検チョコボ"
+        },
+        {
+            "key": "MG_MONTHLY_002_1",
+            "value": "【マンスリーミッション】ストーリークエスト"
+        },
+        {
+            "key": "MG_MONTHLY_002_2",
+            "value": "【マンスリーミッション】ハードクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_002_3",
+            "value": "【マンスリーミッション】マルチクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_002_4",
+            "value": "【マンスリーミッション】経験の間"
+        },
+        {
+            "key": "MG_MONTHLY_002_5",
+            "value": "【マンスリーミッション】アリーナ"
+        },
+        {
+            "key": "MG_MONTHLY_002_6",
+            "value": "【マンスリーミッション】探検チョコボ"
+        },
+        {
+            "key": "MG_MONTHLY_002_7",
+            "value": "【マンスリーミッション】ギルド石像"
+        },
+        {
+            "key": "MG_MONTHLY_003_1",
+            "value": "【マンスリーミッション】ストーリークエスト"
+        },
+        {
+            "key": "MG_MONTHLY_003_2",
+            "value": "【マンスリーミッション】ハードクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_003_3",
+            "value": "【マンスリーミッション】マルチクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_003_4",
+            "value": "【マンスリーミッション】経験の間"
+        },
+        {
+            "key": "MG_MONTHLY_003_5",
+            "value": "【マンスリーミッション】アリーナ"
+        },
+        {
+            "key": "MG_MONTHLY_003_6",
+            "value": "【マンスリーミッション】探検チョコボ"
+        },
+        {
+            "key": "MG_MONTHLY_003_7",
+            "value": "【マンスリーミッション】ギルド石像"
+        },
+        {
+            "key": "MG_MONTHLY_004_1",
+            "value": "【マンスリーミッション】ストーリークエスト"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "【マンスリーミッション】ハードクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "【マンスリーミッション】マルチクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "【マンスリーミッション】経験の間"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "【マンスリーミッション】アリーナ"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "【マンスリーミッション】探検チョコボ"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "【マンスリーミッション】ギルド石像"
+        },
+        {
+            "key": "MG_MONTHLY_005_1",
+            "value": "【マンスリーミッション】ストーリークエスト"
+        },
+        {
+            "key": "MG_MONTHLY_005_2",
+            "value": "【マンスリーミッション】ハードクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_005_3",
+            "value": "【マンスリーミッション】マルチクエスト"
+        },
+        {
+            "key": "MG_MONTHLY_005_4",
+            "value": "【マンスリーミッション】経験の間"
+        },
+        {
+            "key": "MG_MONTHLY_005_5",
+            "value": "【マンスリーミッション】アリーナ"
+        },
+        {
+            "key": "MG_MONTHLY_005_6",
+            "value": "【マンスリーミッション】探検チョコボ"
+        },
+        {
+            "key": "MG_MONTHLY_005_7",
+            "value": "【マンスリーミッション】ギルド石像"
+        },
+        {
+            "key": "MG_LAPS_P_LUCA",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_LAPS_P_VKTR",
+            "value": "期間限定幻導石消費"
+        },
+        {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_LAPS_P_WROL",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_LAPS_P_QILF",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "期間限定幻導石消費ボーナス"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "カムバックミッション"
+        }
+    ]
+}

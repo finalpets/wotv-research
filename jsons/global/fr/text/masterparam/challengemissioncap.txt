@@ -1,0 +1,68 @@
+{
+    "infos": [
+        {
+            "key": "CM_PRO_001_1",
+            "value": "Missions du défi nº 1"
+        },
+        {
+            "key": "CM_PRO_001_2",
+            "value": "Missions du défi nº 2"
+        },
+        {
+            "key": "CM_PRO_001_3",
+            "value": "Missions du défi nº 3"
+        },
+        {
+            "key": "CM_PRO_GL_001_1",
+            "value": "Entraînez Shadowlynx"
+        },
+        {
+            "key": "CM_PRO_GL_001_2",
+            "value": "Brisez la limite de Shadowlynx"
+        },
+        {
+            "key": "CM_PRO_GL_001_3",
+            "value": "Éveillez Shadowlynx"
+        },
+        {
+            "key": "CM_PRO_GL_001_4",
+            "value": "Progressez dans les quêtes d'histoire"
+        },
+        {
+            "key": "CM_PRO_002_1",
+            "value": "Mission du défi FFT nº 1"
+        },
+        {
+            "key": "CM_PRO_002_2",
+            "value": "Mission du défi FFT nº 2"
+        },
+        {
+            "key": "CM_PRO_004_1",
+            "value": "Missions du défi MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "CM_PRO_005_1",
+            "value": "Missions du défi FFI"
+        },
+        {
+            "key": "CM_PRO_006_1",
+            "value": "Missions du défi FFT [Partie II]"
+        },
+        {
+            "key": "CM_PRO_011_1",
+            "value": "Missions du défi FFCCRE nº 1"
+        },
+        {
+            "key": "CM_PRO_011_2",
+            "value": "Missions du défi FFCCRE nº 2"
+        },
+        {
+            "key": "CM_PRO_013_1",
+            "value": "Missions du défi d'entraînement de Rairyuu (Halloween) (UR)"
+        },
+        {
+            "key": "CM_PRO_GL_RYER_01_1",
+            "value": "Missions du défi d'entraînement de Lillyla (Halloween) (UR)"
+        }
+    ]
+}

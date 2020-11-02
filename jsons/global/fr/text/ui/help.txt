@@ -1,0 +1,1184 @@
+{
+    "infos": [
+        {
+            "key": "HOMETOP_TITLE",
+            "value": "Écran d'accueil"
+        },
+        {
+            "key": "HOMETOP_DESC",
+            "value": "■ Écran d'accueil<br>Depuis cet écran, vous pouvez accéder à vos cadeaux, aux annonces, aux événements en cours et à d'autres informations importantes.<br>Une notification apparaît au coin des icônes quand vous pouvez entraîner une unité, que vous avez des récompenses à récupérer ou qu'une nouvelle mise à jour est disponible.<br><br>Vous pouvez restaurer votre endurance ou acheter des visiores en appuyant sur les boutons + en haut de l'écran.<br><br>■ Paramètres des unités de l'écran d'accueil<br>Vous pouvez décider quelle unité vous souhaitez afficher sur l'écran d'accueil en appuyant sur le bouton en bas à gauche de l'écran."
+        },
+        {
+            "key": "BUYLAPIS_TITLE",
+            "value": "Acheter des visiores"
+        },
+        {
+            "key": "BUYLAPIS_DESC",
+            "value": "■Visiores<br>Les visiores sont des objets de valeur qui vous permettent d'invoquer des unités, d'acheter des objets dans la boutique ou encore de restaurer votre endurance. <br>En achetant des visiores, vous pouvez obtenir des « visiores payés » ou des « visiores bonus ». <br><br>*Les visiores payés et les visiores bonus ne peuvent être utilisés que sur la plateforme depuis laquelle vous les avez achetés. <br>*Les visiores sont consommés dans l'ordre de priorité suivant :<br>Visiores bonus > Visiores gratuits > Visiores payés. <br><br>■ Passe<br>Cette fonctionnalité vous permet de bénéficier de plusieurs avantages au cours de votre achat. <br>Ces avantages se reflèteront une fois que l'achat du passe apparaîtra dans le jeu. La période de validité débutera alors le jour suivant à 00:00, heure universelle (PST). <br>Pour davantage d'informations concernant ses avantages et sa période de validité, veuillez consulter la rubrique « Détails » depuis l'écran d'achat. <br><br>*Si vous utilisez le même compte pour vous procurer des passes sur différentes plateformes, les avantages des passes seront alors divisés entre les différentes plateformes. <br><br>*Notez que vous ne serez pas en mesure de modifier votre date de naissance une fois que vous l'aurez enregistrée. <br><br>■ Reflet des achats dans l'application <br>En fonction de votre connexion ou de votre boutique d'applications, vos achats peuvent mettre un certain temps avant de se refléter dans le jeu. <br>Assurez-vous d'utiliser une connexion stable avant de procéder à quelque achat que ce soit."
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "Rang royal"
+        },
+        {
+            "key": "VIP_DESC",
+            "value": "La royauté est une caractéristique spéciale qui vous confère certains privilèges. Vous trouverez plus d'informations sur ces effets bonus en appuyant sur le bouton Royauté dans le menu d'achat des visiores. Vous gagnez les points de royauté qui augmentent votre rang royal en achetant des visiores. Plus vous en achetez, plus votre rang royal augmente."
+        },
+        {
+            "key": "APHEAL_TITLE",
+            "value": "Restaurer les points d'endurance"
+        },
+        {
+            "key": "APHEAL_DESC",
+            "value": "Vous récupérez 1 point d'endurance toutes les 3 minutes jusqu'à ce que la jauge soit pleine.<br><br>■Restaurer l'endurance avec des visiores.<br>• Prix en visiores : plus vous restaurez votre endurance, plus le prix en visiores augmentera.<br>Niveau de l'endurance restaurée : l'endurance sera restaurée jusqu'au niveau maximum à chaque fois.<br><br>■ Restaurer l'endurance avec des objets<br>• Objets de restauration : les objets de restauration d'endurance peuvent être obtenus en récompense après avoir participé à une mission, par exemple.<br>• Niveau d'endurance restaurée : chaque objet restaure une quantité différente d'endurance, qui change à mesure que vous les utilisez.<br><br>Vous ne pouvez pas restaurer plus de 1 000 points d'endurance.<br><br>■ Restauration automatique de l'endurance avec le rang de joueur<br>Lorsque votre rang de joueur augmente, votre endurance débloque une nouvelle limite maximum. Vous restaurez alors un nombre de points d'endurance égal à cette nouvelle limite maximum.<br><br>Exemple : si le niveau de votre endurance est à 20/35 et que votre rang de joueur augmente à 36, alors votre endurance passera automatiquement à 56/36."
+        },
+        {
+            "key": "EXPEDITION_TITLE",
+            "value": "Expédition chocobo"
+        },
+        {
+            "key": "EXPEDITION_DESC",
+            "value": "■ Les expéditions chocobo<br>Les expéditions chocobo vous permettent de former un groupe d'expédition avec les unités que vous possédez afin de les lancer à l'aventure dans certains endroits pour obtenir différents objets.<br>Les objets obtenus dans les expéditions chocobo varient en fonction de l'endroit exploré.<br><br>■ Le groupe d'expédition<br>Vous pouvez choisir les unités que vous souhaitez envoyer en expédition.<br>En fonction de la composition du groupe, différents bonus vous seront accordés.<br>Vous pouvez aussi débloquer jusqu'à cinq emplacements d'unités au total.<br>Enfin, vous pourrez même envoyer un second groupe d'unité en expédition à partir d'un certain rang royal.<br><br>■ Bonus des unités<br>En fonction de la composition du groupe, différents bonus vous seront accordés.<br>Si deux unités possèdent le même bonus, le plus puissant des deux sera appliqué.<br><br>Prenons par exemple un cas où ces deux bonus d'unités sont applicables : <br>A : augmente considérablement le taux d'apparition et multiplie le taux d'obtention d'EXP du groupe par 1,5.<br>B : augmente considérablement le taux d'apparition rare et multiplie le taux d'obtention d'EXP du groupe par 1,3.<br>Dans ce cas-ci, seul le bonus A sera accordé."
+        },
+        {
+            "key": "BEGINNER_TITLE",
+            "value": "Hall du Débutant"
+        },
+        {
+            "key": "BEGINNER_DESC",
+            "value": "Dans le Hall du Débutant, vous trouverez des quêtes qui vous prépareront mieux aux conditions réelles de combat que le tutoriel.<br>Dans ces quêtes de débutants, vous suivez les instructions mais contrôlez librement les unités qui vous sont données afin de remplir les conditions qui vous mèneront vers la victoire.<br>Vous y trouverez également beaucoup de conseils et astuces pour vous aider à progresser dans le jeu."
+        },
+        {
+            "key": "GACHA_TITLE",
+            "value": "Invocation"
+        },
+        {
+            "key": "GACHA_DESC",
+            "value": "■ Invocations rares<br>Elles vous permettent d'obtenir des unités et des atouts-visions.<br><br>■ Invocations normales<br>Elles vous permettent d'obtenir des unités et des objets utiles.<br><br>■ Tickets d'invocation<br>Les tickets d'invocation ne sont utilisables que dans les invocations spéciales.<br><br>Si lors d'une invocation, vous obtenez une unité ou un Atout-Vision que vous possédez déjà, vous recevrez à la place des fragments correspondant à la rareté de cette unité ou de cet Atout-Vision. <br>Vous avez également une chance d'obtenir un orbe de vision, qui vous servira à éveiller un Atout-Vision ou à débloquer la limite d'une unité.<br><br>Vous n'obtiendrez pas plus de fragments que le nombre maximum requis pour l'éveil ou le déblocage de limite.<br>Si vous possédez déjà tous les fragments, vous recevrez alors, en fonction de leur rareté, des médailles d'âmes à la place des fragments d'unité ou des médailles de vision à la place des fragments d'Atout-Vision.<br>Ces médailles peuvent être échangées contre des objets dans la boutique de Mog.<br><br>■ Taux d'apparition<br>Pour plus d'informations concernant ce qui peut être invoqué et leur pourcentage d'apparition, appuyez sur le bouton « Taux d'apparition ».<br><br>■ Caractéristiques<br>Appuyez sur le bouton « Caractéristiques » pour voir les détails des unités ou des atouts-visions du moment."
+        },
+        {
+            "key": "GACHA_DESC_GL",
+            "value": "■ Invocations rares<br>Elles vous permettent d'obtenir des unités et des atouts-visions.<br><br>■ Invocations normales<br>Elles vous permettent d'obtenir des unités et des objets utiles.<br><br>■ Invocations vidéo <br> Elles vous permettent d'obtenir des objets utiles et de remplir votre barre de progression pour obtenir des récompenses de missions à étapes. <br><br>■ Tickets d'invocation<br>Les tickets d'invocation ne sont utilisables que dans les invocations spéciales.<br><br>Si lors d'une invocation, vous obtenez une unité ou un atout-vision que vous possédez déjà, vous recevrez à la place des fragments correspondant à la rareté de cette unité ou de cet atout-vision. <br>Vous avez également une chance d'obtenir un orbe de vision, qui vous servira à éveiller un atout-vision ou à débloquer la limite d'une unité.<br><br>Vous n'obtiendrez pas plus de fragments que le nombre maximum requis pour l'éveil ou le déblocage de limite.<br>Si vous possédez déjà tous les fragments, vous recevrez alors, en fonction de leur rareté, des médailles d'âmes à la place des fragments d'unité ou des médailles de vision à la place des fragments d'atout-vision.<br>Ces médailles peuvent être échangées contre des objets dans la boutique de Mog.<br><br>■ Taux d'apparition<br>Pour plus d'informations concernant ce qui peut être invoqué et leur pourcentage d'apparition, appuyez sur le bouton « Taux d'apparition ».<br><br>■ Caractéristiques<br>Appuyez sur le bouton « Caractéristiques » pour voir les détails des unités ou des atouts-visions du moment."
+        },
+        {
+            "key": "SHOP_TITLE",
+            "value": "Boutique"
+        },
+        {
+            "key": "SHOP_DESC",
+            "value": "■ Boutique<br>Dans la boutique, vous pouvez acheter divers produits avec vos visiores et vos gils.<br>Lorsque vous terminez certaines quêtes, une boutique exclusive peut aussi apparaître au hasard.<br><br>Appuyez sur « Vendre » en bas de l'écran pour vendre vos objets en échange de gils."
+        },
+        {
+            "key": "UNIT_TOP_TITLE",
+            "value": "Unités"
+        },
+        {
+            "key": "UNIT_TOP_DESC",
+            "value": "Pour voir les unités que vous possédez, consultez la liste des unités.<br>Appuyez sur « Élément » pour filtrer les unités par éléments.<br>*Lorsque que le mode « Filtres : actifs » est visible, cela signifie que vos objets sont actuellement filtrés."
+        },
+        {
+            "key": "F",
+            "value": ""
+        },
+        {
+            "key": "e",
+            "value": ""
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE",
+            "value": "Détails sur les unités"
+        },
+        {
+            "key": "UNIT_DETAIL_DESC",
+            "value": "■ L'Éveil<br>Vous pouvez éveiller vos unités grâce à des matériaux d'éveil, des orbes de vision et des gils.<br>Éveiller une unité augmente son niveau max ou sa Limite, et vous permet de débloquer des jobs secondaires ou de nouveaux panneaux dans le tableau des aptitudes.<br><br>■ Briser la limite<br>Vous pouvez briser la limite d'une unité avec des fragments d'unité et des orbes de vision.<br>En brisant la limite d'une unité, vous augmentez son niveau max et son niveau de job max. Vous pouvez ainsi obtenir de nouveaux emplacements d'équipement.<br><br>■ Amélioration de job<br>Pour améliorer un job, vous aurez besoin de matériaux d'amélioration de job et de gils.<br>Améliorer un job permet d'augmenter les caractéristiques de votre unité et de débloquer des panneaux dans le tableau des aptitudes.<br><br>■ Équipement favori<br>Si vous désignez un équipement comme favori, il sera équipé automatiquement à l'unité correspondante pendant la formation de votre groupe.<br>Les équipements sont répartis en trois catégories : les armes, les armures et les accessoires. Les armes et les armures ne peuvent être associées qu'à un seul emplacement d'équipement à la fois.<br>*Si votre unité est déjà équipée d'une certaine arme ou armure, l'équipement de la dite catégorie ne sera plus disponible lorsque vous sélectionnerez un équipement pour un autre emplacement.<br><br>Si vous sélectionnez plusieurs équipements qui augmentent ou diminuent la même caractéristique, la caractéristique qui possède le bonus le plus important aura la priorité sur les autres bonus qui seront appliqués mais avec un pourcentage amoindri.<br>*Le pourcentage le plus élevé que vous seriez à même d'obtenir ne dépassera pas les 100 %.<br>*Les bonus identiques ne s'ajoutent pas l'un à l'autre. Seul celui possédant la valeur la plus importante sera pris en compte.<br>Les équipements de confiance absolue seront seulement associés au troisième emplacement d'équipement.<br>*Les équipement de confiance absolue peuvent être obtenus une fois qu'une unité a brisé ses limites et a été éveillée 5 fois de chaque.<br><br>■ Maîtrise d'équipement<br>Vous pouvez améliorer la maîtrise de votre équipement en vous en servant pendant les quêtes.<br>Attention, il ne vous suffira pas de partir en quête avec l'équipement et de vous contenter de déplacer l'unité qui le porte. Celle-ci devra agir pour augmenter sa maîtrise.<br>Le niveau maximum de maîtrise dépend de la rareté de l'équipement. Une mauvaise maîtrise peut affecter négativement ses caractéristiques.<br>Seule la maîtrise du type d'équipement porté par les unités peut être améliorée.<br><br>Par exemple, votre maîtrise des armures et des accessoires n'augmentera pas si vous équipez seulement des armes."
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_TITLE",
+            "value": "Tableau des aptitudes"
+        },
+        {
+            "key": "UNIT_ABILITYBOARD_DESC",
+            "value": "■ À propos du tableau des aptitudes<br>Le tableau des aptitudes vous permet de débloquer les aptitudes d'une unité, de les améliorer et de renforcer sa Limite. <br>Après avoir débloqué une aptitude, vous pouvez l'améliorer avec des PJ et des gils. <br>*Les Limites sont renforcées grâce aux pots de limite.<br><br>Vous pouvez désigner une aptitude comme aptitude secondaire, aptitude de soutien ou aptitude de réaction.<br>Voici comment sont structurés les différents types d'aptitudes : <br><br>■ Aptitudes principales.<br><br>Ces aptitudes sont fixes et peuvent être utilisées en combat.<br><br>■ Aptitudes secondaires<br>Vous pouvez choisir quelles aptitudes vous souhaitez définir ainsi pour les inclure dans le job de votre unité et les utiliser en combat.<br>*Pour consulter et gérer les aptitudes incluses dans un job, appuyez longtemps sur celui-ci.<br><br>■ Aptitudes de soutien <br>Ces aptitudes sont surtout utilisées pour améliorer les caractéristiques des unités ou conférer des effets. Vous pouvez sélectionner jusqu'à deux types d'aptitudes de soutien.<br>Attention : certains effets ne s'appliquent qu'à des jobs et aptitudes en particulier.<br> Par exemple, l'effet « Portée +1 » de l'aptitude « Voie du chasseur » ne s'applique qu'aux jobs dotés d'attaques projectiles.<br><br>■ Aptitudes de réaction<br>Ces aptitudes s'activent automatiquement quand une unité est attaquée par un adversaire.<br><br>■ Autres <br>• Les Limites <br> Ce sont des aptitudes particulièrement puissantes que seules certaines unités possèdent.<br>• Aptitudes Maîtres <br>Vous pouvez obtenir ces aptitudes uniques en terminant les quêtes de personnage."
+        },
+        {
+            "key": "UNIT_RELEASE_TITLE",
+            "value": "Débloquer des aptitudes"
+        },
+        {
+            "key": "UNIT_RELEASE_DESC",
+            "value": "Vous pouvez débloquer des aptitudes en dépensant des PJ.<br>Il vous faudra remplir toutes les conditions présentées dans les panneaux pour débloquer une aptitude."
+        },
+        {
+            "key": "UNIT_RELEASEALL_TITLE",
+            "value": "Débloquer plusieurs panneaux du tableau des aptitudes"
+        },
+        {
+            "key": "UNIT_RELEASEALL_DESC",
+            "value": "Si vous avez rempli toutes les conditions nécessaires, vous pouvez alors débloquer plusieurs aptitudes à la fois.<br><br>Le nombre total de PJ requis pour chaque panneau sera dépensé."
+        },
+        {
+            "key": "UNIT_RESET_TITLE",
+            "value": "Réinitialiser le tableau des aptitudes"
+        },
+        {
+            "key": "UNIT_RESET_DESC",
+            "value": "Tous les tableaux débloqués à l'aide de PI peuvent être réinitialisés pour recommencer l'entraînement depuis le début.<br>À mesure que vous augmentez votre Rang royal, vous gagnez d'abord une, puis plusieurs réinitialisations gratuites par semaine de votre tableau d'entraînement de chimère.<br><br>*Tous les PI utilisés seront remboursés.<br>*Votre première réinitialisation (toutes chimères confondues) est gratuite. Les suivantes vous coûteront des visiores."
+        },
+        {
+            "key": "UNIT_INTIMACY_TITLE",
+            "value": "Affinité"
+        },
+        {
+            "key": "UNIT_INTIMACY_DESC",
+            "value": "En appuyant sur l'icône d'une unité, vous pourrez consulter son niveau d'affinité avec les autres unités et combien d'expérience il lui manque pour atteindre le niveau suivant.<br><br>L'affinité entre unités augmente si elles partent en quête et combattent ensemble.<br>Quand deux unités avec un haut niveau d'affinité sont placées à proximité sur le champ de bataille, leur AGI, DEX et CHA augmentent.<br>Plus vous augmentez le niveau d'affinité entre deux unités, plus leurs caractéristiques seront améliorées et la distance maximum à laquelle elles peuvent se trouver sur le terrain pour recevoir le bonus augmentera."
+        },
+        {
+            "key": "GUILD_JOINSELECT_TITLE",
+            "value": "Créer et rejoindre une guilde"
+        },
+        {
+            "key": "GUILD_JOINSELECT_DESC",
+            "value": "Vous pouvez créer votre propre guilde ou choisir de vous enrôler dans une guilde déjà existante.<br>Vous pourrez alors échanger avec les autres membres et combattre à leurs côtés dans les combats de guilde.<br>Explorez celles que vous pouvez rejoindre grâce au bouton « Recherche ».<br><br>Il y a beaucoup d'avantages à rejoindre une guilde et à la faire évoluer. <br>Par exemple :<br>• Les statues de pierre peuvent améliorer les caractéristiques de vos unités en combat.<br>• Soyez actif dans votre guilde et gagnez des objets.<br>• Obtenez des objets bonus en envoyant et recevant des cadeaux.<br>• Faites bon usage de votre caserne pour gagner des PJ.<br><br>*Si vous quittez ou êtes banni d'une guilde, vous devrez attendre 24h pour pouvoir vous enrôler dans une autre."
+        },
+        {
+            "key": "GUILD_SEARCH_TITLE",
+            "value": "Recherche de guilde"
+        },
+        {
+            "key": "GUILD_SEARCH_DESC",
+            "value": "■ Recherche<br>Ce menu présente une liste de guildes auxquelles vous pouvez postuler.<br>Vous pouvez les filtrer par nom, ID, rang minimum, ajout automatique ou encore rang dans les ligues.<br>■ Recherche de guildes recommandées<br>Cette liste montre en priorité les guildes les plus actives récemment."
+        },
+        {
+            "key": "GUILD_TOP_TITLE",
+            "value": "Hall de guilde"
+        },
+        {
+            "key": "GUILD_TOP_DESC",
+            "value": "Vous trouverez beaucoup d'informations dans le Hall de guilde.<br>Appuyez sur la fenêtre de chat pour l'agrandir.<br><br>■ Membres<br>Dans ce menu, vous avez accès à certaines informations sur les membres de la guilde.<br>Appuyez sur « Détails » pour voir les unités qui ont été enrôlées comme personnages de soutien.<br><br>■ Menu<br>• Détails de la guilde<br>C'est ici que sont consignés les résultats des combats de guilde.<br>C'est aussi ici que le Chef de guilde peut changer le nom de la guilde, modifier les messages publics et inviter des joueurs à la rejoindre.<br><br>• Membres<br>Cet espace est réservé à la nomination des bras-droits et des autres postes, ainsi qu'à l'éviction de membres.<br>*Cette fonctionnalité n'est accessible qu'au Chef de guilde.<br><br>• Candidatures et invitations<br>Ce menu permet de recruter des membres, de modifier le message de recrutement ou d'annoncer l'ouverture des candidatures dans le chat dédié.<br>*Cette fonctionnalité n'est accessible qu'au Chef de guilde et à ses bras droits.<br><br>■ Rang de ligue<br>Appuyez sur la loupe en haut à droite de l'écran des combats de guilde pour en savoir plus sur les ligues."
+        },
+        {
+            "key": "GUILD_LEADERREWARD_TITLE",
+            "value": "Récompenses de Chef de guilde"
+        },
+        {
+            "key": "GUILD_LEADERREWARD_DESC",
+            "value": "Le Chef de guilde et ses bras droits reçoivent une récompense exclusive par jour.<br>Vous pouvez obtenir encore plus de récompenses en améliorant la Statue de Serpent en pierre.<br><br>*Appuyez sur « Détails des récompenses » dans l'écran de Chef pour plus d'informations."
+        },
+        {
+            "key": "GUILD_RANKING_TITLE",
+            "value": "Classement des guildes"
+        },
+        {
+            "key": "GUILD_RANKING_DESC",
+            "value": "Plus une guilde remporte de trophées, plus son rang augmente pour la faire passer dans des ligues de plus en plus prestigieuses.<br>Les récompenses reçues à la fin des combats de guilde dépendent de la ligue à laquelle appartient votre guilde."
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_TITLE",
+            "value": "Récompenses de participation"
+        },
+        {
+            "key": "GUILD_ATTENDREWARD_DESC",
+            "value": "Chaque jour, les membres de la guilde reçoivent des récompenses qui dépendent du nombre de joueurs ayant pointé la veille, en appuyant sur le bouton « Participer ».<br>Pour obtenir de meilleures récompenses, vous pouvez aussi améliorer la Statue de Serpent en pierre.<br><br>Pensez toujours à pointer en appuyant sur le bouton « Participer », sans quoi vous serez considéré comme inactif et ne recevrez pas de récompense le lendemain.<br>*Pour plus d'informations, consultez le menu « Détails des récompenses » dans l'écran Récompenses de participation."
+        },
+        {
+            "key": "GUILD_BARRACKS_TITLE",
+            "value": "La caserne"
+        },
+        {
+            "key": "GUILD_BARRACKS_DESC",
+            "value": "Plus vous laissez une unité assurer le plein de provisions dans la caserne, plus elle gagnera de PJ.<br>Elle gagnera aussi en Bravoure, et perdra ou gagnera en Foi en fonction du temps passé dans la caserne.<br><br>*Vous êtes libre de choisir si vous souhaitez augmenter ou diminuer votre Foi en appuyant sur la flèche.<br>*Certains types de provisions font gagner plus de PJ.<br>*Améliorer la Statue de Kirin en pierre augmentera le nombre d'unités qui peuvent rester dans la caserne en même temps.<br>*Vous pouvez augmenter la jauge de provisions avec des visiores."
+        },
+        {
+            "key": "GUILD_STATUE_TITLE",
+            "value": "Statues de guilde"
+        },
+        {
+            "key": "GUILD_STATUE_DESC",
+            "value": "Il existe quatre types de statues de guilde en pierre, qui confèrent différentes bénédictions à tous les membres si vous les améliorez.<br><br>Par exemple :<br>- Amélioration des caractéristiques en combat.<br>- Meilleure qualité ou quantité de récompenses de participation.<br>- Ouverture de la caserne."
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_TITLE",
+            "value": "Améliorer les statues de guilde"
+        },
+        {
+            "key": "GUILD_STATUEENHANCE_DESC",
+            "value": "Lorsque vous améliorez une statue de guilde, vous augmentez son niveau et débloquez de nouveaux bonus pour les membres.<br>Vous pouvez consultez la liste des effets débloqués dans le menu en haut à droite de l'écran.<br>Pour voir quels effets seront disponibles aux niveaux suivants, appuyez sur la loupe de chaque statue.<br><br>Plus vous augmentez le niveau de vos statues, plus vous pourrez en construire de nouvelles."
+        },
+        {
+            "key": "GUILDBATTLE_TITLE",
+            "value": "Combats de guilde"
+        },
+        {
+            "key": "GUILDBATTLE_DESC",
+            "value": "Vous y affrontez les autres guildes pour gagner des ★. Si les conditions sont remplies, la participation et la recherche d'adversaire se fait automatiquement.<br><br>■ Conditions de participation<br>・La guilde doit compter au moins 10 membres au total (Chef de guilde et bras-droits compris).<br>・Le Chef de guilde doit s'être connecté au moins une fois au cours des 3 derniers jours.<br><br>Vous devez former deux groupes pour ces combats : un en attaque et un en défense. Ils peuvent être paramétrés tous les deux depuis l'écran de formation.<br>*La Formation des groupes est verrouillée dès que la recherche d'adversaire est lancée. Aucun changement effectué ultérieurement ne sera pris en compte dans le combat.<br><br>■ En cas de victoire<br>Votre guilde gagne des trophées !<br>La grandeur de votre victoire dépend du nombre d'★ que vous gagnez pendant le combat et des trophées possédés par votre adversaire.<br><br>■ En cas de défaite<br>Votre guilde perd des trophées.<br>Cette pénalité peut être atténuée si vous avez récolté beaucoup d'★ dans le combat et si votre adversaire possédait beaucoup de trophées.<br><br>En cas de match nul, chaque adversaire conserve tous ses trophées.<br><br>*Le nombre de ★ qui peuvent être obtenues quand vous terrassez une unité ennemie dépend du nombre de membres dans le groupe.<br>*Si chaque équipe à gagné le même nombre de ★ à la fin du combat, la gagnante est celle qui aura infligé le plus de dégâts à l'adversaire.<br>*Si les deux équipes ont récupéré les même nombre de ★ et infligé le même nombre de dégâts, alors le match est nul.<br><br>■Récompenses<br>Les médailles de guildes que vous gagnerez pendant les combats de guilde vous rapporteront des récompenses.<br>・Vous recevez une part de vos récompenses personnelles en fonction du nombre de ★ obtenues dans chaque combat.<br>・Vous obtenez d'autres récompenses personnelles en fonction du nombre total de ★ obtenues pendant toute la durée de l'événement.<br>・Vous obtenez enfin des récompenses de guilde qui dépendent des ★ obtenues par tous les membres."
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_TITLE",
+            "value": "Combats de guilde limités"
+        },
+        {
+            "key": "GUILDBATTLE_LIMITED_DESC",
+            "value": "Dans les combats de guilde limités, vous pouvez utiliser votre tour pour soutenir vos alliés ou attaquer pour ralentir votre adversaire.<br><br>Si votre guilde remplit les conditions suivantes de participation, elle combattra automatiquement contre un adversaire à sa taille.<br>- Un niveau de ligue supérieur ou égal à un certain niveau<br>- Au moins 10 membres (dont le chef et ses bras droits.)<br>- Le chef de guilde s'est connecté au moins une fois lors des trois derniers jours.<br>Dans les combats de guilde, il y a une formation pour le groupe en attaque et une formation pour le groupe en défense. Vous pouvez assigner des unités dans ces différentes formations depuis le menu « Combats de guilde » sur l'écran de Formation.<br>*Le nombre de groupes que vous pouvez former et leurs conditions dépendent du combat de guilde.<br>*Si vous n'assignez pas d'unité en défense, vous offrez des ★ faciles à l'adversaire.<br>*Dès que votre guilde a trouvé un adversaire, vous ne pouvez plus changer la formation du groupe. Si malgré tout vous essayez de la modifier, les changements ne s'appliqueront pas au combat en cours.<br><br>■ Résultats du combat<br>Quand la période de combat prend fin, la guilde dont les membres ont gagné le plus grand nombre de ★ l'emporte.<br>Si les deux guildes ont remporté le même nombre de ★, celle qui a infligé le plus de dégâts totaux gagne.<br>Si les deux guildes ont remporté le même nombre de ★ et qu'elles ont infligé le même nombre de dégâts, celle dont la puissance totale de tous les groupes de défense est supérieure gagne.<br>*Le nombre de ★ gagnées en terrassant une unité dépend de la taille du groupe adverse.<br><br>■ Points finaux<br>Vous gagnez des points finaux que vous remportiez ou non le combat.<br>Ils déterminent votre place lors du classement général.<br><br>Vous pouvez obtenir de nombreux points en :<br>- Gagnant des combats de guilde<br>- Obtenant beaucoup de ★ pendant le combat<br>- Ayant une forte valeur totale dans tous les groupes de défense<br>- Gagnant plusieurs combats d'affilée<br><br>■ Récompenses<br>Les combats de guilde limités vous rapportent les récompenses suivantes :<br>- Les récompenses de participation dépendent du nombre de combats menés.<br>- Les récompenses de combat s'obtiennent à chaque combat en fonction du nombre de ★ rapportées par les attaques individuelles.<br>- Les récompenses d'action dépendent des points d'action dépensés pour le soutien individuel.<br>- Les récompenses finales dépendent du taux de ★ obtenues par tous les membres de la guilde.<br>- Les récompenses du classement général dépendent de votre rang final."
+        },
+        {
+            "key": "DUEL_TITLE",
+            "value": "Duel"
+        },
+        {
+            "key": "DUEL_DESC",
+            "value": "C'est l'endroit où vous pouvez participer à des combats en face-à-face ou bien dans l'Arène."
+        },
+        {
+            "key": "ARENA_TOP_TITLE",
+            "value": "Arène"
+        },
+        {
+            "key": "ARENA_TOP_DESC",
+            "value": "■ Qu'est-ce que l'Arène ?<br>Dans l'Arène, vous formez un groupe pour affronter celui d'un autre joueur.<br>Pour participer, il vous faudra des orbes d'Arène.<br>*Les orbes d'Arène sont restaurés tous les jours à 00:00, heure universelle (PST) ou bien à tout moment à l'aide de visiores ou de certains objets.<br><br>Les combats d'Arène sont en mode automatique et le groupe vainqueur est celui qui parvient à défaire l'adversaire dans le nombre de tours imparti.<br>Si la victoire n'éclate pas au bout du nombre de tours fixé, le joueur possédant le plus d'unités encore debout est déclaré vainqueur. Si les deux adversaires gardent le même nombre d'unité sur le terrain, alors le vainqueur est décidé au nombre de PV restants.<br>Les victoires en Arène ne font ni gagner d'EXP de rang, ni d'EXP d'unité, ni de PJ.<br>Pour certains combats, des règles ou des conditions de participation spécifiques peuvent s'appliquer.<br><br>■ Classement<br>Votre classement dépend du nombre de points accumulés pendant la semaine entre lundi 00:00, heure universelle (PST) et le dimanche suivant à 23:59, heure universelle (PST).<br>Les séries de victoires ou certains bonus d'unité vous permettent de gagner plus de points. Le classement est réinitialisé toutes les semaines.<br>*Pour plus d'informations, consultez le menu « Bonus d'unité » dans l'Arène.<br>*Seul le bonus d'unité le plus puissant sera appliqué.<br>Par exemple, si l'une de vos unités bénéficie d'un bonus de +100 % tandis que celui de l'autre n'est que de +75 %, seul le bonus de +100 % sera appliqué.<br><br>■ Récompenses<br>Il existe trois types de récompenses d'Arène : les récompenses de participation, les récompenses quotidiennes et les récompenses hebdomadaires, chacune ayant des conditions propres et des objets exclusifs à offrir.<br>*Les récompenses sont envoyées dans vos Cadeaux (et doivent donc être récupérées avant leur disparition)<br><br>■ Les médailles d'Arène<br>Vous obtenez des médailles d'Arène en participant aux combats.<br>Vous pouvez les échanger contre des objets dans la boutique de Mog."
+        },
+        {
+            "key": "ARENA_PARTYEDIT_TITLE",
+            "value": "Formation des groupes d'Arène"
+        },
+        {
+            "key": "ARENA_PARTYEDIT_DESC",
+            "value": "■ Fonctionnement des groupes d'Arène<br>En fonction des unités présentes dans votre groupe, vous recevez des points de classement et des effets bonus.<br>Seules les valeurs du bonus le plus élevé seront appliquées.<br><br>Par exemple, si l'une de vos unités bénéficie d'un bonus de +100 % tandis que celui de l'autre n'est que de +75 %, seul le bonus de +100 % sera appliqué."
+        },
+        {
+            "key": "ARENA_LIST_TITLE",
+            "value": "Choisir ses adversaires dans l'Arène"
+        },
+        {
+            "key": "ARENA_LIST_DESC",
+            "value": "■ Choisir un adversaire<br>Le combat commence quand vous choisissez un adversaire et appuyez sur « combattre ».<br>Chaque joueur possède un taux de victoire et affronter un adversaire difficile vous rapportera plus de points de classement."
+        },
+        {
+            "key": "ARENA_REWARD_TITLE",
+            "value": "Liste des récompenses d'Arène"
+        },
+        {
+            "key": "ARENA_REWARD_DESC",
+            "value": "Il existe trois types de récompenses d'Arène : les [récompenses de participation], les [récompenses quotidiennes] et les [récompenses hebdomadaires].<br>*Elles sont toutes envoyées dans vos [Cadeaux (Durée limitée)]."
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_TITLE",
+            "value": "Récupérer les récompenses d'Arène"
+        },
+        {
+            "key": "ARENA_RANKINGREWARD_DESC",
+            "value": "Ces récompenses sont envoyées dans vos Cadeaux et y restent pendant une durée limitée.<br>*Les Cadeaux expirent au bout de 2 semaines.<br>Attention, les récompenses non récupérées seront perdues."
+        },
+        {
+            "key": "MATCH_TITLE",
+            "value": "Face-à-face"
+        },
+        {
+            "key": "MATCH_DESC",
+            "value": "Les face-à-face sont de trois types : les matchs classés, les matchs libres et les matchs amicaux.<br>*Les combats dans l'Arène et les face-à-face utilisent le même groupe d'unités."
+        },
+        {
+            "key": "MATCH_PARTYEDIT_TITLE",
+            "value": "Formation des groupes pour les face-à-face"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_DESC",
+            "value": "Les groupes pour les face-à-face peuvent compter jusqu'à 3 unités.<br>*Le groupe pour les face-à-face est le même que le groupe d'Arène."
+        },
+        {
+            "key": "MATCH_MAKEROOM_TITLE",
+            "value": "Match amicaux"
+        },
+        {
+            "key": "MATCH_MAKEROOM_DESC",
+            "value": "■ Fonctionnement des matchs amicaux<br>Dans ces matchs, vous affronterez vos amis.<br><br>■ Création du salon<br>Commencez par créer un salon puis envoyez son mot de passe à l'ami que vous souhaitez affronter.<br>Si vous souhaitez affronter un membre de votre guilde ou un autre joueur, sélectionnez « Inviter » dans la fenêtre de chat et envoyez-leur le lien de participation.<br>■ Entrer un mot de passe.<br>Cela vous permet d'entrer dans le salon."
+        },
+        {
+            "key": "CLASSMATCH_TITLE",
+            "value": "Matchs classés"
+        },
+        {
+            "key": "CLASSMATCH_DESC",
+            "value": "■ Les matchs classés<br>Vous pouvez y affronter d'autres joueurs (JcJ) et viser le top du classement.<br>Les matchs classés ne seront accessibles qu'au cours d'une période bien précise dans la journée. Vous pourrez alors y participer jusqu'à 5 fois.<br>Les victoires vous rapporteront des points tandis que les défaites vous en feront perdre.<br>Votre nombre total de points déterminera votre promotion ou votre destitution dans le classement.<br>Vous pouvez gagner encore plus de points en réussissant des séries de victoires bonus.<br>*Il se peut que vous vous retrouviez face à un joueur d'une classe différente de la votre dans le cas où aucun joueur de votre classe ne serait disponible.<br><br>■ Les victoires et les défaites<br>Si la victoire n'éclate pas au bout du nombre de tours fixé, le joueur possédant le plus d'unités encore debout est déclaré vainqueur. Si les deux adversaires gardent le même nombre d'unités sur le terrain, alors le vainqueur est décidé au nombre de PV restants. Si les unités des deux adversaires ont le même nombre de PV, alors le match est nul.<br>*Si vous abandonnez ou que vous perdez la connexion pendant le match, le jeu considère que vous déclarez forfait.<br><br>■ Les matchs de promotion<br>Lorsque vous avez accumulé assez de points, vous pouvez tenter votre chance d'être promu dans la classe supérieure grâce aux matchs de promotion.<br>Vous devez gagner 2 des 3 matchs pour être promu.<br>Vous pouvez tenter votre chance autant de fois que vous le souhaitez jusqu'à ce que vous obteniez votre promotion.<br>*Le nombre de victoires consécutives continuera d'augmenter, cependant le nombre de points ne sera ni augmenté ni baissé.<br><br>■ Les récompenses<br>• Récompenses de promotion : vous les obtenez la première fois que vous êtes promu dans la classe supérieure.<br>*Les récompenses de promotion ne seront pas réactualisées et ne pourront être obtenues qu'une seule fois par saison.<br><br>• Récompenses de classe : elles sont calculées en fonction de la classe à laquelle vous appartenez à la fin de la saison.<br>*Si vous ne participez à aucun combat pendant la saison, vous ne recevrez pas de récompense.<br>*Les joueurs dans la classe Maître de diamant ne reçoivent pas de récompense de classe,<br>mais plutôt des récompenses calculées en fonction de leurs points accumulés à la fin de la saison.<br>*Pour plus d'informations, consultez le menu « Récompenses » dans les matchs classés."
+        },
+        {
+            "key": "CLASSMATCH_INFO_TITLE",
+            "value": "Informations sur les classes"
+        },
+        {
+            "key": "CLASSMATCH_INFO_DESC",
+            "value": "Le coût maximum de chaque classe est consultable depuis ce menu."
+        },
+        {
+            "key": "CLASSMATCH_REWARD_TITLE",
+            "value": "Liste des récompenses de matchs classés"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_DESC",
+            "value": "Liste des récompenses<br>Vous pouvez y consulter les récompenses de promotion et les récompenses de classe.<br><br>■ Récompenses de promotion<br>Vous les obtenez quand vous êtes promu dans une nouvelle classe.<br><br>■ Récompenses de classe<br>Elles dépendent de votre classe et sont obtenues à la fin de la saison"
+        },
+        {
+            "key": "LOBBY_TITLE",
+            "value": "Au-delà"
+        },
+        {
+            "key": "LOBBY_DESC",
+            "value": "C'est là que vous pourrez participer aux événements, aux combats multi, à la Tour de porcelaine, au repaire de la bête et aux raids.<br>Progresser dans l'histoire ou augmenter votre rang de joueur vous permettra de débloquer l'accès à l'Au-delà dans le cas où il ne serait pas disponible au début de votre aventure."
+        },
+        {
+            "key": "SUMMONQUEST_TITLE",
+            "value": "Le repaire de la bête"
+        },
+        {
+            "key": "SUMMONQUEST_DESC",
+            "value": "Vous pouvez participer aux évènements tenus ici pour obtenir les matériaux nécessaires à l'entraînement des chimères."
+        },
+        {
+            "key": "SUPPORT_LIST_TITLE",
+            "value": "Choisir un personnage de soutien"
+        },
+        {
+            "key": "SUPPORT_LIST_DESC",
+            "value": "■ Les personnages de soutien<br>Un personnage de soutien est la 6e unité qui se joint à votre groupe pour les quêtes.<b>Les personnages de soutien amis ou d'essai peuvent conférer aux groupes certaines aptitudes capables de vous permettre de prendre l'avantage lors de votre quête.<br><br>Voici les différents types de personnages de soutien.<br>• Les amis : ce sont des unités jouées par vos amis. Vous n'avez pas besoin de dépenser des gils pour les enrôler et elles confèrent un bonus d'aptitude.<br>• Les personnages de soutien d'essai : ce sont des unités ordinaires. Tout comme pour les unités de soutien de vos amis, vous n'avez pas besoin de dépenser le moindre gil pour les enrôler, mais en revanche elles ne confèrent aucun bonus d'aptitude.<br>• Autres : pour enrôler d'autres personnages de soutien, vous devrez payer un prix en gils qui dépend de leur niveau et ils ne confèrent aucun bonus d'aptitude.<br><br>■ Les aptitudes de groupe<br>Les aptitudes de groupe sont des effets bonus activés quand vous équipez un atout-vision et qui s'appliquent à toutes les unités d'un même groupe."
+        },
+        {
+            "key": "MULTI_TOP_TITLE",
+            "value": "Multi"
+        },
+        {
+            "key": "MULTI_TOP_DESC",
+            "value": "■ Le mode multi<br>Grâce au mode multi, vous et les autres joueurs pouvez former un groupe allant jusqu'à 4 membres pour terminer une quête.<br>Vous pouvez rejoindre le salon de votre choix en renseignant le mot de passe correspondant décidé lors de la création du salon.<br>Les quêtes multi se divisent en deux catégories.<br><br>Quatuor : 4 joueurs différents contrôlent chacun une unité.<br>Duo : 2 joueurs différents contrôlent chacun 2 unités.<br><br>■ Bonus de l'hôte<br>Le joueur à l'origine de la création du salon bénéficiera d'une récompense supplémentaire appelée « Bonus de l'hôte ».<br>*Les bonus de l'hôte ne seront pas distribués lors des combats qui auraient débutés sans membre dans le salon.<br><br>■ Bonus de première rencontre<br>Lorsque vous complétez une quête avec un autre joueur pour la première fois, vous recevez des visiores bonus.<br>Le nombre de visiores s'élève à 200 pour les 10 premières personnes, puis à 40 à partir de la 11ème personne que vous rencontrez pour la première fois.<br>*Vous recevrez un bonus de première rencontre pour les 50 premières personnes avec lesquelles vous participerez à des quêtes multi ou des raids pour la première fois.<br>* Les bonus ne s'adressent qu'aux joueurs qui se rencontrent pour la première fois. Les joueurs qui auraient déjà joué ensemble ne recevront pas ce bonus.<br>*Vous ne recevrez aucune récompense si vous quittez la quête en plein milieu."
+        },
+        {
+            "key": "MULTI_QUESTLIST_TITLE",
+            "value": "Choisir une quête multi"
+        },
+        {
+            "key": "MULTI_QUESTLIST_DESC",
+            "value": "■ Menu de sélection d'une quête multi<br>Il vous permet de choisir la quête multi à laquelle vous souhaitez participer.<br>La loupe vous permet de consulter quelles récompenses de première complétion et quels objets vous pouvez obtenir, ainsi que d'autres informations.<br>Seule l'endurance de l'hôte du salon est consommée pendant la quête."
+        },
+        {
+            "key": "MULTI_ROOMLIST_TITLE",
+            "value": "Liste de recrutement multi"
+        },
+        {
+            "key": "MULTI_ROOMLIST_DESC",
+            "value": "Écran d'accueil Multi → liste de recrutement : affiche la liste des salons à la recherche de joueurs.<br>Écran de sélection des quêtes → Rejoindre un salon : affiche une liste de salons à la recherche de joueurs pour la quête sélectionnée.<br>Vous pouvez aussi consulter la liste des salons qui recrutent des joueurs pour la quête sélectionnée en allant dans « Créer un salon » à partir de la liste de recrutement multi."
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_TITLE",
+            "value": "Mode de participation"
+        },
+        {
+            "key": "MULTI_PLAYSTYLE_DESC",
+            "value": "■ Mode de participation.<br>Dans ce menu vous pouvez choisir de créer un salon et d'en être l'hôte ou bien de rejoindre un salon déjà créé.<br>Si vous décidez de créer un salon, vous avez accès aux paramètres suivants :<br>• Mot de passe : activer ce paramètre restreindra l'accès au salon aux joueurs en possession du mot de passe.<br>• Conditions d'entrée : vous pouvez restreindre l'entrée du salon aux joueurs qui contrôlent des unités d'un certain niveau ou qui ont déjà terminé la quête, par exemple.<br>• Vitesse x2 : joue les quêtes en accéléré.<br>*Accessible à partir d'un certain rang Royal.<br>• Commentaires : vous pouvez afficher un message concernant votre salon dans la liste de recrutement multi."
+        },
+        {
+            "key": "MULTI_ROOM_TITLE",
+            "value": "Salons multi"
+        },
+        {
+            "key": "MULTI_ROOM_DESC",
+            "value": "Dans le salon multi, vous pouvez consulter les informations de joueur des autres participants, modifier la formation de votre groupe, dissoudre le salon ou encore utiliser la fonctionnalité bannir.<br>Avant que le créateur du salon puisse lancer la quête, tous les autres membres doivent avoir terminé leurs préparations.<br>Le salon comporte aussi un chat multi réservés aux membres.<br>Si le salon est protégé par un mot de passe, celui-ci est affiché à gauche de l'écran.<br>Les autres joueurs doivent renseigner ce mot de passe pour entrer dans le salon.<br>Mais si le créateur du salon appuie sur le cadenas, plus personne ne pourra rejoindre, même muni du mot de passe."
+        },
+        {
+            "key": "MULTI_PARTYEDIT_TITLE",
+            "value": "Écran de formation d'un groupe"
+        },
+        {
+            "key": "MULTI_PARTYEDIT_DESC",
+            "value": "■ Écran de formation d'un groupe<br>C'est là que vous pouvez sélectionner les unités participant aux quatuor et aux duo.<br>Dans le salon, l'espace de formation affichera ces unités avec une icône de préparation."
+        },
+        {
+            "key": "MULTI_RPLAYER_TITLE",
+            "value": "Informations sur les joueurs"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_TITLE",
+            "value": "Informations sur les autres joueurs"
+        },
+        {
+            "key": "MULTI_OTHERPLAYER_DESC",
+            "value": "Vous pouvez consulter les unités présentes dans le groupe des autres joueurs.<br>En maintenant le doigt appuyé sur un équipement, un atout-vision ou une chimère, vous pouvez également consulter leurs informations détaillées."
+        },
+        {
+            "key": "RAID_ENCOUNT_TITLE",
+            "value": "Apparition de raid"
+        },
+        {
+            "key": "RAID_ENCOUNT_DESC",
+            "value": "Quand vous terminez une quête, un boss de raid peut apparaître au hasard.<br>Tant qu'un boss que vous avez rencontré est actif, vous ne pouvez en rencontrer aucun autre.<br>Deux options s'offrent à vous. Vous pouvez l'affronter et récupérer vos récompenses. Ou si vous ne le terrassez pas et qu'il s'enfuit après le temps imparti, vous pourrez le rencontrer à nouveau."
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Raids"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "■ Les raids<br>Pour défier un boss de raid vous aurez besoin d'un orbe de raid.<br>Il existe néanmoins des cas où vous pourrez vous en passer :<br>・Vous rencontrez ce boss pour la première fois.<br>・C'est la première fois que vous arrivez en renfort pour terrasser ce boss de raid (jusqu'à 20 boss différents par jour).<br><br>Vous récupérez tous vos orbes de raid quotidiennement à 00:00, heure universelle (PST), puis au rythme d'un orbe par heure.<br>Vous pouvez également en recevoir contre des visiores ou des objets spéciaux.<br><br>Si vous n'arrivez pas à toucher le boss de raid avant un certain nombre d'actions, ou si votre groupe est vaincu, les PV du boss seront conservés pour le prochain combat.<br>Le boss de raid fuira s'il n'est pas vaincu à temps.<br><br>Non seulement vous devez vaincre le boss dans le temps imparti, mais la période pendant laquelle vous êtes autorisé à l'affronter est aussi limitée.<br>Vous perdez le droit de le combattre si vous ne tentez pas votre chance à temps.<br>Si un autre joueur défie le boss de raid après que vous ayez perdu les droits de rencontre, ceux-ci lui sont transférés.<br><br>Les boss de raid gagnent un niveau après chaque victoire.<br>Plus vous terrassez de boss de haut niveau, meilleures sont vos récompenses.<br>*Le boss suivant apparaît une fois que vous avez récupéré vos récompenses.<br><br>Voici les autres bonus que vous pouvez gagner lors de vos raids :<br><br>■ Bonus d'assistance<br>C'est une récompense réservée aux joueurs qui prêtent main forte à des joueurs de rang inférieur contre les boss de raid.<br>Ces récompenses ne sont pas illimitées mais leur disponibilité est réinitialisée à chaque nouveau défi.<br><br>■ Bonus de première rencontre<br>En terrassant un boss avec un joueur que vous rencontrez pour la première vois, vous gagnez des visiores en bonus.<br>Vous recevrez 200 visiores pour les 10 premières rencontres puis 40 pour chaque nouvelle rencontre à partir de la 11e.<br>*Vous recevrez un bonus de première rencontre lorsque vous participez avec les 50 premiers joueurs aux raids ou combat multi.<br>*Cette récompense est réservée aux joueurs qui se rencontrent pour la première fois. Si vous rejouez avec un joueur connu, vous n'y serez pas éligible."
+        },
+        {
+            "key": "RAID_ROOM_TITLE",
+            "value": "Salon de raid"
+        },
+        {
+            "key": "RAID_ROOM_DESC",
+            "value": "Dans le salon du raid, vous pouvez consulter des informations sur les autres participants, modifier la formation de votre groupe, demander du soutien, bannir un membre, modifier les paramètres du salon et des combats ou encore dissoudre le salon.<br>Avant que le créateur du salon puisse lancer le raid, tous les autres joueurs doivent être prêts.<br>Le salon est aussi doté d'un chat dédié aux participants."
+        },
+        {
+            "key": "RAID_BOSS_TITLE",
+            "value": "Boss de raid"
+        },
+        {
+            "key": "RAID_BOSS_DESC",
+            "value": "Dans l'écran de boss de raid, vous pouvez consulter les récompenses obtenues, la liste des participants, le classement et d'autres informations.<br>Vous pouvez choisir entre trois modes pour affronter un boss : quatuor, duo ou solo.<br><br>- Quatuor : 4 joueurs différents contrôlent chacun une unité.<br>- Duo : 2 joueurs différents contrôlent chacun 2 unités.<br>- Solo : vous jouez seul et contrôlez 4 unités."
+        },
+        {
+            "key": "RAID_DEFEAT_TITLE",
+            "value": "Terrasser les boss de raid"
+        },
+        {
+            "key": "RAID_DEFEAT_DESC",
+            "value": "Vous pouvez voir la liste des joueurs en renfort, les points de victoire par combat et totaux ainsi que les classements."
+        },
+        {
+            "key": "RAID_END_TITLE",
+            "value": "Raids complétés"
+        },
+        {
+            "key": "RAID_END_DESC",
+            "value": "Vous pourrez consulter vos résultats après avoir terrassé le boss de raid et récupéré vos récompenses."
+        },
+        {
+            "key": "RAID_REWARD_TITLE",
+            "value": "Récompenses de raid"
+        },
+        {
+            "key": "RAID_REWARD_DESC",
+            "value": "■ Récompenses de raid<br>Voici les récompenses disponibles :<br><br>・Récompenses de l'initiateur<br>Elles sont réservées au joueur qui a rencontré le boss, une fois que celui-ci est terrassé.<br><br>Récompenses de participation<br>Tous les joueurs qui ont combattu le boss peuvent recevoir ces récompenses.<br><br>・Récompenses de dégâts<br>Ces récompenses sont distribuées en fonction du nombre de dégâts infligés pendant le combat.<br><br>・Récompense de victoire<br>Les joueurs reçoivent ces récompenses s'ils ont réussi à terrasser le boss.<br><br>・Récompenses de classement<br>Les joueurs sont classés selon leur total de points de victoire obtenus pendant la saison et reçoivent des récompenses en fonction de leur position dans le classement.<br><br>*Si vous ne défiez pas le boss avant la limite de temps, vous perdez votre droit de rencontre.<br>*Le type et la nature des récompenses obtenues dépendent du mode de jeu :<br>Solo < Duo < Quatuor"
+        },
+        {
+            "key": "RAID_PARTYEDIT_TITLE",
+            "value": "Écran de formation"
+        },
+        {
+            "key": "RAID_PARTYEDIT_DESC",
+            "value": "Les unités qui affronteront le boss sont celles de votre groupe de raid.<br>Il existe trois modes de jeu qui déterminent le nombre d'unités qui participent au combat : les Quatuors de 4 joueurs, les Duo de deux joueurs et le mode Solo.<br>Dans l'écran de formation du salon, les unités envoyées au combat seront marquées de l'icône Départ !<br>*Ce groupe est aussi celui envoyé en quêtes multi."
+        },
+        {
+            "key": "RAID_HELP_TITLE",
+            "value": "Demande de renfort"
+        },
+        {
+            "key": "RAID_HELP_DESC",
+            "value": "Envoyer une demande de renfort autorise les autres joueurs à participer au salon.<br>*Vous devez attendre un moment entre deux demandes de renfort."
+        },
+        {
+            "key": "RAID_OTHERPLAYER_TITLE",
+            "value": "Informations sur les autres joueurs"
+        },
+        {
+            "key": "RAID_OTHERPLAYER_DESC",
+            "value": "Vous pouvez consulter les unités présentes dans le groupe des autres joueurs.<br>En maintenant le doigt appuyé sur un équipement, un atout-vision ou une chimère, vous pouvez également consulter leurs informations détaillées."
+        },
+        {
+            "key": "OTHERPLAYER_TITLE",
+            "value": "Informations sur les autres joueurs"
+        },
+        {
+            "key": "OTHERPLAYER_DESC",
+            "value": "Vous pouvez consulter le rang des joueurs, la date de leur dernière connexion et leur personnage de soutien.<br>Vous pouvez également maintenir le doigt appuyé sur une unité ou un atout-vision pour consulter leurs informations détaillées."
+        },
+        {
+            "key": "EVENT_TITLE",
+            "value": "Événements"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "Il y a deux types d'événements : les événements limités et les événements quotidiens/d'entraînement. <br><br>Certaines quêtes ne peuvent être lancées qu'un nombre limité de fois par jour.<br>*Pour chaque quête présentée sur un écran, le nombre de tentatives est affiché.<br>*Les tentatives disponibles sont remises à zéro tous les jours à 00:00, heure universelle (PST).<br><br>Les campagnes suivantes sont aussi disponibles en fonction du jour de la semaine.<br><br>• Taux d'apparition de butin x2<br>Lundi : Chambre d'EXP, Chambre de Gils, Chambre de Minerais, Chambre de l'Œuf de croissance, Chambre de Pots<br>Mardi : Chambre d'Alcrists (feu/vent), Antre de l'éveil chimérique (feu/vent)<br>Mercredi : Chambre d'Alcrists (eau/glace), Antre de l'éveil chimérique (eau/glace)<br>Jeudi : Chambre d'Alcrists (terre/ombre), Antre de l'éveil chimérique (terre/ombre)<br>Vendredi : Chambre d'Alcrists (foudre/lumière), Antre de l'éveil chimérique (foudre/lumière)<br>• Tentatives illimitées<br>Samedi & dimanche : Chambre de Gils et Chambre de Minerais"
+        },
+        {
+            "key": "EVENT_QUESTLIST_TITLE",
+            "value": "Liste des quêtes d'événement"
+        },
+        {
+            "key": "EVENT_QUESTLIST_DESC",
+            "value": "■ Dans la liste des quêtes d'événement<br>Appuyez sur le bouton « Détails » en bas à droite de la bannière de l'événement pour obtenir plus d'informations.<br>Appuyez sur la loupe dans la liste des quêtes pour obtenir plus d'informations sur chacune des quêtes."
+        },
+        {
+            "key": "MOGSHOP_TITLE",
+            "value": "Boutique de Mog"
+        },
+        {
+            "key": "MOGSHOP_DESC",
+            "value": "Les médailles obtenues dans les différentes instances du jeu peuvent être échangées dans la boutique de Mog contre des objets nécessaires à l'entraînement des unités et des chimères ou d'autres encore."
+        },
+        {
+            "key": "STORY_TITLE",
+            "value": "Quêtes d'histoire"
+        },
+        {
+            "key": "STORY_DESC",
+            "value": "■ Quêtes d'histoire<br>Ces quêtes vous font avancer dans l'histoire des personnages principaux.<br>Les chapitres et parties suivants se débloquent au fur et à mesure de votre progression.<br>Pour consulter les changements de chapitre et le contenu de leurs parties,<br>appuyez sur la loupe et ouvrez le menu « Détails de la quête »."
+        },
+        {
+            "key": "STORY_SELECT_TITLE",
+            "value": "Quêtes d'histoire"
+        },
+        {
+            "key": "STORY_SELECT_DESC",
+            "value": "■ Quêtes d'histoire<br>Ces quêtes vous font avancer dans l'histoire des personnages principaux.<br>Les chapitres et parties suivants se débloquent au fur et à mesure de votre progression.<br>Pour consulter les changements de chapitre et le contenu de leurs parties,<br>appuyez sur la loupe et ouvrez le menu « Détails de la quête »."
+        },
+        {
+            "key": "STORY_SORTIE_TITLE",
+            "value": "Écran de préparation"
+        },
+        {
+            "key": "STORY_SORTIE_DESC",
+            "value": "■ L'écran de préparation<br>Vous pouvez y former des groupes pour partir en quête.<br>Ouvrez l'inventaire pour choisir les objets à apporter en combat.<br>En désactivant le « placement initial », l'étape de placement au début du combat sera automatiquement passée.<br>Grâce à la fonction « passer la quête », vous pouvez utiliser de l'endurance et des objets spéciaux pour passer les combats.<br><br>*Certaines quêtes exigent la participation d'unités obligatoires et vous empêchent de modifier la formation du groupe.<br>*La fonction « passer la quête » n'est pas disponible sur certaines quêtes.<br>*Vous ne pouvez pas passer la quête sans avoir déjà accompli au moins une fois toutes les missions qui la composent."
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_TITLE",
+            "value": "Histoire : quêtes particulières"
+        },
+        {
+            "key": "STORY_FORCEDSORTIE_DESC",
+            "value": "Certaines quêtes exigent la participation d'unités obligatoires.<br>Vous ne pouvez pas les retirer de votre groupe."
+        },
+        {
+            "key": "STORY_LIST_TITLE",
+            "value": "Choisir un personnage de soutien"
+        },
+        {
+            "key": "STORY_LIST_DESC",
+            "value": "■ Les personnages de soutien<br>Un personnage de soutien est la 6e unité qui se joint à votre groupe pour les quêtes.<b>Les personnages de soutien amis ou d'essai peuvent conférer aux groupes certaines aptitudes capables de vous permettre de prendre l'avantage lors de votre quête.<br><br>Voici les différents types de personnages de soutien.<br>• Les amis : ce sont des unités jouées par vos amis. Vous n'avez pas besoin de dépenser des gils pour les enrôler et elles confèrent un bonus d'aptitude.<br>• Les personnages de soutien d'essai : ce sont des unités ordinaires. Tout comme pour les unités de soutien de vos amis, vous n'avez pas besoin de dépenser le moindre gil pour les enrôler, mais en revanche elles ne confèrent aucun bonus d'aptitude.<br>• Autres : pour enrôler d'autres personnages de soutien, vous devrez payer un prix en gils qui dépend de leur niveau et ils ne confèrent aucun bonus d'aptitude.<br><br>■ Les aptitudes de groupe<br>Les aptitudes de groupe sont des effets bonus activés quand vous équipez un Atout-Vision et qui s'appliquent à toutes les unités d'un même groupe."
+        },
+        {
+            "key": "WORLD_TITLE",
+            "value": "Carte des royaumes"
+        },
+        {
+            "key": "WORLD_DESC",
+            "value": "La carte du monde vous permet de voir où se tiennent certains événements. <br>Pour en savoir plus sur les quêtes qui apparaissent dans le menu des quêtes de royaume, lisez ci-dessous.<br><br>• Quêtes difficiles : ces quêtes vous permettent d'acquérir des fragments d'unité spécifiques. Les quêtes difficiles ne peuvent être jouées qu'un nombre limité de fois par jour.<br>Avec un rang Royal assez élevé, cependant, vous pourrez réinitialiser vos tentatives.<br>*Au maximum, vous pouvez lancer toutes les quêtes difficiles combinées 10 fois maximum par jour.<br>*Cela comprend toute réinitialisation utilisée pour relancer la même quête plusieurs fois.<br><br>• Quêtes de personnage : ces quêtes vous permettent de débloquer les aptitudes Maîtres de certaines unités.<br><br>• Les quêtes secondaires : obtenez des récompenses en remplissant les conditions des missions qui vous sont demandées ailleurs dans le jeu.<br>*Vous pouvez consulter la liste de vos quêtes secondaires en cours dans la liste des quêtes secondaires."
+        },
+        {
+            "key": "WORLD_AREA_TITLE",
+            "value": "Carte régionale"
+        },
+        {
+            "key": "WORLD_AREA_DESC",
+            "value": "Appuyez sur chacune des régions de la carte pour voir les différentes quêtes disponibles à l'intérieur.<br>Avant de pouvoir participer à ces quêtes, vous devez en remplir les différentes conditions."
+        },
+        {
+            "key": "WORLD_QUESTLIST_TITLE",
+            "value": "Liste des quêtes des royaumes"
+        },
+        {
+            "key": "WORLD_QUESTLIST_DESC",
+            "value": "Consultez la liste des quêtes de chaque région.<br>Appuyez sur la loupe pour plus de détails."
+        },
+        {
+            "key": "WORLD_SORTIE_TITLE",
+            "value": "Écran de formation d'un groupe"
+        },
+        {
+            "key": "WORLD_SORTIE_DESC",
+            "value": "Vous pouvez ici prendre connaissance des quêtes qui sont disponibles dans chaque région. Appuyez sur la loupe pour plus de détails."
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_TITLE",
+            "value": "Royaumes : quêtes particulières"
+        },
+        {
+            "key": "WORLD_FORCEDSORTIE_DESC",
+            "value": "Certaines quêtes exigent la participation d'unités obligatoires.<br>Vous ne pourrez pas participer à ces quêtes particulières si vous retirez les unités en question de votre groupe."
+        },
+        {
+            "key": "WORLD_LIST_TITLE",
+            "value": "Choisir un personnage de soutien"
+        },
+        {
+            "key": "WORLD_LIST_DESC",
+            "value": "■ Les personnages de soutien<br>Un personnage de soutien est la 6e unité qui se joint à votre groupe pour les quêtes.<b>Les personnages de soutien amis ou d'essai peuvent conférer aux groupes certaines aptitudes capables de vous permettre de prendre l'avantage lors de votre quête.<br><br>Voici les différents types de personnages de soutien.<br>• Les amis : ce sont des unités jouées par vos amis. Vous n'avez pas besoin de dépenser des gils pour les enrôler et elles confèrent un bonus d'aptitude.<br>• Les personnages de soutien d'essai : ce sont des unités ordinaires. Tout comme pour les unités de soutien de vos amis, vous n'avez pas besoin de dépenser le moindre gil pour les enrôler, mais en revanche elles ne confèrent aucun bonus d'aptitude.<br>• Autres : pour enrôler d'autres personnages de soutien, vous devrez payer un prix en gils qui dépend de leur niveau et ils ne confèrent aucun bonus d'aptitude.<br><br>■ Les aptitudes de groupe<br>Les aptitudes de groupe sont des effets bonus activés quand vous équipez un Atout-Vision et qui s'appliquent à toutes les unités d'un même groupe."
+        },
+        {
+            "key": "WORLD_SUBQUEST_TITLE",
+            "value": "Liste des quêtes secondaires"
+        },
+        {
+            "key": "WORLD_SUBQUEST_DESC",
+            "value": "Consultez cette liste pour voir les quêtes secondaires que vous avez acceptées.<br>Vous pouvez accepter des quêtes secondaires par le biais de la liste des quêtes de chaque région.<br><br>• Les quêtes non terminées sont marquées « en cours ».<br>• Les quêtes terminées mais dont vous n'avez pas encore récupéré les récompenses sont marquées « réussie ». Pour obtenir les récompenses, sélectionnez une quête réussie et appuyez sur « recevoir ».<br>*Vous pouvez aussi accepter les quêtes secondaires par le biais de la liste des quêtes.<br>*Une fois que les récompenses sont récupérées, la mention « récompenses reçues » s'affichera."
+        },
+        {
+            "key": "FRIEND_TITLE",
+            "value": "Amis"
+        },
+        {
+            "key": "FRIEND_DESC",
+            "value": "■ Les amis<br>En devenant amis avec d'autres joueurs, vous pourrez leur envoyer des cadeaux et en recevoir de leur part. Vous pouvez aussi enrôler gratuitement leurs unités en tant qu'unité de soutien.<br>Les personnages de soutien amis confèrent aussi des aptitudes de groupe.<br><br>■ Les notifications d'amis<br>Vous pouvez gérer vos amis depuis l'écran de notifications d'amis.<br>Si les demandes d'ami ne sont pas acceptées dans les 2 jours, elles disparaissent.<br><br>■ Bloquer des joueurs<br>Vous pouvez bloquer un joueur en particulier en appuyant sur le bouton Bloquer depuis l'écran d'informations sur les joueurs.<br>En bloquant un joueur vous ne pourrez plus l'inviter dans un salon multi ou de raid, ni participer à un salon dont il est l'hôte, ni faire de matchs amicaux.<br>Vous ne verrez pas non plus les messages laissés dans le chat par les joueurs bloqués.<br>*Il est possible de vous retrouver dans le même salon qu'un joueur bloqué si vous êtes tous deux invités.<br><br>Vous pouvez consulter la liste des joueurs que vous avez bloqués.<br> Pour débloquer un joueur, appuyez sur le bouton « débloquer ».<br>*Les unités possédées par un joueur bloqué continueront d'apparaître sur l'écran de sélection des personnages de soutien.<br><br>■ Les cadeaux<br>Les amis peuvent s'envoyer des objets ou des gils en cadeaux.<br>Vous ne pouvez envoyer qu'un cadeau par jour.<br><br>*Les objets et gils envoyés en cadeaux ne sont pas les vôtres.<br>*Vous pourrez envoyer des cadeaux à votre nouvel ami dès 00:00, heure universelle (PST), le jour suivant son ajout sur votre liste d'amis.<br>*Si les cadeaux reçus ne sont pas acceptés dans les 7 jours, ils disparaissent."
+        },
+        {
+            "key": "FRIEND_GIFT_TITLE",
+            "value": "Cadeaux des amis"
+        },
+        {
+            "key": "FRIEND_GIFT_DESC",
+            "value": "Les cadeaux sont des objets ou des gils que les joueurs peuvent s'envoyer quand ils sont devenus amis.<br>Vous pouvez envoyer et recevoir un cadeau par jour.<br><br>*Les objets et gils envoyés en cadeaux ne sont pas pris de votre réserve.<br>*Vous devez attendre 24h avant d'envoyer un cadeau à un nouvel ami.<br>*Si les cadeaux reçus ne sont pas acceptés dans les sept jours, ils disparaissent."
+        },
+        {
+            "key": "SUBMENU_QUEST_TITLE",
+            "value": "Formation des groupes de quêtes"
+        },
+        {
+            "key": "SUBMENU_QUEST_DESC",
+            "value": "Vous pouvez choisir les unités qui vous accompagneront dans les quêtes.<br>Ces groupes seront utilisés dans les quêtes d'histoire, les événements, le repaire de la bête et dans les quêtes des royaumes."
+        },
+        {
+            "key": "SUBMENU_DUEL_TITLE",
+            "value": "Formation des groupes de duels"
+        },
+        {
+            "key": "SUBMENU_DUEL_DESC",
+            "value": "Vous pouvez choisir les unités qui vous accompagneront pendant les duels.<br>Ces groupes seront utilisés dans l'Arène et les face-à-face."
+        },
+        {
+            "key": "SUBMENU_MULTI_TITLE",
+            "value": "Formation des groupes multi"
+        },
+        {
+            "key": "SUBMENU_MULTI_DESC",
+            "value": "Vous pouvez choisir les unités qui vous accompagneront dans les quêtes multi ou les raids.<br>Vous pouvez également vérifier les unités qui font partie des groupes de quatuor, de duo ou des combats solo en jetant un coup d'œil à l'icône en haut à droite de l'unité."
+        },
+        {
+            "key": "SUBMENU_GUILD_TITLE",
+            "value": "Formation des groupes de combats de guilde"
+        },
+        {
+            "key": "SUBMENU_GUILD_DESC",
+            "value": "Vous pouvez choisir les unités qui vous accompagneront pendant les combats de guilde.<br>Vous pouvez également assigner les unités en défense et en attaque. Appuyez sur le bouton Groupe d'attaque pour passer à l'écran de défense et inversement."
+        },
+        {
+            "key": "SUBMENU_SUPPORT_TITLE",
+            "value": "Paramètres des personnages de soutien"
+        },
+        {
+            "key": "SUBMENU_SUPPORT_DESC",
+            "value": "■ Choisir un personnage de soutien<br>Vous pouvez enrôler un personnage de soutien en fonction de son élément.<br>L'équipement, les chimères et les atouts-visions choisis à ce moment-là seront tous équipés quand l'unité sera enrôlée.<br>*Sélectionner le bouton TOUS autorisera n'importe quelle unité à être enrôlée, indépendamment de son élément.<br><br>■ Les récompenses de soutien<br>Vous pouvez gagner des gils en fonction du niveau de l'unité.<br>Vous recevrez également une récompense si l'un de vos amis enrôle une de vos unités comme personnage de soutien.<br>Ces récompenses seront envoyées dans les Cadeaux."
+        },
+        {
+            "key": "ARTI_TITLE",
+            "value": "Détails"
+        },
+        {
+            "key": "ARTI_DESC",
+            "value": "Dans les détails de l'équipement, vous pouvez consulter ses caractéristiques et toute aptitude ou effet qu'il confère, ainsi que les conditions à remplir pour l'utiliser.<br>Il existe plusieurs types d'équipements et le taux auquel augmentent leurs caractéristiques avec l'amélioration n'est pas toujours le même.<br><br>Voici les différents types d'armes qui existent :<br>・Vitalité : la caractéristique PV augmente en priorité.<br>・Assaut : la caractéristique ATT augmente en priorité.<br>・Magie : la caractéristique MAGIE augmente en priorité.<br>・Visée : la caractéristique Précision augmente en priorité.<br>・Esquive : la caractéristique Esquive augmente en priorité.<br>・Critique : la caractéristique Coups critiques augmente en priorité.<br>・Bouclier : la caractéristique DEF augmente en priorité.<br>・Barrière : la caractéristique PSY augmente en priorité.<br>"
+        },
+        {
+            "key": "ARTI_LIST_TITLE",
+            "value": "Liste des équipements"
+        },
+        {
+            "key": "ARTI_LIST_DESC",
+            "value": "C'est là que vous pouvez voir les équipements que vous possédez.<br>Ceux qui sont actuellement équipés sur les unités portent la mention « E » en haut du cadre.<br><color=#99FF33>E</color> signifie que l'équipement est utilisé par une unité.<br><color=#FF99FF>E</color> signifie que l'équipement est enregistré dans vos favoris.<br>*Si un équipement répond aux deux définitions parce qu'il fait partie de vos favoris et est équipé sur une unité, alors c'est <color=#99FF33>E</color> qui sera affiché.<br><br>Les filtres et les onglets vous servent à n'afficher que les équipements qui remplissent certaines conditions.<br>Quand vous voyez la mention « Filtres : actifs », c'est que certains équipements ne sont pas affichés."
+        },
+        {
+            "key": "ARTI_ENHANCE_TITLE",
+            "value": "Améliorer l'équipement"
+        },
+        {
+            "key": "ARTI_ENHANCE_DESC",
+            "value": "L'Adamantine permet d'augmenter le niveau d'un équipement. Ses caractéristiques sont alors améliorées au hasard.<br>Vous pouvez néanmoins utiliser un sceau au moment de l'amélioration pour viser une caractéristique en particulier.*Vous ne pouvez utiliser qu'un sceau par niveau.<br><br>Voici le niveau max atteignable par un équipement en fonction de son nombre de ★ :<br><br>▼Niveau max de l'équipement<br>★ : niv. 10<br>★★ : niv. 20<br>★★★ : niv. 30<br>★★★★ : niv. 40<br>★★★★★ : niv. 50<br>*Il peut y avoir des exceptions."
+        },
+        {
+            "key": "ARTI_AWAKE_TITLE",
+            "value": "Éveiller un équipement"
+        },
+        {
+            "key": "ARTI_AWAKE_DESC",
+            "value": "Pour débloquer le niveau max d'un équipement, il vous faudra l'éveiller.<br>Quand un équipement atteint son niveau max, vous pouvez l'éveiller grâce au livre secret de l'amélioration correspondant."
+        },
+        {
+            "key": "ARTI_STATUS_TITLE",
+            "value": "Forgeage d'équipement"
+        },
+        {
+            "key": "ARTI_STATUS_DESC",
+            "value": "Vous pouvez améliorer les caractéristiques des équipements grâce aux Marteaux nains. <br>*Chaque équipement permet un nombre limité d'utilisations du Marteau nain pour augmenter ses caractéristiques."
+        },
+        {
+            "key": "ARTI_ABILITY_TITLE",
+            "value": "Améliorer les aptitudes d'équipement"
+        },
+        {
+            "key": "ARTI_ABILITY_DESC",
+            "value": "Vous pouvez améliorer les aptitudes d'équipement grâce à des pots d'armure.<br>"
+        },
+        {
+            "key": "ARTI_RESET_TITLE",
+            "value": "Réinitialiser un équipement"
+        },
+        {
+            "key": "ARTI_RESET_DESC",
+            "value": "Vous pouvez réinitialiser un équipement pour le faire redescendre au niveau 1 sans le décomposer, ce qui vous permet de reprendre son amélioration depuis le début.<br>Ce faisant, vous réinitialisez également le nombre de fois qu'un marteau nain peut être utilisé sur cet équipement.<br>*Une fois réinitialisé, l'équipement perd sa progression, ses éveils éventuels et ses aptitudes sont remises à zéro."
+        },
+        {
+            "key": "ARTI_CRAFT_TITLE",
+            "value": "Artisanat"
+        },
+        {
+            "key": "ARTI_CRAFT_DESC",
+            "value": "Vous y trouverez les équipements dont vous possédez la recette et au moins un matériau ou équipement nécessaire à sa fabrication.<br>Vous pourrez les fabriquer en rassemblant tous les matériaux nécessaires.<br>*Les équipement enregistrés comme favoris ne peuvent pas servir de matériau d'artisanat."
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_TITLE",
+            "value": "Informations sur l'artisanat"
+        },
+        {
+            "key": "ARTI_CRAFT_DETAIL_DESC",
+            "value": "Pour fabriquer un équipement, rassemblez sa recette et les matériaux nécessaires puis allez dans le menu Artisanat.<br>Vous pouvez appuyer sur l'icône de chaque matériau pour savoir comment l'obtenir.<br>*Le type de l'équipement ainsi fabriqué est déterminé au hasard. Ainsi, ses caractéristiques peuvent changer avant et après la fabrication.<br>*Quand vous fabriquez un équipement +1 ou plus, vous pouvez choisir le type des équipements utilisés comme ingrédients."
+        },
+        {
+            "key": "ARTI_SELL_TITLE",
+            "value": "Vente de l'équipement"
+        },
+        {
+            "key": "ARTI_SELL_DESC",
+            "value": "Vous pouvez vendre un équipement de votre inventaire contre des gils.<br>*Vous ne pouvez pas vendre les équipements de confiance absolue.<br>*Ceux qui sont actuellement enregistrés dans vos favoris ne peuvent pas être vendus.<br><br>Il vous sera impossible de récupérer un équipement vendu par erreur.<br>Si vous craignez de vendre un équipement par erreur, pensez à l'enregistrer dans vos favoris.<br>Pour enregistrer un équipement dans vos favoris, appuyez sur l'étoile depuis l'écran d'information."
+        },
+        {
+            "key": "ARTI_BULK_TITLE",
+            "value": "Décomposer l'équipement"
+        },
+        {
+            "key": "ARTI_BULK_DESC",
+            "value": "Décomposer un équipement vous permet d'obtenir les matériaux nécessaires à l'artisanat.<br>Décomposer des équipements éveillés peut également produire des Livres secrets de l'amélioration.<br>Consultez quels matériaux la décomposition peut vous procurer en maintenant l'icône d'équipement appuyée,<br> puis en choisissant « Décomposer » pour ouvrir la fenêtre de vérification des matériaux.<br><br>Attention, les objets potentiellement obtenus grâce à la décomposition peuvent ne pas être ceux utilisés pour le créer pendant l'artisanat.<br>*Le niveau et l'éveil des équipements obtenus revient à zéro et leur type est déterminé au hasard.<br><br>*Vous ne pouvez procéder à la décomposition qu'un nombre de fois limité par jour.<br>*Vous ne pouvez pas obtenir de recettes d'artisanat, d'Adamantine, de Marteau nain ni de sceaux via la décomposition.<br>*Les équipements de confiance absolue, ainsi que les équipements favoris et actuellement équipés sur une unité ne peuvent pas être décomposés.<br>*Les équipements décomposés par erreur ne peuvent pas être récupérés. Si vous craignez de décomposer un équipement par erreur, pensez à l'enregistrer dans vos favoris.<br>*Pour enregistrer un équipement dans vos favoris, appuyez sur l'étoile depuis l'écran d'information."
+        },
+        {
+            "key": "NETHERBEAST_LIST_TITLE",
+            "value": "Liste des chimères"
+        },
+        {
+            "key": "NETHERBEAST_LIST_DESC",
+            "value": "Pour voir les chimères que vous possédez, consultez la liste des chimères.<br>Les chimères équipées ont un E affiché en haut de leur cadre.<br>Appuyez sur « Élément » pour filtrer les chimères par éléments.<br>*Lorsque que le mode « Filtres : actifs » est visible, cela signifie que vos objets sont actuellement filtrés."
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_TITLE",
+            "value": "Détails sur les chimères"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_DESC",
+            "value": "■ Détails sur les chimères<br>C'est ici que vous pouvez consultez toute sorte d'informations sur les chimères.<br>Vous pouvez aussi les éveiller avec des objets tels que des magilithes et des pierres d'éveil correspondant à leur élément.<br><br>■ Éveiller une chimère<br>Une fois que la chimère a atteint son niveau maximum, vous pouvez l'éveiller, ce qui débloquera un nouveau palier de niveau max.<br>Éveiller une chimère la fera retourner au niveau 1, mais elles ne perdront pas leurs PI.<br>Leur tableau d'aptitude ne sera pas non plus affecté par l'éveil.<br><br>■ Résonnance de chimère<br>Lorsque vous équipez une chimère sur une unité pendant les quêtes, vous faites augmenter leur résonnance.<br>Plus la résonnance est élevée, plus vous pourrez bénéficier d'un bonus de statut conséquent en équipant cette chimère. Le rayon des effets de carte de la magie d'invocation de la chimère devient également plus large."
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_TITLE",
+            "value": "Améliorations multiples"
+        },
+        {
+            "key": "NETHERBEAST_ENHANCE_DESC",
+            "value": "Si toutes les conditions sont remplies, il est possible de débloquer plusieurs panneaux dans le tableau d'entraînement de chimère en même temps."
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_TITLE",
+            "value": "Tableau d'entraînement de chimère"
+        },
+        {
+            "key": "NETHERBEAST_ABILITYBOARD_DESC",
+            "value": "■ Le tableau d'entraînement de chimère<br>Dans le tableau d'entraînement de chimère, vous pouvez booster les caractéristiques d'une chimère et avoir accès à de nouvelles aptitudes pour les unités auxquelles elles sont équipées.<br>Pour progresser dans le tableau d'entraînement, vous aurez besoin de PI.<br>Vous obtenez des PI à mesure que vos chimères montent de niveau.<br><br>■ Réinitialiser le tableau d'entraînement<br>Vous pouvez appuyer sur le bouton « Réinitialiser le tableau » pour remettre toute la progression à zéro.<br>Ainsi, vous pouvez recommencer l'entraînement de votre chimère depuis le début.<br>*La première réinitialisation est gratuite. À partir de la deuxième, vous devrez consommer des visiores."
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_TITLE",
+            "value": "Conditions du tableau d'entraînement"
+        },
+        {
+            "key": "NETHERBEAST_RELEASE_DESC",
+            "value": "■ Remplir les conditions.<br>En plus du coût en PI, certains panneaux requièrent des conditions spécifiques pour être débloqués.<br>Vous pouvez consulter ces conditions depuis la fenêtre qui s'ouvre dans chaque panneau."
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_TITLE",
+            "value": "Débloquer plusieurs panneaux dans le tableau d'entraînement de chimère"
+        },
+        {
+            "key": "NETHERBEAST_RELEASEALL_DESC",
+            "value": "Si vous avez rempli toutes les conditions nécessaires pour chacune des chimères, vous pouvez alors débloquer plusieurs panneaux dans le tableau d'entraînement de chimère.<br><br>Le nombre total de PI requis pour chaque tableau sera dépensé."
+        },
+        {
+            "key": "NETHERBEAST_RESET_TITLE",
+            "value": "Tableau d'entraînement de chimère réinitialisé"
+        },
+        {
+            "key": "NETHERBEAST_RESET_DESC",
+            "value": "Tous les tableaux débloqués à l'aide de PI peuvent être réinitialisés pour recommencer l'entraînement depuis le début.<br>À mesure que vous augmentez votre Rang royal, vous gagnez d'abord une, puis plusieurs réinitialisations gratuites par semaine de votre tableau d'entraînement de chimère.<br><br>*Tous les PI utilisés seront remboursés.<br>*Votre première réinitialisation (toutes chimères confondues) est gratuite. Les suivantes vous coûteront des visiores."
+        },
+        {
+            "key": "VISION_LIST_TITLE",
+            "value": "Liste des atouts-visions"
+        },
+        {
+            "key": "VISION_LIST_DESC",
+            "value": "C'est là que vous pouvez voir les atouts-visions en votre possession.<br>Les atouts-visions équipés sur les unités sont marqué d'un E en haut de leur cadre.<br>Appuyez sur l'onglet Favoris ou paramétrez un filtre pour n'afficher que les atouts-visions qui remplissent certaines conditions.<br>*Quand vous voyez « Filtres : actifs » c'est que certains atouts-visions sont filtrés."
+        },
+        {
+            "key": "VISION_ENHANCE_TITLE",
+            "value": "Enchantement"
+        },
+        {
+            "key": "VISION_ENHANCE_DESC",
+            "value": "Dans ce menu, vous pouvez notamment consulter les caractéristiques des atouts-visions.<br><br>■ Améliorer un atout-vision<br>Pour augmenter le niveau de vos atouts-visions, vous aurez besoin d'œufs de croissance et de gils.<br>Lorsque leur niveau augmente, les atouts-visions gagnent de meilleures caractéristiques et confèrent de meilleurs bonus et de meilleures aptitudes de groupe.<br><br>■ Éveiller un atout-vision<br>Pour éveiller un atout-vision, vous aurez besoin de fragments de ce dernier, mais vous pourrez également utiliser vos orbes de vision et vos gils.<br>Éveiller un atout-vision permet d'augmenter son niveau max.<br><br>■ Bonus d'éveil<br>Il est possible que l'éveil d'un atout-vision active également un bonus ou une aptitude de groupe.<br>Appuyez sur « Bonus d'éveil » pour en consulter la liste."
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_TITLE",
+            "value": "Fusion des cartes"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_DESC",
+            "value": "La fusion des cartes permet d'améliorer des atouts-visions à l'aide d'autres atouts-visions.<br>Si vous fusionnez deux atouts-visions identiques, l'icône d'éveil apparaîtra.<br><br>Dans « Améliorations multiples », vous pouvez sélectionner plusieurs cartes en fonction de leur rareté et de leur type en les cochant en même temps.<br>*Vous ne pouvez pas sélectionner les cartes équipées ou favorites.<br>Vous pouvez sélectionner jusqu'à 99 cartes en même temps.<br>Les cartes dont le niveau de rareté est le plus bas seront fusionnées en priorité."
+        },
+        {
+            "key": "VISION_SELL_TITLE",
+            "value": "Vendre des atouts-visions"
+        },
+        {
+            "key": "VISION_SELL_DESC",
+            "value": "Vous pouvez vendre les atouts-visions en votre possession en échange de gils et de médailles de vision.<br>*Toute vente est définitive. Une fois vendus, les atouts-visions ne sont pas récupérables.<br>*Les atouts-visions équipés ou favoris ne peuvent pas être vendus."
+        },
+        {
+            "key": "VISION_DETAIL_TITLE",
+            "value": "Atouts-visions"
+        },
+        {
+            "key": "VISION_DETAIL_DESC",
+            "value": "Dans ce menu, vous pouvez notamment consulter les caractéristiques des atouts-visions.<br><br>■ Améliorer un atout-vision<br>Pour augmenter le niveau de vos atouts-visions, vous aurez besoin d'œufs de croissance et de gils.<br>Lorsque leur niveau augmente, les atouts-visions gagnent de meilleures caractéristiques et confèrent de meilleurs bonus et de meilleures aptitudes de groupe.<br><br>■ Éveiller un atout-vision<br>Pour éveiller un atout-vision, vous aurez besoin de fragments de ce dernier, mais vous pourrez également utiliser vos orbes de vision et vos gils.<br>Éveiller un atout-vision permet d'augmenter son niveau max.<br><br>■ Bonus d'éveil<br>Il est possible que l'éveil d'un atout-vision active également un bonus ou une aptitude de groupe.<br>Appuyez sur « Bonus d'éveil » pour en consulter la liste."
+        },
+        {
+            "key": "； ミッション",
+            "value": ""
+        },
+        {
+            "key": "MISSION_TITLE",
+            "value": "Missions"
+        },
+        {
+            "key": "MISSION_DESC",
+            "value": "■ Les missions<br>Dans les missions, vous obtiendrez des récompenses en remplissant des objectifs spécifiques.<br><br>• Les missions quotidiennes<br>Elles sont disponibles tous les jours.<br>À mesure que vous complétez les missions, la jauge de progression se remplit jusqu'à atteindre certains paliers grâce auxquels vous recevez des récompenses.<br>Vous pouvez également profiter des Missions du lundi, qui vous sont proposées les lundis de 00:00 à 23:59, heure universelle (PST).<br><br>• Les missions à étapes<br>Il s'agit de missions dans lesquelles vous pouvez obtenir des récompenses en fonction de votre progression dans les quêtes d'histoire et en entraînant vos unités.<br>Certaines missions ne sont disponibles que pendant les périodes d'événements.<br><br>• Missions VIP<br> Ces missions ne sont accessibles qu'une fois que vous avez acheté les lots de missions disponibles dans la Boutique.<br><br>■ Recevoir toutes les récompenses en même temps<br>Appuyez sur le bouton « Tout récupérer » pour récupérer toutes les récompenses d'une catégorie en même temps.<br><br>*Si votre inventaire est plein, les récompenses en trop seront envoyées dans vos Cadeaux.<br>*Les missions quotidiennes sont réinitialisées tous les jours à 00:00, heure universelle (PST), ce qui vous permet de les compléter à nouveau.<br>Attention : les récompenses non réceptionnées avant la réinitialisation seront perdues."
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "Menu"
+        },
+        {
+            "key": "OPTION_DESC",
+            "value": "■ Le Menu<br>Vous trouverez dans le Menu des informations utiles et vous aurez accès aux paramètres du jeu.<br><br>■ Les options<br>Voici les options paramétrables :<br>• Options<br>Pour ajuster le son, les graphismes et les paramètres du mode d'économie d'énergie.<br>• Paramètres de chat<br>Pour désactiver certaines fonctionnalités du chat ou modifier les messages pré-écrits.<br>• Téléchargements<br>Pour télécharger les voix ou d'autres contenus.<br>• Notifications<br>Vous pouvez activer ou désactiver les notifications push."
+        },
+        {
+            "key": "OPTION_PLAYERINFO_TITLE",
+            "value": "Vos informations"
+        },
+        {
+            "key": "OPTION_PLAYERINFO_DESC",
+            "value": "Sur cet écran vous pouvez consulter votre ID de joueur et personnaliser certains aspects du jeu :<br><br>• Votre nom de joueur<br>• Votre commentaire<br>• Les unités affichées sur l'écran d'accueil<br><br>*Vous devez patienter 10 jours après avoir modifié votre nom de joueur avant de pouvoir l'éditer à nouveau. Les joueurs de Rang Royal 2 ou plus sont exempts de ce délai."
+        },
+        {
+            "key": "OPTION_STORYMEMORY_TITLE",
+            "value": "Souvenirs du mode Histoire"
+        },
+        {
+            "key": "OPTION_STORYMEMORY_DESC",
+            "value": "Dans cet écran vous pouvez rejouer les parties des quêtes d'histoire que vous avez terminées, les animations des chimères que vous possédez et d'autres vidéos."
+        },
+        {
+            "key": "ITEM_TITLE",
+            "value": "Objets"
+        },
+        {
+            "key": "ITEM_DESC",
+            "value": "Vous pouvez ici consulter les différentes informations relatives aux objets."
+        },
+        {
+            "key": "CHARGEBONUS_TITLE",
+            "value": "Bonus d'achats quotidiens"
+        },
+        {
+            "key": "CHARGEBONUS_DESC",
+            "value": "En achetant un certain nombre de visiores payés pendant la période des événements, vous pouvez gagner deux types de bonus.<br>• Les bonus d'achats quotidiens que vous recevez tous les jours.<br>• Un bonus cumulatif qui dépend du nombre de jours pendant lesquels vous avez acheté des visiores.<br><br>*Une fois l'événement terminé, vous ne pouvez plus recevoir les bonus d'achats.<br>*Vous ne pouvez pas obtenir plus de bonus qu'il ne reste de jours avant la fin de l'événement.<br>*Les « jours » sont comptés à partir de 00:00, heure universelle (PST).<br>*Les visiores payés compris dans les lots sont comptés dans le calcul des bonus."
+        },
+        {
+            "key": "EXCHANGE_TITLE",
+            "value": "Boutique d'échange d'objets"
+        },
+        {
+            "key": "EXCHANGE_DESC",
+            "value": "Vous pouvez procéder à 3 types d'échanges dans la Boutique d'échange d'objets.<br>Chaque type d'échange détermine quels objets vous pouvez échanger.<br>*Le type d'échange dépend aussi du type et de la rareté des objets que vous cherchez à obtenir.<br><br>・Échange supérieur : vous pouvez utiliser des objets de rareté inférieure à ceux que vous souhaitez obtenir.<br>・Échange inférieur : vous pouvez utiliser des objets de rareté supérieure à ceux que vous souhaitez obtenir.<br>・Échange équivalent : vous échangez des objets de même rareté."
+        },
+        {
+            "key": "；白磁の塔",
+            "value": ""
+        },
+        {
+            "key": "TOWER_TOP_TITLE",
+            "value": "Tour de porcelaine"
+        },
+        {
+            "key": "TOWER_TOP_DESC",
+            "value": "La Tour de porcelaine est une quête disponible pendant une durée limitée."
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Détails"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Dans la Tour de porcelaine, votre Bravoure et votre Foi augmentent chaque fois que vous utilisez des PV et des aptitudes, aptitudes d'équipement et magie d'invocation comprises.<br>*Vous pouvez équiper une chimère sur une unité différente sans affecter le nombre d'aptitudes utilisées.<br>*Les réductions de Bravoure et de Foi ne sont pas conservées d'un combat à l'autre.<br>Vous pouvez restaurer gratuitement le nombre d'utilisations autorisées des aptitudes et des PV de chaque unité à intervalle régulier.<br><br>Vous pouvez obtenir des récompenses en terminant les différents étages de la tour.<br>Terminer les étages EX débloquera une quête EX.<br>Les quêtes EX sont des quêtes spéciales qui vous permettent d'utiliser les unités tombées K.O. aux étages précédents.<br><br>La première fois que vous terminez tous les étages, vous pouvez réinitialiser la tour gratuitement. Ensuite, vous pouvez la réinitialiser avec des visiores.<br>Pour savoir quelles récompenses vous rapportent les étages, appuyez sur la loupe."
+        },
+        {
+            "key": "TOWER_PARTY_TITLE",
+            "value": "Écran de préparation"
+        },
+        {
+            "key": "TOWER_PARTY_DESC",
+            "value": "Si vous ne pouvez pas partir en quête ou former une équipe, la mention « Impossible de commencer la quête » s'affichera.<br>Pour voir quelles aptitudes et magies d'invocation sont disponibles avec votre équipement actuel, maintenez l'icône de votre unité appuyée, cela ouvrira la fenêtre d'information où vous pourrez appuyer sur « aptitudes disponibles »."
+        },
+        {
+            "key": "；オートバトル対象アビリティ",
+            "value": ""
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_TITLE",
+            "value": "Aptitudes pendant les combats automatiques"
+        },
+        {
+            "key": "UNIT_ABILITY_AUTO_SETTING_DESC",
+            "value": "Les aptitudes réglées sur OFF ne seront pas utilisées pendant les combats automatiques.<br>Vous pouvez modifier ces options en appuyant sur le bouton Paramètres avancés.<br>*Même réglées sur ON, certaines aptitudes peuvent ne pas être disponibles en combat automatique en fonction du job secondaire de votre unité ou d'altérations d'état."
+        },
+        {
+            "key": "CONTACT_US_TITLE",
+            "value": "Nous contacter / Support"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_INFO_TITLE",
+            "value": "Informations sur les joueurs"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_IDENTIFIER_TITLE",
+            "value": "Identifiant"
+        },
+        {
+            "key": "CONTACT_US_PLAYER_NAME_TITLE",
+            "value": "Nom de joueur"
+        },
+        {
+            "key": "CONTACT_US_INQUIRIES_TITLE",
+            "value": "Nous contacter"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_TYPE_TITLE",
+            "value": "Catégorie de problème"
+        },
+        {
+            "key": "CONTACT_US_ISSUE_AREA_TITLE",
+            "value": "Localisation du problème"
+        },
+        {
+            "key": "CONTACT_US_EMAIL_TITLE",
+            "value": "E-mail (facultatif)"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_TITLE",
+            "value": "Commentaires"
+        },
+        {
+            "key": "CONTACT_US_SEND_BUTTON",
+            "value": "Envoyer"
+        },
+        {
+            "key": "CONTACT_US_TICKETS_BUTTON",
+            "value": "Mes tickets"
+        },
+        {
+            "key": "ISSUE_TYPE_GENERAL",
+            "value": "Général"
+        },
+        {
+            "key": "ISSUE_TYPE_ACCOUNT",
+            "value": "Mon compte"
+        },
+        {
+            "key": "ISSUE_TYPE_GAMEPLAY",
+            "value": "Jeu"
+        },
+        {
+            "key": "ISSUE_TYPE_BUG",
+            "value": "Bug"
+        },
+        {
+            "key": "ISSUE_TYPE_EVENT",
+            "value": "Événements"
+        },
+        {
+            "key": "ISSUE_TYPE_FEEDBACK",
+            "value": "Commentaires"
+        },
+        {
+            "key": "ISSUE_TYPE_IN_APP_PURCHASE",
+            "value": "Achats dans l'application"
+        },
+        {
+            "key": "ISSUE_TYPE_BILLING",
+            "value": "Facturation"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_LOST",
+            "value": "Perte de compte"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_SHARD",
+            "value": "Fragments manquants"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_LAPIS",
+            "value": "Visiores manquants"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_MISSING_EQUIPMENT",
+            "value": "Équipement manquant"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_SUSPENDED",
+            "value": "Suspension de compte"
+        },
+        {
+            "key": "ISSUE_AREA_ACCOUNT_OTHERS",
+            "value": "Autres"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_MISSING_REWARDS",
+            "value": "Récompenses manquantes"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_CRASH",
+            "value": "Impossible de jouer aux événements"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_BUG",
+            "value": "Bug dans les événements"
+        },
+        {
+            "key": "ISSUE_AREA_EVENT_OTHERS",
+            "value": "Autres"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_UNABLE_TO_DOWNLOAD",
+            "value": "Téléchargement impossible"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_LOADING",
+            "value": "Chargement"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_QUEST",
+            "value": "Quêtes"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_GACHA",
+            "value": "Gacha"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_ARENA",
+            "value": "Arène"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_CONNECTION_ERROR",
+            "value": "Erreur de connexion"
+        },
+        {
+            "key": "ISSUE_AREA_GAMEPLAY_OTHERS",
+            "value": "Autres"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_IMAGE",
+            "value": "Images"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TEXT",
+            "value": "Texte"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_TRANSLATION",
+            "value": "Traduction"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_SKILL",
+            "value": "Compétences"
+        },
+        {
+            "key": "ISSUE_AREA_BUGS_OTHERS",
+            "value": "Autres"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_MISSING_PURCHASE",
+            "value": "Achats manquants"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_REFUND",
+            "value": "Remboursement"
+        },
+        {
+            "key": "ISSUE_AREA_BILLING_BUNDLE",
+            "value": "Lots"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_APPLE",
+            "value": "Apple App Store"
+        },
+        {
+            "key": "ISSUE_AREA_IAP_GOOGLE",
+            "value": "Google Play Store"
+        },
+        {
+            "key": "SUPPORT_TICKETS_TITLE",
+            "value": "Mes tickets"
+        },
+        {
+            "key": "CONTACT_US_COMMENTS_CAPTION",
+            "value": "Veuillez décrire votre problème ici"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_DIALOG_TITLE",
+            "value": "Réponse"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_SUCCESS_DIALOG_DESC",
+            "value": "Votre message a bien été envoyé"
+        },
+        {
+            "key": "CONTACT_US_REQ_SENT_FAIL_DIALOG_DESC",
+            "value": "Erreur. Votre message n'a pas pu être envoyé"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_TITLE",
+            "value": "Confirmer"
+        },
+        {
+            "key": "CONTACT_US_REQ_CFM_DIALOG_DESC",
+            "value": "Envoyer le message ?"
+        },
+        {
+            "key": "； ポイントクエスト",
+            "value": ""
+        },
+        {
+            "key": "POINT_QUEST_TOP_TITLE",
+            "value": "Épreuves du Jugement"
+        },
+        {
+            "key": "POINT_QUEST_TOP_DESC",
+            "value": "■ Que sont les Épreuves du Jugement ?<br>Vous pouvez obtenir des points en terminant les quêtes d'événement ou les combats de boss.<br>Votre performance sur le champ de bataille détermine le nombre de points que vous récoltez.<br>Vous recevrez des récompenses en fonction des quêtes de mission que vous aurez complétées et du nombre de points que vous aurez obtenus.<br>*Si vous utilisez un ticket évit'quête pour terminer une quête, seuls vos points de victoire seront comptabilisés lors du calcul des récompenses.<br>*Terminer une quête à la difficulté normale débloquera un nouveau niveau de difficulté.<br><br>■ Que sont les invocations d'événement ?<br>Vous pouvez échanger vos médailles contre des invocations d'événement.<br>Une fois que vous aurez invoqué la récompense principale de chaque palier, vous serez en mesure de réinitialiser l'invocation et également de passer au palier suivant.<br>Une fois que vous aurez franchi tous les paliers, vous pourrez lancer des invocations indéfiniment au dernier palier.<br><br>Pour davantage d'informations sur l'événement et les récompenses disponibles, veuillez consulter les détails rattachés à chaque événement."
+        },
+        {
+            "key": "ARTI_SELECT_TITLE",
+            "value": "Sélectionner une amélioration"
+        },
+        {
+            "key": "ARTI_SELECT_DESC",
+            "value": "■ Améliorer un équipement<br>En améliorant un équipement avec un objet spécial, vous augmentez son niveau, ses caractéristiques et renforcez ses aptitudes.<br>En fonction du type d'équipement que vous améliorez, ses caractéristiques et son niveau n'évolueront pas de la même manière ni au même rythme.<br>*Les bonus de caractéristiques induits par le gain de niveau sont déterminés au hasard.<br>*Chaque caractéristique a une valeur maximum.<br>*Sur certains équipements, vous ne pourrez pas utilisez autant de fois le marteau nain pour augmenter les caractéristiques.<br><br>Les niveaux max d'équipement sont :<br><br>▼Niveau max par étoile<br>★ : niv. 10<br>★★ : niv. 20<br>★★★ : niv. 30<br>★★★★ : niv. 40<br>★★★★★ : niv. 50<br>*Il peut y avoir des exceptions."
+        }
+    ]
+}

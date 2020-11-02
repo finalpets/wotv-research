@@ -1,0 +1,84 @@
+{
+    "infos": [
+        {
+            "key": "CMC_DIAMOND_MASTER",
+            "value": "Diamantener Meister"
+        },
+        {
+            "key": "CMC_DIAMOND_1",
+            "value": "Diamant I"
+        },
+        {
+            "key": "CMC_DIAMOND_2",
+            "value": "Diamant II"
+        },
+        {
+            "key": "CMC_DIAMOND_3",
+            "value": "Diamant III"
+        },
+        {
+            "key": "CMC_PLATINUM_MASTER",
+            "value": "Platinmeister"
+        },
+        {
+            "key": "CMC_PLATINUM_1",
+            "value": "Platin I"
+        },
+        {
+            "key": "CMC_PLATINUM_2",
+            "value": "Platin II"
+        },
+        {
+            "key": "CMC_PLATINUM_3",
+            "value": "Platin III"
+        },
+        {
+            "key": "CMC_GOLD_MASTER",
+            "value": "Goldener Meister"
+        },
+        {
+            "key": "CMC_GOLD_1",
+            "value": "Gold I"
+        },
+        {
+            "key": "CMC_GOLD_2",
+            "value": "Gold II"
+        },
+        {
+            "key": "CMC_GOLD_3",
+            "value": "Gold III"
+        },
+        {
+            "key": "CMC_SILVER_MASTER",
+            "value": "Silberner Meister"
+        },
+        {
+            "key": "CMC_SILVER_1",
+            "value": "Silber I"
+        },
+        {
+            "key": "CMC_SILVER_2",
+            "value": "Silber II"
+        },
+        {
+            "key": "CMC_SILVER_3",
+            "value": "Silber III"
+        },
+        {
+            "key": "CMC_BRONZE_MASTER",
+            "value": "Bronzener Meister"
+        },
+        {
+            "key": "CMC_BRONZE_1",
+            "value": "Bronze I"
+        },
+        {
+            "key": "CMC_BRONZE_2",
+            "value": "Bronze II"
+        },
+        {
+            "key": "CMC_BRONZE_3",
+            "value": "Bronze III"
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "<cspace=2><size=96>A<space=-14><size=80>W<space=-20>A<space=-6>KENIN<space=-4>G"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "<cspace=4><size=96>L<space=-6><size=80>IMIT</size></cspace><space=20><cspace=-3><size=96>B</size><size=80>REAK"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "<cspace=-4>T<size=72>RUST</size><space=16>M<size=72><space=-3>ASTER"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "<cspace=-8><size=98>J<size=82>ob<cspace=-12><size=98>L<size=82>V<cspace=0><space=20><size=98>UP"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "新たな力を解放<space=10><size=60>!"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "力が更に強化<space=10><size=60>!"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "<size=90>R<space=4><cspace=1><size=76>ank</cspace></size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rank"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "最大体力"
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "フレンド上限"
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "解放"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "<space=-5><size=98>S<cspace=-6><size=82>TATUS</cspace></size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "<cspace=0.01em><size=1.4em>M</size>ISSION<space=0.58em><size=1.4em>C</size>LEAR"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "<space=0.61em><cspace=0.04em><size=1.4em>B</size>INGO<space=0.08em><size=1.4em>達成<space=-0.34em>！"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "To Be <cspace=0.5>Continued..."
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "<cspace=-8>アイテム獲<space=14>得</cspace><i>!!"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "<space=-6><cspace=-5>レイドボス出現！"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "<size=58>L<cspace=-6><size=50>EV</cspace>EL</size><space=6>UP</size>"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "<cspace=2><size=96>A<space=-14><size=80>W<space=-20>A<space=-6>KENIN<space=-4>G"
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "初回BONUS"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "ギ<space=-0.1em>ル<space=-0.18em>ド設立"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "<space=-5><size=98>L<cspace=-6><size=82>EV</cspace>EL</size><space=10>UP</cspace></size>"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "<cspace=1.5>解放効果"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "League Level UP!!"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "League Level DOWN"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "RESULT"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "<cspace=-0.03em>F<size=0.7em>EVER</size>!!"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "気<size=0.7em><voffset=0.5em><space=0.2em>ま<voffset=0.58em>ぐ<voffset=0.5em><space=0.12em>れ</voffset></size><space=0.1em>屋"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "<cspace=0.05em>Whimsy Shop"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "<cspace=0.05em>OPEN"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "あとで"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "気まぐれ屋へ"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "<cspace=0.02em>初回クリア報酬GET!"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "<cspace=0.02em>クリア報酬GET!"
+        }
+    ]
+}

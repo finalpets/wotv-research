@@ -1,0 +1,3976 @@
+{
+    "infos": [
+        {
+            "key": "IT_US_POTION",
+            "value": "Stellt LP einer Einheit wieder her (S)."
+        },
+        {
+            "key": "IT_US_HIPOTION",
+            "value": "Stellt LP einer Einheit wieder her (M)."
+        },
+        {
+            "key": "IT_US_EXPOTION",
+            "value": "Stellt LP einer Einheit wieder her (L)."
+        },
+        {
+            "key": "IT_US_ETHER",
+            "value": "Stellt TP einer Einheit wieder her (S)."
+        },
+        {
+            "key": "IT_US_ETHERTURBO",
+            "value": "Stellt TP einer Einheit wieder her (M)."
+        },
+        {
+            "key": "IT_US_ELIXIR",
+            "value": "Stellt LP und TP einer Einheit wieder her."
+        },
+        {
+            "key": "IT_US_PNXFEATHER",
+            "value": "Belebt einen kampfunfähigen Verbündeten wieder."
+        },
+        {
+            "key": "IT_US_ANTIDOTE",
+            "value": "Heilt Gift."
+        },
+        {
+            "key": "IT_US_EYEDROPS",
+            "value": "Heilt Blind."
+        },
+        {
+            "key": "IT_US_REMINDER",
+            "value": "Heilt Schlaf und Konfus."
+        },
+        {
+            "key": "IT_US_ECHODROP",
+            "value": "Heilt Stille."
+        },
+        {
+            "key": "IT_US_UNICORNHORN",
+            "value": "Heilt Lähmung."
+        },
+        {
+            "key": "IT_US_MAIDENKISS",
+            "value": "Heilt Frosch."
+        },
+        {
+            "key": "IT_US_GOLDNEEDLE",
+            "value": "Heilt Stein."
+        },
+        {
+            "key": "IT_US_REMEDY",
+            "value": "Heilt Gift, Blind, Schlaf, Stille, Lähmung und Konfus."
+        },
+        {
+            "key": "IT_US_ENCHANTDRAG",
+            "value": "Heilt Stille, Immobilisierung und Ausschalten."
+        },
+        {
+            "key": "IT_US_HOLYTORCH",
+            "value": "Entfernt Statuseffekte (Hast, Regena, Protes, Vallum, Levitas, Schutzengel)"
+        },
+        {
+            "key": "IT_US_HERODRINK",
+            "value": "Erhöht vorübergehend ANG und MAG."
+        },
+        {
+            "key": "IT_US_BACCHUS",
+            "value": "Verursacht vorübergehend Berserker."
+        },
+        {
+            "key": "IT_US_SHELL",
+            "value": "Gewährt vorübergehend Vallum."
+        },
+        {
+            "key": "IT_US_PROTECT",
+            "value": "Gewährt vorübergehend Protes."
+        },
+        {
+            "key": "IT_US_HEALWATER",
+            "value": "Gewährt vorübergehend Regena."
+        },
+        {
+            "key": "IT_US_HPPOTION",
+            "value": "Erhöht vorübergehend das LP-Maximum."
+        },
+        {
+            "key": "IT_US_ATKPOTION",
+            "value": "Erhöht vorübergehend ANG."
+        },
+        {
+            "key": "IT_US_MAGPOTION",
+            "value": "Erhöht vorübergehend MAG."
+        },
+        {
+            "key": "IT_US_SPDPOTION",
+            "value": "Erhöht vorübergehend AGI."
+        },
+        {
+            "key": "IT_US_DEXPOTION",
+            "value": "Erhöht vorübergehend GES."
+        },
+        {
+            "key": "IT_ACTP_01",
+            "value": "Stellt Ausdauer des Spielers wieder her (S)."
+        },
+        {
+            "key": "IT_ACTP_02",
+            "value": "Stellt Ausdauer des Spielers wieder her (M)."
+        },
+        {
+            "key": "IT_ACTP_03",
+            "value": "Stellt Ausdauer des Spielers wieder her (L)."
+        },
+        {
+            "key": "IT_ACTP_04",
+            "value": "Stellt Ausdauer des Spielers wieder her (XL)."
+        },
+        {
+            "key": "IT_ARENAP_02",
+            "value": "Stellt alle Arenajuwelen wieder her."
+        },
+        {
+            "key": "IT_RAIDAP_01",
+            "value": "Stellt alle Kraftprobenjuwelen wieder her."
+        },
+        {
+            "key": "IT_RANKMP_02",
+            "value": "Stellt für eine Teilnahme an Ranglistenspielen benötigte Kugeln vollständig wieder her."
+        },
+        {
+            "key": "IT_CG_01",
+            "value": "Ein Gegenstand, der in Läden gegen Gil (S) eingetauscht werden kann."
+        },
+        {
+            "key": "IT_CG_02",
+            "value": "Ein Gegenstand, der in Läden gegen Gil (M) eingetauscht werden kann."
+        },
+        {
+            "key": "IT_CG_03",
+            "value": "Ein Gegenstand, der in Läden gegen Gil (L) eingetauscht werden kann."
+        },
+        {
+            "key": "IT_CG_04",
+            "value": "Ein Gegenstand, der in Läden gegen Gil (XL) eingetauscht werden kann."
+        },
+        {
+            "key": "IT_US_EXP_01",
+            "value": "Kann von Einheiten bis inklusive Stufe 30 verwendet werden. Gewährt ERF-Gewinn (S)."
+        },
+        {
+            "key": "IT_US_EXP_02",
+            "value": "Kann von Einheiten bis inklusive Stufe 60 verwendet werden. Gewährt ERF-Gewinn (M)."
+        },
+        {
+            "key": "IT_US_EXP_03",
+            "value": "Kann von Einheiten bis inklusive Stufe 80 verwendet werden. Gewährt ERF-Gewinn (L)."
+        },
+        {
+            "key": "IT_US_EXP_04",
+            "value": "Kann von allen Einheiten verwendet werden. Gewährt ERF-Gewinn (XL)."
+        },
+        {
+            "key": "IT_LB_EXP_01",
+            "value": "Gewährt Gewinn von Limitrausch-ERF (S)."
+        },
+        {
+            "key": "IT_LB_EXP_02",
+            "value": "Gewährt Gewinn von Limitrausch-ERF (M)."
+        },
+        {
+            "key": "IT_LB_EXP_03",
+            "value": "Gewährt Gewinn von Limitrausch-ERF (L)."
+        },
+        {
+            "key": "IT_JB_MM_ALL",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ALL_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ALL_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ALL_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ALL_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SWORD_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SWORD_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SWORD_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SWORD_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SWORD_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_LSWORD_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_LSWORD_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_LSWORD_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_LSWORD_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_LSWORD_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_JSWORD_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_JSWORD_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_JSWORD_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_JSWORD_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_JSWORD_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_FIST_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_FIST_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_FIST_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_FIST_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_FIST_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SPEAR_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SPEAR_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SPEAR_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SPEAR_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SPEAR_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SSWORD_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SSWORD_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SSWORD_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SSWORD_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_SSWORD_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_KUNAI_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_KUNAI_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_KUNAI_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_KUNAI_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_KUNAI_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_BOW_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_BOW_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_BOW_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_BOW_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_BOW_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_GUN_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_GUN_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_GUN_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_GUN_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_GUN_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_STAFF_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_STAFF_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_STAFF_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_STAFF_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_STAFF_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MACE_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MACE_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MACE_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MACE_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MACE_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_AXE_01",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_AXE_02",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_AXE_03",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_AXE_04",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_AXE_05",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_COMMON",
+            "value": "Ein Gegenstand, der anstelle von Joberinnerungen zur Verbesserung eines Jobs der Stufe 3 gebraucht werden kann."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_2",
+            "value": "Ein Gegenstand, der anstelle von Joberinnerungen zur Verbesserung eines Jobs der Stufe 6 gebraucht werden kann."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_3",
+            "value": "Ein Gegenstand, der anstelle von Joberinnerungen zur Verbesserung eines Jobs der Stufe 9 gebraucht werden kann."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_4",
+            "value": "Ein Gegenstand, der anstelle von Joberinnerungen zur Verbesserung eines Jobs der Stufe 12 gebraucht werden kann."
+        },
+        {
+            "key": "IT_JB_MM_COMMON_5",
+            "value": "Ein Gegenstand, der anstelle von Joberinnerungen zur Verbesserung eines Jobs der Stufe 15 gebraucht werden kann."
+        },
+        {
+            "key": "IT_JB_MM_WAR",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WAR_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WAR_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WAR_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WAR_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_KNT",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_KNT_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_KNT_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_KNT_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_KNT_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_PLD",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Paladin) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_PLD_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Paladin) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_PLD_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Paladin) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_PLD_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Paladin) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_PLD_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Paladin) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SWN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Soldat) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SWN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Soldat) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SWN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Soldat) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SWN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Soldat) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SWN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Soldat) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MNK",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Mönch) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MNK_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Mönch) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MNK_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Mönch) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MNK_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Mönch) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MNK_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Mönch) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SAM",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Samurai) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SAM_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Samurai) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SAM_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Samurai) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SAM_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Samurai) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_SAM_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Samurai) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LAN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Pikenier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LAN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Pikenier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LAN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Pikenier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LAN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Pikenier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LAN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Pikenier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_DRG",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dragoner) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_DRG_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dragoner) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_DRG_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dragoner) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_DRG_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dragoner) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_DRG_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dragoner) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_THI",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dieb) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_THI_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dieb) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_THI_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dieb) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_THI_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dieb) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_THI_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Dieb) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_NIN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ninja) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_NIN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ninja) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_NIN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ninja) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_NIN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ninja) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_NIN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ninja) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_HUN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Jäger) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_HUN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Jäger) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_HUN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Jäger) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_HUN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Jäger) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_HUN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Jäger) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GUN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schütze) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GUN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schütze) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GUN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schütze) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GUN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schütze) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GUN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schütze) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WHM",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Weißmagier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WHM_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Weißmagier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WHM_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Weißmagier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WHM_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Weißmagier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WHM_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Weißmagier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_BLM",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwarzmagier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_BLM_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwarzmagier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_BLM_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwarzmagier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_BLM_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwarzmagier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_BLM_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwarzmagier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_RDM",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Rotmagier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_RDM_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Rotmagier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_RDM_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Rotmagier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_RDM_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Rotmagier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_RDM_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Rotmagier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GRM",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Grünmagier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GRM_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Grünmagier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GRM_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Grünmagier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GRM_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Grünmagier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_GRM_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Grünmagier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_TIM",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Zeitmagier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_TIM_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Zeitmagier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_TIM_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Zeitmagier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_TIM_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Zeitmagier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_TIM_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Zeitmagier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MGK",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertmagier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MGK_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertmagier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MGK_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertmagier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MGK_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertmagier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MGK_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertmagier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CLR",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Kleriker) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CLR_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Kleriker) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CLR_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Kleriker) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CLR_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Kleriker) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CLR_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Kleriker) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Der Geflügelte) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Der Geflügelte) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Der Geflügelte) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Der Geflügelte) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Der Geflügelte) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Hexe) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Hexe) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Hexe) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Hexe) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Hexe) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Revolverklinge) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Revolverklinge) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Revolverklinge) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Revolverklinge) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Revolverklinge) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_VIK",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Wikinger) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_VIK_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Wikinger) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_VIK_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Wikinger) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_VIK_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Wikinger) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_VIK_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Wikinger) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Gefallener Ritter) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Gefallener Ritter) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Gefallener Ritter) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Gefallener Ritter) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Gefallener Ritter) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Ramza) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Ramza) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Ramza) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Ramza) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Ramza) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertheiliger) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertheiliger) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertheiliger) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertheiliger) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Schwertheiliger) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WGN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Doppelschütze) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WGN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Doppelschütze) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WGN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Doppelschütze) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WGN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Doppelschütze) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_WGN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Doppelschütze) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Flamme) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Assassine) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger des Lichts) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger des Lichts) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger des Lichts) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger des Lichts) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Krieger des Lichts) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Stabmagier) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Stabmagier) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Stabmagier) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Stabmagier) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Stabmagier) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Heiliger Ritter) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Heiliger Ritter) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Heiliger Ritter) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Heiliger Ritter) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Heiliger Ritter) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Delita) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Delita) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Delita) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Delita) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Knappe: Delita) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Maschinist) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Maschinist) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Maschinist) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Maschinist) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Maschinist) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CAL",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Arithmetiker) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CAL_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Arithmetiker) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CAL_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Arithmetiker) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CAL_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Arithmetiker) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_CAL_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Arithmetiker) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter des Untergangs) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter des Untergangs) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter des Untergangs) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter des Untergangs) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter des Untergangs) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Walküre) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Walküre) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Walküre) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Walküre) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Walküre) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Eis) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Eis) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Eis) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Eis) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Ritter von Grandshelt: Eis) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MKN",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Runenritter) der Stufe 3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MKN_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Runenritter) der Stufe 6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MKN_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Runenritter) der Stufe 9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MKN_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Runenritter) der Stufe 12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_MM_MKN_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs (Runenritter) der Stufe 15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_FIRE_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Feuereinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_FIRE_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Feuereinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_FIRE_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Feuereinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_FIRE_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Feuereinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_FIRE_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Feuereinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_ICE_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Eiseinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_ICE_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Eiseinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_ICE_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Eiseinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_ICE_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Eiseinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_ICE_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Eiseinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WIND_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Windeinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WIND_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Windeinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WIND_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Windeinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WIND_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Windeinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WIND_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Windeinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SOIL_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Erdeinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SOIL_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Erdeinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SOIL_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Erdeinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SOIL_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Erdeinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SOIL_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Erdeinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Blitzeinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Blitzeinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Blitzeinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Blitzeinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Blitzeinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WATER_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Wassereinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WATER_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Wassereinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WATER_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Wassereinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WATER_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Wassereinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_WATER_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Wassereinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SHINE_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Lichteinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SHINE_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Lichteinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SHINE_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Lichteinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SHINE_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Lichteinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_SHINE_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Lichteinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_DARK_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Dunkeleinheiten-Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_DARK_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Dunkeleinheiten-Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_DARK_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Dunkeleinheiten-Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_DARK_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Dunkeleinheiten-Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_EM_DARK_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Dunkeleinheiten-Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_1",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 2<space=1>–<space=1>3 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_2",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 4<space=1>–<space=1>6 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_3",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 7<space=1>–<space=1>9 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_4",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 10<space=1>–<space=1>12 benötigt wird."
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_5",
+            "value": "Ein Gegenstand, der zur Verbesserung eines Jobs der Stufen 13<space=1>–<space=1>15 benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_FIRE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Feuereinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_ICE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Eiseinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WIND",
+            "value": "Ein Gegenstand, der zur Erweckung einer Windeinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SOIL",
+            "value": "Ein Gegenstand, der zur Erweckung einer Erdeinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER",
+            "value": "Ein Gegenstand, der zur Erweckung einer Blitzeinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WATER",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wassereinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SHINE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Lichteinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_DARK",
+            "value": "Ein Gegenstand, der zur Erweckung einer Dunkeleinheit benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Feuereinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Feuereinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Feuereinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Feuereinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Feuereinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Eiseinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Eiseinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Eiseinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Eiseinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_ICE_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Eiseinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Windeinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Windeinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Windeinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Windeinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WIND_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Windeinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Erdeinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Erdeinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Erdeinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Erdeinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Erdeinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Blitzeinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Blitzeinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Blitzeinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Blitzeinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Blitzeinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wassereinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wassereinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wassereinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wassereinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_WATER_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wassereinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Lichteinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Lichteinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Lichteinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Lichteinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Lichteinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Dunkeleinheit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Dunkeleinheit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R4",
+            "value": "Ein Gegenstand, der zur Erweckung einer Dunkeleinheit auf 4★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R5",
+            "value": "Ein Gegenstand, der zur Erweckung einer Dunkeleinheit auf 5★ benötigt wird."
+        },
+        {
+            "key": "IT_UN_AW_DARK_R6",
+            "value": "Ein Gegenstand, der zur Erweckung einer Dunkeleinheit auf 6★ benötigt wird."
+        },
+        {
+            "key": "IT_AW_VBALL_N",
+            "value": "Ein Gegenstand, der zur Erweckung von Einheiten und Visionskarten benötigt wird."
+        },
+        {
+            "key": "IT_AW_VBALL_R",
+            "value": "Ein Gegenstand, der zur Erweckung von Einheiten und Visionskarten benötigt wird."
+        },
+        {
+            "key": "IT_AW_VBALL_SR",
+            "value": "Ein Gegenstand, der zur Erweckung von Einheiten und Visionskarten benötigt wird."
+        },
+        {
+            "key": "IT_AW_VBALL_SSR",
+            "value": "Ein Gegenstand, der zur Erweckung von Einheiten und Visionskarten benötigt wird."
+        },
+        {
+            "key": "IT_AW_VBALL_UR",
+            "value": "Ein Gegenstand, der zur Erweckung von Einheiten und Visionskarten benötigt wird."
+        },
+        {
+            "key": "IT_PI_COM_FIRE",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Feuereinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_ICE",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Eiseinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_WIND",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Windeinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_SOIL",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Erdeinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_THUNDER",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Blitzeinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_WATER",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Wassereinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_SHINE",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Lichteinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_DARK",
+            "value": "Ein Gegenstand, der bei der Erweckung einer Dunkeleinheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_COM_ALL",
+            "value": "Ein Gegenstand, der bei der Erweckung jeglicher Einheit zum Einsatz kommt."
+        },
+        {
+            "key": "IT_PI_LW_MONT",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_STRN",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ELDE",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ROBB",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ENBT",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ZIZA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_AILN",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MDNA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_AYKA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MACR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_HLNA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_LILS",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RAMD",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_OOOO",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_LRNZ",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RIRY",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_VSTR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_CLEY",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_KADI",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MRLK",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MGRT",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_PRAY",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_SZRT",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_FINA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_BYLO",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RYER",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_SCIA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_VRID",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_NAIA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_SRJS",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_UNII",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_SEVR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_VADM",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MURM",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_PHBE",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RART",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MICE",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MIIA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ZZAN",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_GLMS",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FF14_YSTL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FF14_TNCR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_SDLX",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_FDRC",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_YERM",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_NASR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ETRE",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FFT_GFGR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FFT_RAMZ",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FFT_ORND",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_WHIS",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_KTON",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MRND",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_DRND",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_LUCA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ADLD",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_IRDL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_STRN_01",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_LSWL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_GRSR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RRIR",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RYER_01",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_RIRY_01",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_HWLT",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_EXP_ICE_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_ICE_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_ICE_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_ICE_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_EXP_WIND_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_WIND_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_WIND_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_WIND_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_EXP_WATER_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_WATER_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_WATER_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_WATER_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_EXP_DARK_01",
+            "value": "Gewährt Gewinn von Esper-ERF (S)."
+        },
+        {
+            "key": "IT_SB_EXP_DARK_02",
+            "value": "Gewährt Gewinn von Esper-ERF (M)."
+        },
+        {
+            "key": "IT_SB_EXP_DARK_03",
+            "value": "Gewährt Gewinn von Esper-ERF (L)."
+        },
+        {
+            "key": "IT_SB_EXP_DARK_04",
+            "value": "Gewährt Gewinn von Esper-ERF (XL)."
+        },
+        {
+            "key": "IT_SB_AW_FIRE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Feuer-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_ICE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Eis-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_THUNDER",
+            "value": "Ein Gegenstand, der zur Erweckung einer Blitz-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_WATER",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wasser-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_WIND",
+            "value": "Ein Gegenstand, der zur Erweckung einer Wind-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_SOIL",
+            "value": "Ein Gegenstand, der zur Erweckung einer Erd-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_SHINE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Licht-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_DARK",
+            "value": "Ein Gegenstand, der zur Erweckung einer Dunkel-Esper benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Ifrit auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Ifrit auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Golem auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Golem auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Sirene auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Sirene auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R2",
+            "value": "Ein Gegenstand, der zur Erweckung des Eisengiganten auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R3",
+            "value": "Ein Gegenstand, der zur Erweckung des Eisengiganten auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Behemoth auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Behemoth auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_MABR_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Morbol auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_MABR_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Morbol auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Shiva auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Shiva auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Ramuh auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Ramuh auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Odin auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Odin auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Lamia-Königin auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Lamia-Königin auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Tetrasylphid auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Tetrasylphid auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Küsschen auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Küsschen auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Zweiköpfiger Drache auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Zweiköpfiger Drache auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Diabolos auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Diabolos auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Gedankenschinder auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Gedankenschinder auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Fenrir auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Fenrir auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_TITN_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Titan auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_TITN_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Titan auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R2",
+            "value": "Ein Gegenstand, der zur Erweckung von Blutmond auf 2★ benötigt wird."
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R3",
+            "value": "Ein Gegenstand, der zur Erweckung von Blutmond auf 3★ benötigt wird."
+        },
+        {
+            "key": "IT_TICKET_STORY",
+            "value": "Ein Ticket, mit dem sich während Storyaufträgen stattfindende Kämpfe überspringen lassen."
+        },
+        {
+            "key": "IT_TICKET_EVENT",
+            "value": "Ein Ticket, mit dem sich während Eventaufträgen stattfindende Kämpfe überspringen lassen."
+        },
+        {
+            "key": "IT_GL_TICKET_EVENT",
+            "value": "Ein Ticket, mit dem sich während Eventaufträgen stattfindende Kämpfe überspringen lassen."
+        },
+        {
+            "key": "IT_AF_EXP_01",
+            "value": "Gewährt Gewinn von Ausrüstungs-ERF (S)."
+        },
+        {
+            "key": "IT_AF_EXP_02",
+            "value": "Gewährt Gewinn von Ausrüstungs-ERF (M)."
+        },
+        {
+            "key": "IT_AF_EXP_03",
+            "value": "Gewährt Gewinn von Ausrüstungs-ERF (L)."
+        },
+        {
+            "key": "IT_AF_EXP_04",
+            "value": "Gewährt Gewinn von Ausrüstungs-ERF (XL)."
+        },
+        {
+            "key": "IT_AF_AW_SWORD",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Einhandschwerter“"
+        },
+        {
+            "key": "IT_AF_AW_LSWORD",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Großschwerter“"
+        },
+        {
+            "key": "IT_AF_AW_FIST",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Fäuste“"
+        },
+        {
+            "key": "IT_AF_AW_JSWORD",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Katanas“"
+        },
+        {
+            "key": "IT_AF_AW_SPEAR",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Lanzen“"
+        },
+        {
+            "key": "IT_AF_AW_SSWORD",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Dolche“"
+        },
+        {
+            "key": "IT_AF_AW_KUNAI",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Shinobigatanas“"
+        },
+        {
+            "key": "IT_AF_AW_BOW",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Bogen“"
+        },
+        {
+            "key": "IT_AF_AW_GUN",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Pistolen“"
+        },
+        {
+            "key": "IT_AF_AW_STAFF",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Stäbe“"
+        },
+        {
+            "key": "IT_AF_AW_MACE",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Kolben“"
+        },
+        {
+            "key": "IT_AF_AW_AXE",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Axt“"
+        },
+        {
+            "key": "IT_AF_AW_ARMOR",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Rüstungen“"
+        },
+        {
+            "key": "IT_AF_AW_ACCE",
+            "value": "Erweckungsmaterial für Ausrüstung der Kategorie „Accessoires“"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_ICE_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_WATER_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_WIND_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_DARK_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_LESS_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_ICE_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_WATER_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_WIND_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_DARK_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_LESS_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_WATER_03",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_03",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_HEART_04",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_03",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_04",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_03",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAP_04",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_01",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_02",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_03",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_SAND_04",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_OGRE",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_BOMB",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_MABR",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_WOLF",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_ZUUU",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_BONE",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_ARMN",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_MAT_MYTHRIL",
+            "value": "Ein Gegenstand, der für die Herstellung und Erweckung von Ausrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SWO_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Langschwertes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SWO_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Mithrilschwertes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SWO_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Schlafschwertes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SWO_004",
+            "value": "Eine Anleitung, die zum Herstellen eines Frostbrandes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SWO_005",
+            "value": "Eine Anleitung, die zum Herstellen einer Flammenzunge benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SWO_006",
+            "value": "Eine Anleitung, die zum Herstellen einer Korallenklinge benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_BSW_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Claymores benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_BSW_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Mithrilsäbels benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_BSW_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Runenschwertes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_BSW_004",
+            "value": "Eine Anleitung, die zum Herstellen einer Goldklinge benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_KAT_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Kotetsus benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_KAT_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Kiku-Ichimonjis benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_KAT_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Osafunes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_FIS_001",
+            "value": "Eine Anleitung, die zum Herstellen von Metallschlagringen benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_FIS_002",
+            "value": "Eine Anleitung, die zum Herstellen von Mithrilklauen benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_FIS_003",
+            "value": "Eine Anleitung, die zum Herstellen von Katzenklauen benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SPE_001",
+            "value": "Eine Anleitung, die zum Herstellen einer Partisane benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SPE_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Mithrilspeeres benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SPE_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Windspeeres benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SPE_004",
+            "value": "Eine Anleitung, die zum Herstellen einer Frostlanze benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_SPE_006",
+            "value": "Eine Anleitung, die zum Herstellen eines Drachenhornspeeres benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_DAG_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Dolches benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_DAG_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Mithrildolches benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_DAG_004",
+            "value": "Eine Anleitung, die zum Herstellen eines Stiletts benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_DAG_006",
+            "value": "Eine Anleitung, die zum Herstellen eines Magierkillers benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_NKN_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Kunais benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_NKN_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Kodachis benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_NKN_003",
+            "value": "Eine Anleitung, die zum Herstellen von Sasukes Katana benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_BOW_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Langbogens benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_BOW_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Großen Bogens benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_BOW_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Runenbogens benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_GUN_001",
+            "value": "Eine Anleitung, die zum Herstellen einer Capella benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_GUN_002",
+            "value": "Eine Anleitung, die zum Herstellen einer Wega benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_GUN_003",
+            "value": "Eine Anleitung, die zum Herstellen einer Ras Algethi benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ROD_002",
+            "value": "Eine Anleitung, die zum Herstellen einer Eisenrute benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ROD_004",
+            "value": "Eine Anleitung, die zum Herstellen eines Heilerstabes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ROD_005",
+            "value": "Eine Anleitung, die zum Herstellen eines Platinstabes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_MAC_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Eisenkolbens benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_MAC_002",
+            "value": "Eine Anleitung, die zum Herstellen einer Mithrilkeule benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_MAC_003",
+            "value": "Eine Anleitung, die zum Herstellen einer Platinkeule benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ARM_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Eisenpanzers benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ARM_003",
+            "value": "Eine Anleitung, die zum Herstellen einer Mithrilrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ARM_004",
+            "value": "Eine Anleitung, die zum Herstellen einer Goldrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_HAT_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Magierhutes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_HAT_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Stirnreifs benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_HAT_004",
+            "value": "Eine Anleitung, die zum Herstellen eines Weisenhutes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_CLT_001",
+            "value": "Eine Anleitung, die zum Herstellen einer Lederweste benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_CLT_002",
+            "value": "Eine Anleitung, die zum Herstellen einer Gelehrtenrobe benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_CLT_003",
+            "value": "Eine Anleitung, die zum Herstellen einer Trugweste benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_CLT_004",
+            "value": "Eine Anleitung, die zum Herstellen eines Schlauen Mantels benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_HLM_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Eisenhelmes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_HLM_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Mithrilhelmes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_HLM_004",
+            "value": "Eine Anleitung, die zum Herstellen eines Goldhelmes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_RNG_002",
+            "value": "Eine Anleitung, die zum Herstellen eines Heldenringes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_RNG_003",
+            "value": "Eine Anleitung, die zum Herstellen eines Feenringes benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_RNG_004",
+            "value": "Eine Anleitung, die zum Herstellen eines Juwelenringes benötigt wird."
+        },
+        {
+            "key": "IT_AF_SWO_FF14_TNCT",
+            "value": "Eine Anleitung, die zum Herstellen einer Löwenherz-Replik benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ROD_007",
+            "value": "Eine Anleitung, die zum Herstellen eines Stabs des Weisen benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ARM_005",
+            "value": "Eine Anleitung, die zum Herstellen einer Platinrüstung benötigt wird."
+        },
+        {
+            "key": "IT_AF_FFT_SWO_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Nagrarök benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_FTW_001",
+            "value": "Eine Anleitung, die zum Herstellen von Hermessandalen benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_AXE_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Ogertöters benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_AXE_002",
+            "value": "Eine Anleitung, die zum Herstellen einer Mithrilaxt benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_AXE_003",
+            "value": "Eine Anleitung, die zum Herstellen einer Goldaxt benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Eine Anleitung, die zum Herstellen eines Alexandritrings benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Eine Anleitung, die zum Herstellen einer Platinrobe benötigt wird."
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Eine Anleitung, die zum Herstellen einer Rüstung des Lichts benötigt wird."
+        },
+        {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Eine Anleitung, die zum Herstellen eines Zauberdufts benötigt wird."
+        },
+        {
+            "key": "IT_AF_SUP_HP",
+            "value": "Erhöht die Wahrscheinlichkeit einer LP-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_SUP_ATK",
+            "value": "Erhöht die Wahrscheinlichkeit einer ANG-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_SUP_MAG",
+            "value": "Erhöht die Wahrscheinlichkeit einer MAG-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_SUP_MND",
+            "value": "Erhöht die Wahrscheinlichkeit einer PSY-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_SUP_DEF",
+            "value": "Erhöht die Wahrscheinlichkeit einer ABW-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_SUP_AVO",
+            "value": "Erhöht die Wahrscheinlichkeit einer AUSW-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_SUP_HIT",
+            "value": "Erhöht die Wahrscheinlichkeit einer PRÄ-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_SUP_CRI",
+            "value": "Erhöht die Wahrscheinlichkeit einer KRIT-Steigerung beim Stufenaufstieg von Ausrüstung."
+        },
+        {
+            "key": "IT_AF_PT_ATK",
+            "value": "Erhöht Ausrüstungsattribut (ANG)."
+        },
+        {
+            "key": "IT_AF_PT_MAG",
+            "value": "Erhöht Ausrüstungsattribut (MAG)."
+        },
+        {
+            "key": "IT_AF_PT_DEF",
+            "value": "Erhöht Ausrüstungsattribut (ABW)."
+        },
+        {
+            "key": "IT_AF_PT_MND",
+            "value": "Erhöht Ausrüstungsattribut (PSY)."
+        },
+        {
+            "key": "IT_AF_PT_HIT",
+            "value": "Erhöht Ausrüstungsattribut (Genauigkeit)."
+        },
+        {
+            "key": "IT_AF_PT_CRI",
+            "value": "Erhöht Ausrüstungsattribut (Kritisch)."
+        },
+        {
+            "key": "IT_AF_PT_AVO",
+            "value": "Erhöht Ausrüstungsattribut (Ausweichgeschick)."
+        },
+        {
+            "key": "IT_AF_PT_HP",
+            "value": "Erhöht Ausrüstungsattribut (LP)."
+        },
+        {
+            "key": "IT_AF_PT_SPD",
+            "value": "Erhöht Ausrüstungsattribut (AGI)."
+        },
+        {
+            "key": "IT_WA_EXP_01",
+            "value": "Gewährt Gewinn von auf Ausrüstung bezogener Fähigkeiten-ERF (S)."
+        },
+        {
+            "key": "IT_WA_EXP_02",
+            "value": "Gewährt Gewinn von auf Ausrüstung bezogener Fähigkeiten-ERF (M)."
+        },
+        {
+            "key": "IT_WA_EXP_03",
+            "value": "Gewährt Gewinn von auf Ausrüstung bezogener Fähigkeiten-ERF (L)."
+        },
+        {
+            "key": "IT_AF_RESET",
+            "value": "Ein Gegenstand, der zum Zurücksetzen der Attribute eines Ausrüstungsgegenstandes benötigt wird.<br>Hinweis: Alle zur Verbesserung des entsprechenden Gegenstandes eingesetzten Erze und Zwergenhämmer werden beim Zurücksetzen nicht wiederhergestellt."
+        },
+        {
+            "key": "IT_EC_STARQUARTZ",
+            "value": "(Spezifikation noch nicht festgelegt.)"
+        },
+        {
+            "key": "IT_EC_ARENA",
+            "value": "Eine Medaille, die in der Arena erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_MULTI",
+            "value": "Eine Medaille, die über Multiaufträge erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_RAID",
+            "value": "Eine Medaille, die über Kraftprobenkämpfe erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_MATCH",
+            "value": "Eine Medaille, die über Match-Kämpfe erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_GUILD",
+            "value": "Eine Medaille, die in der eigenen Gilde erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_SOUL",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SOUL_N",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Einheitenfragmenten der Seltenheit [N] entstanden ist."
+        },
+        {
+            "key": "IT_EC_SOUL_R",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Einheitenfragmenten der Seltenheit [S] entstanden ist."
+        },
+        {
+            "key": "IT_EC_SOUL_SR",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Einheitenfragmenten der Seltenheit [SR] entstanden ist."
+        },
+        {
+            "key": "IT_EC_SOUL_SSR",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Einheitenfragmenten der Seltenheit [MR] entstanden ist."
+        },
+        {
+            "key": "IT_EC_SOUL_UR",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Einheitenfragmenten der Seltenheit [UR] entstanden ist."
+        },
+        {
+            "key": "IT_EC_MOOGLE",
+            "value": "(Spezifikation noch nicht festgelegt.)"
+        },
+        {
+            "key": "IT_EC_TOWER",
+            "value": "(Spezifikation noch nicht festgelegt.)"
+        },
+        {
+            "key": "IT_EC_SUMMON",
+            "value": "(Spezifikation noch nicht festgelegt.)"
+        },
+        {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 2:59 p.m. PST, 12/9/2019)"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_A",
+            "value": "A medal that can be acquired during New Unit/Vision Card and Winter Holiday Summons (Expires 11:59 p.m. PST, 12/31/2019)"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_B",
+            "value": "A medal that can be acquired during Winter Holiday Part 2 Summons (Expires 2:59 p.m. PST, 1/15/2020)"
+        },
+        {
+            "key": "IT_EC_VISION",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_VISION_N",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Visionskartenfragmenten der Seltenheit [N] entstanden ist."
+        },
+        {
+            "key": "IT_EC_VISION_R",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Visionskartenfragmenten der Seltenheit [R] entstanden ist."
+        },
+        {
+            "key": "IT_EC_VISION_SR",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Visionskartenfragmenten der Seltenheit [SR] entstanden ist."
+        },
+        {
+            "key": "IT_EC_VISION_SSR",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Visionskartenfragmenten der Seltenheit [MR] entstanden ist."
+        },
+        {
+            "key": "IT_EC_VISION_UR",
+            "value": "Eine Medaille, die bei Überschreitung der maximal mitführbaren Zahl von Fragmenten aus überschüssigen Visionskartenfragmenten der Seltenheit [UR] entstanden ist."
+        },
+        {
+            "key": "IT_EC_UNIT_UR",
+            "value": "Ein Gegenstand, der im Tauschladen für [UR]-Einheitenteile in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_FRIEND",
+            "value": "Eine Medaille, die als Geschenk von einem Freund erhalten werden kann."
+        },
+        {
+            "key": "IT_EC_FF14_1",
+            "value": "Ein Gegenstand, der im FFXIV-Kollaborationsevent erlangt werden kann. Im „Allagischer Stein der Goëtie“-Tauschladen kann er in unterschiedliche Gegenstände eingelöst werden."
+        },
+        {
+            "key": "IT_EC_FF14_2",
+            "value": "Eine Medaille, die bei FFXIV-Kollaborationsbeschwörungen erlangt werden kann. Im Tauschladen für Kollabo-Beschwörungsmedaillen kann sie in unterschiedliche Gegenstände eingelöst werden."
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Ein Ticket, das durch den Eintausch von im FFXIV-Kollaborationsevent erlangten Allagischen Steinen der Goëtie erhalten werden kann."
+        },
+        {
+            "key": "IT_EC_SUMMON_03_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 14.4.2020, 23:59 PST)."
+        },
+        {
+            "key": "IT_EC_SUMMON_04_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen  erhalten werden kann (Verfällt am 21.4.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_04_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen  erhalten werden kann (Verfällt am 28.4.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_05_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 2.6.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_05_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 16.6.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_06_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 30.6.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 14.7.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 28.7.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 11.8.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 1.9.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 15.9.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_09_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 6.10.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_09_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 20.10.2020 17:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_10_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 3.11.2020 23:59, Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_SUMMON_10_B",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 17.11.2020, 17:59 Weltzeit (PST))."
+        },
+        {
+            "key": "IT_EC_FFT_1",
+            "value": "Ein Gegenstand, der im FFT-Kollaborationsevent erlangt werden kann und im „FFT“-Tauschladen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_FFT_2_A",
+            "value": "Eine Medaille, die bei FFT-Kollaborationsbeschwörungen erlangt werden kann. Im Tauschladen für FFT-Beschwörungsmedaillen A kann sie in unterschiedliche Gegenstände eingelöst werden. (Verfällt am 26.5.2020, 23:59 Weltzeit (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_B",
+            "value": "Eine Medaille, die bei FFT-Kollaborationsbeschwörungen erlangt werden kann. Im Tauschladen für FFT-Beschwörungsmedaillen B kann sie in unterschiedliche Gegenstände eingelöst werden. (Verfällt am 26.5.2020, 23:59 Weltzeit (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "Ein Gegenstand, der im FFT-Kollaborationsevent (Teil II) erlangt werden kann und im Tauschladen für FFT-Eventmedaillen (Teil II) in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "Eine Medaille, die bei FFT-Kollaborationsbeschwörungen (Nachdruck) erlangt werden kann. Im Tauschladen für FFT-Beschwörungsmedaillen A (Nachdruck) kann sie in unterschiedliche Gegenstände eingelöst werden. (Verfällt am 29.9.2020, 23:59 Weltzeit (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "Eine Medaille, die bei FFT-Kollaborationsbeschwörungen (Runde 2) erlangt werden kann. Im Tauschladen für FFT-Beschwörungsmedaillen B (Runde 2) kann sie in unterschiedliche Gegenstände eingelöst werden. (Verfällt am 29.9.2020, 23:59 Weltzeit (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_A_R",
+            "value": "Eine Medaille, die bei FFT-Kollabo-Beschwörungen „Ramza“ (Nachdruck) erlangt werden kann. Im Tauschladen für FFT-Beschwörungsmedaillen A (Nachdruck) kann sie in unterschiedliche Gegenstände eingelöst werden. (Verfällt am 29.9.2020, 23:59 Weltzeit (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_B_R",
+            "value": "Eine Medaille, die bei FFT-Kollabo-Beschwörungen „Orlandeau“ (Nachdruck) erlangt werden kann. Im Tauschladen für FFT-Beschwörungsmedaillen B (Nachdruck) kann sie in unterschiedliche Gegenstände eingelöst werden. (Verfällt am 29.9.2020, 23:59 Weltzeit (PST))"
+        },
+        {
+            "key": "IT_EC_TOWER_001",
+            "value": "Eine Medaille, die im Porzellanturm erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_TOWER_002",
+            "value": "Eine Medaille, die im Porzellanturm erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_EV02_1",
+            "value": "Ein Gegenstand, der im Event „Rundall, Bedrohung im Westen“ erlangt werden kann und im Tauschladen für „Rundall, Bedrohung im Westen“-Medaillen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_EV03_1",
+            "value": "Ein Gegenstand, der im Event „Brennender Lebenswille“ erlangt werden kann und im Tauschladen für Juli-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_EV04_1",
+            "value": "Ein Gegenstand, der im Event „Fern im Osten“ erlangt werden kann und im Tauschladen für August-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_EV05_1",
+            "value": "Ein Gegenstand, der in „Gouga und Saiga: Teil I“ erlangt werden kann und im Tauschladen für „Gouga und Saiga: Teil I“-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "Ein Gegenstand, der im FFI-Kollaborationsevent erlangt werden kann und im Tauschladen für FFI-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "Eine Medaille, die bei FFI-Kollaborationsbeschwörungen erlangt werden kann. Im Tauschladen für FFI-Beschwörungsmedaillen kann sie in unterschiedliche Gegenstände eingelöst werden. (Verfällt am 25.8.2020, 23:59 Weltzeit (PST))"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Ein Ticket, das in FFT-Events erhalten werden kann."
+        },
+        {
+            "key": "IT_AD_TICKET_2",
+            "value": "Ein Ticket, mit dem sich zweistündige Chocobo-Expeditionen beschleunigen lassen."
+        },
+        {
+            "key": "IT_AD_TICKET_5",
+            "value": "Ein Ticket, mit dem sich fünfstündige Chocobo-Expeditionen beschleunigen lassen."
+        },
+        {
+            "key": "IT_AD_TICKET_10",
+            "value": "Ein Ticket, mit dem sich zehnstündige Chocobo-Expeditionen beschleunigen lassen."
+        },
+        {
+            "key": "IT_US_GACHA_01",
+            "value": "Löse eines dieser Tickets bei einer raren Beschwörung ein, um eine Einheit oder Visionskarte zu beschwören."
+        },
+        {
+            "key": "IT_US_GACHA_10",
+            "value": "Ein Ticket, das zum Ausführen von zehn raren Beschwörungen eingesetzt werden kann."
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "Ein Ticket, mit dem sich zehn Einheiten oder Visionskarten heraufbeschwören lassen, wobei eine davon garantiert die Seltenheit [MR] oder höher besitzt."
+        },
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [SR] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [MR] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_GL_G_V_SSR_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [MR] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [MR] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_1",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 10 zur Erweckung notwendige Gedankenfragmente zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 200 zur Erweckung notwendige Gedankenfragmente zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_PI_COM_02",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 100 zur Erweckung notwendige Gedankenfragmente zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_02",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 100 Erweckungsprismen zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_03",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 50 Erweckungsprismen zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 200 Erweckungsprismen zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_PI_COM_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 50 zur Erweckung notwendige Gedankenfragmente zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_01_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 30 zur Verbesserung von Jobs benötigte Alkrists (Grün) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 10 zur Verbesserung von Jobs benötigte Alkrists (Blau) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_02",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 70 zur Verbesserung von Jobs benötigte Alkrists (Blau) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_03_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 70 zur Verbesserung von Jobs benötigte Alkrists (Violett) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 70 zur Verbesserung von Jobs benötigte Alkrists (Gelb) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 70 zur Verbesserung von Jobs benötigte Alkrists (Violett) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_SB_AW_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 20 zur Erweckung von Espern notwendige Erweckungssteine zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 50 zur Verbesserung von Espern benötigte Maginite (L) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_02",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um zehn zur Verbesserung von Espern benötigte Maginite (XL) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_03",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 50 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_05",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 30 zur Verbesserung von Espern benötigte Maginite (XL) zu beschwören."
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_U_UR_03",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit oder Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit oder Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Einheit der Seltenheit [R] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [R] oder höher heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Ein Ticket, mit dem sich garantiert eine Visionskarte der Seltenheit [UR] heraufbeschwören lässt."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Joberinnerung (Grün) eines beliebigen Jobs zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, zwei Joberinnerungen (Blau) eines beliebigen Jobs zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, drei Joberinnerungen (Violett) eines beliebigen Jobs zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, vier Joberinnerungen (Gelb) eines beliebigen Jobs zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, fünf Joberinnerungen (Rot) eines beliebigen Jobs zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04_2",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, vier Joberinnerungen (Gelb) eines beliebigen Jobs zu beschwören. * Kann nicht für die Jobs von Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05_2",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, fünf Joberinnerungen (Rot) eines beliebigen Jobs zu beschwören. * Kann nicht für die Jobs von Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_JB_05_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, 30 Stück einer Art von Spinell (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Kolben, Axt) heraufzubeschwören, die für die Verbesserung von Jobs der Stufe 13 - 15 benötigt werden."
+        },
+        {
+            "key": "IT_US_SE_JB_04_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, 30 Stück einer Art von Citrin (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Kolben, Axt) heraufzubeschwören, die für die Verbesserung von Jobs der Stufe 10 - 12 benötigt werden."
+        },
+        {
+            "key": "IT_US_SE_JB_03_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, 30 Stück einer Art von Charoit (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Kolben, Axt) heraufzubeschwören, die für die Verbesserung von Jobs der Stufe 7 - 9 benötigt werden."
+        },
+        {
+            "key": "IT_US_SE_JB_02_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, 30 Stück einer Art von Azurit (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Kolben, Axt) heraufzubeschwören, die für die Verbesserung von Jobs der Stufe 4 - 6 benötigt werden."
+        },
+        {
+            "key": "IT_US_SE_JB_01_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, 15 Stück einer Art von Jadeit (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Kolben, Axt) heraufzubeschwören, die für die Verbesserung von Jobs der Stufe 1 - 3 benötigt werden."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Einheit der Seltenheit [UR] auszuwählen und heraufzubeschwören."
+        },
+        {
+            "key": "IT_US_SE_R_UR_U_03",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Einheit der Seltenheit [R] bis [UR] auszuwählen und heraufzubeschwören, die bis inkl. 19.8.2020 erschienen ist. * Kann nicht für Styr (Ritter des Untergangs), Ildyra, Gilgamesch, Glaziela Wezette, Lasswell, Etre, Tyrrel sowie limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 10 Erweckungsprismen zu beschwören."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_05",
+            "value": "Ein Ticket, das benötigt wird, um die [Countdown zum Halbjährigen Jubiläum Teil III] „[MR+] garantiert“-Einheitenbeschwörung durchzuführen * Dieses Ticket kann nach dem 16.9.2020, Weltzeit (PST) nicht mehr verwendet werden. *  Limitierte oder Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_06",
+            "value": "Ein Ticket, das benötigt wird, um die [Countdown zum Halbjährigen Jubiläum Teil IV] „[MR+] garantiert“-Einheitenbeschwörung durchzuführen * Dieses Ticket kann nach dem 23.9.2020, Weltzeit (PST) nicht mehr verwendet werden. *  Limitierte oder Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_07",
+            "value": "Ein Ticket, das benötigt wird, um die „[MR+] garantiert“-Einheitenbeschwörung der Herbstkampagne 2020 Teil I durchzuführen * Dieses Ticket kann nach dem 28.10.2020 Weltzeit (PST) nicht mehr verwendet werden. *  Limitierte oder Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten. "
+        },
+        {
+            "key": "IT_US_SE_UR_V_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_R_UR_V_GL01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Visionskarte der Seltenheit [R] bis [UR] auszuwählen und heraufzubeschwören, die bis inkl. 12.8.2020 erschienen ist. * Kann nicht für „Solidus, die 1. Division des Königreichs Hourne“, „Gedankenschinder, Verzerrung des Verstandes“, „Fenrir, Reißzähne im Mondenschein“, „Unerwiderte Zuneigung“, „Titan, Furor der Erde, „Vier Herrscher in Kriegswirren“ sowie limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_04",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 30 Erweckungsprismen zu beschwören."
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_05",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 200 Erweckungsprismen zu beschwören."
+        },
+        {
+            "key": "IT_VPI_LW_GLEM",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_IFRT",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_SIRE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_SOKYU",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_TRAINING",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_MACR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_MURG",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_GRSR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FF14_MV1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_HOLYNIGHT",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FFT_MV1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_ODIN",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FFCC_MV1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_IGNT",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_BHMT",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_MABR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_SHIV",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_RAMU",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_FAMILY",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_KTON",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_PROPOSE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_SDLX",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_TEAPARTY",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_HUNT",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FF14_MV2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_NEWYEAR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_LAMA_01",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_GUARD",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_CACT",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_ARMN_01",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_ZUUU",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_OGRE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_BOMB",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_JOBCRYSTAL",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_BYLO",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_RART",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_RYER",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_VNLA",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_RIRY",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_HOURN",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_FENICE",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_CRYSTAL",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_HOURN2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_FENICE2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_DYNVERK",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_01",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_02",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_MIRROR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_TSLP",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_LILS",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_FFCC_MV2",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_ROBUST",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_MDFY",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_ORDR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_FNRR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_TITN",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_KING",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_VKTR",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_BLMN",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VPI_LW_HALL",
+            "value": "Ein Gegenstand, der zur Erweckung einer Visionskarte benötigt wird."
+        },
+        {
+            "key": "IT_VC_EXP_01",
+            "value": "Gewährt Gewinn von Visionskarten-ERF (S)."
+        },
+        {
+            "key": "IT_VC_EXP_02",
+            "value": "Gewährt Gewinn von Visionskarten-ERF (M)."
+        },
+        {
+            "key": "IT_VC_EXP_03",
+            "value": "Gewährt Gewinn von Visionskarten-ERF (L)."
+        },
+        {
+            "key": "IT_VC_EXP_04",
+            "value": "Gewährt Gewinn von Visionskarten-ERF (XL)."
+        },
+        {
+            "key": "IT_GU_FOOD_01",
+            "value": "Füllt Vorräte in der Gildenkaserne mit 1000 Einheiten Verpflegung auf."
+        },
+        {
+            "key": "IT_GU_FOOD_02",
+            "value": "Füllt Vorräte in der Gildenkaserne mit 2000 Einheiten Verpflegung auf."
+        },
+        {
+            "key": "IT_GU_FOOD_03",
+            "value": "Füllt Vorräte in der Gildenkaserne mit 3000 Einheiten Verpflegung auf."
+        },
+        {
+            "key": "IT_GU_FOOD_04",
+            "value": "Füllt Vorräte in der Gildenkaserne mit 5000 Einheiten Verpflegung auf und gewährt Bonus auf erlangte JP (S)."
+        },
+        {
+            "key": "IT_GU_FOOD_05",
+            "value": "Füllt Vorräte in der Gildenkaserne mit 7500 Einheiten Verpflegung auf und gewährt Bonus auf erlangte JP (M)."
+        },
+        {
+            "key": "IT_GU_FOOD_06",
+            "value": "Füllt Vorräte in der Gildenkaserne mit 10.000 Einheiten Verpflegung auf und gewährt Bonus auf erlangte JP (L)."
+        },
+        {
+            "key": "IT_GU_EXP_S2_01",
+            "value": "Gewährt der „Steinernen Schlangenstatue“ der Gilde einen Erfahrungsgewinn (S)."
+        },
+        {
+            "key": "IT_GU_EXP_S2_02",
+            "value": "Gewährt der „Steinernen Schlangenstatue“ der Gilde einen Erfahrungsgewinn (M)."
+        },
+        {
+            "key": "IT_GU_EXP_S2_03",
+            "value": "Gewährt der „Steinernen Schlangenstatue“ der Gilde einen Erfahrungsgewinn (L)."
+        },
+        {
+            "key": "IT_GU_EXP_S3_01",
+            "value": "Gewährt der „Steinernen Stierstatue“ der Gilde einen Erfahrungsgewinn (S)."
+        },
+        {
+            "key": "IT_GU_EXP_S3_02",
+            "value": "Gewährt der „Steinernen Stierstatue“ der Gilde einen Erfahrungsgewinn (M)."
+        },
+        {
+            "key": "IT_GU_EXP_S3_03",
+            "value": "Gewährt der „Steinernen Stierstatue“ der Gilde einen Erfahrungsgewinn (L)."
+        },
+        {
+            "key": "IT_GU_EXP_S4_01",
+            "value": "Gewährt der „Steinernen Kirinstatue“ der Gilde einen Erfahrungsgewinn (S)."
+        },
+        {
+            "key": "IT_GU_EXP_S4_02",
+            "value": "Gewährt der „Steinernen Kirinstatue“ der Gilde einen Erfahrungsgewinn (M)."
+        },
+        {
+            "key": "IT_GU_EXP_S4_03",
+            "value": "Gewährt der „Steinernen Kirinstatue“ der Gilde einen Erfahrungsgewinn (L)."
+        },
+        {
+            "key": "IT_GU_EXP_S1_01",
+            "value": "Gewährt der „Steinernen Löwenstatue“ der Gilde einen Erfahrungsgewinn (S)."
+        },
+        {
+            "key": "IT_GU_EXP_S1_02",
+            "value": "Gewährt der „Steinernen Löwenstatue“ der Gilde einen Erfahrungsgewinn (M)."
+        },
+        {
+            "key": "IT_GU_EXP_S1_03",
+            "value": "Gewährt der „Steinernen Löwenstatue“ der Gilde einen Erfahrungsgewinn (L)."
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Eine Medaille, die über Kraftproben erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Eine Medaille, die durch die „Weißes Marshmallow“-Kraftprobe erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_RAID_05",
+            "value": "Eine Medaille, die über Kraftprobenkämpfe erlangt werden kann."
+        },
+        {
+            "key": "IT_EC_RAID_06",
+            "value": "Eine Medaille, die über Kraftprobenkämpfe erlangt werden kann."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 500 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 10 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 25 zur Verbesserung von Espern benötigte Maginite (M) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 100 zur Verbesserung von Espern benötigte Maginite (L) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_5",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus acht Elementen auszuwählen, um 20 zur Verbesserung von Espern benötigte Maginite (L) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_6",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 50 zur Verbesserung von Espern benötigte Maginite (XL) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_7",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, aus den acht Elementen auszuwählen, um 150 zur Verbesserung von Espern benötigte Maginite (L) zu beschwören."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 20. Mai veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für Visionskarten, die bis inkl. 24. Juni erschienen sind. * Kann nicht für „Der Bund der Schatten“ und „Beoulves Nachkomme“ eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 17. Juni veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 22. Juli veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 12. August veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_06",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 16. September veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_07",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x100“-Beschwörungsticket für bis inkl. 16. September veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_08",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x100“-Beschwörungsticket für bis inkl. 30. September veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_09",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x100“-Beschwörungsticket für bis inkl. 14. Oktober veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_10",
+            "value": "Ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 14. Oktober veröffentlichte Visionskarten. * Kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine empfohlene Einheit der Seltenheit [UR] auszuwählen und heraufzubeschwören. * Wird eine Einheit beschworen, die sich bereits in deinem Besitz befindet, wird sie in 40 Einheitenfragmente umgewandelt."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine empfohlene Einheit der Seltenheit [MR] auszuwählen und heraufzubeschwören. * Wird eine Einheit beschworen, die sich bereits in deinem Besitz befindet, wird sie in 20 Einheitenfragmente umgewandelt."
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Ein Ticket, das es dem Besitzer erlaubt, eine Einheit der Seltenheit [MR] auszuwählen und heraufzubeschwören."
+        },
+        {
+            "key": "IT_US_SE_PI_15",
+            "value": "Ein „Auswählbares [UR]-FFBE-Einheitenfragment x40“-Beschwörungsticket, welches für Lasswell, Rain, Fryevia, Ayaka, Mediena oder Aileen eingesetzt werden kann. "
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 17. Juni erschienen sind. * Kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Ein Ticket, mit dem 40 [UR]-Einheitenfragmente ausgewählt und heraufbeschworen werden können."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 19.8.2020 erschienen sind. * Kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL03",
+            "value": "Ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 9. September erschienen sind. * Kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL04",
+            "value": "Ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 23. September erschienen sind. * Kann nicht für Glaziela Wezette, Lasswell oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_SE_PI_GL05",
+            "value": "Ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 21.10.2020 erschienen sind. * Kann nicht für limitierte oder Kollabo-Einheiten außer Halloween-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_US_N_GACHA_10",
+            "value": "Ein Ticket, das zum Ausführen von zehn normalen Beschwörungen eingesetzt werden kann."
+        },
+        {
+            "key": "IT_US_SE_AF_AW_01",
+            "value": "Ein „Auswählbarer Almanach der Veredelung x100“-Beschwörungsticket für Almanache der Veredelung (Schwert, Großschwert, Fäuste, Katana, Lanze, Dolch, Shinobigatana, Bogen, Pistole, Stab, Keule, Axt, Rüstung oder Accessoire)."
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Ein Ticket, durch das Gegenstände wie Einheitenfragmente oder Visionskartenfragmente erlangt werden können."
+        },
+        {
+            "key": "IT_PT_SKIP_001",
+            "value": "Ein Ticket, mit dem sich bei den Prüfungen des Urteils Kämpfe überspringen lassen."
+        },
+        {
+            "key": "IT_PT_BSSKIP_001",
+            "value": "Ein Ticket, mit dem sich bei den Prüfungen des Urteils Bosskämpfe überspringen lassen."
+        },
+        {
+            "key": "IT_PT_BOSS_001",
+            "value": "Ein Ticket, mit dem bei den Prüfungen des Urteils ein Boss herausgefordert werden kann."
+        },
+        {
+            "key": "IT_EC_POINT_001",
+            "value": "Eine Medaille, die in den Prüfungen des Urteils erlangt werden kann."
+        },
+        {
+            "key": "IT_AF_LW_HLM_005",
+            "value": "Eine Anleitung, die zum Herstellen eines Platinhelms benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_ACC_001",
+            "value": "Eine Anleitung, die zum Herstellen einer Schleife benötigt wird."
+        },
+        {
+            "key": "IT_AF_LW_KAT_008",
+            "value": "Eine Anleitung, die zum Herstellen eines Violetten Blitzes benötigt wird."
+        }
+    ]
+}

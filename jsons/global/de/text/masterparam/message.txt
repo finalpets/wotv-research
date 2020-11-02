@@ -1,0 +1,12 @@
+{
+    "infos": [
+        {
+            "key": "VIP_PERIOD_01",
+            "value": "„Rangpack 001“-Belohnung"
+        },
+        {
+            "key": "VIP_PERIOD_02",
+            "value": "„Rangpack 002“-Belohnung"
+        }
+    ]
+}

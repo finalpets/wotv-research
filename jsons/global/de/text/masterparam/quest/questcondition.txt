@@ -1,0 +1,352 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "Verbündete"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "Gegner"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "Gimmicks"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "und"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "oder mehr"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "oder weniger"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "Alle {0} ausgelöscht"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "Alle {0} ausgelöscht"
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "Alle {1} außer {0} ausgelöscht"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "{0} getötet"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0} zerstört"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0} am Leben"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "Held getötet"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "Held am Leben"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "Die LP von {0} erreichen {1}% {2}."
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "Der Aktionszähler von {0} erreicht {1} {2}."
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0} positioniert sich neben {1}."
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0} erreicht den Zielpunkt."
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0} überlappt sich mit {1}."
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0} wendet die Fähigkeit „{1}“ auf den Zielpunkt an."
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0} wendet die Fähigkeit „{2}“ auf {1} an."
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "Änderung des Geländes zu {0}."
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "Bis vor das Schlosstor gelangt oder alle Gegner ausgelöscht"
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "Muraga Fennes besiegt"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "Muraga Fennes besiegt"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "Banditenanführer besiegt"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "Gegner ausgelöscht"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "Alle Verbündete außer Schuzelt ausgelöscht"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "Alle Verbündete außer Styr (Ritter des Untergangs) ausgelöscht"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "Camillo besiegt"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "Der Kutsche eine bestimmte Menge Schaden zugefügt"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "Vadim besiegt"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "Alle Gegner besiegt!"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_1",
+            "value": "Den Maschinisten Mustadio gerettet"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_2",
+            "value": "Maschinist Mustadio besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "Den Schokopudding besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "Das Weiße Marshmallow besiegt"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "Deah besiegt"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "Oldoa besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "Die Todesmaschine besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "Die Todesmaschine besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "Die Todesmaschine besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_09_01",
+            "value": "Ifrit besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_09_02",
+            "value": "Ifrit besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_09_03",
+            "value": "Ifrit besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_09_04",
+            "value": "Den Goldkaktor besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_09_05",
+            "value": "Den Goldkaktor besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_09_06",
+            "value": "Den Goldkaktor besiegt"
+        },
+        {
+            "key": "QE_PT_001_BOSS_1",
+            "value": "Den Zweiköpfigen Drachen besiegt"
+        },
+        {
+            "key": "QE_PT_001_BOSS_2",
+            "value": "Den Zweiköpfigen Drachen besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_10_01",
+            "value": "Den Behemoth-König besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_10_02",
+            "value": "Den Behemoth-König besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_10_03",
+            "value": "Den Behemoth-König besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_10_04",
+            "value": "Den Tomberry besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_10_05",
+            "value": "Den Tomberry besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_10_06",
+            "value": "Den Tomberry besiegt"
+        },
+        {
+            "key": "QE_COND_USESKILL",
+            "value": "{0} setzt {1} ein"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": "Robb Hourne den Rückzug ermöglicht oder alle Gegner ausgelöscht"
+        },
+        {
+            "key": "QE_SB_BLMN_01",
+            "value": "Blutmond besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": "Geläuterter Widerspruch besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": "Geläuterter Widerspruch besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
+            "value": "Geläuterter Widerspruch besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_12_01",
+            "value": "Den Zweiköpfigen Drachen besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": "Den Zweiköpfigen Drachen besiegt"
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": "Den Zweiköpfigen Drachen besiegt"
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": "Mont oder Margery besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": "Die Feuerelementare besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": "Die Eiselementare besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": "Die Windelementare besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": "Die Erdelementare besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": "Die Blitzelementare besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": "Die Wasserelementare besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": "Die Lichtelementare besiegt"
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": "Die Dunkelelementare besiegt"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Alle Gegner inkl. der Rundallsche Kanonen ausgelöscht"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Alle Gegner inkl. der Rundallsche Kanonen ausgelöscht"
+        },
+        {
+            "key": "QE_EV_FF14_EX",
+            "value": "Geläuterter Widerspruch besiegt"
+        },
+        {
+            "key": "QE_PT_001_05",
+            "value": "Den Dämonenwall besiegt"
+        },
+        {
+            "key": "QE_PT_001_HA05",
+            "value": "Den Dämonenwall besiegt"
+        },
+        {
+            "key": "QE_COND_NONE",
+            "value": "Keine"
+        }
+    ]
+}

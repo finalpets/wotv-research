@@ -1,0 +1,116 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<space=7>파이널판타지14 콜라보<br>소환 진행 중!"
+        },
+        {
+            "key": "2",
+            "value": "<space=7>신규 유닛<br>&소환수!"
+        },
+        {
+            "key": "3",
+            "value": "<space=7>신규 유닛<br>&소환수!"
+        },
+        {
+            "key": "4",
+            "value": "<space=7>FFT 콜라보 소환<br>진행 중!"
+        },
+        {
+            "key": "5",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "6",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
+        },
+        {
+            "key": "7",
+            "value": "<space=7>신규 유닛<br>&소환수!"
+        },
+        {
+            "key": "8",
+            "value": "<space=7>신규 유닛<br>&소환수!"
+        },
+        {
+            "key": "9",
+            "value": "<space=7>픽업 소환<br>진행 중!"
+        },
+        {
+            "key": "10",
+            "value": "<space=7>신규 유닛<br>&소환수!"
+        },
+        {
+            "key": "11",
+            "value": "<space=7>픽업 소환<br>진행 중!"
+        },
+        {
+            "key": "12",
+            "value": "<space=7>신규 등장!<br>픽업 중!"
+        },
+        {
+            "key": "13",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "14",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
+        },
+        {
+            "key": "15",
+            "value": "<space=7>FFI 콜라보<br>소환 진행 중!"
+        },
+        {
+            "key": "16",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "17",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
+        },
+        {
+            "key": "18",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "19",
+            "value": "<space=7>FFT 콜라보 소환<br>진행 중!"
+        },
+        {
+            "key": "20",
+            "value": "<space=7>오를란두와<br>람자 재등장!"
+        },
+        {
+            "key": "21",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "22",
+            "value": "<space=5>FFCCRE 콜라보<br>비전 카드 등장!"
+        },
+        {
+            "key": "23",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "24",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
+        },
+        {
+            "key": "25",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "26",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
+        },
+        {
+            "key": "27",
+            "value": "<space=7>신규 유닛<br>픽업!"
+        },
+        {
+            "key": "28",
+            "value": "<space=7>신규 비전 카드<br>픽업!"
+        }
+    ]
+}

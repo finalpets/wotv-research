@@ -1,0 +1,3976 @@
+{
+    "infos": [
+        {
+            "key": "IT_US_POTION",
+            "value": "Recupera VIT de una unidad (poco)"
+        },
+        {
+            "key": "IT_US_HIPOTION",
+            "value": "Recupera VIT de una unidad (medio)"
+        },
+        {
+            "key": "IT_US_EXPOTION",
+            "value": "Recupera VIT de una unidad (mucho)"
+        },
+        {
+            "key": "IT_US_ETHER",
+            "value": "Recupera PT de una unidad (poco)"
+        },
+        {
+            "key": "IT_US_ETHERTURBO",
+            "value": "Recupera PT de una unidad (medio)"
+        },
+        {
+            "key": "IT_US_ELIXIR",
+            "value": "Recupera VIT y PT de una unidad"
+        },
+        {
+            "key": "IT_US_PNXFEATHER",
+            "value": "Revive a un aliado"
+        },
+        {
+            "key": "IT_US_ANTIDOTE",
+            "value": "Cura veneno"
+        },
+        {
+            "key": "IT_US_EYEDROPS",
+            "value": "Cura ceguera"
+        },
+        {
+            "key": "IT_US_REMINDER",
+            "value": "Cura sueño y confusión"
+        },
+        {
+            "key": "IT_US_ECHODROP",
+            "value": "Cura silencio"
+        },
+        {
+            "key": "IT_US_UNICORNHORN",
+            "value": "Cura parálisis"
+        },
+        {
+            "key": "IT_US_MAIDENKISS",
+            "value": "Cura rana"
+        },
+        {
+            "key": "IT_US_GOLDNEEDLE",
+            "value": "Cura piedra"
+        },
+        {
+            "key": "IT_US_REMEDY",
+            "value": "Cura veneno, ceguera, sueño, silencio, parálisis y confusión"
+        },
+        {
+            "key": "IT_US_ENCHANTDRAG",
+            "value": "Cura silencio, inmóvil e inútil"
+        },
+        {
+            "key": "IT_US_HOLYTORCH",
+            "value": "Elimina cambios de estado (prisa, revitalia, coraza, escudo, lévita, autolázaro)"
+        },
+        {
+            "key": "IT_US_HERODRINK",
+            "value": "Aumenta temporalmente el ATQ y la MAG"
+        },
+        {
+            "key": "IT_US_BACCHUS",
+            "value": "Inflige temporalmente locura"
+        },
+        {
+            "key": "IT_US_SHELL",
+            "value": "Otorga temporalmente escudo"
+        },
+        {
+            "key": "IT_US_PROTECT",
+            "value": "Otorga temporalmente coraza"
+        },
+        {
+            "key": "IT_US_HEALWATER",
+            "value": "Otorga temporalmente revitalia"
+        },
+        {
+            "key": "IT_US_HPPOTION",
+            "value": "Aumenta temporalmente la VIT máx."
+        },
+        {
+            "key": "IT_US_ATKPOTION",
+            "value": "Aumenta temporalmente el ATQ"
+        },
+        {
+            "key": "IT_US_MAGPOTION",
+            "value": "Aumenta temporalmente la MAG"
+        },
+        {
+            "key": "IT_US_SPDPOTION",
+            "value": "Aumenta temporalmente la AGI"
+        },
+        {
+            "key": "IT_US_DEXPOTION",
+            "value": "Aumenta temporalmente la DES"
+        },
+        {
+            "key": "IT_ACTP_01",
+            "value": "Restaura energía (poco)"
+        },
+        {
+            "key": "IT_ACTP_02",
+            "value": "Restaura energía (medio)"
+        },
+        {
+            "key": "IT_ACTP_03",
+            "value": "Restaura energía (mucho)"
+        },
+        {
+            "key": "IT_ACTP_04",
+            "value": "Restaura energía (muchísimo)"
+        },
+        {
+            "key": "IT_ARENAP_02",
+            "value": "Restaura todos los orbe de la Arena"
+        },
+        {
+            "key": "IT_RAIDAP_01",
+            "value": "Restaura todos los orbes de asalto"
+        },
+        {
+            "key": "IT_RANKMP_02",
+            "value": "Restaura los orbes necesarios para luchar en duelos de clase (todos)"
+        },
+        {
+            "key": "IT_CG_01",
+            "value": "Objeto que se puede intercambiar por guiles en las tiendas (P)"
+        },
+        {
+            "key": "IT_CG_02",
+            "value": "Objeto que se puede intercambiar por guiles en las tiendas (M)"
+        },
+        {
+            "key": "IT_CG_03",
+            "value": "Objeto que se puede intercambiar por guiles en las tiendas (G)"
+        },
+        {
+            "key": "IT_CG_04",
+            "value": "Objeto que se puede intercambiar por guiles en las tiendas (XL)"
+        },
+        {
+            "key": "IT_US_EXP_01",
+            "value": "Pueden usarlo unidades de hasta nv. 30. Otorga EXP (poco)"
+        },
+        {
+            "key": "IT_US_EXP_02",
+            "value": "Pueden usarlo unidades de hasta nv. 60. Otorga EXP (medio)"
+        },
+        {
+            "key": "IT_US_EXP_03",
+            "value": "Pueden usarlo unidades de hasta nv. 80. Otorga EXP (mucho)"
+        },
+        {
+            "key": "IT_US_EXP_04",
+            "value": "Pueden usarlo todas las unidades. Otorga EXP (muchísimo)"
+        },
+        {
+            "key": "IT_LB_EXP_01",
+            "value": "Otorga EXP de estallido límite (poco)"
+        },
+        {
+            "key": "IT_LB_EXP_02",
+            "value": "Otorga EXP de estallido límite (medio)"
+        },
+        {
+            "key": "IT_LB_EXP_03",
+            "value": "Otorga EXP de estallido límite (mucho)"
+        },
+        {
+            "key": "IT_JB_MM_ALL",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_MM_ALL_2",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_MM_ALL_3",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_MM_ALL_4",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_MM_ALL_5",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_SWORD_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_SWORD_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_SWORD_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_SWORD_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_SWORD_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_LSWORD_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_LSWORD_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_LSWORD_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_LSWORD_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_LSWORD_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_JSWORD_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_JSWORD_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_JSWORD_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_JSWORD_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_JSWORD_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_FIST_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_FIST_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_FIST_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_FIST_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_FIST_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_SPEAR_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_SPEAR_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_SPEAR_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_SPEAR_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_SPEAR_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_SSWORD_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_SSWORD_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_SSWORD_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_SSWORD_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_SSWORD_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_KUNAI_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_KUNAI_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_KUNAI_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_KUNAI_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_KUNAI_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_BOW_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_BOW_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_BOW_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_BOW_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_BOW_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_GUN_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_GUN_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_GUN_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_GUN_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_GUN_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_STAFF_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_STAFF_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_STAFF_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_STAFF_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_STAFF_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_MACE_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_MACE_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_MACE_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_MACE_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_MACE_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_AXE_01",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_AXE_02",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_AXE_03",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_AXE_04",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_AXE_05",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_MM_COMMON",
+            "value": "Objeto que puede usarse en lugar de recuerdos de profesión para mejorar la profesión al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_2",
+            "value": "Objeto que puede usarse en lugar de recuerdos de profesión para mejorar la profesión al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_3",
+            "value": "Objeto que puede usarse en lugar de recuerdos de profesión para mejorar la profesión al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_4",
+            "value": "Objeto que puede usarse en lugar de recuerdos de profesión para mejorar la profesión al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_5",
+            "value": "Objeto que puede usarse en lugar de recuerdos de profesión para mejorar la profesión al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_WAR",
+            "value": "Objeto necesario para mejorar una profesión (guerrero) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_WAR_2",
+            "value": "Objeto necesario para mejorar una profesión (guerrero) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_WAR_3",
+            "value": "Objeto necesario para mejorar una profesión (guerrero) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_WAR_4",
+            "value": "Objeto necesario para mejorar una profesión (guerrero) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_WAR_5",
+            "value": "Objeto necesario para mejorar una profesión (guerrero) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_KNT",
+            "value": "Objeto necesario para mejorar una profesión (caballero) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_KNT_2",
+            "value": "Objeto necesario para mejorar una profesión (caballero) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_KNT_3",
+            "value": "Objeto necesario para mejorar una profesión (caballero) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_KNT_4",
+            "value": "Objeto necesario para mejorar una profesión (caballero) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_KNT_5",
+            "value": "Objeto necesario para mejorar una profesión (caballero) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_PLD",
+            "value": "Objeto necesario para mejorar una profesión (paladín) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_PLD_2",
+            "value": "Objeto necesario para mejorar una profesión (paladín) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_PLD_3",
+            "value": "Objeto necesario para mejorar una profesión (paladín) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_PLD_4",
+            "value": "Objeto necesario para mejorar una profesión (paladín) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_PLD_5",
+            "value": "Objeto necesario para mejorar una profesión (paladín) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_SWN",
+            "value": "Objeto necesario para mejorar una profesión (soldado) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_SWN_2",
+            "value": "Objeto necesario para mejorar una profesión (soldado) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_SWN_3",
+            "value": "Objeto necesario para mejorar una profesión (soldado) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_SWN_4",
+            "value": "Objeto necesario para mejorar una profesión (soldado) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_SWN_5",
+            "value": "Objeto necesario para mejorar una profesión (soldado) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_MNK",
+            "value": "Objeto necesario para mejorar una profesión (monje) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_MNK_2",
+            "value": "Objeto necesario para mejorar una profesión (monje) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_MNK_3",
+            "value": "Objeto necesario para mejorar una profesión (monje) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_MNK_4",
+            "value": "Objeto necesario para mejorar una profesión (monje) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_MNK_5",
+            "value": "Objeto necesario para mejorar una profesión (monje) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_SAM",
+            "value": "Objeto necesario para mejorar una profesión (samurái) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_SAM_2",
+            "value": "Objeto necesario para mejorar una profesión (samurái) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_SAM_3",
+            "value": "Objeto necesario para mejorar una profesión (samurái) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_SAM_4",
+            "value": "Objeto necesario para mejorar una profesión (samurái) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_SAM_5",
+            "value": "Objeto necesario para mejorar una profesión (samurái) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_LAN",
+            "value": "Objeto necesario para mejorar una profesión (lancero) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_LAN_2",
+            "value": "Objeto necesario para mejorar una profesión (lancero) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_LAN_3",
+            "value": "Objeto necesario para mejorar una profesión (lancero) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_LAN_4",
+            "value": "Objeto necesario para mejorar una profesión (lancero) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_LAN_5",
+            "value": "Objeto necesario para mejorar una profesión (lancero) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_DRG",
+            "value": "Objeto necesario para mejorar una profesión (dragontino) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_DRG_2",
+            "value": "Objeto necesario para mejorar una profesión (dragontino) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_DRG_3",
+            "value": "Objeto necesario para mejorar una profesión (dragontino) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_DRG_4",
+            "value": "Objeto necesario para mejorar una profesión (dragontino) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_DRG_5",
+            "value": "Objeto necesario para mejorar una profesión (dragontino) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_THI",
+            "value": "Objeto necesario para mejorar una profesión (ladrón) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_THI_2",
+            "value": "Objeto necesario para mejorar una profesión (ladrón) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_THI_3",
+            "value": "Objeto necesario para mejorar una profesión (ladrón) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_THI_4",
+            "value": "Objeto necesario para mejorar una profesión (ladrón) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_THI_5",
+            "value": "Objeto necesario para mejorar una profesión (ladrón) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_NIN",
+            "value": "Objeto necesario para mejorar una profesión (ninja) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_NIN_2",
+            "value": "Objeto necesario para mejorar una profesión (ninja) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_NIN_3",
+            "value": "Objeto necesario para mejorar una profesión (ninja) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_NIN_4",
+            "value": "Objeto necesario para mejorar una profesión (ninja) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_NIN_5",
+            "value": "Objeto necesario para mejorar una profesión (ninja) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_HUN",
+            "value": "Objeto necesario para mejorar una profesión (montaraz) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_HUN_2",
+            "value": "Objeto necesario para mejorar una profesión (montaraz) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_HUN_3",
+            "value": "Objeto necesario para mejorar una profesión (montaraz) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_HUN_4",
+            "value": "Objeto necesario para mejorar una profesión (montaraz) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_HUN_5",
+            "value": "Objeto necesario para mejorar una profesión (montaraz) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_GUN",
+            "value": "Objeto necesario para mejorar una profesión (pistolero) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_GUN_2",
+            "value": "Objeto necesario para mejorar una profesión (pistolero) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_GUN_3",
+            "value": "Objeto necesario para mejorar una profesión (pistolero) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_GUN_4",
+            "value": "Objeto necesario para mejorar una profesión (pistolero) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_GUN_5",
+            "value": "Objeto necesario para mejorar una profesión (pistolero) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_WHM",
+            "value": "Objeto necesario para mejorar una profesión (mago blanco) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_WHM_2",
+            "value": "Objeto necesario para mejorar una profesión (mago blanco) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_WHM_3",
+            "value": "Objeto necesario para mejorar una profesión (mago blanco) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_WHM_4",
+            "value": "Objeto necesario para mejorar una profesión (mago blanco) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_WHM_5",
+            "value": "Objeto necesario para mejorar una profesión (mago blanco) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_BLM",
+            "value": "Objeto necesario para mejorar una profesión (mago negro) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_BLM_2",
+            "value": "Objeto necesario para mejorar una profesión (mago negro) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_BLM_3",
+            "value": "Objeto necesario para mejorar una profesión (mago negro) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_BLM_4",
+            "value": "Objeto necesario para mejorar una profesión (mago negro) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_BLM_5",
+            "value": "Objeto necesario para mejorar una profesión (mago negro) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_RDM",
+            "value": "Objeto necesario para mejorar una profesión (mago rojo) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_RDM_2",
+            "value": "Objeto necesario para mejorar una profesión (mago rojo) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_RDM_3",
+            "value": "Objeto necesario para mejorar una profesión (mago rojo) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_RDM_4",
+            "value": "Objeto necesario para mejorar una profesión (mago rojo) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_RDM_5",
+            "value": "Objeto necesario para mejorar una profesión (mago rojo) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_GRM",
+            "value": "Objeto necesario para mejorar una profesión (mago verde) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_GRM_2",
+            "value": "Objeto necesario para mejorar una profesión (mago verde) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_GRM_3",
+            "value": "Objeto necesario para mejorar una profesión (mago verde) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_GRM_4",
+            "value": "Objeto necesario para mejorar una profesión (mago verde) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_GRM_5",
+            "value": "Objeto necesario para mejorar una profesión (mago verde) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_TIM",
+            "value": "Objeto necesario para mejorar una profesión (mago del tiempo) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_TIM_2",
+            "value": "Objeto necesario para mejorar una profesión (mago del tiempo) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_TIM_3",
+            "value": "Objeto necesario para mejorar una profesión (mago del tiempo) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_TIM_4",
+            "value": "Objeto necesario para mejorar una profesión (mago del tiempo) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_TIM_5",
+            "value": "Objeto necesario para mejorar una profesión (mago del tiempo) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_MGK",
+            "value": "Objeto necesario para mejorar una profesión (esgrimago) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_MGK_2",
+            "value": "Objeto necesario para mejorar una profesión (esgrimago) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_MGK_3",
+            "value": "Objeto necesario para mejorar una profesión (esgrimago) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_MGK_4",
+            "value": "Objeto necesario para mejorar una profesión (esgrimago) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_MGK_5",
+            "value": "Objeto necesario para mejorar una profesión (esgrimago) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_CLR",
+            "value": "Objeto necesario para mejorar una profesión (clérigo) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_CLR_2",
+            "value": "Objeto necesario para mejorar una profesión (clérigo) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_CLR_3",
+            "value": "Objeto necesario para mejorar una profesión (clérigo) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_CLR_4",
+            "value": "Objeto necesario para mejorar una profesión (clérigo) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_CLR_5",
+            "value": "Objeto necesario para mejorar una profesión (clérigo) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS",
+            "value": "Objeto necesario para mejorar una profesión (el Alado) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_2",
+            "value": "Objeto necesario para mejorar una profesión (el Alado) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_3",
+            "value": "Objeto necesario para mejorar una profesión (el Alado) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_4",
+            "value": "Objeto necesario para mejorar una profesión (el Alado) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_5",
+            "value": "Objeto necesario para mejorar una profesión (el Alado) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL",
+            "value": "Objeto necesario para mejorar una profesión (hechicera) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_2",
+            "value": "Objeto necesario para mejorar una profesión (hechicera) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_3",
+            "value": "Objeto necesario para mejorar una profesión (hechicera) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_4",
+            "value": "Objeto necesario para mejorar una profesión (hechicera) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_5",
+            "value": "Objeto necesario para mejorar una profesión (hechicera) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR",
+            "value": "Objeto necesario para mejorar una profesión (sablepistolero) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_2",
+            "value": "Objeto necesario para mejorar una profesión (sablepistolero) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_3",
+            "value": "Objeto necesario para mejorar una profesión (sablepistolero) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_4",
+            "value": "Objeto necesario para mejorar una profesión (sablepistolero) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_5",
+            "value": "Objeto necesario para mejorar una profesión (sablepistolero) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_VIK",
+            "value": "Objeto necesario para mejorar una profesión (vikingo) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_VIK_2",
+            "value": "Objeto necesario para mejorar una profesión (vikingo) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_VIK_3",
+            "value": "Objeto necesario para mejorar una profesión (vikingo) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_VIK_4",
+            "value": "Objeto necesario para mejorar una profesión (vikingo) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_VIK_5",
+            "value": "Objeto necesario para mejorar una profesión (vikingo) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR",
+            "value": "Objeto necesario para mejorar una profesión (Caballero vil) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_2",
+            "value": "Objeto necesario para mejorar una profesión (Caballero vil) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_3",
+            "value": "Objeto necesario para mejorar una profesión (Caballero vil) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_4",
+            "value": "Objeto necesario para mejorar una profesión (Caballero vil) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_5",
+            "value": "Objeto necesario para mejorar una profesión (Caballero vil) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Ramza) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_2",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Ramza) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_3",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Ramza) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_4",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Ramza) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_5",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Ramza) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND",
+            "value": "Objeto necesario para mejorar una profesión (espadachín sacro) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_2",
+            "value": "Objeto necesario para mejorar una profesión (espadachín sacro) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_3",
+            "value": "Objeto necesario para mejorar una profesión (espadachín sacro) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_4",
+            "value": "Objeto necesario para mejorar una profesión (espadachín sacro) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_5",
+            "value": "Objeto necesario para mejorar una profesión (espadachín sacro) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_WGN",
+            "value": "Objeto necesario para mejorar una profesión (pistolero doble) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_WGN_2",
+            "value": "Objeto necesario para mejorar una profesión (pistolero doble) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_WGN_3",
+            "value": "Objeto necesario para mejorar una profesión (pistolero doble) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_WGN_4",
+            "value": "Objeto necesario para mejorar una profesión (pistolero doble) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_WGN_5",
+            "value": "Objeto necesario para mejorar una profesión (pistolero doble) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: ígneo) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: ígneo) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: ígneo) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: ígneo) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: ígneo) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "Objeto necesario para mejorar una profesión (asesino) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "Objeto necesario para mejorar una profesión (asesino) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "Objeto necesario para mejorar una profesión (asesino) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "Objeto necesario para mejorar una profesión (asesino) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "Objeto necesario para mejorar una profesión (asesino) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "Objeto necesario para mejorar una profesión (Guerrero de la Luz) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "Objeto necesario para mejorar una profesión (caballero sagrado) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "Objeto necesario para mejorar una profesión (escudero: Delita) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "Objeto necesario para mejorar una profesión (maquinista) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_CAL",
+            "value": "Objeto necesario para mejorar una profesión (aritmética) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_CAL_2",
+            "value": "Objeto necesario para mejorar una profesión (aritmética) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_CAL_3",
+            "value": "Objeto necesario para mejorar una profesión (aritmética) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_CAL_4",
+            "value": "Objeto necesario para mejorar una profesión (aritmética) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_CAL_5",
+            "value": "Objeto necesario para mejorar una profesión (aritmética) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN",
+            "value": "Objeto necesario para mejorar una profesión (caballero de la destrucción) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_2",
+            "value": "Objeto necesario para mejorar una profesión (caballero de la destrucción) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_3",
+            "value": "Objeto necesario para mejorar una profesión (caballero de la destrucción) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_4",
+            "value": "Objeto necesario para mejorar una profesión (caballero de la destrucción) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_5",
+            "value": "Objeto necesario para mejorar una profesión (caballero de la destrucción) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR",
+            "value": "Objeto necesario para mejorar una profesión (valquiria) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_2",
+            "value": "Objeto necesario para mejorar una profesión (valquiria) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_3",
+            "value": "Objeto necesario para mejorar una profesión (valquiria) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_4",
+            "value": "Objeto necesario para mejorar una profesión (valquiria) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_5",
+            "value": "Objeto necesario para mejorar una profesión (valquiria) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: gélido) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_2",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: gélido) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_3",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: gélido) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_4",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: gélido) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_5",
+            "value": "Objeto necesario para mejorar una profesión (caballero de Grandshelt: gélido) al nv. 15"
+        },
+        {
+            "key": "IT_JB_MM_MKN",
+            "value": "Objeto necesario para mejorar una profesión (señor rúnico) al nv. 3"
+        },
+        {
+            "key": "IT_JB_MM_MKN_2",
+            "value": "Objeto necesario para mejorar una profesión (señor rúnico) al nv. 6"
+        },
+        {
+            "key": "IT_JB_MM_MKN_3",
+            "value": "Objeto necesario para mejorar una profesión (señor rúnico) al nv. 9"
+        },
+        {
+            "key": "IT_JB_MM_MKN_4",
+            "value": "Objeto necesario para mejorar una profesión (señor rúnico) al nv. 12"
+        },
+        {
+            "key": "IT_JB_MM_MKN_5",
+            "value": "Objeto necesario para mejorar una profesión (señor rúnico) al nv. 15"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de fuego a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de fuego a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de fuego a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de fuego a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de fuego a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_ICE_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de hielo a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_ICE_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de hielo a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_ICE_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de hielo a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_ICE_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de hielo a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_ICE_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de hielo a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_WIND_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de viento a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_WIND_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de viento a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_WIND_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de viento a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_WIND_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de viento a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_WIND_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de viento a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de tierra a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de tierra a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de tierra a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de tierra a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de tierra a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de rayo a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de rayo a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de rayo a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de rayo a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de rayo a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_WATER_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de agua a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_WATER_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de agua a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_WATER_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de agua a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_WATER_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de agua a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_WATER_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de agua a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de luz a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de luz a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de luz a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de luz a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de luz a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_EM_DARK_1",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de oscuridad a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_EM_DARK_2",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de oscuridad a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_EM_DARK_3",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de oscuridad a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_EM_DARK_4",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de oscuridad a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_EM_DARK_5",
+            "value": "Objeto necesario para mejorar la profesión de una unidad de oscuridad a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_1",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_2",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_3",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_4",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_5",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_1",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 2<space=1>–<space=1>3"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_2",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 4<space=1>–<space=1>6"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_3",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 7<space=1>–<space=1>9"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_4",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 10<space=1>–<space=1>12"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_5",
+            "value": "Objeto necesario para mejorar una profesión a los nvs. 13<space=1>–<space=1>15"
+        },
+        {
+            "key": "IT_UN_AW_FIRE",
+            "value": "Objeto necesario para despertar a una unidad de fuego"
+        },
+        {
+            "key": "IT_UN_AW_ICE",
+            "value": "Objeto necesario para despertar a una unidad de hielo"
+        },
+        {
+            "key": "IT_UN_AW_WIND",
+            "value": "Objeto necesario para despertar a una unidad de viento"
+        },
+        {
+            "key": "IT_UN_AW_SOIL",
+            "value": "Objeto necesario para despertar a una unidad de tierra"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER",
+            "value": "Objeto necesario para despertar a una unidad de rayo"
+        },
+        {
+            "key": "IT_UN_AW_WATER",
+            "value": "Objeto necesario para despertar a una unidad de agua"
+        },
+        {
+            "key": "IT_UN_AW_SHINE",
+            "value": "Objeto necesario para despertar a una unidad de luz"
+        },
+        {
+            "key": "IT_UN_AW_DARK",
+            "value": "Objeto necesario para despertar a una unidad de oscuridad"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R2",
+            "value": "Objeto necesario para despertar a una unidad de fuego a 2★"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R3",
+            "value": "Objeto necesario para despertar a una unidad de fuego a 3★"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R4",
+            "value": "Objeto necesario para despertar a una unidad de fuego a 4★"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R5",
+            "value": "Objeto necesario para despertar a una unidad de fuego a 5★"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R6",
+            "value": "Objeto necesario para despertar a una unidad de fuego a 6★"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R2",
+            "value": "Objeto necesario para despertar a una unidad de hielo a 2★"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R3",
+            "value": "Objeto necesario para despertar a una unidad de hielo a 3★"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R4",
+            "value": "Objeto necesario para despertar a una unidad de hielo a 4★"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R5",
+            "value": "Objeto necesario para despertar a una unidad de hielo a 5★"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R6",
+            "value": "Objeto necesario para despertar a una unidad de hielo a 6★"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R2",
+            "value": "Objeto necesario para despertar a una unidad de viento a 2★"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R3",
+            "value": "Objeto necesario para despertar a una unidad de viento a 3★"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R4",
+            "value": "Objeto necesario para despertar a una unidad de viento a 4★"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R5",
+            "value": "Objeto necesario para despertar a una unidad de viento a 5★"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R6",
+            "value": "Objeto necesario para despertar a una unidad de viento a 6★"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R2",
+            "value": "Objeto necesario para despertar a una unidad de tierra a 2★"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R3",
+            "value": "Objeto necesario para despertar a una unidad de tierra a 3★"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R4",
+            "value": "Objeto necesario para despertar a una unidad de tierra a 4★"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R5",
+            "value": "Objeto necesario para despertar a una unidad de tierra a 5★"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R6",
+            "value": "Objeto necesario para despertar a una unidad de tierra a 6★"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R2",
+            "value": "Objeto necesario para despertar a una unidad de rayo a 2★"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R3",
+            "value": "Objeto necesario para despertar a una unidad de rayo a 3★"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R4",
+            "value": "Objeto necesario para despertar a una unidad de rayo a 4★"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R5",
+            "value": "Objeto necesario para despertar a una unidad de rayo a 5★"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R6",
+            "value": "Objeto necesario para despertar a una unidad de rayo a 6★"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R2",
+            "value": "Objeto necesario para despertar a una unidad de agua a 2★"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R3",
+            "value": "Objeto necesario para despertar a una unidad de agua a 3★"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R4",
+            "value": "Objeto necesario para despertar a una unidad de agua a 4★"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R5",
+            "value": "Objeto necesario para despertar a una unidad de agua a 5★"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R6",
+            "value": "Objeto necesario para despertar a una unidad de agua a 6★"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R2",
+            "value": "Objeto necesario para despertar a una unidad de luz a 2★"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R3",
+            "value": "Objeto necesario para despertar a una unidad de luz a 3★"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R4",
+            "value": "Objeto necesario para despertar a una unidad de luz a 4★"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R5",
+            "value": "Objeto necesario para despertar a una unidad de luz a 5★"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R6",
+            "value": "Objeto necesario para despertar a una unidad de luz a 6★"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R2",
+            "value": "Objeto necesario para despertar a una unidad de oscuridad a 2★"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R3",
+            "value": "Objeto necesario para despertar a una unidad de oscuridad a 3★"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R4",
+            "value": "Objeto necesario para despertar a una unidad de oscuridad a 4★"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R5",
+            "value": "Objeto necesario para despertar a una unidad de oscuridad a 5★"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R6",
+            "value": "Objeto necesario para despertar a una unidad de oscuridad a 6★"
+        },
+        {
+            "key": "IT_AW_VBALL_N",
+            "value": "Objeto necesario para despertar unidades y cartas de visión"
+        },
+        {
+            "key": "IT_AW_VBALL_R",
+            "value": "Objeto necesario para despertar unidades y cartas de visión"
+        },
+        {
+            "key": "IT_AW_VBALL_SR",
+            "value": "Objeto necesario para despertar unidades y cartas de visión"
+        },
+        {
+            "key": "IT_AW_VBALL_SSR",
+            "value": "Objeto necesario para despertar unidades y cartas de visión"
+        },
+        {
+            "key": "IT_AW_VBALL_UR",
+            "value": "Objeto necesario para despertar unidades y cartas de visión"
+        },
+        {
+            "key": "IT_PI_COM_FIRE",
+            "value": "Objeto necesario para despertar a una unidad de fuego"
+        },
+        {
+            "key": "IT_PI_COM_ICE",
+            "value": "Objeto necesario para despertar a una unidad de hielo"
+        },
+        {
+            "key": "IT_PI_COM_WIND",
+            "value": "Objeto necesario para despertar a una unidad de viento"
+        },
+        {
+            "key": "IT_PI_COM_SOIL",
+            "value": "Objeto necesario para despertar a una unidad de tierra"
+        },
+        {
+            "key": "IT_PI_COM_THUNDER",
+            "value": "Objeto necesario para despertar a una unidad de rayo"
+        },
+        {
+            "key": "IT_PI_COM_WATER",
+            "value": "Objeto necesario para despertar a una unidad de agua"
+        },
+        {
+            "key": "IT_PI_COM_SHINE",
+            "value": "Objeto necesario para despertar a una unidad de luz"
+        },
+        {
+            "key": "IT_PI_COM_DARK",
+            "value": "Objeto necesario para despertar a una unidad de oscuridad"
+        },
+        {
+            "key": "IT_PI_COM_ALL",
+            "value": "Objeto necesario para despertar unidades de cualquier elemento"
+        },
+        {
+            "key": "IT_PI_LW_MONT",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_STRN",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ELDE",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ROBB",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ENBT",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ZIZA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_AILN",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MDNA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_AYKA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MACR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_HLNA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_LILS",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RAMD",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_OOOO",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_LRNZ",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RIRY",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_VSTR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_CLEY",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_KADI",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MRLK",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MGRT",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_PRAY",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_SZRT",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_FINA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_BYLO",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RYER",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_SCIA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_VRID",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_NAIA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_SRJS",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_UNII",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_SEVR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_VADM",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MURM",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_PHBE",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RART",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MICE",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MIIA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ZZAN",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_GLMS",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FF14_YSTL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FF14_TNCR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_SDLX",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_FDRC",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_YERM",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_NASR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ETRE",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_GFGR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_RAMZ",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_ORND",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_WHIS",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_KTON",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MRND",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_DRND",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_LUCA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ADLD",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_VKTR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_IRDL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_STRN_01",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_LSWL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_GRSR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RRIR",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RYER_01",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_RIRY_01",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_HWLT",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_01",
+            "value": "Otorga EXP de esper (poco)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_02",
+            "value": "Otorga EXP de esper (medio)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_03",
+            "value": "Otorga EXP de esper (mucho)"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_04",
+            "value": "Otorga EXP de esper (muchísimo)"
+        },
+        {
+            "key": "IT_SB_AW_FIRE",
+            "value": "Objeto necesario para despertar a un esper de fuego"
+        },
+        {
+            "key": "IT_SB_AW_ICE",
+            "value": "Objeto necesario para despertar a un esper de hielo"
+        },
+        {
+            "key": "IT_SB_AW_THUNDER",
+            "value": "Objeto necesario para despertar a un esper de rayo"
+        },
+        {
+            "key": "IT_SB_AW_WATER",
+            "value": "Objeto necesario para despertar a un esper de agua"
+        },
+        {
+            "key": "IT_SB_AW_WIND",
+            "value": "Objeto necesario para despertar a un esper de viento"
+        },
+        {
+            "key": "IT_SB_AW_SOIL",
+            "value": "Objeto necesario para despertar a un esper de tierra"
+        },
+        {
+            "key": "IT_SB_AW_SHINE",
+            "value": "Objeto necesario para despertar a un esper de luz"
+        },
+        {
+            "key": "IT_SB_AW_DARK",
+            "value": "Objeto necesario para despertar a un esper de oscuridad"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R2",
+            "value": "Objeto necesario para despertar a Ifrit a 2★"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R3",
+            "value": "Objeto necesario para despertar a Ifrit a 3★"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R2",
+            "value": "Objeto necesario para despertar a Gólem a 2★"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R3",
+            "value": "Objeto necesario para despertar a Gólem a 3★"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R2",
+            "value": "Objeto necesario para despertar a Sirena a 2★"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R3",
+            "value": "Objeto necesario para despertar a Sirena a 3★"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R2",
+            "value": "Objeto necesario para despertar a Férreo a 2★"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R3",
+            "value": "Objeto necesario para despertar a Férreo a 3★"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R2",
+            "value": "Objeto necesario para despertar a Bégimo a 2★"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R3",
+            "value": "Objeto necesario para despertar a Bégimo a 3★"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R2",
+            "value": "Objeto necesario para despertar a Molbol a 2★"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R3",
+            "value": "Objeto necesario para despertar a Molbol a 3★"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R2",
+            "value": "Objeto necesario para despertar a Shiva a 2★"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R3",
+            "value": "Objeto necesario para despertar a Shiva a 3★"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R2",
+            "value": "Objeto necesario para despertar a Lamú a 2★"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R3",
+            "value": "Objeto necesario para despertar a Lamú a 3★"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R2",
+            "value": "Objeto necesario para despertar a Odín a 2★"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R3",
+            "value": "Objeto necesario para despertar a Odín a 3★"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R2",
+            "value": "Objeto necesario para despertar a Reina Lamia a 2★"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R3",
+            "value": "Objeto necesario para despertar a Reina Lamia a 3★"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R2",
+            "value": "Objeto necesario para despertar a Tetra Sílfide a 2★"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R3",
+            "value": "Objeto necesario para despertar a Tetra Sílfide a 3★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "Objeto necesario para despertar a Ochú a 2★"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "Objeto necesario para despertar a Ochú a 3★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "Objeto necesario para despertar a Dragón bicéfalo a 2★"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "Objeto necesario para despertar a Dragón bicéfalo a 3★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "Objeto necesario para despertar a Diablo a 2★"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "Objeto necesario para despertar a Diablo a 3★"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R2",
+            "value": "Objeto necesario para despertar a Rompementes a 2★"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R3",
+            "value": "Objeto necesario para despertar a Rompementes a 3★"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R2",
+            "value": "Objeto necesario para despertar a Fenril a 2★"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R3",
+            "value": "Objeto necesario para despertar a Fenril a 3★"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R2",
+            "value": "Objeto necesario para despertar a Titán a 2★"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R3",
+            "value": "Objeto necesario para despertar a Titán a 3★"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R2",
+            "value": "Objeto necesario para despertar a Luna sangrienta a 2★"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R3",
+            "value": "Objeto necesario para despertar a Luna sangrienta a 3★"
+        },
+        {
+            "key": "IT_TICKET_STORY",
+            "value": "Tícket que sirve para saltarse batallas de las misiones de historia"
+        },
+        {
+            "key": "IT_TICKET_EVENT",
+            "value": "Tícket que sirve para saltarse combates de misiones de evento"
+        },
+        {
+            "key": "IT_GL_TICKET_EVENT",
+            "value": "Tícket que sirve para saltarse combates de misiones de evento"
+        },
+        {
+            "key": "IT_AF_EXP_01",
+            "value": "Otorga EXP de equipo (poco)"
+        },
+        {
+            "key": "IT_AF_EXP_02",
+            "value": "Otorga EXP de equipo (medio)"
+        },
+        {
+            "key": "IT_AF_EXP_03",
+            "value": "Otorga EXP de equipo (mucho)"
+        },
+        {
+            "key": "IT_AF_EXP_04",
+            "value": "Otorga EXP de equipo (muchísimo)"
+        },
+        {
+            "key": "IT_AF_AW_SWORD",
+            "value": "Material de despertar de espadas"
+        },
+        {
+            "key": "IT_AF_AW_LSWORD",
+            "value": "Material de despertar de espadones"
+        },
+        {
+            "key": "IT_AF_AW_FIST",
+            "value": "Material de despertar de puños"
+        },
+        {
+            "key": "IT_AF_AW_JSWORD",
+            "value": "Material de despertar de katanas"
+        },
+        {
+            "key": "IT_AF_AW_SPEAR",
+            "value": "Material de despertar de lanzas"
+        },
+        {
+            "key": "IT_AF_AW_SSWORD",
+            "value": "Material de despertar de dagas"
+        },
+        {
+            "key": "IT_AF_AW_KUNAI",
+            "value": "Material de despertar de hojas ninja"
+        },
+        {
+            "key": "IT_AF_AW_BOW",
+            "value": "Material de despertar de arcos"
+        },
+        {
+            "key": "IT_AF_AW_GUN",
+            "value": "Material de despertar de pistolas"
+        },
+        {
+            "key": "IT_AF_AW_STAFF",
+            "value": "Material de despertar de bastones"
+        },
+        {
+            "key": "IT_AF_AW_MACE",
+            "value": "Material de despertar de mazas"
+        },
+        {
+            "key": "IT_AF_AW_AXE",
+            "value": "Material de despertar de hacha"
+        },
+        {
+            "key": "IT_AF_AW_ARMOR",
+            "value": "Material de despertar de armaduras"
+        },
+        {
+            "key": "IT_AF_AW_ACCE",
+            "value": "Material de despertar de accesorios"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_03",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_03",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_04",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_03",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_04",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_03",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_04",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_01",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_02",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_03",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_04",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_OGRE",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_BOMB",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_MABR",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_WOLF",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_ZUUU",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_BONE",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_ARMN",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_MAT_MYTHRIL",
+            "value": "Objeto necesario para forjar equipo y despertarlo"
+        },
+        {
+            "key": "IT_AF_LW_SWO_001",
+            "value": "Receta necesaria para forjar una espada larga"
+        },
+        {
+            "key": "IT_AF_LW_SWO_002",
+            "value": "Receta necesaria para forjar una espada de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_SWO_003",
+            "value": "Receta necesaria para forjar una hoja sedante"
+        },
+        {
+            "key": "IT_AF_LW_SWO_004",
+            "value": "Receta necesaria para forjar un estoque de hielo"
+        },
+        {
+            "key": "IT_AF_LW_SWO_005",
+            "value": "Receta necesaria para forjar una hoja ardiente"
+        },
+        {
+            "key": "IT_AF_LW_SWO_006",
+            "value": "Receta necesaria para forjar una espada de coral"
+        },
+        {
+            "key": "IT_AF_LW_BSW_001",
+            "value": "Receta necesaria para forjar una Claymore"
+        },
+        {
+            "key": "IT_AF_LW_BSW_002",
+            "value": "Receta necesaria para forjar un sable de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_BSW_003",
+            "value": "Receta necesaria para forjar una hoja rúnica"
+        },
+        {
+            "key": "IT_AF_LW_BSW_004",
+            "value": "Receta necesaria para forjar una hoja dorada"
+        },
+        {
+            "key": "IT_AF_LW_KAT_001",
+            "value": "Receta necesaria para forjar una kotetsu"
+        },
+        {
+            "key": "IT_AF_LW_KAT_002",
+            "value": "Receta necesaria para forjar una kikuichimonji"
+        },
+        {
+            "key": "IT_AF_LW_KAT_003",
+            "value": "Receta necesaria para forjar una osafune"
+        },
+        {
+            "key": "IT_AF_LW_FIS_001",
+            "value": "Receta necesaria para forjar unos puños de metal"
+        },
+        {
+            "key": "IT_AF_LW_FIS_002",
+            "value": "Receta necesaria para forjar unas garras de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_FIS_003",
+            "value": "Receta necesaria para forjar unas garras de gato"
+        },
+        {
+            "key": "IT_AF_LW_SPE_001",
+            "value": "Receta necesaria para forjar una partesana"
+        },
+        {
+            "key": "IT_AF_LW_SPE_002",
+            "value": "Receta necesaria para forjar una lanza de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_SPE_003",
+            "value": "Receta necesaria para forjar una lanza eólica"
+        },
+        {
+            "key": "IT_AF_LW_SPE_004",
+            "value": "Receta necesaria para forjar una lanza de hielo"
+        },
+        {
+            "key": "IT_AF_LW_SPE_006",
+            "value": "Receta necesaria para forjar una lanza cuernodragón"
+        },
+        {
+            "key": "IT_AF_LW_DAG_001",
+            "value": "Receta necesaria para forjar una daga"
+        },
+        {
+            "key": "IT_AF_LW_DAG_002",
+            "value": "Receta necesaria para forjar una daga de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_DAG_004",
+            "value": "Receta necesaria para forjar una main gauche"
+        },
+        {
+            "key": "IT_AF_LW_DAG_006",
+            "value": "Receta necesaria para forjar una matamagos"
+        },
+        {
+            "key": "IT_AF_LW_NKN_001",
+            "value": "Receta necesaria para forjar un kunai"
+        },
+        {
+            "key": "IT_AF_LW_NKN_002",
+            "value": "Receta necesaria para forjar un kodachi"
+        },
+        {
+            "key": "IT_AF_LW_NKN_003",
+            "value": "Receta necesaria para forjar el acero de Sasuke"
+        },
+        {
+            "key": "IT_AF_LW_BOW_001",
+            "value": "Receta necesaria para forjar un arco largo"
+        },
+        {
+            "key": "IT_AF_LW_BOW_002",
+            "value": "Receta necesaria para forjar un gran arco"
+        },
+        {
+            "key": "IT_AF_LW_BOW_003",
+            "value": "Receta necesaria para forjar un arco rúnico"
+        },
+        {
+            "key": "IT_AF_LW_GUN_001",
+            "value": "Receta necesaria para forjar una Capella"
+        },
+        {
+            "key": "IT_AF_LW_GUN_002",
+            "value": "Receta necesaria para forjar una Vega"
+        },
+        {
+            "key": "IT_AF_LW_GUN_003",
+            "value": "Receta necesaria para forjar una Ras-Alghetti"
+        },
+        {
+            "key": "IT_AF_LW_ROD_002",
+            "value": "Receta necesaria para forjar una vara de hierro"
+        },
+        {
+            "key": "IT_AF_LW_ROD_004",
+            "value": "Receta necesaria para elaborar un bastón sanador"
+        },
+        {
+            "key": "IT_AF_LW_ROD_005",
+            "value": "Receta necesaria para forjar una vara de platino"
+        },
+        {
+            "key": "IT_AF_LW_MAC_001",
+            "value": "Receta necesaria para forjar una maza de hierro"
+        },
+        {
+            "key": "IT_AF_LW_MAC_002",
+            "value": "Receta necesaria para forjar una maza de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_MAC_003",
+            "value": "Receta necesaria para forjar una maza de platino"
+        },
+        {
+            "key": "IT_AF_LW_ARM_002",
+            "value": "Receta necesaria para forjar un peto de hierro"
+        },
+        {
+            "key": "IT_AF_LW_ARM_003",
+            "value": "Receta necesaria para forjar una armadura de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_ARM_004",
+            "value": "Receta necesaria para forjar una armadura dorada"
+        },
+        {
+            "key": "IT_AF_LW_HAT_002",
+            "value": "Receta necesaria para elaborar un sombrero de mago"
+        },
+        {
+            "key": "IT_AF_LW_HAT_003",
+            "value": "Receta necesaria para forjar una diadema"
+        },
+        {
+            "key": "IT_AF_LW_HAT_004",
+            "value": "Receta necesaria para elaborar un sombrero de sabio"
+        },
+        {
+            "key": "IT_AF_LW_CLT_001",
+            "value": "Receta necesaria para elaborar una chaqueta de cuero"
+        },
+        {
+            "key": "IT_AF_LW_CLT_002",
+            "value": "Receta necesaria para elaborar una túnica de erudito"
+        },
+        {
+            "key": "IT_AF_LW_CLT_003",
+            "value": "Receta necesaria para forjar un chaleco espejismo"
+        },
+        {
+            "key": "IT_AF_LW_CLT_004",
+            "value": "Receta necesaria para elaborar un abrigo perspicaz"
+        },
+        {
+            "key": "IT_AF_LW_HLM_002",
+            "value": "Receta necesaria para forjar un yelmo de hierro"
+        },
+        {
+            "key": "IT_AF_LW_HLM_003",
+            "value": "Receta necesaria para forjar un yelmo de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_HLM_004",
+            "value": "Receta necesaria para forjar un yelmo dorado"
+        },
+        {
+            "key": "IT_AF_LW_RNG_002",
+            "value": "Receta necesaria para forjar un anillo de paladín"
+        },
+        {
+            "key": "IT_AF_LW_RNG_003",
+            "value": "Receta necesaria para forjar un anillo de hada"
+        },
+        {
+            "key": "IT_AF_LW_RNG_004",
+            "value": "Receta necesaria para forjar un anillo enjoyado"
+        },
+        {
+            "key": "IT_AF_SWO_FF14_TNCT",
+            "value": "Receta necesaria para forjar una réplica de Lionheart"
+        },
+        {
+            "key": "IT_AF_LW_ROD_007",
+            "value": "Receta necesaria para elaborar un báculo de sabio"
+        },
+        {
+            "key": "IT_AF_LW_ARM_005",
+            "value": "Receta necesaria para forjar una armadura de platino"
+        },
+        {
+            "key": "IT_AF_FFT_SWO_001",
+            "value": "Receta necesaria para forjar la Nagnarok"
+        },
+        {
+            "key": "IT_AF_LW_FTW_001",
+            "value": "Receta necesaria para elaborar unas sandalias de Hermes"
+        },
+        {
+            "key": "IT_AF_LW_AXE_001",
+            "value": "Receta necesaria para forjar un mataogros"
+        },
+        {
+            "key": "IT_AF_LW_AXE_002",
+            "value": "Receta necesaria para forjar un hacha de mitrilo"
+        },
+        {
+            "key": "IT_AF_LW_AXE_003",
+            "value": "Receta necesaria para forjar un hacha dorada"
+        },
+        {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "Receta necesaria para forjar un anillo de alejandrita"
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "Receta necesaria para elaborar una túnica de platino"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "Receta necesaria para forjar una armadura de luz"
+        },
+        {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "Receta necesaria para elaborar un Sortilége"
+        },
+        {
+            "key": "IT_AF_SUP_HP",
+            "value": "Mayor probabilidad de que aumente la VIT si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_SUP_ATK",
+            "value": "Mayor probabilidad de que aumente el ATQ si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_SUP_MAG",
+            "value": "Mayor probabilidad de que aumente la MAG si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_SUP_MND",
+            "value": "Mayor probabilidad de que aumente el ESP si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_SUP_DEF",
+            "value": "Mayor probabilidad de que aumente la DEF si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_SUP_AVO",
+            "value": "Mayor probabilidad de que aumente la EVASIÓN si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_SUP_HIT",
+            "value": "Mayor probabilidad de que aumente el ACI si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_SUP_CRI",
+            "value": "Mayor probabilidad de que aumente el CRÍT si el equipo ha subido de nivel"
+        },
+        {
+            "key": "IT_AF_PT_ATK",
+            "value": "Aumenta un atributo del equipo (ATQ)"
+        },
+        {
+            "key": "IT_AF_PT_MAG",
+            "value": "Aumenta un atributo del equipo (MAG)"
+        },
+        {
+            "key": "IT_AF_PT_DEF",
+            "value": "Aumenta un atributo del equipo (DEF)"
+        },
+        {
+            "key": "IT_AF_PT_MND",
+            "value": "Aumenta un atributo del equipo (ESP)"
+        },
+        {
+            "key": "IT_AF_PT_HIT",
+            "value": "Aumenta un atributo del equipo (precisión)"
+        },
+        {
+            "key": "IT_AF_PT_CRI",
+            "value": "Aumenta un atributo del equipo (crítico)"
+        },
+        {
+            "key": "IT_AF_PT_AVO",
+            "value": "Aumenta un atributo del equipo (evasión)"
+        },
+        {
+            "key": "IT_AF_PT_HP",
+            "value": "Aumenta un atributo del equipo (VIT)"
+        },
+        {
+            "key": "IT_AF_PT_SPD",
+            "value": "Aumenta un atributo del equipo (AGI)"
+        },
+        {
+            "key": "IT_WA_EXP_01",
+            "value": "Otorga EXP de habilidad de equipo (poco)"
+        },
+        {
+            "key": "IT_WA_EXP_02",
+            "value": "Otorga EXP de habilidad de equipo (medio)"
+        },
+        {
+            "key": "IT_WA_EXP_03",
+            "value": "Otorga EXP de habilidad de equipo (mucho)"
+        },
+        {
+            "key": "IT_AF_RESET",
+            "value": "Objeto necesario para restablecer los atributos de una pieza del equipo <br>*Al restablecer los atributos no se recuperarán los minerales o martillos enanos que se hayan usado para mejorar el equipo"
+        },
+        {
+            "key": "IT_EC_STARQUARTZ",
+            "value": "Sin detalles"
+        },
+        {
+            "key": "IT_EC_ARENA",
+            "value": "Medalla que se obtiene en la Arena"
+        },
+        {
+            "key": "IT_EC_MULTI",
+            "value": "Medalla que se obtiene en las multimisiones"
+        },
+        {
+            "key": "IT_EC_RAID",
+            "value": "Medalla que se obtiene en las batallas de asalto"
+        },
+        {
+            "key": "IT_EC_MATCH",
+            "value": "Medalla que se obtiene en los duelos"
+        },
+        {
+            "key": "IT_EC_GUILD",
+            "value": "Medalla que se obtiene en un gremio"
+        },
+        {
+            "key": "IT_EC_SOUL",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SOUL_N",
+            "value": "Medalla que se obtiene cuando los fragmentos de unidades N en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_SOUL_R",
+            "value": "Medalla que se obtiene cuando los fragmentos de unidades R en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_SOUL_SR",
+            "value": "Medalla que se obtiene cuando los fragmentos de unidades SR en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_SOUL_SSR",
+            "value": "Medalla que se obtiene cuando los fragmentos de unidades MR en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_SOUL_UR",
+            "value": "Medalla que se obtiene cuando los fragmentos de unidades UR en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_MOOGLE",
+            "value": "Sin detalles"
+        },
+        {
+            "key": "IT_EC_TOWER",
+            "value": "Sin detalles"
+        },
+        {
+            "key": "IT_EC_SUMMON",
+            "value": "Sin detalles"
+        },
+        {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 9/12/2019 a las 14:59 PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades, cartas de visión, y en invocaciones invernales (Finaliza el 31/12/2020 a las 23:59 PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_B",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones invernales, parte 2 (Finaliza el 15/1/2020 a las 14:59 PST)"
+        },
+        {
+            "key": "IT_EC_VISION",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_VISION_N",
+            "value": "Medalla que se obtiene cuando los fragmentos de cartas de visión N en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_VISION_R",
+            "value": "Medalla que se obtiene cuando los fragmentos de cartas de visión R en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_VISION_SR",
+            "value": "Medalla que se obtiene cuando los fragmentos de cartas de visión SR en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_VISION_SSR",
+            "value": "Medalla que se obtiene cuando los fragmentos de cartas de visión MR en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_VISION_UR",
+            "value": "Medalla que se obtiene cuando los fragmentos de cartas de visión UR en posesión exceden el límite permitido"
+        },
+        {
+            "key": "IT_EC_UNIT_UR",
+            "value": "Objeto que puede intercambiarse por varios objetos en la tienda de intercambio de piezas de unidad UR"
+        },
+        {
+            "key": "IT_EC_FRIEND",
+            "value": "Medalla que se obtiene como regalo de un amigo"
+        },
+        {
+            "key": "IT_EC_FF14_1",
+            "value": "Objeto intercambiable que puede adquirirse en los eventos de colaboración de FFXIV. Puede intercambiarse por varios objetos en la tienda de intercambio de losas de Goetia"
+        },
+        {
+            "key": "IT_EC_FF14_2",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFXIV. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de colaboración"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "Tícket que se consigue al intercambiar losas de Goetia obtenidas en los eventos de colaboración de FFXIV"
+        },
+        {
+            "key": "IT_EC_SUMMON_03_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 14/4/2020 a las 23:59 PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 21/4/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 28/4/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 2/6/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_B",
+            "value": "Medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 16/6/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 30/6/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 14/7/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 28/7/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 11/8/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 1/9/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 15/9/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 6/10/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 20/10/2020 17:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 3/11/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_B",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 17/11/2020 17:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_1",
+            "value": "Objeto que puede adquirirse en los eventos de colaboración de FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFT"
+        },
+        {
+            "key": "IT_EC_FFT_2_A",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de FFT A (Finaliza el 26/5/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_EC_FFT_2_B",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de FFT B (Finaliza el 26/5/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "Objeto que puede adquirirse en los eventos de colaboración de FFT, parte II. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de FFT, parte II"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración de vuelta de FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de vuelta de FFT A (Finaliza el 29/9/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración con FFT, parte II. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de FFT B, parte II (Finaliza el 29/9/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_A_R",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración de vuelta de FFT: Ramza. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de vuelta de FFT (A) (Finaliza el 29/9/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_FFT_2_B_R",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración de vuelta de FFT: Orlandeau. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de invocación de vuelta de FFT (B) (Finaliza el 29/9/2020 23:59, hora mundial (PST))"
+        },
+        {
+            "key": "IT_EC_TOWER_001",
+            "value": "Medalla que se obtiene en la Torre de Porcelana"
+        },
+        {
+            "key": "IT_EC_TOWER_002",
+            "value": "Medalla que se obtiene en la Torre de Porcelana"
+        },
+        {
+            "key": "IT_EC_EV02_1",
+            "value": "Objeto que puede adquirirse en los eventos de Rundal, la amenaza del oeste. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de Rundal, la amenaza del oeste."
+        },
+        {
+            "key": "IT_EC_EV03_1",
+            "value": "Objeto que puede adquirirse en los eventos de Vida ardiente. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de julio"
+        },
+        {
+            "key": "IT_EC_EV04_1",
+            "value": "Objeto que puede adquirirse en los eventos de El Lejano Oriente. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de evento de agosto."
+        },
+        {
+            "key": "IT_EC_EV05_1",
+            "value": "Objeto que puede adquirirse en Gouga y Saiga: Parte I. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de Gouga y Saiga: Parte I"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "Objeto que puede adquirirse en los eventos de colaboración de FFI. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFI"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "Una medalla que puede adquirirse a través de las invocaciones de colaboración de FFI. Puede canjearse por varios objetos en la tienda de intercambio de medallas de invocación de FFI (Finaliza el 25/8/2020 23:59, hora mundial PST)"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "Tícket que se consigue en los evento de colaboración de FFT"
+        },
+        {
+            "key": "IT_AD_TICKET_2",
+            "value": "Tícket que sirve para acelerar una expedición chocobo de 2 horas"
+        },
+        {
+            "key": "IT_AD_TICKET_5",
+            "value": "Tícket que sirve para acelerar una expedición chocobo de 5 horas"
+        },
+        {
+            "key": "IT_AD_TICKET_10",
+            "value": "Tícket que sirve para acelerar una expedición chocobo de 10 horas"
+        },
+        {
+            "key": "IT_US_GACHA_01",
+            "value": "Intercambia uno de estos tíckets en la invocación insólita para invocar una unidad o carta de visión."
+        },
+        {
+            "key": "IT_US_GACHA_10",
+            "value": "Tícket que sirve para realizar 10 invocaciones insólitas"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "Tícket que garantiza la invocación de 10 unidades o cartas de visión, incluyendo una de rareza MR o superior"
+        },
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "Tícket que garantiza una carta de visión de rareza SR o superior al invocar"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "Tícket que garantiza una carta de visión de rareza MR o superior al invocar"
+        },
+        {
+            "key": "IT_US_GL_G_V_SSR_UR_01",
+            "value": "Tícket que garantiza una carta de visión de rareza MR o superior al invocar"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "Tícket que garantiza una unidad de rareza MR o superior al invocar"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_1",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 fragmentos de la memoria necesarios para despertar unidades"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 200 fragmentos de la memoria necesarios para despertar unidades"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_02",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 100 fragmentos de la memoria necesarios para despertar unidades"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_02",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 100 prismas del despertar"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_03",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 prismas del despertar"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 200 prismas del despertar"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 fragmentos de la memoria necesarios para despertar unidades"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_01_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 30 alcrists (verdes) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 alcrists (azules) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_02",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 70 alcrists (azules) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_03_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 70 alcrists (morados) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 70 alcrists (amarillos) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 70 alcrists (rojos) necesarios para mejorar profesiones"
+        },
+        {
+            "key": "IT_US_SE_SB_AW_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 20 piedras del despertar necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 magicitas (G) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_02",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 magicitas (XL) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_03",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 magicitas (M) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_05",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 30 magicitas (XL) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "Tícket que garantiza una unidad de rareza UR al invocar"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "Tícket que garantiza una unidad de rareza UR al invocar"
+        },
+        {
+            "key": "IT_US_G_U_UR_03",
+            "value": "Tícket que garantiza una unidad de rareza UR al invocar"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "Tícket que garantiza una unidad o una carta de visión de rareza UR al invocar"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "Tícket que garantiza una unidad o una carta de visión de rareza UR al invocar"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "Tícket que garantiza una unidad de rareza R o superior al invocar"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "Tícket que garantiza una carta de visión de rareza R o superior al invocar"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "Tícket que garantiza una carta de visión de rareza UR al invocar"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "Tícket que permite al usuario invocar un recuerdo de profesión (verde) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "Tícket que permite al usuario invocar 2 recuerdos de profesión (azules) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "Tícket que permite al usuario invocar 3 recuerdos de profesión (morados) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "Tícket que permite al usuario invocar 4 recuerdos de profesión (amarillos) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "Tícket que permite al usuario invocar 5 recuerdos de profesión (rojos) para cualquier profesión"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04_2",
+            "value": "Tícket que permite al usuario invocar 4 recuerdos de profesión (amarillos) para cualquier profesión. *No puede usarse con profesiones de unidades de colaboración"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05_2",
+            "value": "Tícket que permite al usuario invocar 5 recuerdos de profesión (rojos) para cualquier profesión. *No puede usarse con profesiones de unidades de colaboración"
+        },
+        {
+            "key": "IT_US_SE_JB_05_01",
+            "value": "Tícket que permite al usuario invocar 30 espinelas de un mismo tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha) necesarias para mejorar una profesión entre los niveles 13 - 15."
+        },
+        {
+            "key": "IT_US_SE_JB_04_01",
+            "value": "Tícket que permite al usuario invocar 30 citrinos de un mismo tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha) necesarias para mejorar una profesión entre los niveles 10 - 12."
+        },
+        {
+            "key": "IT_US_SE_JB_03_01",
+            "value": "Tícket que permite al usuario invocar 30 charoítas de un mismo tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha) necesarias para mejorar una profesión entre los niveles 7 - 9."
+        },
+        {
+            "key": "IT_US_SE_JB_02_01",
+            "value": "Tícket que permite al usuario invocar 30 azuritas de un mismo tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha) necesarias para mejorar una profesión entre los niveles 4 - 6."
+        },
+        {
+            "key": "IT_US_SE_JB_01_01",
+            "value": "Tícket que permite al usuario invocar 15 jadeitas de un mismo tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha) necesarias para mejorar una profesión entre los niveles 1 - 3."
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza UR"
+        },
+        {
+            "key": "IT_US_SE_R_UR_U_03",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza R a UR publicada hasta el 19/8/2020. *El tícket no podrá usarse con Stern (Caballero de la Destrucción), Ildira, Gilgamesh, Graciela Wezette, Lasswell, Etra, Tyrell ni unidades limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 prismas del despertar"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_05",
+            "value": "Tícket que sirve para realizar una invocación de unidad MR+ garantizada de la cuenta atrás de los 6 primeros meses del juego, parte III. *No puede usarse pasado el 16/9/2020, hora mundial (PST). *Esta invocación no incluye unidades de tiempo limitado ni de colaboración. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_06",
+            "value": "Tícket que sirve para realizar una invocación de unidad MR+ garantizada de la cuenta atrás de los 6 primeros meses del juego, parte IV. *No puede usarse pasado el 23/9/2020, hora mundial (PST). *Esta invocación no incluye unidades de tiempo limitado ni de colaboración. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_07",
+            "value": "Tícket que sirve para realizar una invocación de unidad MR+ garantizada de la campaña de otoño 2020, parte I. *No puede usarse pasado el 28/10/2020, hora mundial (PST). *Esta invocación no incluye unidades de tiempo limitado ni de colaboración. "
+        },
+        {
+            "key": "IT_US_SE_UR_V_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_R_UR_V_GL01",
+            "value": "Tícket que permite al usuario elegir e invocar una carta de visión de rareza R a UR publicada hasta el 12/8/2020. *El tícket no podrá usarse con «Solidus, primera división de Hourne», «Rompementes, el Espíritu Descontrolado» ni cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_04",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 30 prismas del despertar"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_05",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 200 prismas del despertar"
+        },
+        {
+            "key": "IT_VPI_LW_GLEM",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_IFRT",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_SIRE",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_SOKYU",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_TRAINING",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_MACR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_MURG",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_GRSR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FF14_MV1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_HOLYNIGHT",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FFT_MV1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_ODIN",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_IGNT",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_BHMT",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_MABR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_SHIV",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_RAMU",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_FAMILY",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_KTON",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_PROPOSE",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_SDLX",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_TEAPARTY",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_HUNT",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FF14_MV2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_NEWYEAR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_LAMA_01",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_GUARD",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_CACT",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_ARMN_01",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_ZUUU",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_OGRE",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_BOMB",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_JOBCRYSTAL",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_BYLO",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_RART",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_RYER",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_RIRY",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_CRYSTAL",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_DYNVERK",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_01",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_02",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_MIRROR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_TSLP",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_LILS",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV2",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_ROBUST",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_MDFY",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_ORDR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_FNRR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_TITN",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_KING",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_VKTR",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_BLMN",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VPI_LW_HALL",
+            "value": "Objeto necesario para despertar una carta de visión"
+        },
+        {
+            "key": "IT_VC_EXP_01",
+            "value": "Otorga EXP de carta de visión (poco)"
+        },
+        {
+            "key": "IT_VC_EXP_02",
+            "value": "Otorga EXP de carta de visión (medio)"
+        },
+        {
+            "key": "IT_VC_EXP_03",
+            "value": "Otorga EXP de carta de visión (mucho)"
+        },
+        {
+            "key": "IT_VC_EXP_04",
+            "value": "Otorga EXP de carta de visión (muchísimo)"
+        },
+        {
+            "key": "IT_GU_FOOD_01",
+            "value": "Repone provisiones en los barracones del gremio (1000)"
+        },
+        {
+            "key": "IT_GU_FOOD_02",
+            "value": "Repone provisiones en los barracones del gremio (2000)"
+        },
+        {
+            "key": "IT_GU_FOOD_03",
+            "value": "Repone provisiones en los barracones del gremio (3000)"
+        },
+        {
+            "key": "IT_GU_FOOD_04",
+            "value": "Repone provisiones en los barracones del gremio (5000) y aumenta los PdP adquiridos (poco)"
+        },
+        {
+            "key": "IT_GU_FOOD_05",
+            "value": "Repone provisiones en los barracones del gremio (7500) y aumenta los PdP adquiridos (medio)"
+        },
+        {
+            "key": "IT_GU_FOOD_06",
+            "value": "Repone provisiones en los barracones del gremio (10 000) y aumenta los PdP adquiridos (mucho)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_01",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra de la serpiente] (poco)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_02",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra de la serpiente] (medio)"
+        },
+        {
+            "key": "IT_GU_EXP_S2_03",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra de la serpiente] (mucho)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_01",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del toro] (poco)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_02",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del toro] (medio)"
+        },
+        {
+            "key": "IT_GU_EXP_S3_03",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del toro] (mucho)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_01",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del kirin] (poco)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_02",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del kirin] (medio)"
+        },
+        {
+            "key": "IT_GU_EXP_S4_03",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del kirin] (mucho)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_01",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del león] (poco)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_02",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del león] (medio)"
+        },
+        {
+            "key": "IT_GU_EXP_S1_03",
+            "value": "Otorga EXP para la estatua del gremio [estatua de piedra del león] (mucho)"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "Medalla que se obtiene en los asaltos"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "Medalla que se obtiene en el asalto del malvavisco blanco"
+        },
+        {
+            "key": "IT_EC_RAID_05",
+            "value": "Medalla que se obtiene en las batallas de asalto"
+        },
+        {
+            "key": "IT_EC_RAID_06",
+            "value": "Medalla que se obtiene en las batallas de asalto"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 500 magicitas (M) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 10 magicitas (M) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 25 magicitas (M) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 100 magicitas (G) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_5",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 20 magicitas (G) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_6",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 50 magicitas (XL) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_7",
+            "value": "Tícket que permite al usuario elegir entre 8 elementos para invocar 150 magicitas (G) necesarias para mejorar espers"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 20/5. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 24 de junio. *El tícket no podrá usarse con «Vástagos sombríos» ni «Progenie de la Casa Beoulve»"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 22 de julio. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 12 de agosto. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_06",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 16 de septiembre. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_07",
+            "value": "Tícket seleccionador de 100 fragmentos de carta de visión UR para aquellas publicadas hasta el 16 de septiembre. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_08",
+            "value": "Tícket seleccionador de 100 fragmentos de carta de visión UR para aquellas publicadas hasta el 30 de septiembre. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_09",
+            "value": "Tícket seleccionador de 100 fragmentos de carta de visión UR para aquellas publicadas hasta el 14 de octubre. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_10",
+            "value": "Tícket seleccionador de 50 fragmentos de carta de visión UR para aquellas publicadas hasta el 14 de octubre. *El tícket no podrá usarse con cartas de visión limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza UR. *Si invocas una unidad que ya posees, esta se convertirá en 40 fragmentos de dicha unidad"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad recomendada de rareza MR. *Si invocas una unidad que ya posees, esta se convertirá en 20 fragmentos de dicha unidad"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "Tícket que permite al usuario elegir e invocar una unidad de rareza MR"
+        },
+        {
+            "key": "IT_US_SE_PI_15",
+            "value": "Tícket seleccionador de 40 fragmentos de unidad UR de FFBE que se puede usar con Lasswell, Rain, Fryevia, Ayaka, Mediena o Aileen "
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 17 de junio. *El tícket no podrá usarse con unidades limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "Un tícket que puede usarse para seleccionar e invocar 40 fragmentos de unidad UR."
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 19/8/2020. *El tícket no podrá usarse con unidades limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_PI_GL03",
+            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 9 de septiembre. *El tícket no podrá usarse con unidades limitadas o de colaboración"
+        },
+        {
+            "key": "IT_US_SE_PI_GL04",
+            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 23 de septiembre. *El tícket no podrá usarse con Graciela, Lasswell o unidades de colaboración"
+        },
+        {
+            "key": "IT_US_SE_PI_GL05",
+            "value": "Tícket seleccionador de 40 fragmentos de unidades UR para aquellas publicadas hasta el 21/10/2020. *El tícket no podrá usarse con unidades limitadas o de colaboración que no sean de Halloween."
+        },
+        {
+            "key": "IT_US_N_GACHA_10",
+            "value": "Tícket que sirve para realizar 10 invocaciones normales"
+        },
+        {
+            "key": "IT_US_SE_AF_AW_01",
+            "value": "Tícket que sirve para invocar 100 libros secretos de mejora de un tipo (espada, espadón, puños, katana, lanza, daga, hoja ninja, arco, pistola, bastón, maza, hacha, armadura o accesorio)"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "Tícket que otorga objetos como fragmentos de unidad o de carta de visión"
+        },
+        {
+            "key": "IT_PT_SKIP_001",
+            "value": "Tícket que sirve para saltarse batallas de las Pruebas del Veredicto"
+        },
+        {
+            "key": "IT_PT_BSSKIP_001",
+            "value": "Tícket que sirve para saltarse batallas de jefe de las Pruebas del Veredicto"
+        },
+        {
+            "key": "IT_PT_BOSS_001",
+            "value": "Tícket que sirve para desafiar a un jefe de las Pruebas del Veredicto"
+        },
+        {
+            "key": "IT_EC_POINT_001",
+            "value": "Medalla que se obtiene en las Pruebas del Veredicto"
+        },
+        {
+            "key": "IT_AF_LW_HLM_005",
+            "value": "Receta necesaria para elaborar un yelmo de platino"
+        },
+        {
+            "key": "IT_AF_LW_ACC_001",
+            "value": "Receta necesaria para elaborar una cinta"
+        },
+        {
+            "key": "IT_AF_LW_KAT_008",
+            "value": "Receta necesaria para forjar el Rayo Púrpura"
+        }
+    ]
+}

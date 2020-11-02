@@ -1,0 +1,964 @@
+{
+    "infos": [
+        {
+            "key": "init",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_20191114",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_20191114",
+            "value": ""
+        },
+        {
+            "key": "ff14_gacha_20191114_01",
+            "value": "FFXIVコラボ記念召喚のおまけです"
+        },
+        {
+            "key": "ff14_gacha_20191114_10",
+            "value": "FFXIVコラボ記念召喚のおまけです"
+        },
+        {
+            "key": "no_coin_gacha_20191118_10",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step1",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step2",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218_step3",
+            "value": ""
+        },
+        {
+            "key": "Nstep_beginner_gacha_10_20191218",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_01",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200408_10",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_unit_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_GL20200408_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_GL20200415_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_01",
+            "value": "200万DL記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200415_10",
+            "value": "200万DL記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200422_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200422_10",
+            "value": ""
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_1",
+            "value": "FFTコラボ記念召喚のオマケです"
+        },
+        {
+            "key": "fft_gacha_20191226_ORND_10",
+            "value": "FFTコラボ記念召喚のオマケです"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_1",
+            "value": "FFTコラボ記念召喚のオマケです"
+        },
+        {
+            "key": "fft_gacha_20191226_RAMZ_10",
+            "value": "FFTコラボ記念召喚のオマケです"
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_9",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200422_10_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_01",
+            "value": "300万DL記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200422_10",
+            "value": "300万DL記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_01",
+            "value": "300万DL記念ピックアップ召喚第2弾のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_GL20200429_10",
+            "value": "300万DL記念ピックアップ召喚第2弾のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_01",
+            "value": "新ユニット召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200506_10",
+            "value": "新ユニット召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200506_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200513_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_01",
+            "value": "武具育成クエスト応援召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200513_10",
+            "value": "武具育成クエスト応援召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_vc_gl20200513_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_vc_gl20200513_01",
+            "value": "新ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_vc_gl20200513_10",
+            "value": "新ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_01",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_10",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200520_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_01",
+            "value": "500万DL記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200520_a_10",
+            "value": "500万DL記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_01",
+            "value": "500万DL記念ピックアップ召喚第2弾のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_10",
+            "value": "500万DL記念ピックアップ召喚第2弾のおまけです"
+        },
+        {
+            "key": "no_coin_gacha_gl20200527_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10",
+            "value": "500万DL記念 第2弾 オマケ付き10連召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_1",
+            "value": "500万DL記念 第2弾 オマケ付き10連召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_2",
+            "value": "500万DL記念 第2弾 オマケ付き10連召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_3",
+            "value": "500万DL記念 第2弾 オマケ付き10連召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200527_a_10_4",
+            "value": "500万DL記念 第2弾 オマケ付き10連召喚 のおまけです"
+        },
+        {
+            "key": "no_coin_gacha_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_01",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_10",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200603_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_01",
+            "value": "バージョンアップ記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_a_10",
+            "value": "バージョンアップ記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_3",
+            "value": "バージョンアップ記念 5ステップアップ召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_4",
+            "value": "バージョンアップ記念 5ステップアップ召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10_5",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200603_b_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200610_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_01",
+            "value": "RAID記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200610_10",
+            "value": "RAID記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_01",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_10",
+            "value": "新ユニット/ビジョンカード召喚のおまけです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_01",
+            "value": "アーリーサマー記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200617_a_10",
+            "value": "アーリーサマー記念ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "no_coin_gacha_gl20200617_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_01",
+            "value": "メビウスコラボ記念ビージョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_10",
+            "value": "メビウスコラボ記念ビージョンカード召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_01",
+            "value": "ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_a_10",
+            "value": "ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "no_coin_gacha_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_4unitvc_gl20200624_10",
+            "value": ""
+        },
+        {
+            "key": "beginner_gacha_10_20200624",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_1",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP1のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_1",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP2のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_1",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP3のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_2",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP1のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_2",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP2のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_2",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP3のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_3",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP1のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_3",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP2のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_3",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP3のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_3",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_4",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP1のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_4",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP2のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_4",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP3のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_4",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_5",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP1のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_5",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP2のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_5",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP3のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_5",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_6",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP1のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_6",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP2のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_6",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP3のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_6",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step1_7",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP1のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step2_7",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP2のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_step3_7",
+            "value": "ストーリー7章公開記念3ステップアップ10連召喚 STEP3のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_b_10_7",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step3",
+            "value": "ストーリー7章公開記念 5ステップアップ召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step4",
+            "value": "ストーリー7章公開記念 5ステップアップ召喚 のおまけです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10_step5",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200624_c_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200701_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step3",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step2",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_step1",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10_base",
+            "value": ""
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_1",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅰのオマケです"
+        },
+        {
+            "key": "element-gacha_fire_wind_20200701_10",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅰのオマケです"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_1",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅱのオマケです"
+        },
+        {
+            "key": "element-gacha_shine_soil_20200701_10",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅱのオマケです"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_1",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅲのオマケです"
+        },
+        {
+            "key": "element-gacha_dark_water_20200701_10",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅲのオマケです"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_1",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅳのオマケです"
+        },
+        {
+            "key": "element-gacha_ice_thunder_20200701_10",
+            "value": "白磁の塔開催記念 ピックアップ召喚Ⅳのオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_01",
+            "value": "FF EXVIUS ユニバース記念召喚～フレイヴィア～のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_10",
+            "value": "FF EXVIUS ユニバース記念召喚～フレイヴィア～のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_01",
+            "value": "FF EXVIUS ユニバース記念召喚～レイン～のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200701_a_10",
+            "value": "FF EXVIUS ユニバース記念召喚～レイン～のオマケです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200701_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200701_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200708_10",
+            "value": ""
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_01",
+            "value": "白磁の塔開催記念第2弾 ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200708_a_10",
+            "value": "白磁の塔開催記念第2弾 ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_01",
+            "value": "新ユニットピックアップ召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200715_10",
+            "value": "新ユニットピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_01",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200715_10",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "p_gacha_unit_gl20200715_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_01",
+            "value": "新ビジョンカードピックアップ召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200722_10",
+            "value": "新ビジョンカードピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_01",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200722_10",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "3step-gacha_gl20200722_step3",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_step2",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_step1",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20200722_base",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step4",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step3",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200722_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_gacha_gl20200729_01",
+            "value": "FF1コラボ記念召喚のオマケです"
+        },
+        {
+            "key": "ff1_gacha_gl20200729_10",
+            "value": "FF1コラボ記念召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_01",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200729_10",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "ff1_p_gacha_unit_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "ff1_p_gacha_vc_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_1",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_2",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_3",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_4",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_5",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_6",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_7",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_8",
+            "value": ""
+        },
+        {
+            "key": "no_coin_gacha_gl20200729_10_9",
+            "value": ""
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step3",
+            "value": "3ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step2",
+            "value": "3ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729_step1",
+            "value": "3ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "ff1_3step-gacha_gl20200729",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step5",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step4",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step3",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step2",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10_step1",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200729_10",
+            "value": ""
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_01",
+            "value": "新ユニットピックアップ召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200805_10",
+            "value": "新ユニットピックアップ召喚のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step5",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step4",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step3",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step2",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10_step1",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200805_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200805_10",
+            "value": "UR1体確定ユニット10連召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_01",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200805_10",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_01",
+            "value": "新ビジョンカードピックアップ召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200812_10",
+            "value": "新ビジョンカードピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_01",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200812_10",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step5",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step4",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step3",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step2",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10_step1",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200812_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_vc_gl20200812_10",
+            "value": "URビジョンカード1枚確定10連召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_01",
+            "value": "新ユニットピックアップ召喚のオマケです"
+        },
+        {
+            "key": "new-gacha_unit_vc_gl20200819_10",
+            "value": "新ユニットピックアップ召喚のオマケです"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step3",
+            "value": "3ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step2",
+            "value": "3ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10_step1",
+            "value": "3ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "3step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step5",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step4",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step3",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step2",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10_step1",
+            "value": "5ステップアップ10連召喚 のオマケです"
+        },
+        {
+            "key": "5step-gacha_gl20200819_10",
+            "value": ""
+        },
+        {
+            "key": "p_gacha_unit_gl20200819_10",
+            "value": "UR1体確定ユニット10連召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_01",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "gacha_unit_vc_gl20200819_10",
+            "value": "ピックアップ召喚のオマケです"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_01",
+            "value": "ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "global_pickup_sterne_20200325_10",
+            "value": "ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_01",
+            "value": "ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "global_pickup_fredrica_20200401_10",
+            "value": "ピックアップ召喚のおまけです"
+        },
+        {
+            "key": "global_ur_unit_fredrica_20200401",
+            "value": ""
+        },
+        {
+            "key": "global_ur_vc_fredrica_20200401",
+            "value": ""
+        }
+    ]
+}

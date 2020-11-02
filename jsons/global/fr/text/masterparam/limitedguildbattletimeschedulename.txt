@@ -1,0 +1,60 @@
+{
+    "infos": [
+        {
+            "key": "TS_LGBP_2006_1",
+            "value": "Combat 1"
+        },
+        {
+            "key": "TS_LGBP_2006_2",
+            "value": "Combat 2"
+        },
+        {
+            "key": "TS_LGBP_2006_3",
+            "value": "Combat 3"
+        },
+        {
+            "key": "TS_LGBP_2006_4",
+            "value": "Combat 4"
+        },
+        {
+            "key": "TS_LGBP_2006_5",
+            "value": "Combat 5"
+        },
+        {
+            "key": "TS_LGBP_2006_6",
+            "value": "Combat 6"
+        },
+        {
+            "key": "TS_LGBP_2006_7",
+            "value": "Combat 7"
+        },
+        {
+            "key": "TS_LGBP_2006_8",
+            "value": "Combat 8"
+        },
+        {
+            "key": "TS_LGBP_2006_9",
+            "value": "Combat 9"
+        },
+        {
+            "key": "TS_LGBP_2006_10",
+            "value": "Combat 10"
+        },
+        {
+            "key": "TS_LGBP_2006_11",
+            "value": "Combat 11"
+        },
+        {
+            "key": "TS_LGBP_2006_12",
+            "value": "Combat 12"
+        },
+        {
+            "key": "TS_LGBP_2006_13",
+            "value": "Combat 13"
+        },
+        {
+            "key": "TS_LGBP_2006_14",
+            "value": "Combat 14"
+        }
+    ]
+}

@@ -1,0 +1,352 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "아군"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "적"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "기믹"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "그리고"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "이상"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "이하"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "{0} 전멸"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "{0} 섬멸"
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "{0}을(를) 제외한 {1} 섬멸"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "{0} 사망"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0} 파괴"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0} 생존"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "주인공 사망"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "주인공 생존"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "{0}의 체력이 {1}％{2}"
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "{0}의 행동 횟수가 {1}회 {2}"
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0}이(가) {1}에게 접근"
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0}이(가) 목표 지점에 도달"
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0}이(가) {1}와(과) 같은 위치"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0}이(가) 목표 지점에 {1} 사용"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0}이(가) {1}에게 {2} 사용"
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "지형이 {0}(으)로 변화"
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "성문 앞 도달, 혹은 적 섬멸"
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "무라가 페네스를 처치"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "무라가 페네스를 처치"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "도적 두목을 처치"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "적 섬멸"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "슈제르트를 제외한 아군 전멸"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "슈텔(파멸의 기사)을 제외한 아군 전멸"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "카밀로를 처치"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "마차에 일정한 피해 주기"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "바짐 처치"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "모든 적을 쓰러뜨려라!"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_1",
+            "value": "기공사 무스타디오를 구출하라"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_2",
+            "value": "기공사 무스타디오 사망"
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "초코 푸딩 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "초코 푸딩 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "초코 푸딩 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "초코 푸딩 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "하얀 마시멜로 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "하얀 마시멜로 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "하얀 마시멜로 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "하얀 마시멜로 토벌"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "디아 처치"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "오르도아 처치"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "데스 머신 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "데스 머신 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "데스 머신 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_09_01",
+            "value": "이프리트 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_09_02",
+            "value": "이프리트 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_09_03",
+            "value": "이프리트 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_09_04",
+            "value": "골드 사보텐 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_09_05",
+            "value": "골드 사보텐 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_09_06",
+            "value": "골드 사보텐 토벌"
+        },
+        {
+            "key": "QE_PT_001_BOSS_1",
+            "value": "투헤드 드래곤 토벌"
+        },
+        {
+            "key": "QE_PT_001_BOSS_2",
+            "value": "투헤드 드래곤 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_10_01",
+            "value": "킹 베히모스 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_10_02",
+            "value": "킹 베히모스 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_10_03",
+            "value": "킹 베히모스 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_10_04",
+            "value": "톤베리 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_10_05",
+            "value": "톤베리 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_10_06",
+            "value": "톤베리 토벌"
+        },
+        {
+            "key": "QE_COND_USESKILL",
+            "value": "{0}이(가) {1}을(를) 사용"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": "롭 호른 후퇴 또는 적 섬멸"
+        },
+        {
+            "key": "QE_SB_BLMN_01",
+            "value": "블러디 문 처치"
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": "면죄된 불화 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": "면죄된 불화 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
+            "value": "면죄된 불화 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_12_01",
+            "value": "투헤드 드래곤 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": "투헤드 드래곤 토벌"
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": "투헤드 드래곤 토벌"
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": "몬트 처치 또는 마쉐리 처치"
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": "불 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": "얼음 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": "바람 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": "땅 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": "번개 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": "물 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": "빛 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": "어둠 엘리멘탈 토벌"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "런달의 대포를 포함한 모든 적을 섬멸하라"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "런달의 대포를 포함한 모든 적을 섬멸하라"
+        },
+        {
+            "key": "QE_EV_FF14_EX",
+            "value": "면죄된 불화 토벌"
+        },
+        {
+            "key": "QE_PT_001_05",
+            "value": "데몬즈 월 토벌"
+        },
+        {
+            "key": "QE_PT_001_HA05",
+            "value": "데몬즈 월 토벌"
+        },
+        {
+            "key": "QE_COND_NONE",
+            "value": "없음"
+        }
+    ]
+}

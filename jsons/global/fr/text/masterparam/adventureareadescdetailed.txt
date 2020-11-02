@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe bleu clair », très utile pour entraîner les chimères d'eau."
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe rouge », très utile pour entraîner les chimères de feu."
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe orange », très utile pour entraîner les chimères de terre."
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe bleue », très utile pour entraîner les chimères de glace."
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe jaune », très utile pour entraîner les chimères de foudre."
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe violette », très utile pour entraîner les chimères d'ombre."
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe blanche », très utile pour entraîner les chimères de lumière."
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Magilithe verte », très utile pour entraîner les chimères de vent."
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "Vous pouvez obtenir des objets tels qu'une « Adamantine », nécessaire pour améliorer l'équipement."
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "Obtenez des « Magilithes » de tous les éléments, nécessaires à l'entraînement de vos chimères !"
+        },
+        {
+            "key": "AD_AREA_FFT_01",
+            "value": "Vous pouvez obtenir des médailles d'événement FFT ainsi que des objets pour l'entraînement des unités de la collaboration."
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Vous pouvez obtenir des médailles d'événement FFI ainsi que des objets pour l'entraînement du Guerrier de la lumière."
+        }
+    ]
+}

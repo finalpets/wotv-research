@@ -1,0 +1,32 @@
+{
+    "infos": [
+        {
+            "key": "ffc2f38f-daa9-4d72-8457-273e13a07b54",
+            "value": "TP_TITLE1_KO"
+        },
+        {
+            "key": "xxc2f38f-daa9-4d72-8457-273e13a07b54",
+            "value": "TP_TITLE2_KO"
+        },
+        {
+            "key": "ID_1",
+            "value": "Drop 1"
+        },
+        {
+            "key": "ID_2",
+            "value": "Drop 2 "
+        },
+        {
+            "key": "ID_3",
+            "value": "Drop 3 "
+        },
+        {
+            "key": "ID_4",
+            "value": "Drop 4 "
+        },
+        {
+            "key": "ID_5",
+            "value": "Drop 5 "
+        }
+    ]
+}

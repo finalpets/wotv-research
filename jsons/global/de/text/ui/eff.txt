@@ -1,0 +1,172 @@
+{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>TU</cspace>FE</size> GESTIEGEN</cspace></size>"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "<cspace=2><size=96>E<size=80>RWECKT"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "<cspace=4><size=96>L<size=80>IMIT</size></cspace><cspace=-3><size=96>B</size><size=80>RUCH"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "<cspace=-4>T<size=72>REUEMEISTER"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "<cspace=-2><size=98>J<size=82><cspace=-4>ob<cspace=-1>stufe <size=82><cspace=-1>gestiegen"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "Neue Kraft freigeschaltet<size=60>!"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "Stärke ist weiter angestiegen!<size=60>!"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>TU</cspace>FE</size> GESTIEGEN</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "<size=90>R<cspace=1><size=76>ang</cspace></size> GESTIEGEN</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rang"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "Max. Ausdauer"
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "Max. Freundesanzahl"
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "Freigeschaltet"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>TU</cspace>FE</size> GESTIEGEN</cspace></size>"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "<size=98>W<cspace=-6><size=82>ERTE</cspace></size> VERBESSERT</cspace></size>"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "<cspace=0.01em><size=1.4em>M</size>ISSION <size=1.4em>B</size>EENDET"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "<cspace=0.04em><size=1.4em>B</size>INGO<size=1.4em>!"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "Fortsetzung <cspace=0.5>folgt ..."
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "Gegenstände erhalten!"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "<cspace=-5>Kraftproben-Boss erschienen!"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "<size=1.16em>S</size>TUFE<space=0.1em>GESTIEGEN"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "<size=1.2em>E</size><space=-0.05em><size=1em>R</size><space=-5.5>W<space=0.05em>ECK<space=0.05em>UN<space=-0.1em>G"
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "<cspace=-0.04em>Maximaler Trainingsbonus"
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "Erstversuch-Bonus"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "Gilde gegründet"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>TU</cspace>FE</size> GESTIEGEN</cspace></size>"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "<cspace=1.5>Freischaltungseffekt"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "Ligastufe gestiegen!"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "Ligastufe gesunken"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "ERGEBNIS"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "<cspace=-0.03em>F<size=0.7em>IEBER</size>!"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "Launischer Laden"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "<cspace=0.05em>Launischer Laden"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "<cspace=0.05em>OFFEN"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "Später"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "Zum Launischen Laden"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "<cspace=0.02em>Erstabschluss-Belohnungen erhalten!"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "<cspace=0.02em>Abschlussbelohnungen erhalten!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_TITLE",
+            "value": "Erhalten!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_POINT",
+            "value": "Punkte erreicht!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_HIGH_SCORE",
+            "value": "Highscore-Belohnung erhalten."
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_TOTAL",
+            "value": "Gesamtpunktebelohnung erhalten."
+        }
+    ]
+}

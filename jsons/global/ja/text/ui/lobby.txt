@@ -1,0 +1,100 @@
+{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "イベント"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "特別なアイテムをGET！"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "マルチ"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "仲間を集めてクエストに挑め！"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "レイド"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "みんなと協力して強敵を討伐しよう！"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "白磁の塔"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "高難度クエスト"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "強敵の間"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "召喚獣の覚醒に必要な素材をGET！"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "コラボイベント開催中!!"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "テスト新章突入！"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "テストアリーナコイン2倍！"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "テスト邂逅イベント開催中！"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "デスマシーンに挑め！"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "レイド報酬受け取り期間中"
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "イフリートに挑め！"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "イベント準備中！"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "クリムゾンセイバー今GETしよう！"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "鉄巨人が新たに登場！！"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "解放条件"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "以下の条件で解放することができます。<br> プレイヤーRank{0}到達"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "開催期間外"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "挑戦期間終了"
+        }
+    ]
+}

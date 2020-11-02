@@ -1,0 +1,196 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "Bonificación de acceso para principiantes"
+        },
+        {
+            "key": "LB_BEGINNER_002",
+            "value": "Bonificación de acceso para principiantes"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "Bonificación de acceso acumulado"
+        },
+        {
+            "key": "LB_202003",
+            "value": "Bonificación de acceso de marzo"
+        },
+        {
+            "key": "LB_202004",
+            "value": "Bonificación de acceso de abril"
+        },
+        {
+            "key": "LB_202005",
+            "value": "Bonificación de acceso de mayo"
+        },
+        {
+            "key": "LB_202006",
+            "value": "Bonificación de acceso de junio"
+        },
+        {
+            "key": "LB_202007",
+            "value": "Bonificación de acceso de julio"
+        },
+        {
+            "key": "LB_202008",
+            "value": "Bonificación de acceso de agosto"
+        },
+        {
+            "key": "LB_202009",
+            "value": "Bonificación de acceso de septiembre"
+        },
+        {
+            "key": "LB_202010",
+            "value": "Bonificación de acceso de octubre"
+        },
+        {
+            "key": "LB_202011",
+            "value": "Bonificación de acceso de noviembre"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "Conmemoración del lanzamiento"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "Bonificación de acceso por el millón de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "Bonificación de acceso por los 2 millones de descargas"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "Bonificación de acceso de regreso al juego"
+        },
+        {
+            "key": "LB_COMEBACK_002",
+            "value": "Bonificación de acceso de regreso al juego"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "Bonificación de acceso de la colaboración con FFT"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "Bonificación de acceso por los 3 millones de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "Bonificación de acceso por los 3 millones de descargas, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "Bonificación de acceso de celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "Bonificación de acceso por el lanzamiento del capítulo 6"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "Bonificación de acceso por los 5 millones de descargas"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "Bonificación de acceso por los 5 millones de descargas, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "Bonificación de acceso de celebración de la actualización del juego"
+        },
+        {
+            "key": "LB_LIMIT_GL0008",
+            "value": "Bonificación de acceso de celebración de asalto"
+        },
+        {
+            "key": "LB_LIMIT_GL0009",
+            "value": "Bonificación de acceso de comienzo del verano"
+        },
+        {
+            "key": "LB_LIMIT_GL0010",
+            "value": "Bonificación de acceso de colaboración de MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "LB_LIMIT_GL0011",
+            "value": "Bonificación de acceso de FF EXVIUS Universe"
+        },
+        {
+            "key": "LB_LIMIT_GL0012",
+            "value": "Bonificación de acceso de FF EXVIUS Universe, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0013",
+            "value": "Bonificación de acceso de la campaña de apoyo al gremio"
+        },
+        {
+            "key": "LB_LIMIT_GL0014",
+            "value": "Bonificación de acceso de objetivos de FF EXVIUS Universe"
+        },
+        {
+            "key": "LB_LIMIT_GL0015",
+            "value": "Bonificación de acceso de celebración de asalto"
+        },
+        {
+            "key": "LB_LIMIT_GL0016",
+            "value": "Bonificación de acceso de FFI"
+        },
+        {
+            "key": "LB_LIMIT_GL0017",
+            "value": "Bonificación de acceso de FFI, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0018",
+            "value": "Bonificación de acceso del capítulo 8"
+        },
+        {
+            "key": "LB_LIMIT_GL0019",
+            "value": "Bonificación de acceso de celebración de la gran actualización del juego"
+        },
+        {
+            "key": "LB_LIMIT_GL0020",
+            "value": "Bonificación de acceso de FFT"
+        },
+        {
+            "key": "LB_LIMIT_GL0021",
+            "value": "Bonificación de acceso de la cuenta atrás <br>de los 6 primeros meses del juego, parte I"
+        },
+        {
+            "key": "LB_LIMIT_GL0022",
+            "value": "Bonificación de acceso de la cuenta atrás <br>de los 6 primeros meses del juego, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0023",
+            "value": "Bonificación de acceso de la cuenta atrás <br>de los 6 primeros meses del juego, parte III"
+        },
+        {
+            "key": "LB_LIMIT_GL0024",
+            "value": "Bonificación de acceso de FFCCRE"
+        },
+        {
+            "key": "LB_LIMIT_GL0025",
+            "value": "Bonificación de acceso de los 6 primeros meses del juego, parte I"
+        },
+        {
+            "key": "LB_LIMIT_GL0026",
+            "value": "Bonificación de acceso de los 6 primeros meses del juego, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0027",
+            "value": "Bonificación de acceso de los 6 primeros meses del juego, parte III"
+        },
+        {
+            "key": "LB_LIMIT_GL0028",
+            "value": "Bonificación de acceso de los 6 primeros meses del juego, parte IV"
+        },
+        {
+            "key": "LB_LIMIT_GL0029",
+            "value": "Bonificación de acceso de la campaña de Halloween, parte I"
+        },
+        {
+            "key": "LB_LIMIT_GL0030",
+            "value": "Bonificación de acceso de la campaña de Halloween, parte II"
+        }
+    ]
+}

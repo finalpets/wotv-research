@@ -1,0 +1,60 @@
+{
+    "infos": [
+        {
+            "key": "TS_LGBP_2006_1",
+            "value": "제1전"
+        },
+        {
+            "key": "TS_LGBP_2006_2",
+            "value": "제2전"
+        },
+        {
+            "key": "TS_LGBP_2006_3",
+            "value": "제3전"
+        },
+        {
+            "key": "TS_LGBP_2006_4",
+            "value": "제4전"
+        },
+        {
+            "key": "TS_LGBP_2006_5",
+            "value": "제5전"
+        },
+        {
+            "key": "TS_LGBP_2006_6",
+            "value": "제6전"
+        },
+        {
+            "key": "TS_LGBP_2006_7",
+            "value": "제7전"
+        },
+        {
+            "key": "TS_LGBP_2006_8",
+            "value": "제8전"
+        },
+        {
+            "key": "TS_LGBP_2006_9",
+            "value": "제9전"
+        },
+        {
+            "key": "TS_LGBP_2006_10",
+            "value": "제10전"
+        },
+        {
+            "key": "TS_LGBP_2006_11",
+            "value": "제11전"
+        },
+        {
+            "key": "TS_LGBP_2006_12",
+            "value": "제12전"
+        },
+        {
+            "key": "TS_LGBP_2006_13",
+            "value": "제13전"
+        },
+        {
+            "key": "TS_LGBP_2006_14",
+            "value": "제14전"
+        }
+    ]
+}

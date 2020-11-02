@@ -1,0 +1,520 @@
+{
+    "infos": [
+        {
+            "key": "DU_LW_NARR",
+            "value": ", 나레이터"
+        },
+        {
+            "key": "DU_LW_ELDE",
+            "value": "레오니스 왕 엘데, 엘데, 엘데 레오니스"
+        },
+        {
+            "key": "DU_LW_HLNA",
+            "value": "레오니스 왕비 헬레나, 헬레나, 헬레나 레오니스"
+        },
+        {
+            "key": "DU_LW_HLNA_01",
+            "value": "헬레나 레오니스(검은 옷의 마녀), 헬레나 레오니스, 헬레나"
+        },
+        {
+            "key": "DU_LW_MONT",
+            "value": "몬트 레오니스, 몬트"
+        },
+        {
+            "key": "DU_LW_STRN",
+            "value": "슈텔 레오니스, 슈텔"
+        },
+        {
+            "key": "DU_LW_LILS",
+            "value": "릴리스"
+        },
+        {
+            "key": "DU_LW_RAMD",
+            "value": "라마다"
+        },
+        {
+            "key": "DU_LW_BYLO",
+            "value": "베일로"
+        },
+        {
+            "key": "DU_LW_RART",
+            "value": "리아트"
+        },
+        {
+            "key": "DU_LW_MINU",
+            "value": "밍우"
+        },
+        {
+            "key": "DU_LW_OOOO",
+            "value": "오우, 기사 오우"
+        },
+        {
+            "key": "DU_LW_KTON",
+            "value": "키튼"
+        },
+        {
+            "key": "DU_LW_RYER",
+            "value": "리렐리라"
+        },
+        {
+            "key": "DU_LW_SCIA",
+            "value": "소샤"
+        },
+        {
+            "key": "DU_LW_VRID",
+            "value": "발라이드"
+        },
+        {
+            "key": "DU_LW_SOLD_LONS",
+            "value": "레오니스 병사, 병사, 레오니스의 척후병, 전령, 레오니스의 병사들"
+        },
+        {
+            "key": "DU_LW_WITC_LONS",
+            "value": "레오니스 병사, 병사, 레오니스의 척후병, 전령, 레오니스의 병사들"
+        },
+        {
+            "key": "DU_LW_ROBB",
+            "value": "롭 호른, 호른 왕 롭, 롭"
+        },
+        {
+            "key": "DU_LW_MACR",
+            "value": "마쉐리 호른, 마쉐리"
+        },
+        {
+            "key": "DU_LW_DRIO",
+            "value": "다리오 호른, 다리오"
+        },
+        {
+            "key": "DU_LW_VNLA",
+            "value": "비네라 페네스, 비네라"
+        },
+        {
+            "key": "DU_LW_SZRT",
+            "value": "슈제르트"
+        },
+        {
+            "key": "DU_LW_ENBT",
+            "value": "엥겔베르트"
+        },
+        {
+            "key": "DU_LW_FDRC",
+            "value": "프레데리카"
+        },
+        {
+            "key": "DU_LW_LRNZ",
+            "value": "로렌초"
+        },
+        {
+            "key": "DU_LW_ADLD",
+            "value": "애들러드"
+        },
+        {
+            "key": "DU_LW_THLA",
+            "value": "살리아"
+        },
+        {
+            "key": "DU_LW_SDLX",
+            "value": "섀도링크스"
+        },
+        {
+            "key": "DU_LW_ZIZA",
+            "value": "지자"
+        },
+        {
+            "key": "DU_LW_VSTR",
+            "value": "비스트랄"
+        },
+        {
+            "key": "DU_LW_SO_01",
+            "value": "호른 병사, 호른 병사 A, 호른 병사 B, 호른 병사 C, 호른 병사 D, 호른 병사 E, 호른 병사 F, 호른 병사 G, 전령"
+        },
+        {
+            "key": "DU_LW_LYCS",
+            "value": "레이셰스"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "그랄"
+        },
+        {
+            "key": "DU_LW_MURG",
+            "value": "무라가 페네스, 무라가, 무라가의 목소리"
+        },
+        {
+            "key": "DU_LW_RIRY",
+            "value": "라이류"
+        },
+        {
+            "key": "DU_LW_STRN_01",
+            "value": "슈텔 레오니스, 슈텔, 슈텔 레오니스(저주받은 기사)"
+        },
+        {
+            "key": "DU_LW_ZZAN",
+            "value": "자잔"
+        },
+        {
+            "key": "DU_LW_DRZA",
+            "value": "돌루자"
+        },
+        {
+            "key": "DU_LW_SO_03",
+            "value": "페네스 병사"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "메르니아"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "라넬"
+        },
+        {
+            "key": "DU_LW_VADM",
+            "value": "바짐"
+        },
+        {
+            "key": "DU_LW_MGRT",
+            "value": "마르그리트"
+        },
+        {
+            "key": "DU_LW_SO_05",
+            "value": "홍련 병사, '홍련' 병사, '홍련' 병사들"
+        },
+        {
+            "key": "DU_LW_NADR",
+            "value": "나돌, 소년"
+        },
+        {
+            "key": "DU_LW_ORDR",
+            "value": "오르도아"
+        },
+        {
+            "key": "DU_LW_QILF",
+            "value": "키르페"
+        },
+        {
+            "key": "DU_LW_ELSR",
+            "value": "엘시렐"
+        },
+        {
+            "key": "DU_LW_RFAL",
+            "value": "라팔"
+        },
+        {
+            "key": "DU_LW_IREZ",
+            "value": "일리자"
+        },
+        {
+            "key": "DU_LW_VRAS",
+            "value": "찬란한 빛의 베리어스 "
+        },
+        {
+            "key": "DU_LW_SHLS",
+            "value": "셰리스 "
+        },
+        {
+            "key": "DU_LW_SIMR",
+            "value": "시무르"
+        },
+        {
+            "key": "DU_LW_HWLT",
+            "value": "하울렛"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "타이타스"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "첼"
+        },
+        {
+            "key": "DU_LW_GABL",
+            "value": "가블"
+        },
+        {
+            "key": "DU_LW_GLZK",
+            "value": "갈자크"
+        },
+        {
+            "key": "DU_LW_VERN",
+            "value": "베른"
+        },
+        {
+            "key": "DU_LW_SL02",
+            "value": "노예(가블), 가블"
+        },
+        {
+            "key": "DU_LW_SL03",
+            "value": "노예(베른), 베른"
+        },
+        {
+            "key": "DU_LW_PR01",
+            "value": "승병"
+        },
+        {
+            "key": "DU_LW_SL00",
+            "value": "노예, 남자 목소리, 남자"
+        },
+        {
+            "key": "DU_LW_SL01",
+            "value": "노예, 여자 목소리"
+        },
+        {
+            "key": "DU_LW_SDLE",
+            "value": "사달리 크리스테아, 사달리, 사달리의 목소리"
+        },
+        {
+            "key": "DU_LW_DRND",
+            "value": "도랜드"
+        },
+        {
+            "key": "DU_LW_PRAY",
+            "value": " '기도'"
+        },
+        {
+            "key": "DU_LW_MURM",
+            "value": " '혼잣말'"
+        },
+        {
+            "key": "DU_LW_WHIS",
+            "value": " '속삭임'"
+        },
+        {
+            "key": "DU_LW_GRGS",
+            "value": "가르가스"
+        },
+        {
+            "key": "DU_LW_CLEY",
+            "value": "크리 웨젯, 웨젯 왕 크리, 크리"
+        },
+        {
+            "key": "DU_LW_SRJS",
+            "value": "서제스"
+        },
+        {
+            "key": "DU_LW_UNII",
+            "value": "유니"
+        },
+        {
+            "key": "DU_LW_SEVR",
+            "value": "세베로"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "미란다"
+        },
+        {
+            "key": "DU_LW_GRSR",
+            "value": "그라시엘라 웨젯, 그라시엘라"
+        },
+        {
+            "key": "DU_LW_CEAN",
+            "value": "카이안"
+        },
+        {
+            "key": "DU_LW_KADI",
+            "value": "카디아"
+        },
+        {
+            "key": "DU_LW_MRLK",
+            "value": "메릴루크 "
+        },
+        {
+            "key": "DU_LW_SO_02",
+            "value": "웨젯 병사"
+        },
+        {
+            "key": "DU_LW_CMLO",
+            "value": "카밀로"
+        },
+        {
+            "key": "DU_LW_LUCA",
+            "value": "루시아"
+        },
+        {
+            "key": "DU_LW_JEDN",
+            "value": "제이든 런달, 제이든"
+        },
+        {
+            "key": "DU_LW_SO_04",
+            "value": "런달 병사, 런달 병사 A, 런달 병사 B, 런달 병사 C, 런달 병사들"
+        },
+        {
+            "key": "DU_LW_RARD",
+            "value": "라르도"
+        },
+        {
+            "key": "DU_LW_ELSI",
+            "value": "에르슐라"
+        },
+        {
+            "key": "DU_LW_CRIS",
+            "value": "클레이스"
+        },
+        {
+            "key": "DU_LW_GLMS",
+            "value": "길가메시"
+        },
+        {
+            "key": "DU_LW_AMNR",
+            "value": "암넬리스, 여성의 목소리"
+        },
+        {
+            "key": "DU_LW_AMNR_99",
+            "value": "암넬리스, 여성의 목소리"
+        },
+        {
+            "key": "DU_LW_MIIA",
+            "value": "미아"
+        },
+        {
+            "key": "DU_LW_SCAL",
+            "value": "스칼"
+        },
+        {
+            "key": "DU_LW_RVAL",
+            "value": "리비알"
+        },
+        {
+            "key": "DU_LW_ALIM",
+            "value": "아림"
+        },
+        {
+            "key": "DU_LW_NJ_02",
+            "value": "사이가 닌자"
+        },
+        {
+            "key": "DU_LW_MRAL",
+            "value": "마리알"
+        },
+        {
+            "key": "DU_LW_RRIR",
+            "value": "로레일라"
+        },
+        {
+            "key": "DU_LW_NIVL",
+            "value": "니블"
+        },
+        {
+            "key": "DU_LW_NJ_03",
+            "value": "고우가 닌자 A, 고우가 닌자 B, 고우가 닌자 C, 고우가 닌자 D, 고우가 닌자 E, 고우가 닌자"
+        },
+        {
+            "key": "DU_LW_DIAA",
+            "value": "디아"
+        },
+        {
+            "key": "DU_LW_YERM",
+            "value": "옐마"
+        },
+        {
+            "key": "DU_LW_NASR",
+            "value": "나샤"
+        },
+        {
+            "key": "DU_LW_ETRE",
+            "value": "에트와"
+        },
+        {
+            "key": "DU_LW_VKTR",
+            "value": "빅토라"
+        },
+        {
+            "key": "DU_LW_LATH",
+            "value": "루아사"
+        },
+        {
+            "key": "DU_LW_LVES",
+            "value": "라비에스"
+        },
+        {
+            "key": "DU_LW_MDNA",
+            "value": "메디아나"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "티렐"
+        },
+        {
+            "key": "DU_LW_CHCB",
+            "value": "초코보"
+        },
+        {
+            "key": "DU_LW_NJ_00",
+            "value": "닌자, 페네스 닌자, 호른 닌자, 페네스 닌자 A, 페네스 닌자 B, 페네스 닌자 C"
+        },
+        {
+            "key": "DU_LW_PR_00",
+            "value": "승병, 교회의 사자"
+        },
+        {
+            "key": "DU_LW_TH_00",
+            "value": "도적"
+        },
+        {
+            "key": "DU_LW_TH_02",
+            "value": "도적 두목"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "소년"
+        },
+        {
+            "key": "DU_LW_WOLF",
+            "value": "늑대"
+        },
+        {
+            "key": "DU_LW_OGRE",
+            "value": "오거"
+        },
+        {
+            "key": "DU_LW_BOMB",
+            "value": "봄"
+        },
+        {
+            "key": "DU_LW_MOBR",
+            "value": "몰볼"
+        },
+        {
+            "key": "DU_LW_WOLF_01",
+            "value": "눈먼 늑대"
+        },
+        {
+            "key": "DU_LW_ZUUU",
+            "value": "즈"
+        },
+        {
+            "key": "DU_LW_SKEL",
+            "value": "해골"
+        },
+        {
+            "key": "DU_LW_ARMN",
+            "value": "아리만"
+        },
+        {
+            "key": "DU_LW_WYVN",
+            "value": "와이번"
+        },
+        {
+            "key": "DU_LW_WYVN_01",
+            "value": "와이번"
+        },
+        {
+            "key": "DU_LW_IGNT",
+            "value": "철거인"
+        },
+        {
+            "key": "DU_LW_IGNT_02",
+            "value": "흑철마인, 철거인"
+        },
+        {
+            "key": "DU_LW_GLEM",
+            "value": "골렘"
+        },
+        {
+            "key": "DU_LW_IFRT",
+            "value": "이프리트"
+        }
+    ]
+}

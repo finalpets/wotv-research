@@ -1,0 +1,516 @@
+{
+    "infos": [
+        {
+            "key": "COND_HA_LW_STRN",
+            "value": "ユニット「シュテル・リオニス」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_ELDE",
+            "value": "ユニット「エルデ・リオニス」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_ROBB",
+            "value": "ユニット「ロブ・ホルン」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_ENBT",
+            "value": "ユニット「エンゲルベルト」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_ZIZA",
+            "value": "ユニット「ジザ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_AILN",
+            "value": "ユニット「アイリーン」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MDNA",
+            "value": "ユニット「メディエナ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_AYKA",
+            "value": "ユニット「アヤカ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_HLNA",
+            "value": "ユニット「ヘレナ・リオニス」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_LILS",
+            "value": "ユニット「リリシュ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_RAMD",
+            "value": "ユニット「ラマダ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_OOOO",
+            "value": "ユニット「オー」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_LRNZ",
+            "value": "ユニット「ロレンツォ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_RIRY",
+            "value": "ユニット「ライリュウ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_VSTR",
+            "value": "ユニット「ヴィストラール」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_CLEY",
+            "value": "ユニット「クーリ・ウェズエット」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_KADI",
+            "value": "ユニット「カディア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MRLK",
+            "value": "ユニット「メリルーク」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MGRT",
+            "value": "ユニット「マルグリット」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_PRAY",
+            "value": "ユニット「<<祈り>>」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_BYLO",
+            "value": "ユニット「ベイロ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_RYER",
+            "value": "ユニット「リレルリラ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_SCIA",
+            "value": "ユニット「ソシア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_VRID",
+            "value": "ユニット「ヴァライド」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_NAIA",
+            "value": "ユニット「ナイア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_SRJS",
+            "value": "ユニット「サージェス」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_UNII",
+            "value": "ユニット「ユニ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_SEVR",
+            "value": "ユニット「セヴェロ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_VADM",
+            "value": "ユニット「ヴァジム」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MURM",
+            "value": "ユニット「<<呟き>>」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_PHBE",
+            "value": "ユニット「フィービー」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_RART",
+            "value": "ユニット「リアート」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MICE",
+            "value": "ユニット「ミーチェ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MIIA",
+            "value": "ユニット「ミーア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_ZZAN",
+            "value": "ユニット「ザザン」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_SDLX",
+            "value": "ユニット「シャドウリンクス」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_FDRC",
+            "value": "ユニット「フェデリカ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_YERM",
+            "value": "ユニット「イェルマ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_NASR",
+            "value": "ユニット「ナーシア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MACR",
+            "value": "ユニット「マシュリー」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_FINA",
+            "value": "ユニット「フィーナ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_SZRT",
+            "value": "ユニット「シュゼルト」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_GLMS",
+            "value": "ユニット「ギルガメッシュ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_WHIS",
+            "value": "ユニット「<<囁き>>」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_KTON",
+            "value": "ユニット「キトン」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_MRND",
+            "value": "ユニット「ミランダ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_DRND",
+            "value": "ユニット「ドランド」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_VKTR",
+            "value": "ユニット「ヴィクトラ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "ユニット「サリア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_LUCA",
+            "value": "ユニット「ル・シア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_ADLD",
+            "value": "ユニット「アドラード」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_RAIN",
+            "value": "ユニット「レイン」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "ユニット「ダリオ・ホルン」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "ユニット「ヴィネラ・フェネス」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_FF1_WROL",
+            "value": "ユニット「光の戦士」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "ユニット「シムール」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "ユニット「キルフェ」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_ORDR",
+            "value": "ユニット「オルドア」のレベルが1以上"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "ユニット「ラヴィエス」のレベルが1以上"
+        },
+        {
+            "key": "COND_CH_LW_MONT",
+            "value": "ユニット「モント・リオニス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_STRN",
+            "value": "ユニット「シュテル・リオニス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ELDE",
+            "value": "ユニット「エルデ・リオニス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ROBB",
+            "value": "ユニット「ロブ・ホルン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ENBT",
+            "value": "ユニット「エンゲルベルト」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ZIZA",
+            "value": "ユニット「ジザ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_AILN",
+            "value": "ユニット「アイリーン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MDNA",
+            "value": "ユニット「メディエナ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_AYKA",
+            "value": "ユニット「アヤカ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_HLNA",
+            "value": "ユニット「ヘレナ・リオニス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_LILS",
+            "value": "ユニット「リリシュ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_RAMD",
+            "value": "ユニット「ラマダ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_OOOO",
+            "value": "ユニット「オー」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_LRNZ",
+            "value": "ユニット「ロレンツォ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_RIRY",
+            "value": "ユニット「ライリュウ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_VSTR",
+            "value": "ユニット「ヴィストラール」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_CLEY",
+            "value": "ユニット「クーリ・ウェズエット」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_KADI",
+            "value": "ユニット「カディア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MRLK",
+            "value": "ユニット「メリルーク」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MGRT",
+            "value": "ユニット「マルグリット」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_PRAY",
+            "value": "ユニット「<<祈り>>」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_BYLO",
+            "value": "ユニット「ベイロ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_RYER",
+            "value": "ユニット「リレルリラ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_SCIA",
+            "value": "ユニット「ソシア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_VRID",
+            "value": "ユニット「ヴァライド」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_NAIA",
+            "value": "ユニット「ナイア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_SRJS",
+            "value": "ユニット「サージェス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_UNII",
+            "value": "ユニット「ユニ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_SEVR",
+            "value": "ユニット「セヴェロ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_VADM",
+            "value": "ユニット「ヴァジム」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MURM",
+            "value": "ユニット「<<呟き>>」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_PHBE",
+            "value": "ユニット「フィービー」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_RART",
+            "value": "ユニット「リアート」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MICE",
+            "value": "ユニット「ミーチェ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MIIA",
+            "value": "ユニット「ミーア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN",
+            "value": "ユニット「ザザン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_GLMS",
+            "value": "ユニット「ギルガメッシュ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_GLMS2",
+            "value": "ユニット「ギルガメッシュ」のレベルが80以上"
+        },
+        {
+            "key": "COND_CH_FF14_YST",
+            "value": "ユニット「ヤ・シュトラ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FF14_TNC",
+            "value": "ユニット「サンクレッド」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MACR",
+            "value": "ユニット「マシュリー」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_SZRT",
+            "value": "ユニット「シュゼルト」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_FINA",
+            "value": "ユニット「フィーナ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_FDRC",
+            "value": "ユニット「フェデリカ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_SDLX",
+            "value": "ユニット「シャドウリンクス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_YERM",
+            "value": "ユニット「イェルマ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_NASR",
+            "value": "ユニット「ナーシア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ETRE",
+            "value": "ユニット「エトア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FFT_RAMZ",
+            "value": "ユニット「ラムザ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FFT_GFGR",
+            "value": "ユニット「ガフガリオン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FFT_ORND",
+            "value": "ユニット「オルランドゥ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_WHIS",
+            "value": "ユニット「<<囁き>>」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_KTON",
+            "value": "ユニット「キトン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_MRND",
+            "value": "ユニット「ミランダ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_DRND",
+            "value": "ユニット「ドランド」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_LUCA",
+            "value": "ユニット「ル・シア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ADLD",
+            "value": "ユニット「アドラード」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "ユニット「サリア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "ユニット「ヴィクトラ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "ユニット「Fryevia」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "ユニット「レイン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "ユニット「ダリオ・ホルン」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "ユニット「ヴィネラ・フェネス」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "ユニット「ティレル」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "ユニット「光の戦士」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "ユニット「シムール」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "ユニット「キルフェ」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_ORDR",
+            "value": "ユニット「オルドア」のレベルが40以上"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "ユニット「ラヴィエス」のレベルが40以上"
+        }
+    ]
+}

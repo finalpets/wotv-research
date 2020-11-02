@@ -1,0 +1,108 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "${playerName} 님이 길드에 가입했습니다."
+        },
+        {
+            "key": "2",
+            "value": "새로운 길드 문장을 획득했습니다."
+        },
+        {
+            "key": "3",
+            "value": "${playerName} 님에게 길드 마스터 직위가 양도되었습니다."
+        },
+        {
+            "key": "4",
+            "value": "${playerName} 님이 길드에서 추방되었습니다."
+        },
+        {
+            "key": "5",
+            "value": "${playerName} 님이 길드를 탈퇴했습니다."
+        },
+        {
+            "key": "6",
+            "value": "전 길드 마스터가 일정 기간 동안 로그인하지 않았으므로, ${playerName} 님이 길드 마스터로 자동 임명되었습니다."
+        },
+        {
+            "key": "7",
+            "value": "${playerName} 님이 서브 마스터로 임명되었습니다."
+        },
+        {
+            "key": "8",
+            "value": "${statueName}이(가) Lv${level}이(가) 되었습니다."
+        },
+        {
+            "key": "9",
+            "value": "길드 전투에 참가합니다."
+        },
+        {
+            "key": "10",
+            "value": "참가 조건을 충족하지 못하여 길드 전투에 참가하지 못했습니다."
+        },
+        {
+            "key": "11",
+            "value": "${guildName}와(과) 전투하게 되었습니다."
+        },
+        {
+            "key": "12",
+            "value": "이번 길드 전투는 부전승했습니다."
+        },
+        {
+            "key": "13",
+            "value": "${guildName}와(과)의 길드 전투에서 승리했습니다."
+        },
+        {
+            "key": "14",
+            "value": "${guildName}와(과)의 길드 전투에서 패배했습니다."
+        },
+        {
+            "key": "15",
+            "value": "리그 레벨이 ${beforeLevelName}에서 ${afterLevelName}(으)로 승급되었습니다."
+        },
+        {
+            "key": "16",
+            "value": "기간 한정 길드 전투에 참가합니다."
+        },
+        {
+            "key": "17",
+            "value": "참가 조건을 충족하지 못하여 기간 한정 길드 전투에 참가하지 못했습니다."
+        },
+        {
+            "key": "18",
+            "value": "${guildName}와(과) 전투하게 되었습니다."
+        },
+        {
+            "key": "19",
+            "value": "이번 기간 한정 길드 전투는 부전승했습니다."
+        },
+        {
+            "key": "20",
+            "value": "${guildName}와(과) 기간 한정 길드 전투를 시작했습니다."
+        },
+        {
+            "key": "21",
+            "value": "${guildName}와(과)의 기간 한정 길드 전투에서 승리했습니다."
+        },
+        {
+            "key": "22",
+            "value": "${guildName}와(과)의 기간 한정 길드 전투에서 패배했습니다."
+        },
+        {
+            "key": "23",
+            "value": "리그 레벨이 ${beforeLevelName}에서 ${afterLevelName}(으)로 강등되었습니다."
+        },
+        {
+            "key": "24",
+            "value": "<color=#00F0FF>${fromName}</color>이(가) <color=#E03030>${toName}</color>을(를) 공격하여, ★을 ${star} 빼앗았습니다."
+        },
+        {
+            "key": "25",
+            "value": "<color=#00F0FF>${fromName}</color>이(가) <color=#00F0FF>${toName}</color>에게 ${actionIname}을(를) 했습니다."
+        },
+        {
+            "key": "26",
+            "value": "<color=#00F0FF>${fromName}</color>이(가) <color=#E03030>${toName}</color>에게 ${actionIname}을(를) 했습니다."
+        }
+    ]
+}

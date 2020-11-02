@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "SECRET_APPEAL_01",
+            "value": "<cspace=-0.5>お得な商品続々登場！"
+        }
+    ]
+}

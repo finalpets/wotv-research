@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "QUEST_AP",
+            "value": "AP消費減！"
+        },
+        {
+            "key": "QUEST_DROP_RATE",
+            "value": "ドロップ率UP"
+        },
+        {
+            "key": "QUEST_DROP_AMOUNT",
+            "value": "ドロップ個数<br>アップ"
+        },
+        {
+            "key": "QUEST_PLAYER_EXP",
+            "value": "プレイヤーEXP<br>アップ"
+        },
+        {
+            "key": "QUEST_UNIT_EXP",
+            "value": "ユニットEXP<br>アップ"
+        },
+        {
+            "key": "QUEST_UNIT_JP",
+            "value": "ユニットJP<br>ドロップ個数2倍"
+        },
+        {
+            "key": "QUEST_ARTI_PROFICIENCY",
+            "value": "武具熟練度<br>アップ"
+        },
+        {
+            "key": "QUEST_HARD_DROP_AMOUNT",
+            "value": "<cspace=-1.5>Hard<space=5>欠片{0}倍！"
+        },
+        {
+            "key": "QUEST_MULTI_AP",
+            "value": "マルチAP<br>消費減！"
+        },
+        {
+            "key": "GACHA_PICKUP",
+            "value": "Pick<space=7>UP!"
+        },
+        {
+            "key": "GACHA_NEWUNIT",
+            "value": "新ユニット"
+        },
+        {
+            "key": "SHOP_SECRET",
+            "value": "<line-height=20><cspace=1>OPEN!<br><cspace=-2.5>シークレットショップ"
+        }
+    ]
+}

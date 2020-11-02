@@ -1,0 +1,120 @@
+{
+    "infos": [
+        {
+            "key": "TutorialTips_001",
+            "value": "チュートリアル"
+        },
+        {
+            "key": "TutorialTips_001_a",
+            "value": "バトルの基本操作"
+        },
+        {
+            "key": "TutorialTips_001_b",
+            "value": "TPやAPを使うアビリティ"
+        },
+        {
+            "key": "TutorialTips_002_a",
+            "value": "アビリティの特徴"
+        },
+        {
+            "key": "TutorialTips_002_b",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "GuidanceTips_Gacha",
+            "value": "召喚"
+        },
+        {
+            "key": "GuidanceTips_Quest",
+            "value": "ストーリークエスト"
+        },
+        {
+            "key": "GuidanceTips_ChallengeMission",
+            "value": "ホーム画面"
+        },
+        {
+            "key": "GuidanceTips_UnitStrength",
+            "value": "ユニット強化"
+        },
+        {
+            "key": "GuidanceTips_UnitAwake",
+            "value": "覚醒と限界突破"
+        },
+        {
+            "key": "GuidanceTips_ArtifactCraft",
+            "value": "武具"
+        },
+        {
+            "key": "GuidanceTips_EventQuest",
+            "value": "イベントクエスト"
+        },
+        {
+            "key": "GuidanceTips_VisionCard",
+            "value": "ビジョンカード"
+        },
+        {
+            "key": "GuidanceTips_ExplorationChocobo",
+            "value": "探検チョコボ/召喚獣"
+        },
+        {
+            "key": "GuidanceTips_Party",
+            "value": "編成"
+        },
+        {
+            "key": "GuidanceTips_MultiQuest",
+            "value": "マルチクエスト"
+        },
+        {
+            "key": "GuidanceTips_Arena",
+            "value": "アリーナ"
+        },
+        {
+            "key": "GuidanceTips_FreeMatch",
+            "value": "マッチバトル"
+        },
+        {
+            "key": "GuidanceTips_GuildJoin",
+            "value": "ギルド加入/設立"
+        },
+        {
+            "key": "GuidanceTips_GuildAttendance",
+            "value": "ギルドロビー"
+        },
+        {
+            "key": "GuidanceTips_GuildBarracks",
+            "value": "兵舎"
+        },
+        {
+            "key": "GuidanceTips_GuildStone",
+            "value": "ギルド石像"
+        },
+        {
+            "key": "GuidanceTips_GuildBattle",
+            "value": "ギルドバトル"
+        },
+        {
+            "key": "GuidanceTips_UnitIntimacy",
+            "value": "親密度"
+        },
+        {
+            "key": "GuidanceTips_SubQuest",
+            "value": "サブクエスト"
+        },
+        {
+            "key": "GuidanceTips_CharaQuest",
+            "value": "キャラクエスト"
+        },
+        {
+            "key": "GuidanceTips_ItemExchange",
+            "value": "アイテム交換"
+        },
+        {
+            "key": "GuidanceTips_SupportUnit",
+            "value": "同行者設定"
+        },
+        {
+            "key": "GuidanceTips_Tower",
+            "value": "白磁の塔"
+        }
+    ]
+}

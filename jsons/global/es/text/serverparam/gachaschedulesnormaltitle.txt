@@ -1,0 +1,512 @@
+{
+    "infos": [
+        {
+            "key": "Normal_gacha_A",
+            "value": "Invocación normal"
+        },
+        {
+            "key": "Normal_gacha_A_10",
+            "value": "Invocación normal (x10)"
+        },
+        {
+            "key": "Raregacha_A",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_GL20200408",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200408",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200408",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_GL20200422",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200422",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200422",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_GL20200520",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_10_GL20200520",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_P_GL20200520",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200527_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200603_p_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200617_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200624_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200701_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200715_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200729_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200805_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200819_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200826_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200902_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200923_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20200930_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20201007_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20201014_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20201021_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_01",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_10",
+            "value": "Invocación insólita (x10)"
+        },
+        {
+            "key": "Raregacha_A_gl20201028_P",
+            "value": "Invocación insólita"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130",
+            "value": "Invocación normal limitada: Conmemoración del lanzamiento"
+        },
+        {
+            "key": "global_Normal_gacha_A_20191130_10",
+            "value": "Invocación normal (x10) limitada: Conmemoración del lanzamiento"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401",
+            "value": "Invocación normal limitada: Celebración del millón de descargas"
+        },
+        {
+            "key": "global_Normal_gacha_A_20200401_10",
+            "value": "Invocación normal (x10) limitada: Celebración del millón de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408",
+            "value": "Invocación normal limitada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200408_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422",
+            "value": "Invocación normal limitada: Celebración de los 3 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_GL20200422_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 3 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_01",
+            "value": "Invocación normal limitada: Celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200506_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 4 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_01",
+            "value": "\"¡Capítulo 6 disponible!\": Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200513_10",
+            "value": "\"¡Capítulo 6 disponible!\": Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_01",
+            "value": "Invocación normal limitada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200520_10",
+            "value": "Invocación normal (x10) limitada: Celebración de los 5 millones de descargas"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_01",
+            "value": "Invocación normal limitada: Celebración de la actualización del juego"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200603_10",
+            "value": "Invocación normal (x10) limitada: Celebración de la actualización del juego"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_01",
+            "value": "Invocación normal limitada: Celebración de asalto"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200610_10",
+            "value": "Invocación normal (x10) limitada: Celebración de asalto"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_01",
+            "value": "Invocación normal de comienzo del verano"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200617_10",
+            "value": "Invocación normal (x10) de comienzo del verano"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_01",
+            "value": "¡Capítulo 7 disponible! Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200624_10",
+            "value": "¡Capítulo 7 disponible! Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_01",
+            "value": "Invocación normal limitada de FF EXVIUS Universe"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200701_10",
+            "value": "Invocación normal (x10) limitada de FF EXVIUS Universe"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_01",
+            "value": "Invocación normal limitada de FF EXVIUS Universe, parte II"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200708_10",
+            "value": "Invocación normal (x10) limitada de FF EXVIUS Universe, parte II"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200715_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200722_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200729_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200805_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200812_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200819_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200826_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200902_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200909_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "Invocación de unidad MR+ garantizada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200916_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "Invocación de unidad MR+ garantizada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200923_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20200930_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201007_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201014_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201021_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "Invocación de unidad MR+ garantizada"
+        },
+        {
+            "key": "AF_Normal_gacha_A_gl20201021_10",
+            "value": "Invocación (x10) normal gratuita de materiales de mejora de equipo"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201028_10",
+            "value": "Invocación normal (x10) limitada"
+        }
+    ]
+}

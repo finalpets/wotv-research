@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "Profundidades Turbulentas"
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "Caverna Infernal"
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "Cenagal Putrefacto"
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "Cumbres Nevadas"
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "Llanuras Atronadoras"
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "Bosques Crepusculares"
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "Dunas Cegadoras"
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "Barrancos Tormentosos"
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "Minas del Hierro"
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "Frontera del Invocador"
+        },
+        {
+            "key": "AD_AREA_FFT_01",
+            "value": "Alrededores del Monasterio de Orbonne"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Cueva de Matoya"
+        }
+    ]
+}

@@ -1,0 +1,1216 @@
+{
+    "infos": [
+        {
+            "key": "BUFF_Buff",
+            "value": "↑ "
+        },
+        {
+            "key": "BUFF_Debuff",
+            "value": "↓ "
+        },
+        {
+            "key": "BUFF_Resist",
+            "value": "Res. "
+        },
+        {
+            "key": "BUFF_Release",
+            "value": "Elimina "
+        },
+        {
+            "key": "BUFF_ReleaseBuff",
+            "value": "Elimina aumento"
+        },
+        {
+            "key": "BUFF_ReleaseDebuff",
+            "value": "Elimina reducción"
+        },
+        {
+            "key": "BUFF_Invalid",
+            "value": "Anula "
+        },
+        {
+            "key": "BUFF_Unknown",
+            "value": "Desconocido"
+        },
+        {
+            "key": "BUFF_Hp",
+            "value": "VIT máx."
+        },
+        {
+            "key": "BUFF_Mp",
+            "value": "PT máx."
+        },
+        {
+            "key": "BUFF_Ap",
+            "value": "PA máx."
+        },
+        {
+            "key": "BUFF_Ct",
+            "value": "TC"
+        },
+        {
+            "key": "BUFF_Atk",
+            "value": "ATQ"
+        },
+        {
+            "key": "BUFF_Def",
+            "value": "DEF"
+        },
+        {
+            "key": "BUFF_Mag",
+            "value": "MAG"
+        },
+        {
+            "key": "BUFF_Mnd",
+            "value": "ESP"
+        },
+        {
+            "key": "BUFF_Dex",
+            "value": "DES"
+        },
+        {
+            "key": "BUFF_Spd",
+            "value": "AGI"
+        },
+        {
+            "key": "BUFF_Luk",
+            "value": "Suerte"
+        },
+        {
+            "key": "BUFF_Mov",
+            "value": "Movimiento"
+        },
+        {
+            "key": "BUFF_Jmp",
+            "value": "Salto"
+        },
+        {
+            "key": "BUFF_ElemNone",
+            "value": "Ataque no elemental"
+        },
+        {
+            "key": "BUFF_ElemFire",
+            "value": "Ataque de fuego"
+        },
+        {
+            "key": "BUFF_ElemIce",
+            "value": "Ataque de hielo"
+        },
+        {
+            "key": "BUFF_ElemWind",
+            "value": "Ataque de viento"
+        },
+        {
+            "key": "BUFF_ElemEarth",
+            "value": "Ataque de tierra"
+        },
+        {
+            "key": "BUFF_ElemThunder",
+            "value": "Ataque de rayo"
+        },
+        {
+            "key": "BUFF_ElemWater",
+            "value": "Ataque de agua"
+        },
+        {
+            "key": "BUFF_ElemShine",
+            "value": "Ataque de luz"
+        },
+        {
+            "key": "BUFF_ElemDark",
+            "value": "Ataque de oscuridad"
+        },
+        {
+            "key": "BUFF_ElemAll",
+            "value": "Ataque de todos los elementos"
+        },
+        {
+            "key": "BUFF_AttackSlash",
+            "value": "Ataque de corte"
+        },
+        {
+            "key": "BUFF_AttackPierce",
+            "value": "Ataque de perforación"
+        },
+        {
+            "key": "BUFF_AttackBlow",
+            "value": "Ataque de golpe"
+        },
+        {
+            "key": "BUFF_AttackShot",
+            "value": "Ataque a distancia"
+        },
+        {
+            "key": "BUFF_AttackMagic",
+            "value": "Ataque mágico"
+        },
+        {
+            "key": "BUFF_AttackAll",
+            "value": "Todos los tipos de ataque"
+        },
+        {
+            "key": "BUFF_CondHealHp",
+            "value": "Revitalia"
+        },
+        {
+            "key": "BUFF_CondHealMp",
+            "value": "Novus"
+        },
+        {
+            "key": "BUFF_CondHealAp",
+            "value": "Recuperación automática de PA"
+        },
+        {
+            "key": "BUFF_CondPoison",
+            "value": "Veneno"
+        },
+        {
+            "key": "BUFF_CondBlinded",
+            "value": "Ceguera"
+        },
+        {
+            "key": "BUFF_CondSleep",
+            "value": "Sueño"
+        },
+        {
+            "key": "BUFF_CondMute",
+            "value": "Silencio"
+        },
+        {
+            "key": "BUFF_CondParalysis",
+            "value": "Parálisis"
+        },
+        {
+            "key": "BUFF_CondConfusion",
+            "value": "Confusión"
+        },
+        {
+            "key": "BUFF_CondCharm",
+            "value": "Embrujo"
+        },
+        {
+            "key": "BUFF_CondPetrification",
+            "value": "Piedra"
+        },
+        {
+            "key": "BUFF_CondFrog",
+            "value": "Rana"
+        },
+        {
+            "key": "BUFF_CondChicken",
+            "value": "Gallina"
+        },
+        {
+            "key": "BUFF_CondHaste",
+            "value": "Prisa"
+        },
+        {
+            "key": "BUFF_CondSlow",
+            "value": "Freno"
+        },
+        {
+            "key": "BUFF_CondStop",
+            "value": "Paro"
+        },
+        {
+            "key": "BUFF_CondStun",
+            "value": "Aturdimiento"
+        },
+        {
+            "key": "BUFF_CondDontMove",
+            "value": "Inmóvil"
+        },
+        {
+            "key": "BUFF_CondDontAction",
+            "value": "Inútil"
+        },
+        {
+            "key": "BUFF_CondBerserk",
+            "value": "Locura"
+        },
+        {
+            "key": "BUFF_CondDoom",
+            "value": "Condena"
+        },
+        {
+            "key": "BUFF_CondRaise",
+            "value": "Lázaro"
+        },
+        {
+            "key": "BUFF_CondReraise",
+            "value": "AutoLázaro"
+        },
+        {
+            "key": "BUFF_CondProtect",
+            "value": "Coraza"
+        },
+        {
+            "key": "BUFF_CondShell",
+            "value": "Escudo"
+        },
+        {
+            "key": "BUFF_CondReflec",
+            "value": "Espejo"
+        },
+        {
+            "key": "BUFF_CondFaith",
+            "value": "Fe"
+        },
+        {
+            "key": "BUFF_CondInnocen",
+            "value": "Inocencia"
+        },
+        {
+            "key": "BUFF_CondLevitate",
+            "value": "Lévita"
+        },
+        {
+            "key": "BUFF_CondDeath",
+            "value": "Muerte"
+        },
+        {
+            "key": "BUFF_CondQuick",
+            "value": "Presto"
+        },
+        {
+            "key": "BUFF_CondGuts",
+            "value": "Agallas"
+        },
+        {
+            "key": "BUFF_CondPhyPerfectAvoid",
+            "value": "Evasión física perfecta"
+        },
+        {
+            "key": "BUFF_CondMagPerfectAvoid",
+            "value": "Evasión mágica perfecta"
+        },
+        {
+            "key": "BUFF_CondPerfectHit",
+            "value": "Golpe garantizado"
+        },
+        {
+            "key": "BUFF_CondPerfectCritical",
+            "value": "Crítico"
+        },
+        {
+            "key": "BUFF_CondKillerElementDamage",
+            "value": "Daño específico de elemento"
+        },
+        {
+            "key": "BUFF_CondKillerSpeciesDamage",
+            "value": "Daño específico de especies"
+        },
+        {
+            "key": "BUFF_CondKillerBirthDamage",
+            "value": "Daño específico según el reino"
+        },
+        {
+            "key": "BUFF_CondKillerTagDamage",
+            "value": "Daño específico de etiqueta"
+        },
+        {
+            "key": "BUFF_CondKillerSexDamage",
+            "value": "Daño específico según el género"
+        },
+        {
+            "key": "BUFF_CondEnchant",
+            "value": "Encanto"
+        },
+        {
+            "key": "BUFF_CondChangeCt",
+            "value": "Cambio de TC"
+        },
+        {
+            "key": "BUFF_CondAllEsuna",
+            "value": "Esna"
+        },
+        {
+            "key": "BUFF_CondAllDespell",
+            "value": "Antimagia"
+        },
+        {
+            "key": "BUFF_CondAllStrenResist",
+            "value": " (todo) "
+        },
+        {
+            "key": "BUFF_OtherInitAp",
+            "value": "PA iniciales"
+        },
+        {
+            "key": "BUFF_OtherEffectRange",
+            "value": "Alcance de efecto"
+        },
+        {
+            "key": "BUFF_OtherEffectScope",
+            "value": "Zona de efecto"
+        },
+        {
+            "key": "BUFF_OtherEffectHeight",
+            "value": "Altura de efecto"
+        },
+        {
+            "key": "BUFF_OtherHit",
+            "value": "Precisión"
+        },
+        {
+            "key": "BUFF_OtherAvoid",
+            "value": "Evasión"
+        },
+        {
+            "key": "BUFF_OtherCrtRate",
+            "value": "Daño crítico"
+        },
+        {
+            "key": "BUFF_OtherCrtHit",
+            "value": "Tasa de crítico"
+        },
+        {
+            "key": "BUFF_OtherCrtAvoid",
+            "value": "Evasión de crítico"
+        },
+        {
+            "key": "BUFF_OtherKillerElement",
+            "value": "Comeentes"
+        },
+        {
+            "key": "BUFF_OtherKillerSpecies",
+            "value": "Mataespecies"
+        },
+        {
+            "key": "BUFF_OtherKillerSex",
+            "value": "Matagénero"
+        },
+        {
+            "key": "BUFF_OtherHate",
+            "value": "Odio"
+        },
+        {
+            "key": "BUFF_OtherBrave",
+            "value": "Bravura"
+        },
+        {
+            "key": "BUFF_OtherFaith",
+            "value": "Fe"
+        },
+        {
+            "key": "BUFF_OtherDebuffResist",
+            "value": "Res. a todas las reducciones"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistHp",
+            "value": "Res. a reducción de VIT"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistAtk",
+            "value": "Res. a reducción de ATQ"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistDef",
+            "value": "Res. a reducción de DEF"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistMag",
+            "value": "Res. a reducción de MAG"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistMnd",
+            "value": "Res. a reducción de ESP"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistDex",
+            "value": "Res. a reducción de DES"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistSpd",
+            "value": "Res. a reducción de AGI"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistLuk",
+            "value": "Res. a reducción de suerte"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistSlash",
+            "value": "Res. a reducción de corte"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistPierce",
+            "value": "Res. a reducción de perforación"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistBlow",
+            "value": "Res. a reducción de golpe"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistShot",
+            "value": "Res. a reducción de proyectiles"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistMagic",
+            "value": "Res. a reducción de MAG"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistHit",
+            "value": "Res. a reducción de precisión"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistAvoid",
+            "value": "Res. a reducción de evasión"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistBrave",
+            "value": "Res. a reducción de bravura"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistFaith",
+            "value": "Res. a reducción de fe"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistFire",
+            "value": "Res. a reducción de fuego"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistIce",
+            "value": "Res. a reducción de hielo"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistWind",
+            "value": "Res. a reducción de viento"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistEarth",
+            "value": "Res. a reducción de tierra"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistThunder",
+            "value": "Res. a reducción de rayo"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistWater",
+            "value": "Res. a reducción de agua"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistShine",
+            "value": "Res. a reducción de luz"
+        },
+        {
+            "key": "BUFF_OtherDebuffResistDark",
+            "value": "Res. a reducción de oscuridad"
+        },
+        {
+            "key": "BUFF_OtherBuffTurn",
+            "value": "Prolongación de aumento"
+        },
+        {
+            "key": "BUFF_OtherDebuffTurn",
+            "value": "Prolongación de reducción"
+        },
+        {
+            "key": "BUFF_OtherOneAttackResist",
+            "value": "Res. a ataque de unidad"
+        },
+        {
+            "key": "BUFF_OtherRangeAttackResist",
+            "value": "Res. a ataque de zona"
+        },
+        {
+            "key": "BUFF_OtherDamageMax",
+            "value": "Daño límite"
+        },
+        {
+            "key": "BUFF_OtherCastTime",
+            "value": "Tiempo de lanzamiento reducido"
+        },
+        {
+            "key": "BUFF_OtherApGain",
+            "value": "PA adquiridos"
+        },
+        {
+            "key": "BUFF_OtherSpGain",
+            "value": "Aumento de la barra de invocación"
+        },
+        {
+            "key": "BUFF_OtherBraveBonus",
+            "value": "Bonificación por bravura"
+        },
+        {
+            "key": "BUFF_OtherFaithBonus",
+            "value": "Bonificación por fe"
+        },
+        {
+            "key": "BUFF_OtherJpGain",
+            "value": "PdP adquiridos"
+        },
+        {
+            "key": "BUFF_OtherPosDefIgnore",
+            "value": "Tasa de penetración de DEF"
+        },
+        {
+            "key": "BUFF_OtherNegDefIgnore",
+            "value": "Ignora DEF negativa"
+        },
+        {
+            "key": "BUFF_OtherApCostCut",
+            "value": "Coste de PA"
+        },
+        {
+            "key": "BUFF_OtherTpDmgAvoid",
+            "value": "Tasa de evasión de ataque de PT"
+        },
+        {
+            "key": "BUFF_OtherApDmgAvoid",
+            "value": "Tasa de evasión de ataque de PA"
+        },
+        {
+            "key": "BUFF_OtherPosMndIgnore",
+            "value": "Tasa de penetración de ESP"
+        },
+        {
+            "key": "BUFF_OtherNegMndIgnore",
+            "value": "Ignora ESP negativo"
+        },
+        {
+            "key": "BUFF_OtherPosSlashIgnore",
+            "value": "Tasa de penetración de res. corte"
+        },
+        {
+            "key": "BUFF_OtherNegSlashIgnore",
+            "value": "Ignora res. corte negativa"
+        },
+        {
+            "key": "BUFF_OtherPosPierceIgnore",
+            "value": "Tasa de penetración de res. perforación"
+        },
+        {
+            "key": "BUFF_OtherNegPierceIgnore",
+            "value": "Ignora res. perforación negativa"
+        },
+        {
+            "key": "BUFF_OtherPosBlowIgnore",
+            "value": "Tasa de penetración de res. golpe"
+        },
+        {
+            "key": "BUFF_OtherNegBlowIgnore",
+            "value": "Ignora res. golpe negativa"
+        },
+        {
+            "key": "BUFF_OtherPosShotIgnore",
+            "value": "Tasa de penetración de res. a proyectiles"
+        },
+        {
+            "key": "BUFF_OtherNegShotIgnore",
+            "value": "Ignora res. a proyectiles negativa"
+        },
+        {
+            "key": "BUFF_OtherPosMagicIgnore",
+            "value": "Tasa de penetración de res. mágica"
+        },
+        {
+            "key": "BUFF_OtherNegMagicIgnore",
+            "value": "Ignora res. mágica negativa"
+        },
+        {
+            "key": "BUFF_OtherPosFireIgnore",
+            "value": "Tasa de penetración de res. fuego"
+        },
+        {
+            "key": "BUFF_OtherNegFireIgnore",
+            "value": "Ignora res. fuego negativa"
+        },
+        {
+            "key": "BUFF_OtherPosIceIgnore",
+            "value": "Tasa de penetración de res. hielo"
+        },
+        {
+            "key": "BUFF_OtherNegIceIgnore",
+            "value": "Ignora res. hielo negativa"
+        },
+        {
+            "key": "BUFF_OtherPosWindIgnore",
+            "value": "Tasa de penetración de res. viento"
+        },
+        {
+            "key": "BUFF_OtherNegWindIgnore",
+            "value": "Ignora res. viento negativa"
+        },
+        {
+            "key": "BUFF_OtherPosEarthIgnore",
+            "value": "Tasa de penetración de res. tierra"
+        },
+        {
+            "key": "BUFF_OtherNegEarthIgnore",
+            "value": "Ignora res. tierra negativa"
+        },
+        {
+            "key": "BUFF_OtherPosThunderIgnore",
+            "value": "Tasa de penetración de res. rayo"
+        },
+        {
+            "key": "BUFF_OtherNegThunderIgnore",
+            "value": "Ignora res. rayo negativa"
+        },
+        {
+            "key": "BUFF_OtherPosWaterIgnore",
+            "value": "Tasa de penetración de res. agua"
+        },
+        {
+            "key": "BUFF_OtherNegWaterIgnore",
+            "value": "Ignora res. agua negativa"
+        },
+        {
+            "key": "BUFF_OtherPosShineIgnore",
+            "value": "Tasa de penetración de res. luz"
+        },
+        {
+            "key": "BUFF_OtherNegShineIgnore",
+            "value": "Ignora res. luz negativa"
+        },
+        {
+            "key": "BUFF_OtherPosDarkIgnore",
+            "value": "Tasa de penetración de res. oscuridad"
+        },
+        {
+            "key": "BUFF_OtherNegDarkIgnore",
+            "value": "Ignora res. oscuridad negativa"
+        },
+        {
+            "key": "BUFF_UnitTagFloating",
+            "value": "Flotante"
+        },
+        {
+            "key": "BUFF_UnitTagIgnoreGround",
+            "value": "Antisuperficie"
+        },
+        {
+            "key": "BUFF_KillerElementFire",
+            "value": "Comeígneos"
+        },
+        {
+            "key": "BUFF_KillerElementIce",
+            "value": "Comegélidos"
+        },
+        {
+            "key": "BUFF_KillerElementWind",
+            "value": "Comeaéreos"
+        },
+        {
+            "key": "BUFF_KillerElementEarth",
+            "value": "Cometerrestres"
+        },
+        {
+            "key": "BUFF_KillerElementThunder",
+            "value": "Comeeléctricos"
+        },
+        {
+            "key": "BUFF_KillerElementWater",
+            "value": "Comeacuáticos"
+        },
+        {
+            "key": "BUFF_KillerElementShine",
+            "value": "Comesacros"
+        },
+        {
+            "key": "BUFF_KillerElementDark",
+            "value": "Comeoscuros"
+        },
+        {
+            "key": "BUFF_KillerElementDamageFire",
+            "value": "Daño fijo de fuego"
+        },
+        {
+            "key": "BUFF_KillerElementDamageIce",
+            "value": "Daño fijo de hielo"
+        },
+        {
+            "key": "BUFF_KillerElementDamageWind",
+            "value": "Daño fijo de viento"
+        },
+        {
+            "key": "BUFF_KillerElementDamageEarth",
+            "value": "Daño fijo de tierra"
+        },
+        {
+            "key": "BUFF_KillerElementDamageThunder",
+            "value": "Daño fijo de rayo"
+        },
+        {
+            "key": "BUFF_KillerElementDamageWater",
+            "value": "Daño fijo de agua"
+        },
+        {
+            "key": "BUFF_KillerElementDamageShine",
+            "value": "Daño fijo de luz"
+        },
+        {
+            "key": "BUFF_KillerElementDamageDark",
+            "value": "Daño fijo de oscuridad"
+        },
+        {
+            "key": "BUFF_KillerSpeciesHuman",
+            "value": "Comehombres"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPHuman",
+            "value": "Comehombres al recibir ATQF"
+        },
+        {
+            "key": "BUFF_KillerSpeciesMHuman",
+            "value": "Comehombres al recibir ATQM"
+        },
+        {
+            "key": "BUFF_KillerSpeciesNetherBeast",
+            "value": "Mataespers"
+        },
+        {
+            "key": "BUFF_KillerSpeciesBeast",
+            "value": "Matabestias"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDemon",
+            "value": "Matademonios"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDragon",
+            "value": "Matadragones"
+        },
+        {
+            "key": "BUFF_KillerSpeciesPlane",
+            "value": "Mataplantoides"
+        },
+        {
+            "key": "BUFF_KillerSpeciesBird",
+            "value": "Matapájaros"
+        },
+        {
+            "key": "BUFF_KillerSpeciesInsect",
+            "value": "Matainsectos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesAquatic",
+            "value": "Mataacuáticos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesMachine",
+            "value": "Matamáquinas"
+        },
+        {
+            "key": "BUFF_KillerSpeciesSpirit",
+            "value": "Mataespíritus"
+        },
+        {
+            "key": "BUFF_KillerSpeciesUndead",
+            "value": "Matazombis"
+        },
+        {
+            "key": "BUFF_KillerSpeciesStone",
+            "value": "Matapétreos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesMetal",
+            "value": "Comemetálicos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageHuman",
+            "value": "Daño fijo a humanos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageNetherBeast",
+            "value": "Daño fijo de esper"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageBeast",
+            "value": "Daño fijo a bestias"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageDemon",
+            "value": "Daño fijo a demonios"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageDragon",
+            "value": "Daño fijo a dragones"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamagePlane",
+            "value": "Daño fijo a plantoides"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageBird",
+            "value": "Daño fijo a aves"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageInsect",
+            "value": "Daño fijo a insectos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageAquatic",
+            "value": "Daño fijo a acuáticos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageMachine",
+            "value": "Daño fijo a máquinas"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageSpirit",
+            "value": "Daño fijo a espíritus"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageUndead",
+            "value": "Daño fijo a muertos vivientes"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageStone",
+            "value": "Daño fijo a pétreos"
+        },
+        {
+            "key": "BUFF_KillerSpeciesDamageMetal",
+            "value": "Daño fijo de metal"
+        },
+        {
+            "key": "BUFF_KillerBirthUnknown",
+            "value": "Mataerrantes"
+        },
+        {
+            "key": "BUFF_KillerBirthLeonis",
+            "value": "MataLeonis"
+        },
+        {
+            "key": "BUFF_KillerBirthHourn",
+            "value": "MataHourne"
+        },
+        {
+            "key": "BUFF_KillerBirthFenice",
+            "value": "MataFennes"
+        },
+        {
+            "key": "BUFF_KillerBirthWezett",
+            "value": "MataWezette"
+        },
+        {
+            "key": "BUFF_KillerBirthCrystalFaith",
+            "value": "MataSantocristal"
+        },
+        {
+            "key": "BUFF_KillerBirthAllyare",
+            "value": "MataAriale"
+        },
+        {
+            "key": "BUFF_KillerBirthRundall",
+            "value": "MataRundal"
+        },
+        {
+            "key": "BUFF_KillerBirthCyga",
+            "value": "MataSaiga"
+        },
+        {
+            "key": "BUFF_KillerBirthGuren",
+            "value": "MataRubeus"
+        },
+        {
+            "key": "BUFF_KillerBirthOwis",
+            "value": "MataOvis"
+        },
+        {
+            "key": "BUFF_KillerBirthHyndra",
+            "value": "MataHeindler"
+        },
+        {
+            "key": "BUFF_KillerBirthFFBE",
+            "value": "MataFFBE"
+        },
+        {
+            "key": "BUFF_KillerBirthFF1",
+            "value": "MataFFI"
+        },
+        {
+            "key": "BUFF_KillerBirthFF2",
+            "value": "MataFFII"
+        },
+        {
+            "key": "BUFF_KillerBirthFF3",
+            "value": "MataFFIII"
+        },
+        {
+            "key": "BUFF_KillerBirthFF4",
+            "value": "MataFFIV"
+        },
+        {
+            "key": "BUFF_KillerBirthFF5",
+            "value": "MataFFV"
+        },
+        {
+            "key": "BUFF_KillerBirthFF6",
+            "value": "MataFFVI"
+        },
+        {
+            "key": "BUFF_KillerBirthFF7",
+            "value": "MataFFVII"
+        },
+        {
+            "key": "BUFF_KillerBirthFF8",
+            "value": "MataFFVIII"
+        },
+        {
+            "key": "BUFF_KillerBirthFF9",
+            "value": "MataFFIX"
+        },
+        {
+            "key": "BUFF_KillerBirthFF10",
+            "value": "MataFFX"
+        },
+        {
+            "key": "BUFF_KillerBirthFF11",
+            "value": "MataFFXI"
+        },
+        {
+            "key": "BUFF_KillerBirthFF12",
+            "value": "MataFFXII"
+        },
+        {
+            "key": "BUFF_KillerBirthFF13",
+            "value": "MataFFXIII"
+        },
+        {
+            "key": "BUFF_KillerBirthFF14",
+            "value": "MataFFXIV"
+        },
+        {
+            "key": "BUFF_KillerBirthFF15",
+            "value": "MataFFXV"
+        },
+        {
+            "key": "BUFF_KillerBirthFFT",
+            "value": "MataFFT"
+        },
+        {
+            "key": "BUFF_KillerBirthGoga",
+            "value": "MataGouga"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageUnknown",
+            "value": "Daño a errantes fijo"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageLionis",
+            "value": "Daño fijo de Leonis"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageHourn",
+            "value": "Daño fijo de Hourne"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFenice",
+            "value": "Daño fijo de Fennes"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageWezett",
+            "value": "Daño fijo de Wezette"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageCrystalFaith",
+            "value": "Daño fijo a unidades de Santocristal"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageAllyare",
+            "value": "Daño fijo de Ariale"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageRundall",
+            "value": "Daño fijo de Rundal"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageCyga",
+            "value": "Daño fijo de Saiga"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageGuren",
+            "value": "Daño fijo de Rubeus"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageOwis",
+            "value": "Daño fijo de Ovis"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageHyndra",
+            "value": "Daño fijo de Heindler"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFFBE",
+            "value": "Daño fijo a unidades de FFBE"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF1",
+            "value": "Daño fijo a unidades de FFI"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF2",
+            "value": "Daño fijo a unidades de FFII"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF3",
+            "value": "Daño fijo a unidades de FFIII"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF4",
+            "value": "Daño fijo a unidades de FFIV"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF5",
+            "value": "Daño fijo a unidades de FFV"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF6",
+            "value": "Daño fijo a unidades de FFVI"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF7",
+            "value": "Daño fijo a unidades de FFVII"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF8",
+            "value": "Daño fijo a unidades de FFVIII"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF9",
+            "value": "Daño fijo a unidades de FFIX"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF10",
+            "value": "Daño fijo a unidades de FFX"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF11",
+            "value": "Daño fijo a unidades de FFXI"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF12",
+            "value": "Daño fijo a unidades de FFXII"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF13",
+            "value": "Daño fijo a unidades de FFXIII"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF14",
+            "value": "Daño fijo a unidades de FFXIV"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFF15",
+            "value": "Daño fijo a unidades de FFXV"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageFFT",
+            "value": "Daño fijo a unidades de FFT"
+        },
+        {
+            "key": "BUFF_KillerBirthDamageGoga",
+            "value": "Daño fijo a Gouga"
+        },
+        {
+            "key": "BUFF_KillerUnitTagFloating",
+            "value": "Mataflotantes"
+        },
+        {
+            "key": "BUFF_KillerUnitTagIgnoreGround",
+            "value": "Mataantisuperficies"
+        },
+        {
+            "key": "BUFF_KillerUnitTagDamageFloating",
+            "value": "Daño fijo a flotantes"
+        },
+        {
+            "key": "BUFF_KillerUnitTagDamageIgnoreGround",
+            "value": "Daño fijo a antisuperficies"
+        },
+        {
+            "key": "BUFF_KillerSexMale",
+            "value": "MataMarte"
+        },
+        {
+            "key": "BUFF_KillerSexFemale",
+            "value": "MataVenus"
+        },
+        {
+            "key": "BUFF_KillerSexUnknown",
+            "value": "MataMercurio"
+        },
+        {
+            "key": "BUFF_KillerSexPMale",
+            "value": "MataMarte F"
+        },
+        {
+            "key": "BUFF_KillerSexPFemale",
+            "value": "MataVenus F"
+        },
+        {
+            "key": "BUFF_KillerSexPUnknown",
+            "value": "MataMercurio F"
+        },
+        {
+            "key": "BUFF_KillerSexMMale",
+            "value": "MataMarte M"
+        },
+        {
+            "key": "BUFF_KillerSexMFemale",
+            "value": "MataVenus M"
+        },
+        {
+            "key": "BUFF_KillerSexMUnknown",
+            "value": "MataMercurio M"
+        },
+        {
+            "key": "BUFF_KillerSexDamageMale",
+            "value": "Daño Marte fijo"
+        },
+        {
+            "key": "BUFF_KillerSexDamageFemale",
+            "value": "Daño Venus fijo"
+        },
+        {
+            "key": "BUFF_KillerSexDamageUnknown",
+            "value": "Daño Mercurio fijo"
+        },
+        {
+            "key": "BUFF_ExeShield1",
+            "value": "DEF"
+        },
+        {
+            "key": "BUFF_ExeShield2",
+            "value": "Escudo (de {0} de VIT)"
+        },
+        {
+            "key": "BUFF_ExeShield3",
+            "value": "Escudo ({0} vez/veces)"
+        },
+        {
+            "key": "BUFF_ExeShield4",
+            "value": "Escudo ({0} vez/veces o de {1} de VIT)"
+        },
+        {
+            "key": "BUFF_ExeShield5",
+            "value": "Escudo ({0} turno(s))"
+        },
+        {
+            "key": "BUFF_ExeShield6",
+            "value": "Escudo ({0} turno(s) o de {1} de VIT)"
+        },
+        {
+            "key": "BUFF_CondPetrifiedStare",
+            "value": "Piedra→"
+        },
+        {
+            "key": "BUFF_OtherHealPow",
+            "value": "Poder sanador"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget1",
+            "value": "Magia física"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget2",
+            "value": "Física"
+        },
+        {
+            "key": "BUFF_ExeShieldTarget3",
+            "value": "Mágico"
+        }
+    ]
+}

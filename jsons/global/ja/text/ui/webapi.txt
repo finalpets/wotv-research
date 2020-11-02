@@ -1,0 +1,1464 @@
+{
+    "infos": [
+        {
+            "key": "ERROR_CONNECT",
+            "value": "サーバーとの通信に失敗しました。"
+        },
+        {
+            "key": "MAINTENANCE",
+            "value": "メンテナンス中です。<br>詳細はお知らせをご覧ください。"
+        },
+        {
+            "key": "ACCOUNT_BAN",
+            "value": "アカウント停止中です。"
+        },
+        {
+            "key": "VERSION_UPDATE",
+            "value": "最新のバージョンに更新してください。"
+        },
+        {
+            "key": "DLC_UPDATE",
+            "value": "DLCの更新があります。"
+        },
+        {
+            "key": "SESSION_ERROR",
+            "value": "セッションが無効です。"
+        },
+        {
+            "key": "INVALID_DEVICE",
+            "value": "存在しないアカウントです。<br>アカウントを初期化します。"
+        },
+        {
+            "key": "NOTICE",
+            "value": "こちらの機能は一時停止しています。<br>詳細はお知らせをご覧ください。"
+        },
+        {
+            "key": "TITLE_NOTICE",
+            "value": "お知らせ"
+        },
+        {
+            "key": "OVER_DAY",
+            "value": "日付が変わりました。"
+        },
+        {
+            "key": "TITLE_OVER_DAY",
+            "value": "日付変更"
+        },
+        {
+            "key": "CONNECT_DEVICE_DOES_NOT_EXIST",
+            "value": "存在しないアカウントです。"
+        },
+        {
+            "key": "HAS_ADD_DEVICE_CONNECT_NOT_FOUND",
+            "value": "データ連携されている情報が<br>見つかりませんでした。"
+        },
+        {
+            "key": "HAS_IDPW_USER_NOT_FOUND",
+            "value": "データ連携のユーザーが<br>見つかりませんでした。"
+        },
+        {
+            "key": "HAS_IDPW_INVALID_SCHEMA",
+            "value": "データ連携のパスワード形式が不正です。"
+        },
+        {
+            "key": "HAS_IDPW_VERIFY_FAILES",
+            "value": "データ連携の認証エラーです。"
+        },
+        {
+            "key": "HAS_BRIDGE_USER_NOT_FOUND",
+            "value": "SQUARE ENIX BRIDGEに<br>登録されていません。"
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES_TITLE",
+            "value": "途中終了しました"
+        },
+        {
+            "key": "HAS_BRIDGE_FAILES",
+            "value": "操作が途中で中断されました。<br>意図せず中断された場合は、<br>エラーが考えられます。<br>不明な点等ありましたら、タイトル画面サポートよりお問い合わせください。"
+        },
+        {
+            "key": "APP_ERROR_UNKNOWN",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_10",
+            "value": "購入手続き中にエラーが発生しました。<br>反映に時間がかかる場合がございます。<br><br>アプリや端末を再起動しなおしたうえ、<br>ご確認頂きますようお願いいたします。"
+        },
+        {
+            "key": "APP_ERROR_501",
+            "value": "コインまたはメダルが足りません。"
+        },
+        {
+            "key": "APP_ERROR_502",
+            "value": "アイテムが足りません。"
+        },
+        {
+            "key": "APP_ERROR_503",
+            "value": "これ以上ギルを持てません。"
+        },
+        {
+            "key": "APP_ERROR_505",
+            "value": "不明な報酬です。"
+        },
+        {
+            "key": "APP_ERROR_506",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_507",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_508",
+            "value": "ギルが足りません。"
+        },
+        {
+            "key": "APP_ERROR_1000",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_1001",
+            "value": "これ以上体力を受け取れません。"
+        },
+        {
+            "key": "APP_ERROR_1002",
+            "value": "体力回復上限を超えました。（幻導石）"
+        },
+        {
+            "key": "APP_ERROR_1003",
+            "value": "体力回復上限を超えました。（アイテム）"
+        },
+        {
+            "key": "APP_ERROR_1004",
+            "value": "アリーナBP回復上限を超えました。（幻導石）"
+        },
+        {
+            "key": "APP_ERROR_1005",
+            "value": "アリーナBP回復上限を超えました。（アイテム）"
+        },
+        {
+            "key": "APP_ERROR_1006",
+            "value": "プレイヤー名の再変更には変更から<br>10日間クールタイムが必要です。<br><br>ロイヤルランクを2にすることで<br>クールタイムが免除になります。"
+        },
+        {
+            "key": "APP_ERROR_1007",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_1008",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_1009",
+            "value": "称号が見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_1010",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_1100",
+            "value": "不明なユニットです。"
+        },
+        {
+            "key": "APP_ERROR_1101",
+            "value": "不明なジョブです。"
+        },
+        {
+            "key": "APP_ERROR_1102",
+            "value": "不明なアビリティです。"
+        },
+        {
+            "key": "APP_ERROR_1103",
+            "value": "ユニットのLvが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1104",
+            "value": "ユニットのJPが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1105",
+            "value": "ユニットのジョブLvが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1106",
+            "value": "ユニットの熟練度Lvが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1107",
+            "value": "指定したユニットは錬成できません。"
+        },
+        {
+            "key": "APP_ERROR_1108",
+            "value": "ジョブの設定ができません。"
+        },
+        {
+            "key": "APP_ERROR_1109",
+            "value": "ユニットの覚醒が最大です。"
+        },
+        {
+            "key": "APP_ERROR_1110",
+            "value": "ユニットの限界突破が最大です。"
+        },
+        {
+            "key": "APP_ERROR_1111",
+            "value": "ユニットのジョブLvが最大です。"
+        },
+        {
+            "key": "APP_ERROR_1112",
+            "value": "限界突破するにはユニットの覚醒が不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1113",
+            "value": "アビリティのLvが最大です。"
+        },
+        {
+            "key": "APP_ERROR_1114",
+            "value": "指定したアビリティは設定できるサポートアビリティではありません。"
+        },
+        {
+            "key": "APP_ERROR_1115",
+            "value": "指定したアビリティは設定できるリアクションアビリティではありません。"
+        },
+        {
+            "key": "APP_ERROR_1116",
+            "value": "指定したアビリティは設定できるアビリティではありません。"
+        },
+        {
+            "key": "APP_ERROR_1117",
+            "value": "指定したアビリティは他のスロットで装備中です。"
+        },
+        {
+            "key": "APP_ERROR_1118",
+            "value": "指定したアビリティボードは既に解放済みです。"
+        },
+        {
+            "key": "APP_ERROR_1119",
+            "value": "指定したユニットはマスターアビリティを所持していません。"
+        },
+        {
+            "key": "APP_ERROR_1120",
+            "value": "指定したユニットはリミットバーストを所持していません。"
+        },
+        {
+            "key": "APP_ERROR_1121",
+            "value": "ユニットのリミットバーストが最大です。"
+        },
+        {
+            "key": "APP_ERROR_1122",
+            "value": "指定した武具は装備できません。"
+        },
+        {
+            "key": "APP_ERROR_1123",
+            "value": "指定した武具は他の装備枠で装備中です。"
+        },
+        {
+            "key": "APP_ERROR_1124",
+            "value": "指定した武具は装備できません。"
+        },
+        {
+            "key": "APP_ERROR_1125",
+            "value": "指定した武具は装備できません。"
+        },
+        {
+            "key": "APP_ERROR_1126",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_1127",
+            "value": "ユニットが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_1200",
+            "value": "不明な召喚獣です。"
+        },
+        {
+            "key": "APP_ERROR_1201",
+            "value": "召喚獣のLvが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1202",
+            "value": "召喚獣のSPが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1203",
+            "value": "召喚獣の覚醒が最大です。"
+        },
+        {
+            "key": "APP_ERROR_1204",
+            "value": "指定したアビリティボードは解放できません。"
+        },
+        {
+            "key": "APP_ERROR_1205",
+            "value": "指定したアビリティボードは既に解放済みです。"
+        },
+        {
+            "key": "APP_ERROR_1300",
+            "value": "指定した武具が存在しません。"
+        },
+        {
+            "key": "APP_ERROR_1301",
+            "value": "武具の覚醒が最大です。"
+        },
+        {
+            "key": "APP_ERROR_1302",
+            "value": "武具のLvが最大です。"
+        },
+        {
+            "key": "APP_ERROR_1303",
+            "value": "武具のLvが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1304",
+            "value": "武具の所持枠が最大です。"
+        },
+        {
+            "key": "APP_ERROR_1305",
+            "value": "武具のIDが指定されていません。"
+        },
+        {
+            "key": "APP_ERROR_1306",
+            "value": "武具のクラフトに失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1307",
+            "value": "武具の分解に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1308",
+            "value": "武具の強化に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1309",
+            "value": "武具の売却に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1310",
+            "value": "こちらの武具のクラフトは現在一時的に停止しています。"
+        },
+        {
+            "key": "APP_ERROR_1311",
+            "value": "売却できない武具が含まれています。"
+        },
+        {
+            "key": "APP_ERROR_1400",
+            "value": "ビジョンカードが存在しません。"
+        },
+        {
+            "key": "APP_ERROR_1401",
+            "value": "ビジョンカードの覚醒が最大です。"
+        },
+        {
+            "key": "APP_ERROR_1402",
+            "value": "ビジョンカードのLvが最大です。"
+        },
+        {
+            "key": "APP_ERROR_1403",
+            "value": "ビジョンカードのLvが不足しています。"
+        },
+        {
+            "key": "APP_ERROR_1404",
+            "value": "ビジョンカードの所持枠が最大です。"
+        },
+        {
+            "key": "APP_ERROR_1405",
+            "value": "ビジョンカードのIDが指定されていません。"
+        },
+        {
+            "key": "APP_ERROR_1406",
+            "value": "ビジョンカードの強化に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1407",
+            "value": "ビジョンカードの売却に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1500",
+            "value": "プレゼントが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_1501",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_1502",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_1503",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_1600",
+            "value": "パーティーが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_1601",
+            "value": "パーティー編成に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1602",
+            "value": "パーティー編成に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1603",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_1700",
+            "value": "フレンドが存在しません。"
+        },
+        {
+            "key": "APP_ERROR_1701",
+            "value": "フレンド数が上限に達しているため、フレンド申請できません。"
+        },
+        {
+            "key": "APP_ERROR_1702",
+            "value": "フレンド数が上限に達しているため、フレンド承認できません。"
+        },
+        {
+            "key": "APP_ERROR_1703",
+            "value": "フレンド申請が存在しません。"
+        },
+        {
+            "key": "APP_ERROR_1704",
+            "value": "IDの指定がありません。"
+        },
+        {
+            "key": "APP_ERROR_1705",
+            "value": "検索したプレイヤーは見つかりませんでした。"
+        },
+        {
+            "key": "APP_ERROR_1706",
+            "value": "検索したプレイヤーは自分自身です。"
+        },
+        {
+            "key": "APP_ERROR_1707",
+            "value": "フレンドギフトの受け取りが実行できません。"
+        },
+        {
+            "key": "APP_ERROR_1708",
+            "value": "フレンドギフトの欲しいギフトが存在しません。"
+        },
+        {
+            "key": "APP_ERROR_1709",
+            "value": "フレンド申請の送信に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_1710",
+            "value": "ブロックしているプレイヤーです。"
+        },
+        {
+            "key": "APP_ERROR_1800",
+            "value": "ブロックリストが存在しません。"
+        },
+        {
+            "key": "APP_ERROR_1801",
+            "value": "ブロックリスト数が上限に達している<br>ため、ブロックリストを追加できません。"
+        },
+        {
+            "key": "APP_ERROR_1802",
+            "value": "指定したプレイヤーは自分自身です。"
+        },
+        {
+            "key": "APP_ERROR_2000",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2001",
+            "value": "コスト上限をオーバーしています。"
+        },
+        {
+            "key": "APP_ERROR_2002",
+            "value": "開催期間外のクエストです。"
+        },
+        {
+            "key": "APP_ERROR_2003",
+            "value": "クエストを開始できませんでした。開催期間外です。"
+        },
+        {
+            "key": "APP_ERROR_2004",
+            "value": "クエストを開始できませんでした。挑戦条件を満たしていません。"
+        },
+        {
+            "key": "APP_ERROR_2005",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2006",
+            "value": "不明なユニットが編成されています。"
+        },
+        {
+            "key": "APP_ERROR_2007",
+            "value": "中断復帰に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_2008",
+            "value": "コンティニューできません。"
+        },
+        {
+            "key": "APP_ERROR_2009",
+            "value": "本日の挑戦回数上限に達しました。"
+        },
+        {
+            "key": "APP_ERROR_2010",
+            "value": "編成ルールに違反しています。"
+        },
+        {
+            "key": "APP_ERROR_2011",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2012",
+            "value": "選択した同行者が見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_2100",
+            "value": "ルームが見つかりませんでした。"
+        },
+        {
+            "key": "APP_ERROR_2101",
+            "value": "ルームに入室していません。"
+        },
+        {
+            "key": "APP_ERROR_2102",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_2103",
+            "value": "ホストが出撃を確定していません。"
+        },
+        {
+            "key": "APP_ERROR_2104",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2105",
+            "value": "既に出撃済みです。"
+        },
+        {
+            "key": "APP_ERROR_2106",
+            "value": "復帰できませんでした。既にバトルが終了しています。"
+        },
+        {
+            "key": "APP_ERROR_2150",
+            "value": "スキップチケットを使えません。"
+        },
+        {
+            "key": "APP_ERROR_2151",
+            "value": "ミッションを全てクリアしていないのでスキップチケットを使えません。"
+        },
+        {
+            "key": "APP_ERROR_2152",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_2153",
+            "value": "同行者の更新に失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_2200",
+            "value": "レイドが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_2201",
+            "value": "レイドの挑戦可能期間外です。"
+        },
+        {
+            "key": "APP_ERROR_2202",
+            "value": "レイドの報酬受取期間外です。"
+        },
+        {
+            "key": "APP_ERROR_2203",
+            "value": "レイドのランキング期間外です。"
+        },
+        {
+            "key": "APP_ERROR_2204",
+            "value": "レイドボスが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_2205",
+            "value": "不明なレイドボスです。"
+        },
+        {
+            "key": "APP_ERROR_2206",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_2207",
+            "value": "レイドボスが逃げました。"
+        },
+        {
+            "key": "APP_ERROR_2208",
+            "value": "不明なルームです。"
+        },
+        {
+            "key": "APP_ERROR_2209",
+            "value": "レイドボスとエンカウントしてません。"
+        },
+        {
+            "key": "APP_ERROR_2210",
+            "value": "既に挑戦中のレイドボスが存在します。"
+        },
+        {
+            "key": "APP_ERROR_2211",
+            "value": "ルームが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_2212",
+            "value": "既に討伐済みのレイドボスです。"
+        },
+        {
+            "key": "APP_ERROR_2213",
+            "value": "代理発見者ではないので挑めません。"
+        },
+        {
+            "key": "APP_ERROR_2214",
+            "value": "レイドボスに挑戦できませんでした。"
+        },
+        {
+            "key": "APP_ERROR_2215",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2216",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2217",
+            "value": "挑戦可能回数の上限に達しました。"
+        },
+        {
+            "key": "APP_ERROR_2218",
+            "value": "メンバーがルームにいません。"
+        },
+        {
+            "key": "APP_ERROR_2219",
+            "value": "レイドクエストが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_2220",
+            "value": "不明なレイドクエストです。"
+        },
+        {
+            "key": "APP_ERROR_2221",
+            "value": "挑戦中のレイドクエストがあるので開始できません。"
+        },
+        {
+            "key": "APP_ERROR_2222",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2223",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2224",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2225",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2226",
+            "value": "レイドオーブ回復上限を超えました。<br>（幻導石）"
+        },
+        {
+            "key": "APP_ERROR_2227",
+            "value": "レイドオーブをこれ以上回復できません。"
+        },
+        {
+            "key": "APP_ERROR_2228",
+            "value": "このアイテムではRPは回復できません。"
+        },
+        {
+            "key": "APP_ERROR_2229",
+            "value": "レイドオーブ回復上限を超えました。<br>（アイテム）"
+        },
+        {
+            "key": "APP_ERROR_2230",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2231",
+            "value": "代理発見者にはまだなれません。"
+        },
+        {
+            "key": "APP_ERROR_2232",
+            "value": "レイド報酬の受け取りに失敗しました。"
+        },
+        {
+            "key": "APP_ERROR_2233",
+            "value": "レイドボスを討伐していません。"
+        },
+        {
+            "key": "APP_ERROR_2234",
+            "value": "救援を呼べませんでした。"
+        },
+        {
+            "key": "APP_ERROR_2235",
+            "value": "既に出撃済みなので入室できませんでした。"
+        },
+        {
+            "key": "APP_ERROR_2236",
+            "value": "同時に挑めるレイドクエストの上限に達しています。"
+        },
+        {
+            "key": "APP_ERROR_2237",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_2238",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2239",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2240",
+            "value": "代理発見者になれる上限に達しました。"
+        },
+        {
+            "key": "APP_ERROR_2241",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_2243",
+            "value": "復帰できませんでした。既にバトルが終了しています。"
+        },
+        {
+            "key": "APP_ERROR_2300",
+            "value": "ショップが見つかりません。期間外です。"
+        },
+        {
+            "key": "APP_ERROR_2301",
+            "value": "気まぐれ屋が見つかりません。<br>期間外です。"
+        },
+        {
+            "key": "APP_ERROR_2302",
+            "value": "購入可能回数を超えています。"
+        },
+        {
+            "key": "APP_ERROR_2303",
+            "value": "不明なアイテムを購入しようとしました。"
+        },
+        {
+            "key": "APP_ERROR_2304",
+            "value": "購入可能回数を超えています。"
+        },
+        {
+            "key": "APP_ERROR_2305",
+            "value": "購入可能回数を超えています。"
+        },
+        {
+            "key": "APP_ERROR_2306",
+            "value": "販売期間外の商品です。"
+        },
+        {
+            "key": "APP_ERROR_2307",
+            "value": "ショップが更新されました。"
+        },
+        {
+            "key": "APP_ERROR_2308",
+            "value": "ショップが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_2309",
+            "value": "ショップエラー。（抽選情報取得失敗）"
+        },
+        {
+            "key": "APP_ERROR_2310",
+            "value": "無効な支払いタイプが指定された。"
+        },
+        {
+            "key": "APP_ERROR_2311",
+            "value": "ショップエラー。（抽選情報取得失敗）"
+        },
+        {
+            "key": "APP_ERROR_2312",
+            "value": "ショップエラー。（抽選情報取得失敗）"
+        },
+        {
+            "key": "APP_ERROR_2313",
+            "value": "ショップエラー。（抽選情報取得失敗）"
+        },
+        {
+            "key": "APP_ERROR_2314",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2400",
+            "value": "召喚を引けませんでした。"
+        },
+        {
+            "key": "APP_ERROR_2401",
+            "value": "召喚を引けませんでした。"
+        },
+        {
+            "key": "APP_ERROR_2402",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2403",
+            "value": "召喚エラー。（マスターの設定が間違っています）"
+        },
+        {
+            "key": "APP_ERROR_2404",
+            "value": "召喚の上限回数に達しています。"
+        },
+        {
+            "key": "APP_ERROR_2405",
+            "value": "召喚の上限回数に達しています。"
+        },
+        {
+            "key": "APP_ERROR_2406",
+            "value": "召喚できません。幻導石またはチケットが足りません。"
+        },
+        {
+            "key": "APP_ERROR_2407",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2408",
+            "value": "召喚期間外です。"
+        },
+        {
+            "key": "APP_ERROR_2409",
+            "value": "召喚エラー。（すでに引いています）"
+        },
+        {
+            "key": "APP_ERROR_2410",
+            "value": "召喚エラー。（引き直し召喚途中です）"
+        },
+        {
+            "key": "APP_ERROR_2411",
+            "value": "引き直し召喚の上限に達しています。"
+        },
+        {
+            "key": "APP_ERROR_2412",
+            "value": "不明なガチャです。"
+        },
+        {
+            "key": "APP_ERROR_2413",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2414",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2415",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2416",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2417",
+            "value": "召喚を引けませんでした。"
+        },
+        {
+            "key": "APP_ERROR_2418",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2419",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2420",
+            "value": "召喚エラー。（抽選情報取得失敗）"
+        },
+        {
+            "key": "APP_ERROR_2421",
+            "value": "召喚エラー。"
+        },
+        {
+            "key": "APP_ERROR_2422",
+            "value": "召喚エラー。"
+        },
+        {
+            "key": "APP_ERROR_2423",
+            "value": "召喚エラー。"
+        },
+        {
+            "key": "APP_ERROR_2424",
+            "value": "召喚エラー。"
+        },
+        {
+            "key": "APP_ERROR_2501",
+            "value": "期間外のチャレンジミッションです。"
+        },
+        {
+            "key": "APP_ERROR_2531",
+            "value": "期間外のミッションです。"
+        },
+        {
+            "key": "APP_ERROR_2560",
+            "value": "解放条件を満たしてません。"
+        },
+        {
+            "key": "APP_ERROR_2600",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2601",
+            "value": "幻導石が足りません。"
+        },
+        {
+            "key": "APP_ERROR_2602",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2603",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2604",
+            "value": "不明なエリアに出発しようとしました。"
+        },
+        {
+            "key": "APP_ERROR_2605",
+            "value": "このアイテムでは高速探検できません。"
+        },
+        {
+            "key": "APP_ERROR_2606",
+            "value": "本日の高速探検の上限に達しました。"
+        },
+        {
+            "key": "APP_ERROR_2607",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2608",
+            "value": "回収できるアイテムがありません。"
+        },
+        {
+            "key": "APP_ERROR_2609",
+            "value": "不明なユニットです。"
+        },
+        {
+            "key": "APP_ERROR_2700",
+            "value": "時間をおいてから入力してください。"
+        },
+        {
+            "key": "APP_ERROR_2701",
+            "value": "チャンネルが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_2702",
+            "value": "不明なスタンプです。"
+        },
+        {
+            "key": "APP_ERROR_2703",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_2800",
+            "value": "存在しない日付です。"
+        },
+        {
+            "key": "APP_ERROR_2900",
+            "value": "開催期間が異なっています。"
+        },
+        {
+            "key": "APP_ERROR_2901",
+            "value": "パーティーがセットされていません。"
+        },
+        {
+            "key": "APP_ERROR_2902",
+            "value": "不正なパーティーです。"
+        },
+        {
+            "key": "APP_ERROR_2903",
+            "value": "不正なバトル結果です。"
+        },
+        {
+            "key": "APP_ERROR_3000",
+            "value": "既にギルドに所属しています。"
+        },
+        {
+            "key": "APP_ERROR_3001",
+            "value": "ギルドが見つかりませんでした。"
+        },
+        {
+            "key": "APP_ERROR_3002",
+            "value": "ギルドに所属していません。"
+        },
+        {
+            "key": "APP_ERROR_3003",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_3004",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3005",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3006",
+            "value": "不明なエンブレムです。"
+        },
+        {
+            "key": "APP_ERROR_3007",
+            "value": "一度ギルドを脱退した場合、<br>一定時間経過後に再参加可能となります。<br><br>再度ギルド参加できる時間は<br>脱退から24時間後です。"
+        },
+        {
+            "key": "APP_ERROR_3008",
+            "value": "ギルドメンバーの上限に達しています。"
+        },
+        {
+            "key": "APP_ERROR_3009",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3010",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3011",
+            "value": "ギルドリーダーは脱退できません。譲渡してから脱退してください。"
+        },
+        {
+            "key": "APP_ERROR_3012",
+            "value": "出席済みです。"
+        },
+        {
+            "key": "APP_ERROR_3013",
+            "value": "出席機能が解放されていません。"
+        },
+        {
+            "key": "APP_ERROR_3014",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3015",
+            "value": "ギルドサブリーダーの人数が最大に達しました。"
+        },
+        {
+            "key": "APP_ERROR_3016",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3017",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3018",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3019",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3020",
+            "value": "加入申請中のギルドです。"
+        },
+        {
+            "key": "APP_ERROR_3021",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3022",
+            "value": "ギルド加入申請が見つかりませんでした。"
+        },
+        {
+            "key": "APP_ERROR_3023",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3025",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3026",
+            "value": "既に受取済みです。"
+        },
+        {
+            "key": "APP_ERROR_3027",
+            "value": "既に受取済みです。"
+        },
+        {
+            "key": "APP_ERROR_3028",
+            "value": "ギフトの有効期限が過ぎています。"
+        },
+        {
+            "key": "APP_ERROR_3029",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3030",
+            "value": "未解放です。"
+        },
+        {
+            "key": "APP_ERROR_3031",
+            "value": "最大Lvに達しているため強化できませんでした。"
+        },
+        {
+            "key": "APP_ERROR_3032",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3033",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3034",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3035",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3036",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3037",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_3038",
+            "value": "入力された内容に使用できない内容が含まれます。"
+        },
+        {
+            "key": "APP_ERROR_3039",
+            "value": "加入条件を満たしていません。"
+        },
+        {
+            "key": "APP_ERROR_3040",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3041",
+            "value": "権限がありません。"
+        },
+        {
+            "key": "APP_ERROR_3042",
+            "value": "ギルド名が長すぎます。"
+        },
+        {
+            "key": "APP_ERROR_3043",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3044",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3045",
+            "value": "ギルド解放条件を満たしていません。"
+        },
+        {
+            "key": "APP_ERROR_3046",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3047",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3048",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3049",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3050",
+            "value": "すでに同じエンブレムに更新されています。"
+        },
+        {
+            "key": "APP_ERROR_3051",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3100",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3101",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3102",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3103",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3104",
+            "value": "対戦相手の情報が更新された為、バトルを開始できませんでした。"
+        },
+        {
+            "key": "APP_ERROR_3105",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3106",
+            "value": "ギルドバトル中は<br>ギルドを解散できません。"
+        },
+        {
+            "key": "APP_ERROR_3107",
+            "value": "ギルドメンバー情報が更新されました。情報を再取得するためホームに戻ります。"
+        },
+        {
+            "key": "APP_ERROR_3200",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3201",
+            "value": "購入できません。"
+        },
+        {
+            "key": "APP_ERROR_3202",
+            "value": "購入できません。"
+        },
+        {
+            "key": "APP_ERROR_3203",
+            "value": "既に購入しています。"
+        },
+        {
+            "key": "APP_ERROR_3204",
+            "value": "幻導石が足りません。"
+        },
+        {
+            "key": "APP_ERROR_3205",
+            "value": "購入できません。"
+        },
+        {
+            "key": "APP_ERROR_3400",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3401",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3402",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3403",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3404",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3405",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3406",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3407",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3408",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3409",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3410",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3411",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3412",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3500",
+            "value": "デュエルが開始できませんでした。"
+        },
+        {
+            "key": "APP_ERROR_3501",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3502",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3503",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3504",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3600",
+            "value": "ガイダンスが見つかりません。"
+        },
+        {
+            "key": "APP_ERROR_3601",
+            "value": "ガイダンスが始められません。"
+        },
+        {
+            "key": "APP_ERROR_3602",
+            "value": "ガイダンスがすでに終わっています。"
+        },
+        {
+            "key": "APP_ERROR_3700",
+            "value": "不明なエラーです。"
+        },
+        {
+            "key": "APP_ERROR_3701",
+            "value": "ロック中です。"
+        },
+        {
+            "key": "APP_ERROR_3800",
+            "value": "招待コード発行に必要なプレイヤーRankに達していません。"
+        },
+        {
+            "key": "APP_ERROR_3801",
+            "value": "招待コード登録に必要なプレイヤーRankに達していません。"
+        },
+        {
+            "key": "APP_ERROR_3802",
+            "value": "相手の招待できる人数の上限に達しています。"
+        },
+        {
+            "key": "APP_ERROR_3803",
+            "value": "入力された招待コードが誤っています。"
+        },
+        {
+            "key": "APP_ERROR_3804",
+            "value": "すでに別の招待コードを登録済みです。"
+        },
+        {
+            "key": "APP_ERROR_5101",
+            "value": "バトルが開始できません。"
+        },
+        {
+            "key": "APP_ERROR_5102",
+            "value": "バトルが開始できません。"
+        },
+        {
+            "key": "APP_ERROR_5103",
+            "value": "編成コスト上限をオーバーしています。"
+        },
+        {
+            "key": "APP_ERROR_5104",
+            "value": "編成ユニット数上限をオーバーしています。"
+        },
+        {
+            "key": "APP_ERROR_5105",
+            "value": "挑戦できません。"
+        },
+        {
+            "key": "APP_ERROR_5106",
+            "value": "編成に戦闘不能ユニットが含まれています。"
+        },
+        {
+            "key": "APP_ERROR_5107",
+            "value": "バトルが再開できません。"
+        },
+        {
+            "key": "APP_ERROR_5108",
+            "value": "回復できません。"
+        },
+        {
+            "key": "APP_ERROR_5109",
+            "value": "最初から再挑戦できません。"
+        },
+        {
+            "key": "APP_ERROR_5110",
+            "value": "コンティニューできません。"
+        },
+        {
+            "key": "APP_ERROR_5111",
+            "value": "開催期間外です。"
+        },
+        {
+            "key": "APP_ERROR_5112",
+            "value": "編成ルールに違反しています。"
+        },
+        {
+            "key": "APP_ERROR_5201",
+            "value": "存在しないコードです。"
+        },
+        {
+            "key": "APP_ERROR_5202",
+            "value": "キャンペーンが期間外です。"
+        },
+        {
+            "key": "APP_ERROR_5203",
+            "value": "キャンペーン最大受取回数を超過しています。"
+        },
+        {
+            "key": "APP_ERROR_5204",
+            "value": "使用済みのシリアルコードです。"
+        },
+        {
+            "key": "APP_ERROR_5205",
+            "value": "無効なプラットフォームです。"
+        },
+        {
+            "key": "APP_ERROR_5300",
+            "value": "対象のパーティが不正です。"
+        },
+        {
+            "key": "APP_ERROR_5301",
+            "value": "行動数が足りません。"
+        },
+        {
+            "key": "APP_ERROR_5302",
+            "value": "パーティに変更がありました。更新して改めてお試しください。"
+        },
+        {
+            "key": "ALREADY_CONNECTED",
+            "value": "The account of this social platform is already bound to another player account."
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "SNS account limit reached"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "SNS account connection limit reached"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "SNS limit reached"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_TITLE",
+            "value": "Temporary Ban"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_TITLE",
+            "value": "Permanent Ban"
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_TEMP_MESSAGE",
+            "value": "Your account has been suspended until {0}, World Time (PST).<br><br>For details, please contact Customer Support through the Title Screen by tapping [Support] > [Inquiries]."
+        },
+        {
+            "key": "GL_ACCOUNT_BAN_PERMA_MESSAGE",
+            "value": "Your account has been suspended.<br><br>For details, please contact Customer Support through the Title Screen by tapping [Support] > [Inquiries]."
+        }
+    ]
+}

@@ -1,0 +1,584 @@
+{
+    "infos": [
+        {
+            "key": "COND_HA_LW_STRN",
+            "value": "Sterne Leonis doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ELDE",
+            "value": "Eldo Leonis doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ROBB",
+            "value": "Rob Hourne doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ENBT",
+            "value": "Engelbert doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ZIZA",
+            "value": "Xiza doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_AILN",
+            "value": "Aileen doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MDNA",
+            "value": "Mediena doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_AYKA",
+            "value": "Ayaka doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_HLNA",
+            "value": "Helena Leonis doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_LILS",
+            "value": "Lilyth doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_RAMD",
+            "value": "Ramada doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_OOOO",
+            "value": "Owe doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_LRNZ",
+            "value": "Lorenzo doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_RIRY",
+            "value": "Rairyuu doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_VSTR",
+            "value": "Vistral doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_CLEY",
+            "value": "Khory Wezett doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_KADI",
+            "value": "Cadia doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MRLK",
+            "value": "Marie-Luke doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MGRT",
+            "value": "Margritte doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_PRAY",
+            "value": "« Grâce » doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_BYLO",
+            "value": "Beilo doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_RYER",
+            "value": "Lillyla doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_SCIA",
+            "value": "Sosha doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_VRID",
+            "value": "Valaïde doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_NAIA",
+            "value": "Naiah doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_SRJS",
+            "value": "Serjes doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_UNII",
+            "value": "Yuni doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_SEVR",
+            "value": "Sévéro doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_VADM",
+            "value": "Vadim doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MURM",
+            "value": "« Murmure » doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_PHBE",
+            "value": "Phœbe doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_RART",
+            "value": "Learte doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MICE",
+            "value": "Michaé doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MIIA",
+            "value": "Mia doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ZZAN",
+            "value": "Zazan doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_SDLX",
+            "value": "Shadowlynx doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_FDRC",
+            "value": "Frederika doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_YERM",
+            "value": "Yelma doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_NASR",
+            "value": "Nasha doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MACR",
+            "value": "Machalie doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_FINA",
+            "value": "Fina doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_SZRT",
+            "value": "Schuzelt doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_GLMS",
+            "value": "Gilgamesh doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_WHIS",
+            "value": "« Chuchote » doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_KTON",
+            "value": "Kitone doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_MRND",
+            "value": "Miranda doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_DRND",
+            "value": "Dorando doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_VKTR",
+            "value": "Viktora doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "Saliah doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_LUCA",
+            "value": "Lu'Cia doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ADLD",
+            "value": "Adelard doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_RAIN",
+            "value": "Rain doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "Dario Hourne doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "Vinera Fennes doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_FF1_WROL",
+            "value": "Le Guerrier de la lumière doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "Seymore doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "Kilphe doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ORDR",
+            "value": "Oldoa doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "Raviesse doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "Delita doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "Agrias doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_IRDL",
+            "value": "Ildyra doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_ST_01",
+            "value": "Sterne (Chevalier déchu) doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_LSWL",
+            "value": "Lasswell doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_GRSR",
+            "value": "Graziella Wezett doit être au niv. 1"
+        },
+        {
+            "key": "COND_HA_LW_RRIR",
+            "value": "Loreila doit être au niv. 1"
+        },
+        {
+            "key": "COND_CH_LW_MONT",
+            "value": "Mont Leonis doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_STRN",
+            "value": "Sterne Leonis doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ELDE",
+            "value": "Eldo Leonis doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ROBB",
+            "value": "Rob Hourne doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ENBT",
+            "value": "Engelbert doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ZIZA",
+            "value": "Xiza doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_AILN",
+            "value": "Aileen doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MDNA",
+            "value": "Mediena doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_AYKA",
+            "value": "Ayaka doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_HLNA",
+            "value": "Helena Leonis doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_LILS",
+            "value": "Lilyth doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RAMD",
+            "value": "Ramada doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_OOOO",
+            "value": "Owe doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_LRNZ",
+            "value": "Lorenzo doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RIRY",
+            "value": "Rairyuu doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_VSTR",
+            "value": "Vistral doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_CLEY",
+            "value": "Khory Wezett doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_KADI",
+            "value": "Cadia doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MRLK",
+            "value": "Marie-Luke doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MGRT",
+            "value": "Margritte doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_PRAY",
+            "value": "« Grâce » doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_BYLO",
+            "value": "Beilo doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RYER",
+            "value": "Lillyla doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_SCIA",
+            "value": "Sosha doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_VRID",
+            "value": "Valaïde doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_NAIA",
+            "value": "Naiah doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_SRJS",
+            "value": "Serjes doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_UNII",
+            "value": "Yuni doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_SEVR",
+            "value": "Sévéro doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_VADM",
+            "value": "Vadim doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MURM",
+            "value": "« Murmure » doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_PHBE",
+            "value": "Phœbe doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RART",
+            "value": "Learte doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MICE",
+            "value": "Michaé doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MIIA",
+            "value": "Mia doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN",
+            "value": "Zazan doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_GLMS",
+            "value": "Gilgamesh doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_GLMS2",
+            "value": "Gilgamesh doit être au niv. 80"
+        },
+        {
+            "key": "COND_CH_FF14_YST",
+            "value": "Y'shtola doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FF14_TNC",
+            "value": "Thancred doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MACR",
+            "value": "Machalie doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_SZRT",
+            "value": "Schuzelt doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_FINA",
+            "value": "Fina doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_FDRC",
+            "value": "Frederika doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_SDLX",
+            "value": "Shadowlynx doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_YERM",
+            "value": "Yelma doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_NASR",
+            "value": "Nasha doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ETRE",
+            "value": "Éthéa doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_RAMZ",
+            "value": "Ramza doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_GFGR",
+            "value": "Gaffgarion doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_ORND",
+            "value": "Orlandeau doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_WHIS",
+            "value": "« Chuchote » doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_KTON",
+            "value": "Kitone doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_MRND",
+            "value": "Miranda doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_DRND",
+            "value": "Dorando doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_LUCA",
+            "value": "Lu'Cia doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ADLD",
+            "value": "Adelard doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "Saliah doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "Viktora doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "Fryevia doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "Rain doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "Dario Hourne doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "Vinera Fennes doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "Tyrrell doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "Le Guerrier de la lumière doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "Seymore doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "Kilphe doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ORDR",
+            "value": "Oldoa doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "Raviesse doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "Mustadio doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "Delita doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "Agrias doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_IRDL",
+            "value": "Ildyra doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_ST_01",
+            "value": "Sterne (Chevalier déchu) doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_LSWL",
+            "value": "Lasswell doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_GRSR",
+            "value": "Graziella Wezett doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RRIR",
+            "value": "Loreila doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RY_01",
+            "value": "Lillyla (Halloween) doit être au niv. 40"
+        },
+        {
+            "key": "COND_CH_LW_RI_01",
+            "value": "Rairyuu (Halloween) doit être au niv. 40"
+        }
+    ]
+}

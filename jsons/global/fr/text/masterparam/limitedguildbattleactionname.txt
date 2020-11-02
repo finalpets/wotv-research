@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "LGBA_001",
+            "value": "Éclaireur"
+        },
+        {
+            "key": "LGBA_002",
+            "value": "Ravitaillement"
+        },
+        {
+            "key": "LGBA_003",
+            "value": "Lancement"
+        }
+    ]
+}

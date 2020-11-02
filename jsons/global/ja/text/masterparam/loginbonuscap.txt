@@ -1,0 +1,136 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "初心者ログインボーナス"
+        },
+        {
+            "key": "LB_BEGINNER_002",
+            "value": "初心者ログインボーナス"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "累計ログインボーナス"
+        },
+        {
+            "key": "LB_202003",
+            "value": "3月ログインボーナス"
+        },
+        {
+            "key": "LB_202004",
+            "value": "4月ログインボーナス"
+        },
+        {
+            "key": "LB_202005",
+            "value": "5月ログインボーナス"
+        },
+        {
+            "key": "LB_202006",
+            "value": "6月ログインボーナス"
+        },
+        {
+            "key": "LB_202007",
+            "value": "7月ログインボーナス"
+        },
+        {
+            "key": "LB_202008",
+            "value": "8月ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "Release Commemoration"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "100万DL記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "200万DL記念ログインボーナス"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "カムバックログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "FFTコラボ記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "300万DL記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "300万DL記念ログインボーナス 第2弾"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "400万DL記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "ストーリー6章公開記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "500万DL記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "500万DL記念ログインボーナス 第2弾"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "バージョンアップ記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0008",
+            "value": "レイドリリース記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0009",
+            "value": "アーリーサマー記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0010",
+            "value": "MOBIUS FINALFANTASYコラボログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0011",
+            "value": "FF EXVIUS ユニバースログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0012",
+            "value": "FF EXVIUS ユニバースログインボーナス第2弾"
+        },
+        {
+            "key": "LB_LIMIT_GL0013",
+            "value": "ギルド応援キャンペーン ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0014",
+            "value": "FF EXVIUS ユニバースマイルストーンログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0015",
+            "value": "レイド記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0016",
+            "value": "FFⅠコラボログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0017",
+            "value": "FF1コラボログインボーナス第2弾"
+        },
+        {
+            "key": "LB_LIMIT_GL0018",
+            "value": "ストーリー8章公開記念ログインボーナス"
+        },
+        {
+            "key": "LB_LIMIT_GL0019",
+            "value": "大型バージョンアップ記念ログインボーナス"
+        }
+    ]
+}

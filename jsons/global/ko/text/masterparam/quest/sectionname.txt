@@ -1,0 +1,732 @@
+{
+    "infos": [
+        {
+            "key": "SE_ST_010101",
+            "value": "제1부 제1장 제1절"
+        },
+        {
+            "key": "SE_ST_010102",
+            "value": "제1부 제1장 제2절"
+        },
+        {
+            "key": "SE_ST_010103",
+            "value": "제1부 제1장 제3절"
+        },
+        {
+            "key": "SE_ST_010201",
+            "value": "제1부 제2장 제1절"
+        },
+        {
+            "key": "SE_ST_010202",
+            "value": "제1부 제2장 제2절"
+        },
+        {
+            "key": "SE_ST_010203",
+            "value": "제1부 제2장 제3절"
+        },
+        {
+            "key": "SE_ST_010301",
+            "value": "제1부 제3장 제1절"
+        },
+        {
+            "key": "SE_ST_010302",
+            "value": "제1부 제3장 제2절"
+        },
+        {
+            "key": "SE_ST_010303",
+            "value": "제1부 제3장 제3절"
+        },
+        {
+            "key": "SE_ST_010401",
+            "value": "제1부 제4장 제1절"
+        },
+        {
+            "key": "SE_ST_010402",
+            "value": "제1부 제4장 제2절"
+        },
+        {
+            "key": "SE_ST_010403",
+            "value": "제1부 제4장 제3절"
+        },
+        {
+            "key": "SE_ST_010501",
+            "value": "제1부 제5장 제1절"
+        },
+        {
+            "key": "SE_ST_010502",
+            "value": "제1부 제5장 제2절"
+        },
+        {
+            "key": "SE_ST_010503",
+            "value": "제1부 제5장 제3절"
+        },
+        {
+            "key": "SE_ST_010601",
+            "value": "제1부 제6장 제1절"
+        },
+        {
+            "key": "SE_ST_010602",
+            "value": "제1부 제6장 제2절"
+        },
+        {
+            "key": "SE_ST_010603",
+            "value": "제1부 제6장 제3절"
+        },
+        {
+            "key": "SE_ST_010701",
+            "value": "제1부 제7장 제1절"
+        },
+        {
+            "key": "SE_ST_010702",
+            "value": "제1부 제7장 제2절"
+        },
+        {
+            "key": "SE_ST_010703",
+            "value": "제1부 제7장 제3절"
+        },
+        {
+            "key": "SE_ST_010801",
+            "value": "제1부 제8장 제1절"
+        },
+        {
+            "key": "SE_ST_010802",
+            "value": "제1부 제8장 제2절"
+        },
+        {
+            "key": "SE_ST_010803",
+            "value": "제1부 제8장 제3절"
+        },
+        {
+            "key": "SE_ST_010901",
+            "value": "제1부 제9장 제1절"
+        },
+        {
+            "key": "SE_ST_010902",
+            "value": "제1부 제9장 제2절"
+        },
+        {
+            "key": "SE_ST_010903",
+            "value": "제1부 제9장 제3절"
+        },
+        {
+            "key": "SE_WD_010101",
+            "value": "레온즈 대삼림"
+        },
+        {
+            "key": "SE_WD_010102",
+            "value": "레오니스 성"
+        },
+        {
+            "key": "SE_WD_010103",
+            "value": "소기 산"
+        },
+        {
+            "key": "SE_WD_010104",
+            "value": "레온즈 가도"
+        },
+        {
+            "key": "SE_WD_010105",
+            "value": "사자 사당"
+        },
+        {
+            "key": "SE_WD_010106",
+            "value": "북 심버즈 평원"
+        },
+        {
+            "key": "SE_WD_010107",
+            "value": "남 심버즈 평원"
+        },
+        {
+            "key": "SE_WD_010108",
+            "value": "리달 산맥"
+        },
+        {
+            "key": "SE_WD_010109",
+            "value": "자나갈 요새"
+        },
+        {
+            "key": "SE_WD_010110",
+            "value": "라시나 숲"
+        },
+        {
+            "key": "SE_WD_010201",
+            "value": "시클 요새"
+        },
+        {
+            "key": "SE_WD_010202",
+            "value": "얌 동굴"
+        },
+        {
+            "key": "SE_WD_010203",
+            "value": "하얀 늑대 사당"
+        },
+        {
+            "key": "SE_WD_010204",
+            "value": "올마 마을"
+        },
+        {
+            "key": "SE_WD_010205",
+            "value": "웨젯 성"
+        },
+        {
+            "key": "SE_WD_010206",
+            "value": "에바나 설원"
+        },
+        {
+            "key": "SE_WD_010207",
+            "value": "유자유라 설원"
+        },
+        {
+            "key": "SE_SB_01",
+            "value": "강적의 방"
+        },
+        {
+            "key": "SE_SB_02",
+            "value": "철거인 도전"
+        },
+        {
+            "key": "SE_MU_SB_02",
+            "value": "철거인 도전"
+        },
+        {
+            "key": "SE_SB_03",
+            "value": "초코 푸딩 도전"
+        },
+        {
+            "key": "SE_MU_SB_03",
+            "value": "초코 푸딩 도전"
+        },
+        {
+            "key": "SE_SB_04",
+            "value": "오츄 도전"
+        },
+        {
+            "key": "SE_MU_SB_04",
+            "value": "오츄 도전"
+        },
+        {
+            "key": "SE_SB_05",
+            "value": "이프리트 도전"
+        },
+        {
+            "key": "SE_MU_SB_05",
+            "value": "이프리트 도전"
+        },
+        {
+            "key": "SE_EV_UNITEXP_01",
+            "value": "경험의 방"
+        },
+        {
+            "key": "SE_EV_GIL_01",
+            "value": "금전의 방"
+        },
+        {
+            "key": "SE_EV_AFEXP_01",
+            "value": "광석의 방"
+        },
+        {
+            "key": "SE_EV_VCEXP_01",
+            "value": "그로우 에그 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_WAEXP_01",
+            "value": "포트 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_AW_FIRE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_WIND",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_WATER",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_ICE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_SOIL",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_DARK",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_THUN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_AW_SHIN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_EV_SM_FIRE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_WTR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_WIND_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_EAR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_THUN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_ICE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_DARK_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_SM_SHIN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_01",
+            "value": "(임시)고레벨 재료의 방"
+        },
+        {
+            "key": "SE_EV_GIL",
+            "value": "금전의 방"
+        },
+        {
+            "key": "SE_EV_AFEXP",
+            "value": "광석의 방"
+        },
+        {
+            "key": "SE_BGN_QUEST",
+            "value": "초보자 퀘스트"
+        },
+        {
+            "key": "SE_EV_GL_1M_DL",
+            "value": "100만 다운로드 기념 퀘스트"
+        },
+        {
+            "key": "SE_EV_FF14_01",
+            "value": "파이널판타지14 칠흑의 반역자"
+        },
+        {
+            "key": "SE_EV_FF14_EX_01",
+            "value": "파이널판타지14 칠흑의 반역자 [EX]"
+        },
+        {
+            "key": "SE_EV_ETRE",
+            "value": "에트와 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_ETRE_EX",
+            "value": "고난도 에트와 육성 EX 퀘스트"
+        },
+        {
+            "key": "SE_EV_01_01",
+            "value": "동경하는 왕자님"
+        },
+        {
+            "key": "SE_EV_01_EX_01",
+            "value": "동경하는 왕자님"
+        },
+        {
+            "key": "SE_MU_EV_01_EX",
+            "value": "동경하는 왕자님 [EX]"
+        },
+        {
+            "key": "SE_EV_02_01",
+            "value": "서쪽의 위협 런달"
+        },
+        {
+            "key": "SE_EV_02_EX_01",
+            "value": "서쪽의 위협 런달"
+        },
+        {
+            "key": "SE_MU_EV_02_EX",
+            "value": "서쪽의 위협 런달 [EX]"
+        },
+        {
+            "key": "SE_EV_03_01",
+            "value": "생명을 불사르기 위해"
+        },
+        {
+            "key": "SE_EV_03_EX_01",
+            "value": "생명을 불사르기 위해 [EX]"
+        },
+        {
+            "key": "SE_EV_04_01",
+            "value": "머나먼 동방"
+        },
+        {
+            "key": "SE_EV_04_EX_01",
+            "value": "머나먼 동방 [EX]"
+        },
+        {
+            "key": "SE_MU_EV_03_EX",
+            "value": "생명을 불사르기 위해 [EX] 멀티"
+        },
+        {
+            "key": "SE_MU_EV_04_EX",
+            "value": "머나먼 동방 [EX] 멀티"
+        },
+        {
+            "key": "SE_EV_05_01",
+            "value": "고우가와 사이가 전편"
+        },
+        {
+            "key": "SE_EV_05_EX_01",
+            "value": "고우가와 사이가 전편 [EX]"
+        },
+        {
+            "key": "SE_MU_EV_05_EX",
+            "value": "고우가와 사이가 전편 [EX] 멀티"
+        },
+        {
+            "key": "SE_EV_SBEXP_01",
+            "value": "마석 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_ANV_19_10",
+            "value": "출시 기념 퀘스트"
+        },
+        {
+            "key": "SE_EV_GL_2M_DL",
+            "value": "200만 다운로드 기념 JP 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_GL_3M_DL",
+            "value": "300만 다운로드 기념 퀘스트"
+        },
+        {
+            "key": "SE_MU_AW_FIRE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_WIND",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_WATER",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_ICE",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_SOIL",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_DARK",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_THUN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_AW_SHIN",
+            "value": "(임시) 직업 강화 속성 재료의 방"
+        },
+        {
+            "key": "SE_MU_SM_FIRE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_WTR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_WIND_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_EAR_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_THUN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_ICE_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_DARK_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_SM_SHIN_01",
+            "value": "소환수 각성의 방"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_01",
+            "value": "(임시)고레벨 재료의 방"
+        },
+        {
+            "key": "SE_MU_EV_ETRE_EX",
+            "value": "고난도 에트와 육성 EX 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_ART_CRF_01",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_FFT_01",
+            "value": "FINAL FANTASY TACTICS 콜라보 퀘스트"
+        },
+        {
+            "key": "SE_EV_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_MU_FFT_01_EX",
+            "value": "FINAL FANTASY TACTICS 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_EV_FFT_02_01",
+            "value": "FINAL FANTASY TACTICS 콜라보 제2탄 이벤트 퀘스트"
+        },
+        {
+            "key": "SE_EV_FFT_02_EX",
+            "value": "FINAL FANTASY TACTICS 콜라보 제2탄 이벤트 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_MU_FFT_02_EX",
+            "value": "FINAL FANTASY TACTICS 콜라보 제2탄 이벤트 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_EV_ART_SCR_00",
+            "value": "고난도 비전서 획득 퀘스트"
+        },
+        {
+            "key": "SE_MU_EV_SCR_00",
+            "value": "고난도 비전서 획득 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_ART_SCR_01",
+            "value": "고난도 비전서 획득 퀘스트"
+        },
+        {
+            "key": "SE_MU_EV_SCR_01",
+            "value": "고난도 비전서 획득 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_JP_001",
+            "value": "JP 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_ART_CRF_02",
+            "value": "초고난도 장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_MU_ART_CRF_02",
+            "value": "초고난도 장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_ART_CRF_03",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_MU_ART_CRF_03",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_ART_CRF_04",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_MU_ART_CRF_04",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_EV_ART_SCR_02",
+            "value": "고난도 비전서 획득 퀘스트"
+        },
+        {
+            "key": "SE_MU_EV_SCR_02",
+            "value": "고난도 비전서 획득 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_BEGN_2001",
+            "value": "유닛 육성 응원 퀘스트"
+        },
+        {
+            "key": "SE_EV_LSWL_01",
+            "value": "한정 하드 퀘스트(라스웰)"
+        },
+        {
+            "key": "SE_EV_GRSR_01",
+            "value": "한정 하드 퀘스트(그라시엘라 웨젯)"
+        },
+        {
+            "key": "SE_EV_DELT_01",
+            "value": "한정 하드 퀘스트(딜리타)"
+        },
+        {
+            "key": "SE_EV_AGRA_01",
+            "value": "한정 하드 퀘스트(아그리아스)"
+        },
+        {
+            "key": "SE_EV_RAIN_01",
+            "value": "한정 하드 퀘스트(레인)"
+        },
+        {
+            "key": "SE_EV_VKTR_01",
+            "value": "한정 하드 퀘스트(빅토라)"
+        },
+        {
+            "key": "SE_EV_THLA",
+            "value": " '살리아의 조각' 획득 퀘스트"
+        },
+        {
+            "key": "SE_EV_THLA_EX",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트"
+        },
+        {
+            "key": "SE_MU_EV_THLA_EX",
+            "value": "고난도 '살리아의 조각' 획득 EX 퀘스트 멀티"
+        },
+        {
+            "key": "SE_EV_VNLA_01",
+            "value": "한정 하드 퀘스트(비네라 페네스)"
+        },
+        {
+            "key": "SE_EV_WROL_01",
+            "value": "한정 하드 퀘스트(빛의 전사)"
+        },
+        {
+            "key": "SE_EV_QILF_01",
+            "value": "한정 하드 퀘스트(키르페)"
+        },
+        {
+            "key": "SE_EV_ORDR_01",
+            "value": "한정 하드 퀘스트(오르도아)"
+        },
+        {
+            "key": "SE_EV_IRDL_01",
+            "value": "한정 하드 퀘스트(일디라)"
+        },
+        {
+            "key": "SE_EV_STRN_01",
+            "value": "한정 하드 퀘스트(슈텔(파멸의 기사))"
+        },
+        {
+            "key": "SE_EV_ARENA_1",
+            "value": "결투장 모의전"
+        },
+        {
+            "key": "SE_EV_GL_FFEXU_01",
+            "value": "FF EXVIUS Universe 퀘스트"
+        },
+        {
+            "key": "SE_EV_NEWMAP_001",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_EV_NEWMAP_002",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_EV_NEWMAP_003",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_EV_NEWMAP_004",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_EV_GL_NMAP_001",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_EV_FF1_01",
+            "value": "FINAL FANTASY I 콜라보 퀘스트"
+        },
+        {
+            "key": "SE_EV_FF1_01_EX",
+            "value": "FINAL FANTASY I 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_MU_FF1_01_EX",
+            "value": "FINAL FANTASY I 콜라보 퀘스트 [EX]"
+        },
+        {
+            "key": "SE_CHAL_01",
+            "value": "도전 퀘스트"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_02",
+            "value": "수련의 방(노랑)"
+        },
+        {
+            "key": "SE_EV_AW_HIGH_03",
+            "value": "수련의 방(빨강)"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_02",
+            "value": "수련의 방(노랑)"
+        },
+        {
+            "key": "SE_MU_AW_HIGH_03",
+            "value": "수련의 방(빨강)"
+        },
+        {
+            "key": "SE_EV_GL_CDOWN_01_9",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_GL_CDOWN_01_8",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_CDOWN_01_1",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_CDOWN_01_2",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_CDOWN_01_3",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_CDOWN_01_4",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_CDOWN_01_5",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_CDOWN_01_6",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_EV_CDOWN_01_7",
+            "value": "출시 6개월 기념 카운트다운 퀘스트"
+        },
+        {
+            "key": "SE_PTQ_0001",
+            "value": "심판의 시련"
+        },
+        {
+            "key": "SE_EV_GL_TWCQ",
+            "value": "백자탑 개최 기념 퀘스트"
+        }
+    ]
+}

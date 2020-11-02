@@ -1,0 +1,120 @@
+{
+    "infos": [
+        {
+            "key": "Battle1",
+            "value": "バトル１"
+        },
+        {
+            "key": "Battle2",
+            "value": "バトル２"
+        },
+        {
+            "key": "Gacha",
+            "value": "ガチャ"
+        },
+        {
+            "key": "Quest",
+            "value": "クエスト"
+        },
+        {
+            "key": "ChallengeMission",
+            "value": "チャレンジミッション"
+        },
+        {
+            "key": "UnitStrength",
+            "value": "ユニットの強化"
+        },
+        {
+            "key": "UnitAwake",
+            "value": "覚醒と限界突破"
+        },
+        {
+            "key": "ArtifactCraft",
+            "value": "武具のクラフト"
+        },
+        {
+            "key": "EventQuest",
+            "value": "イベントクエスト"
+        },
+        {
+            "key": "VisionCard",
+            "value": "ビジョンカード"
+        },
+        {
+            "key": "ExplorationChocobo",
+            "value": "探検チョコボ・召喚獣"
+        },
+        {
+            "key": "Party",
+            "value": "出撃編成"
+        },
+        {
+            "key": "MultiQuest",
+            "value": "マルチクエスト"
+        },
+        {
+            "key": "Arena",
+            "value": "アリーナ"
+        },
+        {
+            "key": "FreeMatch",
+            "value": "フリーマッチ・フレンドマッチ"
+        },
+        {
+            "key": "GuildJoin",
+            "value": "ギルドへの加入と設立"
+        },
+        {
+            "key": "GuildAttendance",
+            "value": "ギルド機能１"
+        },
+        {
+            "key": "GuildBarracks",
+            "value": "ギルド機能２"
+        },
+        {
+            "key": "GuildStone",
+            "value": "ギルド機能３"
+        },
+        {
+            "key": "GuildBattle",
+            "value": "ギルドバトル"
+        },
+        {
+            "key": "UnitIntimacy",
+            "value": "親密度"
+        },
+        {
+            "key": "SubQuest",
+            "value": "サブクエスト"
+        },
+        {
+            "key": "Unitsubjob",
+            "value": "サブジョブ"
+        },
+        {
+            "key": "HardQuest",
+            "value": "ハードクエスト"
+        },
+        {
+            "key": "NetherBeast",
+            "value": "召喚獣"
+        },
+        {
+            "key": "CharaQuest",
+            "value": "キャラクエスト"
+        },
+        {
+            "key": "Tower",
+            "value": "タワー"
+        },
+        {
+            "key": "ItemExchange",
+            "value": "交換所"
+        },
+        {
+            "key": "SupportUnit",
+            "value": "同行者設定"
+        }
+    ]
+}

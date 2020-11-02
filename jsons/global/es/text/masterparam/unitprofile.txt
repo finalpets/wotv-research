@@ -1,0 +1,2216 @@
+{
+    "infos": [
+        {
+            "key": "UN_LW_P_MONT",
+            "value": "El Destinado"
+        },
+        {
+            "key": "UN_LW_P_STRN",
+            "value": "El Predestinado"
+        },
+        {
+            "key": "UN_LW_P_ELDE",
+            "value": "El Leonarca Rojo"
+        },
+        {
+            "key": "UN_LW_P_ROBB",
+            "value": "El Sabio Valeroso"
+        },
+        {
+            "key": "UN_LW_P_ENBT",
+            "value": "El Guardián de Acero"
+        },
+        {
+            "key": "UN_LW_P_ZIZA",
+            "value": "La Guerrera Devota"
+        },
+        {
+            "key": "UN_LW_P_AILN",
+            "value": "La Armera Fiel"
+        },
+        {
+            "key": "UN_LW_P_MDNA",
+            "value": "La Bruja Eterna"
+        },
+        {
+            "key": "UN_LW_P_AYKA",
+            "value": "La Maga Blanca Astuta"
+        },
+        {
+            "key": "UN_LW_P_MACR",
+            "value": "La Doncella de Acero"
+        },
+        {
+            "key": "UN_LW_P_HLNA",
+            "value": "La Reina Benévola"
+        },
+        {
+            "key": "UN_LW_P_LILS",
+            "value": "El Azote Bélico"
+        },
+        {
+            "key": "UN_LW_P_RAMD",
+            "value": "La Lancera Clarividente"
+        },
+        {
+            "key": "UN_LW_P_OOOO",
+            "value": "El Maestro de Esgrima"
+        },
+        {
+            "key": "UN_LW_P_LRNZ",
+            "value": "El Draconarius Soberbio"
+        },
+        {
+            "key": "UN_LW_P_RIRY",
+            "value": "El Asesino del Infierno"
+        },
+        {
+            "key": "UN_LW_P_VSTR",
+            "value": "El Extraño del Apocalipsis"
+        },
+        {
+            "key": "UN_LW_P_CLEY",
+            "value": "El Déspota Altivo"
+        },
+        {
+            "key": "UN_LW_P_KADI",
+            "value": "La Bendición de Spirare"
+        },
+        {
+            "key": "UN_LW_P_MRLK",
+            "value": "La Luchadora Relámpago"
+        },
+        {
+            "key": "UN_LW_P_MGRT",
+            "value": "La Libertadora"
+        },
+        {
+            "key": "UN_LW_P_PRAY",
+            "value": "La Adoradora Blanca"
+        },
+        {
+            "key": "UN_LW_P_SZRT",
+            "value": "El Intrépido"
+        },
+        {
+            "key": "UN_LW_P_FINA",
+            "value": "La Joven Amnésica"
+        },
+        {
+            "key": "UN_LW_P_BYLO",
+            "value": "El Cachorro"
+        },
+        {
+            "key": "UN_LW_P_RYER",
+            "value": "La Esgrimaga Ingenua"
+        },
+        {
+            "key": "UN_LW_P_SCIA",
+            "value": "La Dragontina Endemoniada"
+        },
+        {
+            "key": "UN_LW_P_VRID",
+            "value": "El Mago Idealista"
+        },
+        {
+            "key": "UN_LW_P_NAIA",
+            "value": "La Maga Blanca Efímera"
+        },
+        {
+            "key": "UN_LW_P_SRJS",
+            "value": "El Lancero Sincero"
+        },
+        {
+            "key": "UN_LW_P_UNII",
+            "value": "El Cazador Virtuoso"
+        },
+        {
+            "key": "UN_LW_P_SEVR",
+            "value": "El Mago Negro Intachable"
+        },
+        {
+            "key": "UN_LW_P_VADM",
+            "value": "El Pícaro del Loto"
+        },
+        {
+            "key": "UN_LW_P_MURM",
+            "value": "La Saqueadora Blanca"
+        },
+        {
+            "key": "UN_LW_P_PHBE",
+            "value": "La Doncella Afligida"
+        },
+        {
+            "key": "UN_LW_P_RART",
+            "value": "La Arquera Soñadora"
+        },
+        {
+            "key": "UN_LW_P_MICE",
+            "value": "El Restaurador"
+        },
+        {
+            "key": "UN_LW_P_MIIA",
+            "value": "La Hoja Inmaculada"
+        },
+        {
+            "key": "UN_LW_P_ZZAN",
+            "value": "El Rebanacuellos Inmortal"
+        },
+        {
+            "key": "UN_LW_P_GLMS",
+            "value": "El Alado"
+        },
+        {
+            "key": "UN_FF14_P_YSTL",
+            "value": "La Maga de la Noche"
+        },
+        {
+            "key": "UN_FF14_P_TNCR",
+            "value": "El Guardián del Oráculo"
+        },
+        {
+            "key": "UN_LW_P_FDRC",
+            "value": "La Pistolera Enamorada"
+        },
+        {
+            "key": "UN_LW_P_SDLX",
+            "value": "La Sombra Solitaria"
+        },
+        {
+            "key": "UN_LW_P_YERM",
+            "value": "El Tornado Escarlata"
+        },
+        {
+            "key": "UN_LW_P_NASR",
+            "value": "La Caballera Desorientada"
+        },
+        {
+            "key": "UN_LW_P_ETRE",
+            "value": "La Monja del Sol"
+        },
+        {
+            "key": "UN_FFT_P_RAMZ",
+            "value": "El Señorito de la Casa Beoulve"
+        },
+        {
+            "key": "UN_FFT_P_GFGR",
+            "value": "El Mercenario Habilidoso"
+        },
+        {
+            "key": "UN_FFT_P_ORND",
+            "value": "Cid, el Dios del Trueno"
+        },
+        {
+            "key": "UN_LW_P_WHIS",
+            "value": "La Jueza Blanca"
+        },
+        {
+            "key": "UN_LW_P_KTON",
+            "value": "La Flor de la Noche"
+        },
+        {
+            "key": "UN_LW_P_MRND",
+            "value": "La Torbellino Carmesí"
+        },
+        {
+            "key": "UN_LW_P_DRND",
+            "value": "El Desenfrenado"
+        },
+        {
+            "key": "UN_LW_P_LUCA",
+            "value": "La Gatillo Fácil"
+        },
+        {
+            "key": "UN_LW_P_ADLD",
+            "value": "El Diablo Bermellón"
+        },
+        {
+            "key": "UN_LW_P_MURG",
+            "value": "El Rey de los Salvajes"
+        },
+        {
+            "key": "UN_LW_P_VKTR",
+            "value": "La Dragontina Refinada"
+        },
+        {
+            "key": "UN_LW_P_THLA",
+            "value": "La Maga Negra Ingenua"
+        },
+        {
+            "key": "UN_LW_P_RAIN",
+            "value": "Alma Abrasante"
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "La Esgrimaga Elegante"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Luna Oscura"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "El Erudito Nervioso"
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": "El Escudito"
+        },
+        {
+            "key": "UN_FF1_P_WROL",
+            "value": "El Elegido del Cristal"
+        },
+        {
+            "key": "UN_LW_P_QILF",
+            "value": "La Bellaca Silenciosa"
+        },
+        {
+            "key": "UN_LW_P_SIMR",
+            "value": "El Espadachín Beodo"
+        },
+        {
+            "key": "UN_LW_P_ORDR",
+            "value": "La Demonia"
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "La Paladina Náufraga "
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "La Caballera Fiel"
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "El Sin Nada"
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "El Maestro Maquinista"
+        },
+        {
+            "key": "UN_LW_P_IRDL",
+            "value": "La Maestra de la Aritmética"
+        },
+        {
+            "key": "UN_LW_P_STRN_01",
+            "value": "El Resentido"
+        },
+        {
+            "key": "UN_LW_P_LSWL",
+            "value": "Espíritu Calmado"
+        },
+        {
+            "key": "UN_LW_P_GRSR",
+            "value": "La Punta de Lanza de la Rebelión"
+        },
+        {
+            "key": "UN_LW_P_RRIR",
+            "value": "La Erudita de los Vínculos"
+        },
+        {
+            "key": "UN_LW_P_RYER_01",
+            "value": "Hallowlili"
+        },
+        {
+            "key": "UN_LW_P_RIRY_01",
+            "value": "El Rebanacuellos Disfrazado"
+        },
+        {
+            "key": "UN_LW_P_HWLT",
+            "value": "El Noble Errante"
+        },
+        {
+            "key": "UN_LW_E_IRDL",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_MONT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_LILS",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RAMD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_STRN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SZRT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_MACR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_MURG",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ADLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_THLA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_HLNA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SDLX",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_GRGS",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_OOOO",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RIRY",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_VSTR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_CLEY",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_YERM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_NASR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ETRE",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ZIZA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_FDRC",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ELDE",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ZZAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_STRN_01",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_STRN_01_TO",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_DRND",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SRJS",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_UNII",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SEVR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_GRSR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_CMLO",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_LUCA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_WHIS",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_KTON",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_DRZA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RART",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RRIR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_VKTR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_GLMS",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_BYLO",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RYER",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_MURM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_MRND",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_DRIO",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_RU_01_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_02_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_02_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_RU_01_DRG",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_01",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_02",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_02_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_02_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_DRG",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_CLR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_BLM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_WHM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_TIM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_GRM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_RDM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_RDM_RAID",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TH_00_THI_RA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_04_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_00_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_DRG",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_02_RDM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_01",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_01_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_01_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_01_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_01_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_04_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_03_VIK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_00_BLM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_00_WHM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_00_NIN_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_00_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_01_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_02_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_03_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_04",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_BM_00",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_WM_00",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_TM_00",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_NJ_00",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_NJ_01",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_01_RDM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_BLM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_WHM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_TIM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_PR_02_TIM_2",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_OGRE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_OGRE_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_OGRE_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BOMB",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BOMB_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BOMB_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_MABR",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_MABR_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_MABR_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_MABR_03",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_WOLF",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_WOLF_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_WOLF_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_WOLF_02_RA",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ZUUU",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ZUUU_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ZUUU_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SKEL",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SKEL_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SKEL_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ARMN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ARMN_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ARMN_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM_03",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM_04",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM_05",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM_06",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ELEM_07",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_LAMA",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_LAMA_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_LAMA_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_FF14_RAID",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_FF14BOSS",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FF14_E_YSTL",
+            "value": ""
+        },
+        {
+            "key": "UN_FF14_E_TNCR",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CHCB",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FFT_E_CHCB_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FFT_E_CHCB1",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FFT_E_CCLI",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FFT_E_RAMZ",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FFT_E_GFGR",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FFT_E_MSTD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_FFT_E_AGRA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_QE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_01_QE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_2",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_IGNT_BLM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_BHMT",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BHMT_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BHMT_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_GLSP",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_CACT",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_CACT_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_CACT_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IFRT",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IFRT_QE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SIRE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SHIV",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_RAMU",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_GLEM",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ODIN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_TSLP",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_OCHU",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SLIM",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_CSLI",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_CSLI_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_00_BLM_RA",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_E_CACT_03",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_CACT_RAID",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IFRT_RAID",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BHMT_01_RAID",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_TNBR",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_TNBR_RAID",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_THDG",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_THDG_PT_NO",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_THDG_PT_HA",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IFRT_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ODIN_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SIRE_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_SHIV_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_RAMU_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_GLEM_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_IGNT_SIREN2",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_MABR_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BHMT_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_TSLP_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_OCHU_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_THDG_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_FF01_E_WRMC_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_MDFY",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_MDFY_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_ENBT",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_YERM_2",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_OCHU_QE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_FNRR",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_FNRR_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_TITN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_TITN_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_BLMN_SIREN",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "El Señorito de la Casa Beoulve"
+        },
+        {
+            "key": "UN_LW_E_IRDL_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VKTR_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AYKA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMD_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELDE_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GRSR_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LSWL_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_HLNA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RYER_01_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MONT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_STRN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_RAMD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_BOMB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_ZUUU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MACR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_SZRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_BHMT",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_TU_WOLF",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_BGN_MONT",
+            "value": "El Destinado"
+        },
+        {
+            "key": "UN_LW_BGN_STRN",
+            "value": "El Predestinado"
+        },
+        {
+            "key": "UN_LW_BGN_ELDE",
+            "value": "El Leonarca Rojo"
+        },
+        {
+            "key": "UN_LW_BGN_RAMD",
+            "value": "La Lancera Clarividente"
+        },
+        {
+            "key": "UN_LW_BGN_LILS",
+            "value": "El Azote Bélico"
+        },
+        {
+            "key": "UN_LW_BGN_BYLO",
+            "value": "El Cachorro"
+        },
+        {
+            "key": "UN_LW_BGN_AILN",
+            "value": "La Armera Fiel"
+        },
+        {
+            "key": "UN_LW_BGN_LRNZ",
+            "value": "El Draconarius Soberbio"
+        },
+        {
+            "key": "UN_LW_BGN_MDNA",
+            "value": "Archimago"
+        },
+        {
+            "key": "UN_LW_BGN_KTON",
+            "value": "La Flor de la Noche"
+        },
+        {
+            "key": "UN_LW_BGN_RART",
+            "value": "La Arquera Soñadora"
+        },
+        {
+            "key": "UN_LW_BGN_AYKA",
+            "value": "Mago blanco"
+        },
+        {
+            "key": "UN_LW_BGN_MACR",
+            "value": "La Doncella de Acero"
+        },
+        {
+            "key": "UN_LW_BGN_MICE",
+            "value": "El Restaurador"
+        },
+        {
+            "key": "UN_LW_BGN_SEVR",
+            "value": "El Mago Negro Intachable"
+        },
+        {
+            "key": "UN_LW_BGN_TH_02_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_THI",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_HUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_GUN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_WAR",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_PLD",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_KNT",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_SWN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_MNK",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_LAN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_SAM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_NIN",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_BLM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_WHM",
+            "value": "Enemigo/PNJ"
+        },
+        {
+            "key": "UN_LW_BGN_OGRE",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_BGN_OGRE_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_BGN_OGRE_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU_01",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU_02",
+            "value": "Enemigo"
+        },
+        {
+            "key": "UN_LW_U_TOAD",
+            "value": "Estado alterado"
+        },
+        {
+            "key": "UN_LW_U_CHKN",
+            "value": "Estado alterado"
+        },
+        {
+            "key": "UN_LW_U_CHCB",
+            "value": "Chocobo"
+        },
+        {
+            "key": "UN_LW_S_IFRT",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_IFRT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IFRT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_GLEM",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_GLEM_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_GLEM_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SIRE",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_SIRE_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SIRE_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IGNT",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_IGNT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IGNT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BHMT",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_BHMT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BHMT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MABR",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_MABR_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MABR_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_CACT",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_CACT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_CACT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ARMN_01",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_ARMN_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ARMN_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ZUUU",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_ZUUU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ZUUU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OGRE",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_OGRE_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OGRE_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BOMB",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_BOMB_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BOMB_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SHIV",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_SHIV_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SHIV_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_RAMU",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_RAMU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_RAMU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_LAMA_01",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_LAMA_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_LAMA_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TSLP",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_TSLP_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TSLP_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_THDG_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_DABL_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MDFY",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_MDFY_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MDFY_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_FNRR",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_FNRR_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_FNRR_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TITN",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_TITN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TITN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BLMN",
+            "value": "Esper"
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TREASURE",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_CRYSTAL",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_CRYSTAL_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_02",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_03",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_KATA",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED_FIRE",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED_ATK",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_02",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_OPOT_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_FIRE_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_KENZAN_01",
+            "value": ""
+        }
+    ]
+}

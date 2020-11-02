@@ -1,0 +1,44 @@
+{
+    "infos": [
+        {
+            "key": "EX_AW_VBALL",
+            "value": "Esfera de visión o fragmento de la memoria arcoíris"
+        },
+        {
+            "key": "EX_UN_AW",
+            "value": "Prisma del despertar elemental"
+        },
+        {
+            "key": "EX_PI_COM",
+            "value": "Fragmento de la memoria elemental"
+        },
+        {
+            "key": "EX_UN_AW_2_6",
+            "value": "Alma del despertar elemental"
+        },
+        {
+            "key": "EX_JB_ELM",
+            "value": "Alcrist elemental"
+        },
+        {
+            "key": "EX_JB_IM_A",
+            "value": "Estatua de ángel devoto"
+        },
+        {
+            "key": "EX_JB_IM_D",
+            "value": "Estatua de guiverno acechador"
+        },
+        {
+            "key": "EX_JB_MM_ALL",
+            "value": "Recuerdo lejano"
+        },
+        {
+            "key": "EX_JB_WEAPON",
+            "value": "Mineral de arma"
+        },
+        {
+            "key": "EX_AF_AW",
+            "value": "Libro secreto de mejora"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "LGBA_001",
+            "value": "Affiche les détails du groupe de l'adversaire 1"
+        },
+        {
+            "key": "LGBA_002",
+            "value": "Augmente de 1 le nombre d'attaques pouvant être lancées par le groupe de votre allié 1"
+        },
+        {
+            "key": "LGBA_003",
+            "value": "Restaure de 1 le nombre d'utilisations des aptitudes du groupe de votre allié 1"
+        }
+    ]
+}

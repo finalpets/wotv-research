@@ -1,0 +1,1052 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Einhandschwert; kann von Kriegern, Rittern, Paladinen, Schwertmagiern, Rotmagiern, dem Geflügelten, Knappen, Schwertheiligen und Gefallenen Rittern geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Großschwert; kann von Soldaten geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Katana; kann von Samurai geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Schlagringe; können von Mönchen geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Lanze; kann von Dragonern und Pikenieren geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Dolch; kann von Dieben geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Shinobigatana; kann von Ninjas geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Bogen; kann von Jägern und Lapis-Weißmagiern geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Pistole; kann von Schützen und Doppelschützen geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Stab; kann von Weißmagiern, Schwarzmagiern, Grünmagiern, Zeitmagiern und Hexen geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Kolben; kann von Klerikern geführt werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Rüstung; kann von Adligen, Kriegern, Paladinen, Soldaten, Samurai, Pikeniern, Dragonern, Schwertmagiern, dem Geflügelten, Knappen und Gefallenen Rittern getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Hut; kann von Adligen, Kriegern, Mönchen, Pikeniern, Dieben, Jägern, Ninjas, Schützen, Weißmagiern, Schwarzmagiern, Klerikern, Rotmagiern, Zeitmagiern, Grünmagiern, Lapis-Weißmagiern, Doppelschützen, Hexen, Revolverklingen, Knappen und Schwertheiligen getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Kleidung; kann von Adligen, Kriegern, Mönchen, Pikeniern, Dieben, Jägern, Ninjas, Schützen, Weißmagiern, Schwarzmagiern, Klerikern, Rotmagiern, Zeitmagiern, Grünmagiern, Lapis-Weißmagiern, Wikingern, Doppelschützen, Hexen, Revolverklingen, Knappen und Schwertheiligen getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Rüstung, kann von Adligen, Kriegern, Samurai, Pikeniern, Dragonern, Rittern, Paladinen, Soldaten, Schwertmagiern, dem Geflügelten, Wikingern, Knappen und Gefallenen Rittern getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Accessoire; kann von allen Jobs getragen werden."
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Axt; kann von Wikingern geführt werden."
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "Ein Satz von Gegenständen, mit dem während Aufträgen LP wiederhergestellt und Zustandsveränderungen aufgehoben werden können. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "Ein Vorteilspaket mit Alkrists (Grün) für Einheiten der Stufe 2 - 3. Ein Sonderangebot aus dem Laden für Laien."
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Ein Vorteilspaket mit Jadeiten jedes Typs für Jobstufe 2 - 3. Ein Sonderangebot aus dem Laden für Laien zum halben Preis!"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Ein Vorteilspaket mit Jadeiten jedes Typs für Jobstufe 2 - 3. Ein Sonderangebot aus dem Laden für Laien zum halben Preis!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "Ein Vorteilspaket mit Herstellungsanleitungen für Ausrüstungsgegenstände der Seltenheit [R], die von den jeweiligen Jobtypen angelegt werden können. Ein Sonderangebot aus dem Laden für Laien!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "Ein Vorteilspaket mit Herstellungsanleitungen für Ausrüstungsgegenstände der Seltenheit [R], die von den jeweiligen Jobtypen angelegt werden können. Ein Sonderangebot aus dem Laden für Laien zum halben Preis!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Ein besonderes Ensemble aus Feuer-Gedankenfragmenten und Bonusgegenständen wie Feuer-Erweckungsprismen! Zur Erweckung von Feuereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Ein besonderes Ensemble aus Wasser-Gedankenfragmenten und Bonusgegenständen wie Wasser-Erweckungsprismen! Zur Erweckung von Wassereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Ein besonderes Ensemble aus Wind-Gedankenfragmenten und Bonusgegenständen wie Wind-Erweckungsprismen! Zur Erweckung von Windeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Ein besonderes Ensemble aus Blitz-Gedankenfragmenten und Bonusgegenständen wie Blitz-Erweckungsprismen! Zur Erweckung von Blitzeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Ein besonderes Ensemble aus Erd-Gedankenfragmenten und Bonusgegenständen wie Erd-Erweckungsprismen! Zur Erweckung von Erdeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Ein besonderes Ensemble aus Eis-Gedankenfragmenten und Bonusgegenständen wie Eis-Erweckungsprismen! Zur Erweckung von Eiseinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Ein besonderes Ensemble aus Licht-Gedankenfragmenten und Bonusgegenständen wie Licht-Erweckungsprismen! Zur Erweckung von Lichteinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Ein besonderes Ensemble aus Dunkel-Gedankenfragmenten und Bonusgegenständen wie Dunkel-Erweckungsprismen! Zur Erweckung von Dunkeleinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Ein besonderes Ensemble aus Feuer-Gedankenfragmenten und Feuer-Erweckungsprismen! Zur Erweckung von Feuereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Ein besonderes Ensemble aus Wasser-Gedankenfragmenten und Wasser-Erweckungsprismen! Zur Erweckung von Wassereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Ein besonderes Ensemble aus Wind-Gedankenfragmenten und Wind-Erweckungsprismen! Zur Erweckung von Windeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Ein besonderes Ensemble aus Blitz-Gedankenfragmenten und Blitz-Erweckungsprismen! Zur Erweckung von Blitzeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Ein besonderes Ensemble aus Erd-Gedankenfragmenten und Erd-Erweckungsprismen! Zur Erweckung von Erdeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Ein besonderes Ensemble aus Eis-Gedankenfragmenten und Eis-Erweckungsprismen! Zur Erweckung von Eiseinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Ein besonderes Ensemble aus Licht-Gedankenfragmenten und Licht-Erweckungsprismen! Zur Erweckung von Lichteinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Ein besonderes Ensemble aus Dunkel-Gedankenfragmenten und Dunkel-Erweckungsprismen! Zur Erweckung von Dunkeleinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Feuereinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Wassereinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Windeinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Blitzeinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Erdeinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Eiseinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Lichteinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "Eine spezielle Zusammenstellung von Erweckungsseelen (2–4★), die zur Erweckung von Dunkeleinheiten benötigt werden."
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Ein besonderes Paket, das ERF-Würfel (XL) und als Bonus Regenbogenfarbene Visionskugeln sowie Regenbogen-Gedankenfragmente enthält! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "Ein Ticket, mit dem vier Erinnerungen (Gelb) des jeweiligen ausgewählten Jobs beschworen werden können. *Joberinnerungen der folgenden Jobs von Kollabo-Einheiten sind nicht erhältlich: Revolverklinge, Hexe"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "Ein Ticket, mit dem drei Erinnerungen (Violett) des jeweiligen ausgewählten Jobs beschworen werden können. *Joberinnerungen der folgenden Jobs von Kollabo-Einheiten sind nicht erhältlich: Revolverklinge, Hexe"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Sonderangebot für Einsteiger] Ein besonderes Paket mit Erinnerungen des namenlosen Helden, die anstelle einer beliebigen Joberinnerung gebraucht werden können!"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Sonderangebot für Einsteiger] Dieses besondere Paket enthält ein „Auswählbares Elementgedankenfragment x10“-Beschwörungsticket sowie Regenbogenfarbene Visionskugeln, ein „Auswählbares Erweckungsprisma x10“-Beschwörungsticket und ERF-Würfel (L) als Bonus!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "Ein Gegenstand zur Ausdauerwiederherstellung, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Sonderangebot zum Veröffentlichungsandenken] Dieses besondere Paket enthält ERF-Würfel (XL) sowie Regenbogenfarbene Visionskugeln und Regenbogen-Gedankenfragmente als Bonus! Unerlässlich zum Trainieren von Einheiten!"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Ein Paket mit Ausdauerstimulanzien (M) und Storyüberspringtickets."
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Ein Paket mit Ausdauerstimulanzien (L) und Storyüberspringtickets."
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Ein besonderes Paket, das ERF-Würfel (XL) und als Bonus eine Regenbogenfarbene Visionskugel sowie ein Regenbogen-Gedankenfragment enthält! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "Ein Gegenstand zur Ausdauerwiederherstellung, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "Ein Gegenstand zum Erhalt von ERF, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "Ein Paket, das ERF-Würfel in (S), (M) und (L) enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "Ein Paket mit Ausdauerstimulanzien (L) und Storyüberspringtickets."
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Ein Paket, das rote, gelbe, violette und blaue Verschwommene Erinnerungen enthält."
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "Ein Paket, das ERF-Würfel in (M), (L) und (XL) enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "Ein Paket, das Blitz-Gedankenfragmente und Blitz-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "Ein Paket, das Licht-Gedankenfragmente und Licht-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "Ein besonderes Paket, das eine Regenbogenfarbene Visionskugel, ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket und ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket enthält! Perfekt zum Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "Ein besonderes Paket mit [UR] „Ramza“-Einheitenfragmenten (benötigt für Limitbrüche), Licht-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogen-Gedankenfragmenten und Regenbogenfarbenen Visionskugeln!"
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Ein besonderes Paket, das die FFT-Kollabo-Einheit Ramza, Regenbogenfarbene Visionskugeln, Regenbogen-Gedankenfragmente, Licht-Erweckungsprismen und Licht-Gedankenfragmente enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "Ein Paket, das Feuer-Gedankenfragmente und Feuer-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "Ein Paket, das Eis-Gedankenfragmente und Eis-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "Hol dir einmal täglich gratis Storyüberspringtickets!"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "Ein Paket, das Blitz-Gedankenfragmente und Blitz-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "Ein Paket, das Licht-Gedankenfragmente und Licht-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "Ein besonderes Paket, das eine Regenbogenfarbene Visionskugel, ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket und ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket enthält! Perfekt zum Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "Ein Paket voller ERF-Würfel (L) und Rausch-Pötte! Zur Verbesserung von Limiträuschen unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "Ein Paket voller Adamantit (L) und Rüstungs-Pötte! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "Ein besonderes Paket, das „Auswählbares Elementgedankenfragment x50“-Beschwörungsticket sowie eine Regenbogenfarbene Visionskugel und ein „Auswählbares Erweckungsprisma x50“-Beschwörungsticket enthält!"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "Ein Paket, das Wasser-Gedankenfragmente und Wasser-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "Ein Paket, das Licht-Gedankenfragmente und Licht-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (M) x10“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (M) x25“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "Ein Paket, das Eis-Gedankenfragmente und Eis-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "Ein Gegenstand zum Erhalt von Visionskarten-ERF, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "Ein Paket, das ein „[UR]-Einheit garantiert“-Beschwörungsticket A sowie Gegenstände zum Training von Einheiten enthält! * Das „[UR]-Einheit garantiert“-Beschwörungsticket A kann nicht für limitierte Einheiten, Kollabo-Einheiten, Vinera oder Rain eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "Ein Paket, das ein „[UR]-Visionskarte garantiert“-Beschwörungsticket, Wachstumseier (R/SR), ein „Auswählbarer Elementmaginit (XL) x10“-Beschwörungsticket und Regenbogenfarbene Visionskugeln enthält. *Limitierte Visionskarten, Kollabo-Visionskarten sowie „Odin, der Mythische Marodeur“ sind nicht inkludiert."
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Ein Paket, das Wind-Gedankenfragmente, Wind-Erweckungsprismen und eine Regenbogenfarbene Visionskugel enthält."
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Ein Paket, das Feuer-Gedankenfragmente, Feuer-Erweckungsprismen und eine Regenbogenfarbene Visionskugel enthält."
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Ein Paket, das „Auswählbares Elementgedankenfragment x50“-Beschwörungsticket sowie ein „Auswählbares Elementerweckungsprisma x50“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält!"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Ein Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket, Wachstumseier (SR), ein „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält. *Limitierte Visionskarten, Kollabo-Visionskarten sowie „Tetrasylphid, die Himmlischen Vier der Winde“ sind nicht inkludiert."
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Ein Gegenstand zur Wiederherstellung von Kraftprobenjuwelen, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Ein Paket mit Ausdauerstimulanzien (L), Storyüberspringtickets und Multi-Kraftproben-Wiederherstellern (vollständig)."
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Ein Paket, das Feuer-Gedankenfragmente und Feuer-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Ein Paket, das Wind-Gedankenfragmente und Wind-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Ein Paket, das Erd-Gedankenfragmente und Erd-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Ein Paket, das Eis-Gedankenfragmente und Eis-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Lebens für eine erhöhte Chance auf eine Steigerung des LP-Wertes und Zwergenhämmern der Lebenskraft zum weiteren Ausbau des LP-Wertes!"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Angriffs für eine erhöhte Chance auf eine Steigerung des ANG-Wertes und Zwergenhämmern des Angriffs zum weiteren Ausbau des ANG-Wertes!"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln der Gewandtheit für eine erhöhte Chance auf eine Steigerung des PRÄ-Wertes und Zwergenhämmern der Präzision zum weiteren Ausbau des PRÄ-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_AWK_GL01",
+            "value": "Ein besonderes Paket, das ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket, ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält! Perfekt zum Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "Hol dir einmal täglich gratis Storyüberspringtickets!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Ein Paket, das Blitz-Gedankenfragmente und Blitz-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Ein Paket, das Dunkel-Gedankenfragmente und Dunkel-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Ausweichens für eine erhöhte Chance auf eine Steigerung des Ausweichgeschick-Wertes und Zwergenhämmern der Vermeidung zum weiteren Ausbau des Ausweichgeschick-Wertes!"
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln der Magie für eine erhöhte Chance auf eine Steigerung des MAG-Wertes und Zwergenhämmern der Magie zum weiteren Ausbau des MAG-Wertes!"
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des KRIT-Wertes und Zwergenhämmern der Beendigun zum weiteren Ausbau des KRIT-Wertes!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für Visionskarten, die bis inkl. 24. Juni veröffentlicht wurden, enthält. Außerdem sind eine Regenbogenfarbene Visionskugel, Wachstumseier (MR) und Gilkröten (L) als Bonus enthalten! * Das Ticket wird keine weiteren, zukünftig auswählbaren Visionskarten enthalten."
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "Ein Paket, das Visionskartenfragmente zum Limitbruch von „Mobius der Verzweiflung und der Wahrheit“ sowie Wachstumseier (MR), Regenbogenfarbene Visionskugeln und Gilkröten (L) zur Verbesserung enthält."
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "Ein Paket, das Visionskartenfragmente zum Limitbruch von „Mobius der Hoffnung und der Illusion“ sowie Wachstumseier (MR), Azurblaue Visionskugeln und Gilkröten (L) zur Verbesserung enthält."
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Ein Paket, das Wachstumseier (SR) und „Auswählbarer Elementmaginit (L) x100“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Ein Paket. das ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 17.6.2020, Weltzeit (PST) erschienen sind, sowie ERF-Würfel (L) und eine Regenbogenfarbene Visionskugel enthält! * Das Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Ein Paket, das Licht-Gedankenfragmente und Licht-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Ein Paket, das Wasser-Gedankenfragmente und Wasser-Erweckungsprismen enthält."
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Ein besonderes Paket mit [UR] Fryevia-Einheitenfragmenten (benötigt für Limitbrüche), Eis-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie einem Regenbogen-Gedankenfragment und Regenbogenfarbenen Visionskugeln!"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Ein besonderes Paket voll mit Feuer-Alkrists jeder Seltenheit! Beim Training von Feuereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Ein besonderes Paket voll mit Wasser-Alkrists jeder Seltenheit! Beim Training von Wassereinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Ein besonderes Paket voll mit Wind-Alkrists jeder Seltenheit! Beim Training von Windeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Ein besonderes Paket voll mit Blitz-Alkrists jeder Seltenheit! Beim Training von Blitzeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Ein besonderes Paket voll mit Erd-Alkrists jeder Seltenheit! Beim Training von Erdeinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Ein besonderes Paket voll mit Eis-Alkrists jeder Seltenheit! Beim Training von Eiseinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Ein besonderes Paket voll mit Eis-Alkrists jeder Seltenheit! Beim Training von Eiseinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Ein besonderes Paket voll mit Dunkel-Alkrists jeder Seltenheit! Beim Training von Dunkeleinheiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "Ein besonderes Paket, das ERF-Würfel der Größen (XL), (L), (M) und (S) enthält! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Ein Paket voller Adamantit (XL) und Rüstungs-Pötten! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Ein Gegenstand zur Ausdauerwiederherstellung, der jeden Tag gratis erworben werden kann!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für Visionskarten, die bis inkl. 17. Juni veröffentlicht wurden, enthält. Außerdem sind eine Regenbogenfarbene Visionskugel, Wachstumseier (MR) und Gilkröten (L) enthalten! * Das „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Visionskarten verwendet werden. * Das Ticket wird keine weiteren, zukünftig auswählbaren Visionskarten enthalten."
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Feuer-Gedankenfragmenten, Feuer-Erweckungsprismen und Roten Maginiten! Zur Erweckung von Feuereinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Wasser-Gedankenfragmenten, Wasser-Erweckungsprismen und Hellblauen Maginiten! Zur Erweckung von Wassereinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Eis-Gedankenfragmenten, Eis-Erweckungsprismen und Blauen Maginiten! Zur Erweckung von Eiseinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Wind-Gedankenfragmenten, Wind-Erweckungsprismen und Grünen Maginiten! Zur Erweckung von Windeinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Blitz-Gedankenfragmenten, Blitz-Erweckungsprismen und Gelben Maginiten! Zur Erweckung von Blitzeinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Erd-Gedankenfragmenten, Erd-Erweckungsprismen und Orangen Maginiten! Zur Erweckung von Erdeinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Licht-Gedankenfragmenten, Licht-Erweckungsprismen und Weißen Maginiten (XL)! Zur Erweckung von Lichteinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Ein besonderes Ensemble aus Dunkel-Gedankenfragmenten, Dunkel-Erweckungsprismen und Violetten Maginiten! Zur Erweckung von Dunkeleinheiten und Verbesserung von Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Ein besonderes Paket, das Giftzähne der Riesenschlange (L), Kräftige Hörner des Stiers (L), Mähnen des Kirin (L) und Mächtige Kiefer des Löwen (L) enthält! Genau richtig, um deine Gildenstatuen zu verbessern!"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Ein besonderes Paket, das Dunkel-Gedankenfragmente, Dunkel-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Dunkel-Erweckungsprismen enthält! Perfekt zur Erweckung von Dunkeleinheiten!"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "Eine Regenbogenfarbene Visionskugel, die zum Limitbruch von [UR]-Einheiten benötigt wird. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "Eine Azurblaue Visionskugel, die zum Limitbruch von [MR]-Einheiten benötigt wird. Kann einmal pro Tag nur von Einsteigern gratis erworben werden!"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "Ein Regenbogen-Gedankenfragment, das zur Erweckung von Einheiten benötigt wird. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "Ein Vorteilspaket, das zur Verbesserung von Jobs bis zu Stufe 4 benutzt werden kann. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "Ein günstiges Paket mit allen Arten von Jadeit, die zur Verbesserung von Jobs der Stufen 2-3 benötigt werden. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "Ein günstiges Paket mit allen Arten von Jadeit, die zur Verbesserung von Jobs der Stufen 2-3 benötigt werden. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "Ein günstiges Paket mit allen Arten von Azurit, die zur Verbesserung von Jobs der Stufen 4-6 benötigt werden. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "Ein günstiges Paket mit allen Arten von Azurit, die zur Verbesserung von Jobs der Stufen 4-6 benötigt werden. Ein Sonderangebot aus dem „Laden für Laien“."
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "Ein besonderes Paket, das „Auswählbares Elementgedankenfragment x200“-Beschwörungsticket sowie ein „Auswählbares Erweckungsprisma x200“-Beschwörungsticket, Regenbogen-Gedankenfragmente und Regenbogenfarbene Visionskugeln enthält!"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "Ein Vorteilspaket mit Herstellungsanleitungen für Ausrüstungsgegenstände der Seltenheit [R], die von den jeweiligen Jobtypen angelegt werden können. Ein Sonderangebot aus dem Laden für Laien!"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "Ein besonderes Paket mit Gegenständen wie einem „[UR]-Visionskarte garantiert“-Beschwörungsticket A und Regenbogenfarbenen Visionskugeln! * Das „[UR]-Visionskarte garantiert“-Beschwörungsticket A kann nicht für limitierte oder Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für Visionskarten, die bis inkl. 22. Juni veröffentlicht wurden, enthält. Außerdem sind eine Regenbogenfarbene Visionskugel, Wachstumseier (MR) und Gilkröten (L) enthalten! * Das „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Visionskarten verwendet werden. * Das Ticket wird keine weiteren, zukünftig auswählbaren Visionskarten enthalten."
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Ein besonderes Paket mit Weißem Maginit (XL) und Wachstumseiern (MR)! Zur Verbesserung von Licht-Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln der Abwehr für eine erhöhte Chance auf eine Steigerung des ABW-Wertes und Zwergenhämmern der Abwehr zum weiteren Ausbau des ABW-Wertes!"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Ein Paket mit einem Umschmiedehammer zum Zurücksetzen von Ausrüstungswerten, Siegeln der Geisteskraft für eine erhöhte Chance auf eine Steigerung des PSY-Wertes und Zwergenhämmern der Geisteskraft zum weiteren Ausbau des PSY-Wertes!"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "Ein besonderes Paket mit [UR] „Krieger des Lichts“-Einheitenfragmenten (benötigt für Limitbrüche), Licht-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogenfarbene Visionskugeln und ein Regenbogen-Gedankenfragment!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Ein besonderes Paket, das Licht-Gedankenfragmente, Licht-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Licht-Erweckungsprismen enthält! Perfekt zur Erweckung von Lichteinheiten!"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "Ein Paket, das Visionskartenfragmente zur Erweckung von „Todesmaschine“ sowie Wachstumseier (MR), Regenbogenfarbene Visionskugeln und Gilkröten (L) zur Verbesserung enthält."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Ein besonderes Paket, das Erd-Gedankenfragmente, Erd-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Erd-Erweckungsprismen enthält! Perfekt zur Erweckung von Erdeinheiten!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "Ein besonderes Paket, das ein „[UR]-Einheit garantiert“-Beschwörungsticket sowie Gegenstände zum Training von Einheiten enthält! * Das „[UR]-Einheit garantiert“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Ein Paket, das Wachstumseier (MR) und ein „Auswählbarer Elementmaginit (M) x25“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket, eine Regenbogenfarbene Visionskugel, Wachstumseier (MR) und Gilkröten (L) enthält! * Das „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Visionskarten verwendet werden."
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Ein besonderes Paket mit Violettem Maginit (XL) und Wachstumseiern (MR)! Zur Verbesserung von Dunkel-Espern unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Ein besonderes Paket mit Wachstumseiern (MR), Wachstumseiern (SR) und Gilkröten (L)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Ein besonderes Paket, das Regenbogenfarbene Visionskugeln sowie ein Regenbogen-Gedankenfragment enthält!"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Ein besonderes Paket mit Wind-Alkrists, (Rot), Statuen des Betenden Engels (Rot), Statuen des Lauernden Lindwurms (Rot) und Verschwommenen Erinnerungen (Rot)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Ein besonderes Paket mit Wind-Alkrists, (Gelb), Statuen des Betenden Engels (Gelb), Statuen des Lauernden Lindwurms (Gelb) und Verschwommenen Erinnerungen (Gelb)."
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Ein besonderes Paket mit Wind-Alkrists, (Violett), Statuen des Betenden Engels (Violett), Statuen des Lauernden Lindwurms (Violett) und Verschwommenen Erinnerungen (Violett)."
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "Ein besonderes Paket, das ERF-Würfel der Größen (L) und (XL) enthält!"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Ein besonderes Paket, das Expeditionstickets (5 Std./10 Std.) enthält, mit denen Chocobo-Expeditionen beschleunigt werden können!"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Ein besonderes Paket, das Wind-Gedankenfragmente, Wind-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Wind-Erweckungsprismen enthält! Perfekt zur Erweckung von Windeinheiten!"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Ein besonderes Paket mit [UR] „Oldoa“-Einheitenfragmenten (benötigt für Limitbrüche), Wind-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogenfarbenen Visionskugeln und einem Regenbogen-Gedankenfragment!"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Ein besonderes Paket mit [UR] „Agrias“-Einheitenfragmenten (benötigt für Limitbrüche), Eis-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogenfarbenen Visionskugeln und einem Regenbogen-Gedankenfragment!"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket und eine Regenbogenfarbene Visionskugel enthält! * Das Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Ein besonderes Paket, das Eis-Gedankenfragmente, Eis-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Eis-Erweckungsprismen enthält! Perfekt zur Erweckung von Eiseinheiten!"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Ein besonderes Paket, das Feuer-Gedankenfragmente, Feuer-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Feuer-Erweckungsprismen enthält! Perfekt zur Erweckung von Feuereinheiten!"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Ein besonderes Paket mit einem „Auswählbarer Elementalkrist (Rot) x70“-Beschwörungsticket, einem „Auswählbarer Elementalkrist (Gelb) x70“-Beschwörungsticket“, Statuen des Betenden Engels (Gelb/Rot), Statuen des Lauernden Lindwurms (Gelb/Rot) und Verschwommenen Erinnerungen (Gelb/Rot)."
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "Ein Paket voller ERF-Würfel (S/M)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Ein Paket voller Wachstumseier (N/R/SR)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Ein Paket voller Adamantit (S/M/L)! Unverzichtbar bei der Verbesserung von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_GROW_ORND",
+            "value": "Ein besonderes Paket mit [UR] „Orlandeau“-Einheitenfragmenten (benötigt für Limitbrüche), Blitz-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogenfarbenen Visionskugeln und einem Regenbogen-Gedankenfragment!"
+        },
+        {
+            "key": "IT_SET_SWO_GL01",
+            "value": "Ein besonderes Paket, das ein Nagrarök +3 (Angriff) und Almanache der Veredelung (Schwert) enthält!"
+        },
+        {
+            "key": "IT_SET_HAT_GL01",
+            "value": "Ein besonderes Paket, das einen Weisenhut +3 (Ausweichen) und Almanache der Veredelung (Schwert) enthält!"
+        },
+        {
+            "key": "IT_SET_RNG_GL01",
+            "value": "Ein besonderes Paket, das einen Juwelenring +3 (Zielen) und Almanache der Veredelung (Accessoire) enthält!"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_CM_03",
+            "value": "Ein besonderes Paket, das Blitz-Gedankenfragmente, Blitz-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Blitz-Erweckungsprismen enthält! Perfekt zur Erweckung von Blitzeinheiten!"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_04",
+            "value": "Ein besonderes Paket, das Licht-Gedankenfragmente, Licht-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Licht-Erweckungsprismen enthält! Perfekt zur Erweckung von Lichteinheiten!"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL01",
+            "value": "Ein besonderes Paket mit ERF-Würfeln (XL) zum Einheitentraining sowie Tickets, die zur Durchführung der [Countdown zum Halbjährigen Jubiläum Teil III] „[MR+] garantiert“-Einheitenbeschwörung benötigt werden. * Die [Countdown zum Halbjährigen Jubiläum Teil III] „[MR+] garantiert“-Einheitenbeschwörungstickets können nach dem 16.9.2020, Weltzeit (PST) nicht mehr verwendet werden. * Limitierte sowie Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten."
+        },
+        {
+            "key": "IT_SET_UR_UNIT_GL03",
+            "value": "Ein besonderes Paket, das ein „[UR]-Einheit garantiert“-Beschwörungsticket sowie Gegenstände zum Training von Einheiten enthält! * Das „[UR]-Einheit garantiert“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_AW_WATER_CM_GL04",
+            "value": "Ein besonderes Paket, das Wasser-Gedankenfragmente, Wasser-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Wasser-Erweckungsprismen enthält! Perfekt zur Erweckung von Wassereinheiten!"
+        },
+        {
+            "key": "IT_SET_JB_WATER_03",
+            "value": "Ein besonderes Paket mit Wasser-Alkrists, (Rot), Statuen des Betenden Engels (Rot), Statuen des Lauernden Lindwurms (Rot) und Verschwommenen Erinnerungen (Rot)."
+        },
+        {
+            "key": "IT_SET_JB_WATER_02",
+            "value": "Ein besonderes Paket mit Wasser-Alkrists, (Gelb), Statuen des Betenden Engels (Gelb), Statuen des Lauernden Lindwurms (Gelb) und Verschwommenen Erinnerungen (Gelb)."
+        },
+        {
+            "key": "IT_SET_JB_WATER_01",
+            "value": "Ein besonderes Paket mit Wasser-Alkrists, (Violett), Statuen des Betenden Engels (Violett), Statuen des Lauernden Lindwurms (Violett) und Verschwommenen Erinnerungen (Violett)."
+        },
+        {
+            "key": "IT_SET_SWO_GL02",
+            "value": "Ein besonderes Paket mit Almanachen der Veredelung (Schwert) zur Erweckung von Schwertern, Siegeln des Angriffs und Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des ANG-/KRIT-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie Zwergenhämmern des Angriffs und Zwergenhämmern der Beendigung zum Ausbau des ANG-/KRIT-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_MACE_GL02",
+            "value": "Ein besonderes Paket mit Almanachen der Veredelung (Kolben) zur Erweckung von Kolben, Siegeln des Angriffs und Siegeln der Magie für eine erhöhte Chance auf eine Steigerung des ANG-/MAG-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie Zwergenhämmern des Angriffs und Zwergenhämmern der Magie zum Ausbau des ANG-/MAG-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_ACCE_GL02",
+            "value": "Ein besonderes Paket mit Almanachen der Veredelung (Accessoire) zur Erweckung von Accessoires, Siegeln des Lebens und Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des LP-/KRIT-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie Zwergenhämmern der Lebenskraft und Zwergenhämmern der Beendigung zum Ausbau des LP-/KRIT-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_LW_ENBT",
+            "value": "Ein besonderes Paket, das die [UR]-Einheit Engelbert sowie ein Mithrilschwert +3 und eine Mithrilrüstung +3 als Bonus enthält!"
+        },
+        {
+            "key": "IT_SET_GROW_ENBT",
+            "value": "Ein besonderes Paket mit [UR] „Engelbert“-Einheitenfragmenten (benötigt für Limitbrüche), Licht-Gedankenfragmenten und Licht-Erweckungsprismen (benötigt für Erweckungen) und Bonus-Gegenständen wie einem Regenbogen-Gedankenfragment und Regenbogenfarbenen Visionskugeln!"
+        },
+        {
+            "key": "IT_SET_VC_GROW_06",
+            "value": "Ein Paket, das Wachstumseier (MR) und ein„Auswählbarer Elementmaginit (L) x20“-Beschwörungsticket enthält."
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL02",
+            "value": "Ein besonderes Paket mit ERF-Würfeln (XL) zum Einheitentraining sowie Tickets, die zur Durchführung der [Countdown zum Halbjährigen Jubiläum Teil IV] „[MR+] garantiert“-Einheitenbeschwörung benötigt werden. * Die [Countdown zum Halbjährigen Jubiläum Teil IV] „[MR+] garantiert“-Einheitenbeschwörungstickets können nach dem 23.9.2020, Weltzeit (PST) nicht mehr verwendet werden. * Limitierte sowie Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten."
+        },
+        {
+            "key": "IT_SET_VC_EXP_04",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für Visionskarten, die bis inkl. 16. September veröffentlicht wurden, enthält. Außerdem sind eine Regenbogenfarbene Visionskugel, Wachstumseier (MR) und Gilkröten (L) enthalten! * Das „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Visionskarten verwendet werden. * Das Ticket wird keine weiteren, zukünftig auswählbaren Visionskarten enthalten."
+        },
+        {
+            "key": "IT_SET_HLM_GL01",
+            "value": "Ein besonderes Paket, das einen Platinhelm +3 (Barriere) und Almanache der Veredelung (Rüstung) enthält!"
+        },
+        {
+            "key": "IT_SET_MAC_GL01",
+            "value": "Ein besonderes Paket, das eine Platinkeule +3 (Magie) und Almanache der Veredelung (Kolben) enthält!"
+        },
+        {
+            "key": "IT_SET_CLT_GL01",
+            "value": "Ein besonderes Paket, das einen Schlauen Mantel +3 (Barriere) und Almanache der Veredelung (Rüstung) enthält!"
+        },
+        {
+            "key": "IT_SET_ARM_GL01",
+            "value": "Ein besonderes Paket, das eine Goldrüstung +3 (Schild) und Almanache der Veredelung (Rüstung) enthält!"
+        },
+        {
+            "key": "IT_SET_HA_SE_UNIT",
+            "value": "Ein besonderes Paket, das ein [Halbjähriges Jubiläum] „Auswählbare Einheit“-Beschwörungsticket für bis inkl. 19.8.2020 Weltzeit (PST) veröffentlichte Einheiten sowie ERF-Würfel (L/XL) enthält. * Das [Halbjähriges Jubiläum] „Auswählbare Einheit“-Beschwörungsticket kann nicht für Styr (Ritter des Untergangs), Ildyra, Gilgamesch, Glaziela Wezette, Lasswell, Loreila, Etre, Tyrrel oder limitierte/Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_HA_SE_VCARD",
+            "value": "Ein besonderes Paket, das ein [Halbjähriges Jubiläum] „Auswählbare Visionskarte“-Beschwörungsticket für bis inkl. 12.8.2020 Weltzeit (PST) veröffentlichte Visionskarten sowie Wachstumseier (MR/SR) enthält.<br>* Das [Halbjähriges Jubiläum] „Auswählbare Visionskarte“-Beschwörungsticket kann nicht für „Solidus, die 1. Division des Königreichs Hourne“, „Gedankenschinder, Verzerrung des Verstandes“, „Fenrir, Reißzähne im Mondenschein“, „Unerwiderte Zuneigung“, „Titan, Furor der Erde“, „Vier Herrscher in Kriegswirren“ oder limitierte/Kollabo-Visionskarten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_GL04",
+            "value": "Ein besonderes Paket, das Dunkel-Gedankenfragmente, Dunkel-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Dunkel-Erweckungsprismen enthält! Perfekt zur Erweckung von Dunkeleinheiten!"
+        },
+        {
+            "key": "IT_SET_GROW_HA",
+            "value": "Ein besonderes Paket, das ERF-Würfel (XL) und als Bonus ein Regenbogen-Gedankenfragment sowie Regenbogenfarbene Visionskugeln enthält! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_L",
+            "value": "Ein besonderes Paket, gefüllt mit Erinnerungen des namenlosen Helden in Rot und Gelb, Statuen des Betenden Engels, Statuen des Lauernden Lindwurms und Verschwommenen Erinnerungen!"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_M",
+            "value": "Ein besonderes Paket, gefüllt mit Erinnerungen des namenlosen Helden in Violett, Statuen des Betenden Engels, Statuen des Lauernden Lindwurms und Verschwommenen Erinnerungen!"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_S",
+            "value": "Ein besonderes Paket, gefüllt mit Erinnerungen des namenlosen Helden in Grün und Blau, Statuen des Betenden Engels, Statuen des Lauernden Lindwurms und Verschwommenen Erinnerungen!"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_L",
+            "value": "Ein Paket voller ERF-Würfel (L/XL)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_S",
+            "value": "Ein Paket voller ERF-Würfel (S/M)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_L",
+            "value": "Ein Paket voller Wachstumseier (SR/MR)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_S",
+            "value": "Ein Paket voller Wachstumseier (N/R)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA",
+            "value": "Ein Paket voller Adamantit (S/M/L)! Unverzichtbar bei der Verbesserung von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_FREE_00",
+            "value": "Hol dir einmal täglich gratis [UR]-Einheitenteile!"
+        },
+        {
+            "key": "IT_SET_ICE_SB_EXP_GL_01",
+            "value": "Ein Paket voller Blauer Maginite (L/XL)! Unverzichtbar beim Espertraining!"
+        },
+        {
+            "key": "IT_SET_LB_EXP_HA",
+            "value": "Ein Paket voller ERF-Würfel (XL) und Königlicher Rausch-Pötte! Zur Verbesserung von Einheiten und ihren Limiträuschen unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_WA_EXP_HA",
+            "value": "Ein Paket voller Adamantit (XL) und Königlicher Rüstungs-Pötte! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA_02",
+            "value": "Ein besonderes Paket voll mit Adamantit (XL) sowie Umschmiedehämmern und einem [Halbjähriges Jubiläum] „Auswählbarer Almanach der Veredelung x100“-Beschwörungsticket für bis inkl. 9.9.2020 veröffentlichte Almanache der Veredelung!"
+        },
+        {
+            "key": "IT_SET_SE_JB_HA",
+            "value": "Ein besonderes Paket, das ein [Halbjähriges Jubiläum] „Auswählbare Joberinnerungen (Rot) x5“-Beschwörungsticket, ein [Halbjähriges Jubiläum] „Auswählbare Joberinnerungen (Gelb) x4“-Beschwörungsticket, ein „Auswählbarer Elementalkrist (Rot) x70“-Beschwörungsticket und ein „Auswählbarer Elementalkrist (Gelb) x70“-Beschwörungsticket enthält! * Das [Halbjähriges Jubiläum] „Auswählbare Joberinnerungen (Rot) x5“-Beschwörungsticket und das [Halbjähriges Jubiläum] „Auswählbare Joberinnerungen (Gelb) x4“-Beschwörungsticket können nicht für die Jobs von Kollabo-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_BSW_GL01",
+            "value": "Ein besonderes Paket, das ein Runenschwert +3 (Zielen) und Almanache der Veredelung (Großschwert) enthält!"
+        },
+        {
+            "key": "IT_SET_SWO_GL03",
+            "value": "Ein besonderes Paket, das eine Korallenklinge +3 (Angriff) und Almanache der Veredelung (Schwert) enthält!"
+        },
+        {
+            "key": "IT_SET_GROW_LSWL",
+            "value": "Ein besonderes Paket mit [UR] „Lasswell“-Einheitenfragmenten (benötigt für Limitbrüche), Eis-Gedankenfragmenten (benötigt für Erweckungen) und Bonus-Gegenständen wie Regenbogenfarbenen Visionskugeln und einem Regenbogen-Gedankenfragment!"
+        },
+        {
+            "key": "IT_SET_HA_UE_EXP",
+            "value": "Ein Paket voller ERF-Würfel (L/XL)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP",
+            "value": "Ein Paket voller Wachstumseier (SR/MR)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_SPE_GL01",
+            "value": "Ein besonderes Paket, das eine Frostlanze +3 (Volltreffer) und Almanache der Veredelung (Lanze) enthält!"
+        },
+        {
+            "key": "IT_SET_SPEAR_01",
+            "value": "Ein besonderes Paket mit Adamantit (XL), Almanachen der Veredelung (Lanze) zur Erweckung von Lanzen, Siegeln des Angriffs und Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des ANG-/KRIT-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie einem Zwergenhammer des Angriffs und einem Zwergenhammer der Beendigung zum Ausbau des ANG-/KRIT-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_BOW_01",
+            "value": "Ein besonderes Paket mit Adamantit (XL), Almanachen der Veredelung (Bogen) zur Erweckung von Bögen, Siegeln des Angriffs und Siegeln der Gewandtheit für eine erhöhte Chance auf eine Steigerung des ANG-/PRÄ-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie einem Zwergenhammer des Angriffs und einem Zwergenhammer der Präzision zum Ausbau des ANG-/PRÄ-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_TITN_EXP",
+            "value": "Ein besonderes Paket mit [UR] „Titan, Furor der Erde“-Visionskartenfragmenten (benötigt für Limitbrüche), Wachstumseiern (MR) zur Verbesserung und Bonusgegenständen wie Regenbogenfarbenen Visionskugeln und Orangem Maginit (XL)!"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_GROW",
+            "value": "Ein besonderes Paket, das [UR]-Einheitenteile, Regenbogenfarbene Visionskugeln sowie ein Regenbogen-Gedankenfragment enthält!"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_01",
+            "value": "Ein besonderes Paket, das ein „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket für bis inkl. 14.10.2020 erschienene Visionskarten, Regenbogenfarbene Visionskugeln, Wachstumseier (SR) und Gilkröten (L) enthält! * Das „Auswählbares [UR]-Visionskartenfragment x50“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Visionskarten verwendet werden."
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_HA_01",
+            "value": "Ein Paket voller ERF-Würfel (XL) sowie Ausdauerstimulanzien (L), Storyüberspringtickets und Multi-Kraftproben-Wiederherstellern (vollst.)!"
+        },
+        {
+            "key": "IT_SET_JSWORD_01",
+            "value": "Ein besonderes Paket mit Adamantit (XL), Almanachen der Veredelung (Katana) zur Erweckung von Katanas, Siegeln des Angriffs und Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des ANG-/KRIT-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie einem Zwergenhammer des Angriffs und einem Zwergenhammer der Beendigung zum Ausbau des ANG-/KRIT-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_KAT_GL01",
+            "value": "Ein besonderes Paket, das einen Violetten Blitz +3 (Angriff) und Almanache der Veredelung (Katana) enthält!"
+        },
+        {
+            "key": "IT_SET_ACC_GL01",
+            "value": "Ein besonderes Paket, das eine Schleife +3 (Ausweichen) und Almanache der Veredelung (Accessoire) enthält!"
+        },
+        {
+            "key": "IT_SET_HA_SM_EXP",
+            "value": "Ein besonderes Paket, das ein „Auswählbarer Elementmaginit (M) x500“-Beschwörungsticket sowie ein „Auswählbarer Elementmaginit (L) x150“-Beschwörungsticket und ein „Auswählbarer Elementmaginit (XL) x10“-Beschwörungsticket enthält! Unverzichtbar beim Espertraining!"
+        },
+        {
+            "key": "IT_SET_WA_EXP_02",
+            "value": "Hol dir einmal pro Tag gratis Kleine Rüstungs-Pötte zur Verbesserung von Ausrüstungsfähigkeiten!"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL03",
+            "value": "Ein besonderes Paket mit ERF-Würfeln (XL) zum Einheitentraining sowie Tickets, die zur Durchführung der „[MR+] garantiert“-Einheitenbeschwörung der Herbstkampagne 2020 Teil I benötigt werden. * Die [Herbstkampagne 2020 Teil I] „[MR+] garantiert“-Einheitenbeschwörungstickets können nach dem 28.10.2020 Weltzeit (PST) nicht mehr verwendet werden. * Limitierte sowie Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten."
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_04",
+            "value": "Ein besonderes Paket, das Erd-Gedankenfragmente, Erd-Erweckungsseelen (2–6★), Regenbogen-Gedankenfragmente, Regenbogenfarbene Visionskugeln und Erd-Erweckungsprismen enthält! Perfekt zur Erweckung von Erdeinheiten!"
+        },
+        {
+            "key": "IT_SET_PI_COM_1100DL",
+            "value": "Ein besonderes Paket, das ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket sowie ein Regenbogen-Gedankenfragment als Bonus enthält!"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_L",
+            "value": "Ein Paket voller ERF-Würfel (L/XL)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL",
+            "value": "Ein Paket voller Adamantit (XL) und Königlicher Rüstungs- und Rausch-Pötte! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_STA_01",
+            "value": "Ein besonderes Paket mit Adamantit (XL), Almanachen der Veredelung (Stab) zur Erweckung von Stäben, Siegeln der Magie und Siegeln der Gewandtheit für eine erhöhte Chance auf eine Steigerung des MAG-/PRÄ-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie einem Zwergenhammer der Magie und einem Zwergenhammer der Präzision zum Ausbau des MAG-/PRÄ-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_SWO_01",
+            "value": "Ein besonderes Paket mit Adamantit (XL), Almanachen der Veredelung (Schwert) zur Erweckung von Schwertern, Siegeln des Angriffs und Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des ANG-/KRIT-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie einem Zwergenhammer des Angriffs und einem Zwergenhammer der Beendigung zum Ausbau des ANG-/KRIT-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_AXE_01",
+            "value": "Ein besonderes Paket mit Adamantit (XL), Almanachen der Veredelung (Axt) zur Erweckung von Äxten, Siegeln des Angriffs und Siegeln des Schadens für eine erhöhte Chance auf eine Steigerung des ANG-/KRIT-Wertes eines Ausrüstungsgegenstandes bei Stufenerhöhung sowie einem Zwergenhammer des Angriffs und einem Zwergenhammer der Beendigung zum Ausbau des ANG-/KRIT-Wertes von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_S",
+            "value": "Ein Paket voller ERF-Würfel (S/M)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_1100DL_SE_UPI",
+            "value": "Ein besonderes Paket, das ein [Halloween-Kampagne] „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket für Einheiten, die bis inkl. 21.10.2020, Weltzeit (PST) erschienen sind, sowie ERF-Würfel (XL) enthält! * Das [Halloween-Kampagne] „Auswählbares [UR]-Einheitenfragment x40“-Beschwörungsticket kann nicht für limitierte oder Kollabo-Einheiten außer Halloween-Einheiten eingesetzt werden."
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_05",
+            "value": "Ein besonderes Paket mit fünf Erinnerungen des namenlosen Helden (Rot), einem „Auswählbarer Elementalkrist (Rot) x70“-Beschwörungsticket, einem [Halloween-Kampagne] „Auswählbarer Spinell x30“-Beschwörungsticket, Statuen des Betenden Engels (Rot), Statuen des Lauernden Lindwurms (Rot) und Verschwommenen Erinnerungen (Rot)! "
+        },
+        {
+            "key": "IT_SET_1100DL_UE_EXP",
+            "value": "Ein Paket voller ERF-Würfel (L/XL)! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_1100DL_UR_ AWK_01",
+            "value": "Ein besonderes Paket, das ein „Auswählbares Elementgedankenfragment x100“-Beschwörungsticket sowie eine Regenbogenfarbene Visionskugel und ein „Auswählbares Erweckungsprisma x100“-Beschwörungsticket enthält! Perfekt zum Training von [UR]-Einheiten."
+        },
+        {
+            "key": "IT_SET_1100DL_SSR_ AWK_01",
+            "value": "Ein besonderes Paket, das ein „Auswählbares Elementgedankenfragment x50“-Beschwörungsticket sowie Azurblaue Visionskugeln und ein „Auswählbares Erweckungsprisma x50“-Beschwörungsticket enthält! Perfekt zum Training von [MR]-Einheiten."
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_04",
+            "value": "Ein besonderes Paket mit vier Erinnerungen des namenlosen Helden (Gelb), einem „Auswählbarer Elementalkrist (Gelb) x70“-Beschwörungsticket, einem [Halloween-Kampagne] „Auswählbarer Citrin x30“-Beschwörungsticket, Statuen des Betenden Engels (Gelb), Statuen des Lauernden Lindwurms (Gelb) und Verschwommenen Erinnerungen (Gelb)!"
+        },
+        {
+            "key": "IT_SET_1100DL_VE_EXP",
+            "value": "Ein Paket voller Wachstumseier (SR/MR)! Unverzichtbar bei der Verbesserung von Visionskarten!"
+        },
+        {
+            "key": "IT_SET_1100DL_SM_EXP",
+            "value": "Ein besonderes Paket, das ein „Auswählbarer Elementmaginit (M) x500“-Beschwörungsticket sowie ein „Auswählbarer Elementmaginit (L) x150“-Beschwörungsticket und ein „Auswählbarer Elementmaginit (XL) x10“-Beschwörungsticket enthält! Unverzichtbar beim Espertraining!"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_03",
+            "value": "Ein besonderes Paket mit drei Erinnerungen des namenlosen Helden (Violett), einem „Auswählbarer Elementalkrist (Violett) x70“-Beschwörungsticket, einem [Halloween-Kampagne] „Auswählbarer Charoit x30“-Beschwörungsticket, Statuen des Betenden Engels (Violett), Statuen des Lauernden Lindwurms (Violett) und Verschwommenen Erinnerungen (Violett)!"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_02",
+            "value": "Ein besonderes Paket mit zwei Erinnerungen des namenlosen Helden (Blau), einem „Auswählbarer Elementalkrist (Blau) x70“-Beschwörungsticket, einem [Halloween-Kampagne] „Auswählbarer Azurit x30“-Beschwörungsticket, Statuen des Betenden Engels (Blau), Statuen des Lauernden Lindwurms (Blau) und Verschwommenen Erinnerungen (Blau)!"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_01",
+            "value": "Ein besonderes Paket mit Erinnerungen des namenlosen Helden (Grün), einem „Auswählbarer Elementalkrist (Grün) x30“-Beschwörungsticket, einem [Halloween-Kampagne] „Auswählbarer Jadeit x15“-Beschwörungsticket, Statuen des Betenden Engels (Grün), Statuen des Lauernden Lindwurms (Grün) und Verschwommenen Erinnerungen (Grün)!"
+        }
+    ]
+}

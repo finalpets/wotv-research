@@ -1,0 +1,1052 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Ausrüstung: Breitschwert"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Ausrüstung: Großschwert"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Ausrüstung: Ashura"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Ausrüstung: Bronzeschlagringe"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Ausrüstung: Jagdspeer"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Ausrüstung: Bronzemesser"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Ausrüstung: Shinobigatana"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Ausrüstung: Kurzbogen"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Ausrüstung: Altair"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Ausrüstung: Stab"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Ausrüstung: Bronzekolben"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Ausrüstung: Lederpanzer"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Ausrüstung: Lederhut"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Ausrüstung: Lederweste"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Ausrüstung: Bronzehelm"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Ausrüstung: Kristallsteinring"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Ausrüstung: Kampfaxt"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "„Auftrags-Auffrischung“-Gegenstandsset"
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "„Alkrist (Grün) aller Elemente“-Paket"
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Jadeitpaket I"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Jadeitpaket II"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "[R]-Anleitungspaket I "
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "[R]-Anleitungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Feuer-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Wasser-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Wind-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Blitz-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Erd-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Eis-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Licht-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Dunkel-Erweckungspaket II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Feuer-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Wasser-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Wind-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Blitz-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Erd-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Eis-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Licht-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Dunkel-Erweckungspaket I"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "„Feuer-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "„Wasser-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "„Wind-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "„Blitz-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "„Erd-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "„Eis-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "„Licht-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "„Dunkel-Erweckungsseelen (2-4★)“-Paket"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Regenbogen-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "„Auswählbare Joberinnerungen (Gelb) x4“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "„Auswählbare Joberinnerungen (Violett) x3“-Beschwörungsticket"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Nur für Einsteiger] Jobtrainingspaket"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Nur für Einsteiger] Einheitenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "Tägliches Gratis-Ausdauerstimulans"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Veröffentlichungsandenken] Regenbogen-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Storyunterstützungspaket A"
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Storyunterstützungspaket B"
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Regenbogen-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "Tägliches Gratis-Ausdauerstimulans"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "Täglicher kostenloser ERF-Würfel (M)"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "Tägliches ERF-Würfel-Paket"
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "Tägliches „3 Millionen Downloads“-Paket"
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Tägliches „Verschwommene Erinnerungen“-Paket"
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "Tägliches ERF-Würfel-Paket B"
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "„3 Millionen Downloads“-Blitzpaket"
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "„3 Millionen Downloads“-Lichtpaket"
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "„3 Millionen Downloads“-Erdpaket"
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "„3 Millionen Downloads“-Dunkelpaket"
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "„3 Millionen Downloads“-Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "Ramza-Trainingspaket "
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "„Ramza“-Einheitenpaket"
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "„3 Millionen Downloads“-Feuerpaket"
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "„3 Millionen Downloads“-Eispaket"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "Tägliche kostenlose Überspringtickets"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "„4 Millionen Downloads“-Blitzpaket"
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "„4 Millionen Downloads“-Lichtpaket"
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "„4 Millionen Downloads“-Erdpaket"
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "„4 Millionen Downloads“-Dunkelpaket"
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "„4 Millionen Downloads“-Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "Limitrauschpaket"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "„5 Millionen Downloads“-Wasserpaket"
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "„5 Millionen Downloads“-Lichtpaket"
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "„5 Millionen Downloads“-Erdpaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Visionskartentrainingspaket A"
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Visionskartentrainingspaket B"
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "„5 Millionen Downloads“-Visionskartenparket"
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "„5 Millionen Downloads“-Dunkelpaket"
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "„5 Millionen Downloads“-Eispaket"
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "Tägliches kostenloses Wachstumsei (R)"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "[UR]-Einheitenpaket"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "„5 Millionen Downloads“-[UR]-Visionskartenpaket"
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Wind-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Feuer-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Einheitentrainingspaket"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Täglicher kostenloser Multi-Kraftproben-Wiederhersteller"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Kraftprobenpaket"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Feuer-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Wind-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Erd-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Eis-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "LP-Paket"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Angriffspaket"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Präzisionspaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Visionskartentrainingspaket C"
+        },
+        {
+            "key": "IT_SET_AWK_GL01",
+            "value": "Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "10 tägliche kostenlose Überspringtickets"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Blitz-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Dunkel-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": "Ausweichpaket"
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": "Magiepaket"
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": "Kritisch-Paket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "MOBIUS FINAL FANTASY Kollabo-Paket"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "„Mobius der Verzweiflung und der Wahrheit“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "„Mobius der Hoffnung und der Illusion“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Visionskartentrainingspaket II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Einheitentrainingspaket"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Licht-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Wasser-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Fryevia-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Feuer-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Wasser-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Wind-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Blitz-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Erd-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Eis-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Licht-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Dunkel-Alkristpaket"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "ERF-Würfel-Paket zur Feier der Porzellanturm-Eröffnung"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Tägliches Gratis-Ausdauerstimulans (L)"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Porzellanturm-Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Porzellanturm-Feuerverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Porzellanturm-Wasserverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Porzellanturm-Eisverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Porzellanturm-Windverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Porzellanturm-Blitzverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Porzellanturm-Erdverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Porzellanturm-Lichtverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Porzellanturm-Dunkelverstärkungspaket"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Gildenstatuen-Verbesserungspaket"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Dunkel-Erweckungspaket (vollst.)"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "[Nur für Einsteiger] Regenbogenfarbene Visionskugel"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "[Nur für Einsteiger] Azurblaue Visionskugel"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "[Nur für Einsteiger] Regenbogen-Gedankenfragment"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "[Nur für Einsteiger] Jobpaket"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "[Nur für Einsteiger] Jadeitpaket I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "[Nur für Einsteiger] Jadeitpaket II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "[Nur für Einsteiger] Azuritpaket I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "[Nur für Einsteiger] Azuritpaket II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "[Nur für Einsteiger] [UR]-Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "[R]-Anleitungspaket II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "[UR]-Visionskartenpaket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Licht-Esperstärkungspaket"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Abwehrpaket"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Psychepaket"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "„Krieger des Lichts“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Licht-Erweckungspaket (vollst.)"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "„Todesmaschine“-Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Erd-Erweckungspaket (vollst.)"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "[UR]-Einheitenpaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Visionskartentrainingspaket B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Dunkel-Esperstärkungspaket"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Visionskartenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Regenbogen-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Wind-Jobverstärkungspaket (Rot)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Wind-Jobverstärkungspaket (Gelb)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Wind-Jobverstärkungspaket (Violett)"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "ERF-Würfel-Paket+"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Expeditionsticketpaket+"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Wind-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Oldoa-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Agrias-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "[UR]-Einheiten-Limitbruchpaket"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Eis-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Feuer-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Jobverstärkung-Unterstützungspaket"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "ERF-Würfel-Paket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Wachstumseierpaket"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Adamantitpaket"
+        },
+        {
+            "key": "IT_SET_GROW_ORND",
+            "value": "Orlandeau-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_SWO_GL01",
+            "value": "„Nagrarök +3 (Angriff)“-Paket"
+        },
+        {
+            "key": "IT_SET_HAT_GL01",
+            "value": "„Weisenhut +3 (Ausweichen)“-Paket"
+        },
+        {
+            "key": "IT_SET_RNG_GL01",
+            "value": "„Juwelenring +3 (Zielen)“-Paket"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_CM_03",
+            "value": "Blitz-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_04",
+            "value": "Licht-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL01",
+            "value": "Einheitenbeschwörungspaket"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_GL03",
+            "value": "[UR]-Einheitenpaket"
+        },
+        {
+            "key": "IT_SET_AW_WATER_CM_GL04",
+            "value": "Wasser-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_JB_WATER_03",
+            "value": "Wasser-Jobverstärkungspaket (Rot)"
+        },
+        {
+            "key": "IT_SET_JB_WATER_02",
+            "value": "Wasser-Jobverstärkungspaket (Gelb)"
+        },
+        {
+            "key": "IT_SET_JB_WATER_01",
+            "value": "Wasser-Jobverstärkungspaket (Violett)"
+        },
+        {
+            "key": "IT_SET_SWO_GL02",
+            "value": "Schwert-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_MACE_GL02",
+            "value": "Kolben-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_ACCE_GL02",
+            "value": "Accessoire-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_LW_ENBT",
+            "value": "Engelbert-Einheitenpaket"
+        },
+        {
+            "key": "IT_SET_GROW_ENBT",
+            "value": "Engelbert-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_VC_GROW_06",
+            "value": "Visionskartentrainingspaket B"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL02",
+            "value": "Einheitenbeschwörungspaket"
+        },
+        {
+            "key": "IT_SET_VC_EXP_04",
+            "value": "Visionskartentrainingspaket"
+        },
+        {
+            "key": "IT_SET_HLM_GL01",
+            "value": "„Platinhelm +3 (Barriere)“-Paket"
+        },
+        {
+            "key": "IT_SET_MAC_GL01",
+            "value": "„Platinkeule +3 (Magie)“-Paket"
+        },
+        {
+            "key": "IT_SET_CLT_GL01",
+            "value": "„Schlauer Mantel +3 (Barriere)“-Paket"
+        },
+        {
+            "key": "IT_SET_ARM_GL01",
+            "value": "„Goldrüstung +3 (Schild)“-Paket"
+        },
+        {
+            "key": "IT_SET_HA_SE_UNIT",
+            "value": "[Halbjähriges Jubiläum] Einheiten-Wahlpaket"
+        },
+        {
+            "key": "IT_SET_HA_SE_VCARD",
+            "value": "[Halbjähriges Jubiläum] Visionskarten-Wahlpaket"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_GL04",
+            "value": "Dunkel-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_GROW_HA",
+            "value": "[Halbjähriges Jubiläum] Regenbogen-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_L",
+            "value": "[Halbjähriges Jubiläum] Jobtrainingspaket III"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_M",
+            "value": "[Halbjähriges Jubiläum] Jobtrainingspaket II"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_S",
+            "value": "[Halbjähriges Jubiläum] Jobtrainingspaket I"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_L",
+            "value": "[Halbjähriges Jubiläum] ERF-Würfel-Paket II"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_S",
+            "value": "[Halbjähriges Jubiläum] ERF-Würfel-Paket I"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_L",
+            "value": "[Halbjähriges Jubiläum] Wachstumseierpaket II"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_S",
+            "value": "[Halbjähriges Jubiläum] Wachstumseierpaket I"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA",
+            "value": "[Halbjähriges Jubiläum] Adamantitpaket"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_FREE_00",
+            "value": "Täglich zwei kostenlose [UR]-Einheitenteile"
+        },
+        {
+            "key": "IT_SET_ICE_SB_EXP_GL_01",
+            "value": "Blaues Maginitpaket"
+        },
+        {
+            "key": "IT_SET_LB_EXP_HA",
+            "value": "[Halbjähriges Jubiläum] Limitrauschpaket"
+        },
+        {
+            "key": "IT_SET_WA_EXP_HA",
+            "value": "[Halbjähriges Jubiläum] Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA_02",
+            "value": "[Halbjähriges Jubiläum] Ausrüstungserweckungspaket"
+        },
+        {
+            "key": "IT_SET_SE_JB_HA",
+            "value": "[Halbjähriges Jubiläum] Jobtrainingspaket"
+        },
+        {
+            "key": "IT_SET_BSW_GL01",
+            "value": "„Runenschwert +3 (Zielen)“-Paket"
+        },
+        {
+            "key": "IT_SET_SWO_GL03",
+            "value": "„Korallenklinge +3 (Angriff)“-Paket"
+        },
+        {
+            "key": "IT_SET_GROW_LSWL",
+            "value": "Lasswell-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_HA_UE_EXP",
+            "value": "[Halbjähriges Jubiläum] Einheitenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP",
+            "value": "[Halbjähriges Jubiläum] Visionskartenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_SPE_GL01",
+            "value": "„Frostlanze +3 (Volltreffer)“-Paket"
+        },
+        {
+            "key": "IT_SET_SPEAR_01",
+            "value": "Lanze-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_BOW_01",
+            "value": "Bogen-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_TITN_EXP",
+            "value": "„Titan, Furor der Erde“-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_GROW",
+            "value": "Bes. [UR]-Einheitenteilepaket"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_01",
+            "value": "[Halbjähriges Jubiläum] Visionskarten-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_HA_01",
+            "value": "[Halbjähriges Jubiläum] Kraftprobenpaket"
+        },
+        {
+            "key": "IT_SET_JSWORD_01",
+            "value": "Katana-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_KAT_GL01",
+            "value": "„Violetter Blitz +3 (Angriff)“-Paket"
+        },
+        {
+            "key": "IT_SET_ACC_GL01",
+            "value": "„Schleife +3 (Ausweichen)“-Paket"
+        },
+        {
+            "key": "IT_SET_HA_SM_EXP",
+            "value": "[Halbjähriges Jubiläum] Esperstärkungspaket"
+        },
+        {
+            "key": "IT_SET_WA_EXP_02",
+            "value": "5 tägliche kostenlose Kleine Rüstungs-Pötte"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL03",
+            "value": "Einheitenbeschwörungspaket"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_04",
+            "value": "Erd-Erweckungspaket+"
+        },
+        {
+            "key": "IT_SET_PI_COM_1100DL",
+            "value": "[Halloween-Kampagne] Gedankenfragmentpaket"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_L",
+            "value": "[Halloween-Kampagne] ERF-Würfel-Paket II"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL",
+            "value": "[Halloween-Kampagne] Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "IT_SET_STA_01",
+            "value": "Stab-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_SWO_01",
+            "value": "Schwert-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_AXE_01",
+            "value": "Axt-Erweckungspaket"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_S",
+            "value": "[Halloween-Kampagne] ERF-Würfel-Paket I"
+        },
+        {
+            "key": "IT_SET_1100DL_SE_UPI",
+            "value": "[Halloween-Kampagne] Einheitentrainingspaket"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_05",
+            "value": "[Halloween-Kampagne] Jobverstärkungspaket V"
+        },
+        {
+            "key": "IT_SET_1100DL_UE_EXP",
+            "value": "[Halloween-Kampagne] Einheitenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_1100DL_UR_ AWK_01",
+            "value": "[Halloween-Kampagne] [UR]-Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_1100DL_SSR_ AWK_01",
+            "value": "[Halloween-Kampagne] [MR]-Einheitenerweckungspaket"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_04",
+            "value": "[Halloween-Kampagne] Jobverstärkungspaket IV"
+        },
+        {
+            "key": "IT_SET_1100DL_VE_EXP",
+            "value": "[Halloween-Kampagne] Visionskartenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_1100DL_SM_EXP",
+            "value": "[Halloween-Kampagne] Esperstärkungspaket"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_03",
+            "value": "[Halloween-Kampagne] Jobverstärkungspaket III"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_02",
+            "value": "[Halloween-Kampagne] Jobverstärkungspaket II"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_01",
+            "value": "[Halloween-Kampagne] Jobverstärkungspaket I"
+        }
+    ]
+}

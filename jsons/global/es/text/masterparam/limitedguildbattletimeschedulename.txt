@@ -1,0 +1,60 @@
+{
+    "infos": [
+        {
+            "key": "TS_LGBP_2006_1",
+            "value": "Ronda 1"
+        },
+        {
+            "key": "TS_LGBP_2006_2",
+            "value": "Ronda 2"
+        },
+        {
+            "key": "TS_LGBP_2006_3",
+            "value": "Ronda 3"
+        },
+        {
+            "key": "TS_LGBP_2006_4",
+            "value": "Ronda 4"
+        },
+        {
+            "key": "TS_LGBP_2006_5",
+            "value": "Ronda 5"
+        },
+        {
+            "key": "TS_LGBP_2006_6",
+            "value": "Ronda 6"
+        },
+        {
+            "key": "TS_LGBP_2006_7",
+            "value": "Ronda 7"
+        },
+        {
+            "key": "TS_LGBP_2006_8",
+            "value": "Ronda 8"
+        },
+        {
+            "key": "TS_LGBP_2006_9",
+            "value": "Ronda 9"
+        },
+        {
+            "key": "TS_LGBP_2006_10",
+            "value": "Ronda 10"
+        },
+        {
+            "key": "TS_LGBP_2006_11",
+            "value": "Ronda 11"
+        },
+        {
+            "key": "TS_LGBP_2006_12",
+            "value": "Ronda 12"
+        },
+        {
+            "key": "TS_LGBP_2006_13",
+            "value": "Ronda 13"
+        },
+        {
+            "key": "TS_LGBP_2006_14",
+            "value": "Ronda 14"
+        }
+    ]
+}

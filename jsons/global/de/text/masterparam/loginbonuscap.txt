@@ -1,0 +1,196 @@
+{
+    "infos": [
+        {
+            "key": "LB_BEGINNER_001",
+            "value": "Einsteiger-Anmeldebonus"
+        },
+        {
+            "key": "LB_BEGINNER_002",
+            "value": "Einsteiger-Anmeldebonus"
+        },
+        {
+            "key": "LB_TOTAL_001",
+            "value": "Kumulativer Anmeldebonus"
+        },
+        {
+            "key": "LB_202003",
+            "value": "März-Anmeldebonus"
+        },
+        {
+            "key": "LB_202004",
+            "value": "April-Anmeldebonus"
+        },
+        {
+            "key": "LB_202005",
+            "value": "Mai-Anmeldebonus"
+        },
+        {
+            "key": "LB_202006",
+            "value": "Juni-Anmeldebonus"
+        },
+        {
+            "key": "LB_202007",
+            "value": "Juli-Anmeldebonus"
+        },
+        {
+            "key": "LB_202008",
+            "value": "August-Anmeldebonus"
+        },
+        {
+            "key": "LB_202009",
+            "value": "September-Anmeldebonus"
+        },
+        {
+            "key": "LB_202010",
+            "value": "Oktober-Anmeldebonus"
+        },
+        {
+            "key": "LB_202011",
+            "value": "November-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL_0001",
+            "value": "Veröffentlichungsandenken"
+        },
+        {
+            "key": "LB_LIMIT_0001",
+            "value": "Feierlicher „1 Million Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0000",
+            "value": "Feierlicher „2 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_COMEBACK_001",
+            "value": "Anmeldebonus für Rückkehrer"
+        },
+        {
+            "key": "LB_COMEBACK_002",
+            "value": "Anmeldebonus für Rückkehrer"
+        },
+        {
+            "key": "LB_LIMIT_0007",
+            "value": "Feierlicher FFT-Kollabo-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0001",
+            "value": "Feierlicher „3 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0002",
+            "value": "Feierlicher „3 Millionen Downloads“-Anmeldebonus Teil 2"
+        },
+        {
+            "key": "LB_LIMIT_GL0003",
+            "value": "Feierlicher „4 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0004",
+            "value": "„Kapitel 6 veröffentlicht!“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0005",
+            "value": "Feierlicher „5 Millionen Downloads“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0006",
+            "value": "Feierlicher „5 Millionen Downloads“-Anmeldebonus Teil II"
+        },
+        {
+            "key": "LB_LIMIT_GL0007",
+            "value": "Anmeldebonus zur Feier des Versionsupdates"
+        },
+        {
+            "key": "LB_LIMIT_GL0008",
+            "value": "Anmeldebonus zur Feier der Kraftprobe"
+        },
+        {
+            "key": "LB_LIMIT_GL0009",
+            "value": "Frühsommer-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0010",
+            "value": "MOBIUS FINAL FANTASY Kollabo-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0011",
+            "value": "„FF EXVIUS Universe“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0012",
+            "value": "„FF EXVIUS Universe“-Anmeldebonus Teil II"
+        },
+        {
+            "key": "LB_LIMIT_GL0013",
+            "value": "Anmeldebonus zur Gildenunterstützung"
+        },
+        {
+            "key": "LB_LIMIT_GL0014",
+            "value": "„FF EXVIUS Universe“: Meilenstein-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0015",
+            "value": "Anmeldebonus zur Feier der Kraftprobe"
+        },
+        {
+            "key": "LB_LIMIT_GL0016",
+            "value": "FFI-Kollabo-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0017",
+            "value": "FFI-Kollabo-Anmeldebonus Teil II"
+        },
+        {
+            "key": "LB_LIMIT_GL0018",
+            "value": "„Kapitel 8 veröffentlicht!“-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0019",
+            "value": "Anmeldebonus zur Feier des Super-Versionsupdates"
+        },
+        {
+            "key": "LB_LIMIT_GL0020",
+            "value": "FFT-Kollabo-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0021",
+            "value": "Countdown zum Halbjährigen Jubiläum<br>Teil I: Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0022",
+            "value": "Countdown zum Halbjährigen Jubiläum<br>Teil II: Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0023",
+            "value": "Countdown zum Halbjährigen Jubiläum<br>Teil III: Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0024",
+            "value": "FFCCRE-Kollabo-Anmeldebonus"
+        },
+        {
+            "key": "LB_LIMIT_GL0025",
+            "value": "Anmeldebonus zum Halbjährigen Jubiläum Teil I"
+        },
+        {
+            "key": "LB_LIMIT_GL0026",
+            "value": "Anmeldebonus zum Halbjährigen Jubiläum Teil II"
+        },
+        {
+            "key": "LB_LIMIT_GL0027",
+            "value": "Anmeldebonus zum Halbjährigen Jubiläum Teil III"
+        },
+        {
+            "key": "LB_LIMIT_GL0028",
+            "value": "Anmeldebonus zum Halbjährigen Jubiläum Teil IV"
+        },
+        {
+            "key": "LB_LIMIT_GL0029",
+            "value": "Anmeldebonus der Halloween-Kampagne Teil I"
+        },
+        {
+            "key": "LB_LIMIT_GL0030",
+            "value": "Anmeldebonus der Halloween-Kampagne Teil II"
+        }
+    ]
+}

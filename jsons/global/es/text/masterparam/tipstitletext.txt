@@ -1,0 +1,100 @@
+{
+    "infos": [
+        {
+            "key": "TIPS_ALL_001",
+            "value": "Avisos"
+        },
+        {
+            "key": "TIPS_ALL_002",
+            "value": "Rango de jugador"
+        },
+        {
+            "key": "TIPS_ALL_003",
+            "value": "Amigos"
+        },
+        {
+            "key": "TIPS_ALL_004",
+            "value": "Tiendas"
+        },
+        {
+            "key": "TIPS_ALL_006",
+            "value": "Bonificaciones de acceso"
+        },
+        {
+            "key": "TIPS_ALLQE_001",
+            "value": "Estimación de daño"
+        },
+        {
+            "key": "TIPS_ALLQE_003",
+            "value": "Afinidad I"
+        },
+        {
+            "key": "TIPS_ALLQE_004",
+            "value": "Afinidad II"
+        },
+        {
+            "key": "TIPS_ALLQE_002",
+            "value": "Maestría de equipo I"
+        },
+        {
+            "key": "TIPS_ALLQE_005",
+            "value": "Maestría de equipo II"
+        },
+        {
+            "key": "TIPS_ALLQE_006",
+            "value": "Habilidades de grupo"
+        },
+        {
+            "key": "TIPS_ALLQE_007",
+            "value": "Resonancia de esper"
+        },
+        {
+            "key": "TIPS_ALLQE_008",
+            "value": "Batallas automáticas"
+        },
+        {
+            "key": "TIPS_ALLQE_009",
+            "value": "Bravura"
+        },
+        {
+            "key": "TIPS_ALLQE_010",
+            "value": "Fe"
+        },
+        {
+            "key": "TIPS_ALLQE_011",
+            "value": "Bravura y fe tras el combate"
+        },
+        {
+            "key": "TIPS_ALLQE_012",
+            "value": "El estado gallina"
+        },
+        {
+            "key": "TIPS_DUEL_001",
+            "value": "Tasas"
+        },
+        {
+            "key": "TIPS_DUEL_002",
+            "value": "Recompensas de participación"
+        },
+        {
+            "key": "TIPS_DUEL_003",
+            "value": "Clasificación"
+        },
+        {
+            "key": "TIPS_MULTI_001",
+            "value": "Sellos"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Recompensas de duelos aleatorios"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Selección de modo"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Jefes de asalto"
+        }
+    ]
+}

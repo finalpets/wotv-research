@@ -1,0 +1,172 @@
+{
+    "infos": [
+        {
+            "key": "UNIT_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>UBE</cspace> DE</size> NIVEL</cspace></size>"
+        },
+        {
+            "key": "UNIT_AWAKE",
+            "value": "<cspace=2><size=96>D<size=80>ESPERTAR"
+        },
+        {
+            "key": "UNIT_RANKUP",
+            "value": "<cspace=4><size=96>R<size=80>UPTURA DE</size></cspace> <cspace=-3><size=96>L</size><size=80>ÍMITE"
+        },
+        {
+            "key": "TRUST_MASTER",
+            "value": "<cspace=-4>M<size=72>AESTRO</size> F<size=72>IEL"
+        },
+        {
+            "key": "JOB_LEVELUP",
+            "value": "<cspace=-2>N<size=72><cspace=-3>v. de<cspace=-2> <size=88>profesión↑"
+        },
+        {
+            "key": "MASTER_ABILITY",
+            "value": "¡Nuevo poder desbloqueado<size=60>!"
+        },
+        {
+            "key": "MASTER_ABILITY_GRADEUP",
+            "value": "¡Fuerza mejorada aún más<size=60>!"
+        },
+        {
+            "key": "LIMITBURST_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>UBE</cspace> DE</size> NIVEL</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP",
+            "value": "<size=90>S<cspace=1><size=76>UBE de</cspace></size> rango</cspace></size>"
+        },
+        {
+            "key": "PLAYER_RANKUP_RANK",
+            "value": "Rango"
+        },
+        {
+            "key": "PLAYER_RANKUP_STAMINA",
+            "value": "Energía máx."
+        },
+        {
+            "key": "PLAYER_RANKUP_FRIEND",
+            "value": "N.º de amigos máx."
+        },
+        {
+            "key": "PLAYER_RANKUP_OPEN",
+            "value": "Desbloqueado"
+        },
+        {
+            "key": "ARTI_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>UBE</cspace> DE</size> NIVEL</cspace></size>"
+        },
+        {
+            "key": "ARTI_STATUSUP",
+            "value": "<size=98>A<cspace=-6><size=82>TRIBUTOS</cspace></size> AUMENTADOS</cspace></size>"
+        },
+        {
+            "key": "CHALLENGE_CLEAR",
+            "value": "<cspace=0.01em><size=1.4em>M</size>ISIÓN <size=1.4em>C</size>UMPLIDA"
+        },
+        {
+            "key": "CHALLENGE_BINGO",
+            "value": "<cspace=0.04em><size=1.4em>¡L</size>ÍNEA<size=1.4em>!"
+        },
+        {
+            "key": "DEMO_TOBECONTINUED",
+            "value": "Continuará..."
+        },
+        {
+            "key": "EXPEDITION_ITEM_GET",
+            "value": "¡Éxito!"
+        },
+        {
+            "key": "RAID_APPEAR_TITLE",
+            "value": "<cspace=-5>¡Ha aparecido un jefe de asalto!"
+        },
+        {
+            "key": "VISION_LEVELUP",
+            "value": "<size=1.16em>S</size>UBE<space=0.1em>DE NIVEL"
+        },
+        {
+            "key": "VISION_AWAKE",
+            "value": "<size=1.2em>D<space=-0.05em></size><size=1em>ES<space=-0.05em></size>PER<space=-0.15em>T<space=-0.1em>A<space=-0.05em>R "
+        },
+        {
+            "key": "VISION_GROWTH_MAX",
+            "value": "<cspace=-0.04em>Bonificación de entrenamiento máx."
+        },
+        {
+            "key": "NEW_BONUS",
+            "value": "Bonif. 1.ª vez"
+        },
+        {
+            "key": "GUILD_EFF_ESTABLISHMENT",
+            "value": "Se ha establecido el gremio"
+        },
+        {
+            "key": "GUILD_STATUE_LEVELUP",
+            "value": "<size=98>S<cspace=-6><size=82>UBE</cspace> DE</size> NIVEL</cspace></size>"
+        },
+        {
+            "key": "GUILD_STATUE_EFF",
+            "value": "<cspace=1.5>Desbloquea"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKUP",
+            "value": "¡SUBE en la liga!"
+        },
+        {
+            "key": "GUILD_LEAGUE_RANKDOWN",
+            "value": "¡BAJA en la liga!"
+        },
+        {
+            "key": "GUILD_BATTLE_RESULT",
+            "value": "RESULTADOS"
+        },
+        {
+            "key": "BATTLE_FEVER",
+            "value": "¡<cspace=-0.03em>F<size=0.7em>RENESÍ</size>!"
+        },
+        {
+            "key": "GUERILLA_TITLE",
+            "value": "Tienda fugaz"
+        },
+        {
+            "key": "GUERILLA_SUBTITLE",
+            "value": "<cspace=0.05em>Tienda fugaz"
+        },
+        {
+            "key": "GUERILLA_OPEN",
+            "value": "<cspace=0.05em>ABIERTA"
+        },
+        {
+            "key": "GUERILLA_BTN_LATER",
+            "value": "Más tarde"
+        },
+        {
+            "key": "GUERILLA_BTN_TRY",
+            "value": "A la tienda fugaz"
+        },
+        {
+            "key": "RESULT_FIRST_CLEAR",
+            "value": "<cspace=0.02em>¡Tienes recompensas por completar la 1.ª vez!"
+        },
+        {
+            "key": "RESULT_CLEAR",
+            "value": "<cspace=0.02em>¡Tienes recompensas por completar!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_TITLE",
+            "value": "¡Conseguido!"
+        },
+        {
+            "key": "POINTQUEST_REWARD_POINT",
+            "value": "ptos. alcanzados"
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_HIGH_SCORE",
+            "value": "Recompensas por conseguir récord."
+        },
+        {
+            "key": "POINTQUEST_REWARD_DESC_TOTAL",
+            "value": "Recompensas por acumulación de puntos adquiridos."
+        }
+    ]
+}

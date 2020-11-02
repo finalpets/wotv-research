@@ -1,0 +1,268 @@
+{
+    "infos": [
+        {
+            "key": "TW_01_001",
+            "value": "Unidad recomendada: tierra"
+        },
+        {
+            "key": "TW_01_002",
+            "value": "Unidad recomendada: rayo, montaraz"
+        },
+        {
+            "key": "TW_01_003",
+            "value": "Unidad recomendada: agua<br>Habilidad recomendada: ataque de unidad"
+        },
+        {
+            "key": "TW_01_004",
+            "value": "Unidad recomendada: viento<br>Habilidad recomendada: Perforación de la DEF<br>Otro: El cactilio de metal usará Mil espinas al ser atacado 3 veces"
+        },
+        {
+            "key": "TW_01_005",
+            "value": "Unidad recomendada: agua, rayo, ataque mágico"
+        },
+        {
+            "key": "TW_01_006",
+            "value": "Unidad recomendada: luz<br>Habilidad recomendada: Esna"
+        },
+        {
+            "key": "TW_01_007",
+            "value": "Unidad recomendada: oscuridad, con ataque de corte"
+        },
+        {
+            "key": "TW_01_008",
+            "value": "Unidad recomendada: fuego, con ataque de perforación"
+        },
+        {
+            "key": "TW_01_009",
+            "value": "Unidad recomendada: agua<br>Habilidad recomendada: ataque de zona"
+        },
+        {
+            "key": "TW_01_010",
+            "value": "Unidad recomendada: ataque de perforación"
+        },
+        {
+            "key": "TW_01_EX1",
+            "value": "Unidad recomendada: AGI y movimiento elevados<br>Otro: El monstruo será eliminado al pisar sobre el último círculo de invocación"
+        },
+        {
+            "key": "TW_01_011",
+            "value": "Unidad recomendada: viento<br>Habilidad recomendada: Ataque de golpe garantizado"
+        },
+        {
+            "key": "TW_01_012",
+            "value": "Unidad recomendada: luz, ataque mágico<br>Otro: El enemigo usa muchos ataques que absorben la VIT"
+        },
+        {
+            "key": "TW_01_013",
+            "value": "Unidad recomendada: hielo"
+        },
+        {
+            "key": "TW_01_014",
+            "value": "Unidad recomendada: fuego"
+        },
+        {
+            "key": "TW_01_015",
+            "value": "Unidad recomendada: res. a rana, mago negro"
+        },
+        {
+            "key": "TW_01_016",
+            "value": "Unidad recomendada: rayo"
+        },
+        {
+            "key": "TW_01_017",
+            "value": "Unidad recomendada: tierra, ataque de perforación"
+        },
+        {
+            "key": "TW_01_018",
+            "value": "Unidad recomendada: agua<br>Otro: Los enemigos se dividen en grupos según su baja resistencia a magia, corte y perforación. Presta atención especialmente a la posición inicial de tus formaciones"
+        },
+        {
+            "key": "TW_01_019",
+            "value": "Unidad recomendada: oscuridad, ataque mágico<br>Habilidad recomendada: Perforación de la DEF, embrujo, ataque normal"
+        },
+        {
+            "key": "TW_01_EX2",
+            "value": "Habilidad recomendada: cura de estados alterados"
+        },
+        {
+            "key": "TW_01_020",
+            "value": "Habilidad recomendada: perforación de la DEF, ataque de golpe garantizado"
+        },
+        {
+            "key": "TW_02_001",
+            "value": "Unidad recomendada: agua"
+        },
+        {
+            "key": "TW_02_002",
+            "value": "Unidad recomendada: luz, oscuridad"
+        },
+        {
+            "key": "TW_02_003",
+            "value": "Unidad recomendada: viento"
+        },
+        {
+            "key": "TW_02_004",
+            "value": "Unidad recomendada: hielo, viento"
+        },
+        {
+            "key": "TW_02_005",
+            "value": "Habilidad recomendada: res. magia↑"
+        },
+        {
+            "key": "TW_02_006",
+            "value": "Unidad recomendada: rayo, res. veneno"
+        },
+        {
+            "key": "TW_02_007",
+            "value": "Unidad recomendada: tierra"
+        },
+        {
+            "key": "TW_02_008",
+            "value": "Unidad recomendada: fuego<br>Habilidad recomendada: res. a proyectiles↑"
+        },
+        {
+            "key": "TW_02_009",
+            "value": "Unidad recomendada: hielo<br>Habilidad recomendada: precisión↑, odio↑"
+        },
+        {
+            "key": "TW_02_EX1",
+            "value": "Unidad recomendada: res. embrujo, res. parálisis y res. confusión<br>Habilidad recomendada: ataque de golpe garantizado, Esna, Guardia calamitosa"
+        },
+        {
+            "key": "TW_02_010",
+            "value": "Unidad recomendada: hielo<br>Habilidad recomendada: ataque de golpe garantizado<br>Otro: Los enemigos tienen una resistencia elevada diferente según su tipo"
+        },
+        {
+            "key": "TW_03_001",
+            "value": "Unidad recomendada: luz"
+        },
+        {
+            "key": "TW_03_002",
+            "value": "Unidad recomendada: oscuridad, con ataque de golpe"
+        },
+        {
+            "key": "TW_03_003",
+            "value": "Unidad recomendada: fuego, con ataque mágico"
+        },
+        {
+            "key": "TW_03_004",
+            "value": "Unidad recomendada: viento, con ataque a distancia"
+        },
+        {
+            "key": "TW_03_005",
+            "value": "Unidad recomendada: con ataque de corte"
+        },
+        {
+            "key": "TW_03_006",
+            "value": "Unidad recomendada: hielo, con ataque de corte"
+        },
+        {
+            "key": "TW_03_007",
+            "value": "Unidad recomendada: tierra, con ataque mágico"
+        },
+        {
+            "key": "TW_03_008",
+            "value": "Unidad recomendada: rayo"
+        },
+        {
+            "key": "TW_03_009",
+            "value": "Unidad recomendada: agua, con ataque de perforación"
+        },
+        {
+            "key": "TW_03_010",
+            "value": "Unidad recomendada: ataque de zona<br>Otro: El enemigo es vulnerable a confusión"
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": "Unidad recomendada: ataque mágico, ataque de perforación<br>Otro: No dejes que el enemigo pida demasiados refuerzos"
+        },
+        {
+            "key": "TW_03_011",
+            "value": "Unidad recomendada: luz, ataque de corte, ataque a distancia<br>Otro: El enemigo tiene la evasión elevada, así que aumenta tu precisión"
+        },
+        {
+            "key": "TW_03_012",
+            "value": "Unidad recomendada: oscuridad, con ataque de corte"
+        },
+        {
+            "key": "TW_03_013",
+            "value": "Unidad recomendada: fuego, con ataque de perforación"
+        },
+        {
+            "key": "TW_03_014",
+            "value": "Unidad recomendada: viento, tanque mágico"
+        },
+        {
+            "key": "TW_03_015",
+            "value": "Unidad recomendada: mago negro<br>Otro: El enemigo tiene mucha DEF pero es débil a sueño"
+        },
+        {
+            "key": "TW_03_016",
+            "value": "Unidad recomendada: hielo, con ataque de zona"
+        },
+        {
+            "key": "TW_03_017",
+            "value": "Unidad recomendada: tierra, ataque de unidad<br>Otro: El enemigo es vulnerable a ceguera"
+        },
+        {
+            "key": "TW_03_018",
+            "value": "Unidad recomendada: rayo, con ataque mágico"
+        },
+        {
+            "key": "TW_03_019",
+            "value": "Unidad recomendada: agua"
+        },
+        {
+            "key": "TW_03_020",
+            "value": "Unidad recomendada: luz, fuego, hielo, con penetración de DEF"
+        },
+        {
+            "key": "TW_03_EX2",
+            "value": "Unidad recomendada: mago blanco, monje <br>Otro: Cuidado con los ataques del enemigo que infligen estados alterados"
+        },
+        {
+            "key": "TW_03_021",
+            "value": "Unidad recomendada: luz"
+        },
+        {
+            "key": "TW_03_022",
+            "value": "Unidad recomendada: oscuridad, con ataque de corte, con ataque a distancia"
+        },
+        {
+            "key": "TW_03_023",
+            "value": "Unidad recomendada: fuego"
+        },
+        {
+            "key": "TW_03_024",
+            "value": "Unidad recomendada: viento"
+        },
+        {
+            "key": "TW_03_025",
+            "value": "Unidad recomendada: con ataque mágico"
+        },
+        {
+            "key": "TW_03_026",
+            "value": "Unidad recomendada: hielo, con ataque de zona"
+        },
+        {
+            "key": "TW_03_027",
+            "value": "Unidad recomendada: tierra <br>Otro: Cuidado con los ataques del enemigo que infligen inmóvil y sueño"
+        },
+        {
+            "key": "TW_03_028",
+            "value": "Unidad recomendada: rayo, con ataque mágico"
+        },
+        {
+            "key": "TW_03_029",
+            "value": "Unidad recomendada: agua"
+        },
+        {
+            "key": "TW_03_030",
+            "value": "Unidad recomendada: rayo, agua, ataque mágico, ataque de perforación <br>Otro: Cuidado con los ataques del enemigo que infligen sueño"
+        },
+        {
+            "key": "TW_03_EX3",
+            "value": "Unidad recomendada: res. ataque de zona, res. ataque mágico<br>Habilidad recomendada: Marcha de los santos"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<line-height=15><cspace=1>¡Lotes para principiantes! <cspace=-2.5>"
+        },
+        {
+            "key": "2",
+            "value": "<line-height=15>Tienda de celebración del millón de descargas"
+        },
+        {
+            "key": "3",
+            "value": "<line-height=15>Tienda de celebración de los 2 millones de descargas"
+        },
+        {
+            "key": "4",
+            "value": "<line-height=15>¡Ramza disponible!"
+        },
+        {
+            "key": "5",
+            "value": "<line-height=15>La colaboración con FFT acaba el 12/5"
+        },
+        {
+            "key": "6",
+            "value": "<line-height=15>Tienda del capítulo 6"
+        },
+        {
+            "key": "7",
+            "value": "<line-height=15>Tienda de los 5 millones de descargas"
+        },
+        {
+            "key": "8",
+            "value": "<line-height=15>¡Tienda de los 5 millones de descargas, parte II!"
+        },
+        {
+            "key": "9",
+            "value": "<line-height=15>Tienda de celebración de la actualización del juego"
+        },
+        {
+            "key": "10",
+            "value": "<line-height=15>¡Tienda especial de celebración de asalto!"
+        },
+        {
+            "key": "11",
+            "value": "<line-height=15>Tienda especial<br>de comienzo del verano"
+        },
+        {
+            "key": "12",
+            "value": "<line-height=15>Tienda de colaboración de<br>MOBIUS FF"
+        },
+        {
+            "key": "13",
+            "value": "<line-height=15>¡Tienda de celebración de lanzamiento<br>de la Torre de Porcelana!"
+        },
+        {
+            "key": "14",
+            "value": "<line-height=15>Tienda de la campaña <br>de apoyo al gremio"
+        },
+        {
+            "key": "15",
+            "value": "<line-height=15>¡Tienda especial <br>de celebración de asalto!"
+        },
+        {
+            "key": "16",
+            "value": "<line-height=15>Tienda de la campaña<br>de verano 2020"
+        },
+        {
+            "key": "17",
+            "value": "<line-height=15>La colaboración con FFI acaba el 11/8"
+        },
+        {
+            "key": "18",
+            "value": "<line-height=15>Tienda del capítulo 8"
+        },
+        {
+            "key": "19",
+            "value": "<line-height=15>Tienda de celebración<br>de la gran actualización del juego"
+        },
+        {
+            "key": "20",
+            "value": "<line-height=15>¡Lotes limitados<br>de colaboración!"
+        },
+        {
+            "key": "21",
+            "value": "<line-height=15>Ramza garantizado"
+        },
+        {
+            "key": "22",
+            "value": "<line-height=15>La colaboración con FFT acaba el 15/9"
+        },
+        {
+            "key": "23",
+            "value": "<line-height=12>Tienda de la cuenta atrás de los <br>6 primeros meses del juego"
+        },
+        {
+            "key": "24",
+            "value": "¡<line-height=12>Tienda de celebración<br>de los 6 primeros meses del juego ya disponible!"
+        },
+        {
+            "key": "25",
+            "value": "<line-height=15>Tienda de celebración<br>de los 6 primeros meses del juego, parte II"
+        },
+        {
+            "key": "26",
+            "value": "<line-height=15>Tienda de celebración<br>de los 6 primeros meses, parte III"
+        },
+        {
+            "key": "27",
+            "value": "<line-height=15>Tienda de celebración<br>de los 6 primeros meses, parte IV"
+        },
+        {
+            "key": "28",
+            "value": "<line-height=15>Tienda de la campaña<br>de Halloween, parte I"
+        },
+        {
+            "key": "29",
+            "value": "<line-height=15>Tienda de la campaña<br>de Halloween, parte II"
+        }
+    ]
+}

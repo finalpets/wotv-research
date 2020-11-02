@@ -1,0 +1,188 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "味方"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "敵"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "ギミック"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "かつ"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": " "
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "以上"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "以下"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "{0}の全滅"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "{0}の殲滅"
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "{0}以外の{1}を殲滅"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "{0}の死亡"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0}の破壊"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0}の生存"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "主人公の死亡"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "主人公の生存"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "{0}の体力が{1}％{2}"
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "{0}の行動回数が{1}回{2}"
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0}が{1}へ隣接する"
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0}が目標地点に到達する"
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0}が{1}と重なる"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0}が目標地点に{1}スキルを使用する"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0}が{1}に{2}スキルを使用する"
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "地形が{0}に変わった"
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "ムラガ・フェネスを倒す"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "ムラガ・フェネスを倒す"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "賊の頭目を倒す"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "敵の殲滅"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "シュゼルト以外の味方の全滅"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "シュテル・リオニス以外の味方の全滅"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "カミッロを倒す"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "馬車に一定のダメージを与える"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "ヴァジムを倒す"
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "チョコプリンの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "チョコプリンの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "チョコプリンの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "チョコプリンの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "ホワイトマシュマロの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "ホワイトマシュマロの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "ホワイトマシュマロの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "ホワイトマシュマロの討伐"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "ディアーを倒す"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "オルドアを倒す"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "デスマシーンの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "デスマシーンの討伐"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "デスマシーンの討伐"
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "城門前に到達、若しくは敵の殲滅"
+        }
+    ]
+}

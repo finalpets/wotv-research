@@ -1,0 +1,84 @@
+{
+    "infos": [
+        {
+            "key": "FRIEND_INVITE_TITLE",
+            "value": "友達招待"
+        },
+        {
+            "key": "FRIEND_INVITE_AMOUNT_TITLE",
+            "value": "招待人数"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INVITE",
+            "value": "友達を招待"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_INPUT",
+            "value": "招待コード入力"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_TITLE",
+            "value": "友達招待報酬"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_DESC",
+            "value": "友達をゲームに招待しよう！<br>友達がプレイすると、あなたにもボーナスをプレゼント！"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INVITE_CONDITION",
+            "value": "※友達招待は Rank. {0} 以上必要です。"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_TITLE",
+            "value": "招待コード入力報酬"
+        },
+        {
+            "key": "FRIEND_INVITE_CONTENT_INPUT_CONDITION",
+            "value": "※招待コードの入力は Rank. {0} までに行ってください。"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_RANK",
+            "value": "Rank.{0}以上で招待可能"
+        },
+        {
+            "key": "FRIEND_INVITE_BTN_CONDITION_LIMIT",
+            "value": "招待人数上限"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_CHALLANGE_MISSION",
+            "value": "友達がチャレンジミッション{0}枚目の{1}を達成"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_STORY",
+            "value": "友達がストーリークエスト{0}章{1}節{2}をクリア"
+        },
+        {
+            "key": "FRIEND_INVITE_CONDITION_LOGIN",
+            "value": "友達が{0}日目ログインする。"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_TITLE",
+            "value": "招待コード入力"
+        },
+        {
+            "key": "FRIEND_INVITE_INPUT_DESC",
+            "value": "<line-height=36>友達から貰った<br>招待コードを入力してください"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_TITLE",
+            "value": "友達招待成立！"
+        },
+        {
+            "key": "FRIEND_INVITE_SUCCESS_DESC",
+            "value": "おめでとうございます。<br>友達招待が成立しました。<br>報酬をプレゼントにお送りします。"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_TITLE",
+            "value": "成立失敗"
+        },
+        {
+            "key": "FRIEND_INVITE_FAILED_DESC",
+            "value": "友達招待の成立に失敗しました。<br>友達がすでに{0}人招待成立しています。"
+        }
+    ]
+}

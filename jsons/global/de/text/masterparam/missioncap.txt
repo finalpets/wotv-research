@@ -1,0 +1,800 @@
+{
+    "infos": [
+        {
+            "key": "GMG_NORMAL",
+            "value": "Gildenmission"
+        },
+        {
+            "key": "MG_DAILY_001",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_FF14",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_GUILD",
+            "value": "Täglicher Gildeneventauftrag"
+        },
+        {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "Kampagnenmission zur Gildenunterstützung"
+        },
+        {
+            "key": "MG_STORY_001",
+            "value": "Storyauftrag – Teil 1"
+        },
+        {
+            "key": "MG_VIP_LOGB_01",
+            "value": "Royaler Anmeldebonus"
+        },
+        {
+            "key": "MG_PR_001",
+            "value": "Visiore einsetzen"
+        },
+        {
+            "key": "MG_PR_002",
+            "value": "Schließe neue Freundschaften"
+        },
+        {
+            "key": "MG_PR_003",
+            "value": "Erwecke eine Einheit"
+        },
+        {
+            "key": "MG_PR_004",
+            "value": "Führe den Limitbruch einer Einheit durch"
+        },
+        {
+            "key": "MG_SBQ_001",
+            "value": "Schließe einen Unterauftrag ab"
+        },
+        {
+            "key": "MG_MP_SAMPLE_01",
+            "value": "Missionspaket-Muster 01"
+        },
+        {
+            "key": "MG_MP_QEST_01",
+            "value": "Storyauftragspaket I"
+        },
+        {
+            "key": "MG_MP_QEST_02",
+            "value": "Storyauftragspaket II"
+        },
+        {
+            "key": "MG_MP_QEST_03",
+            "value": "Storyauftragspaket III"
+        },
+        {
+            "key": "MG_MP_QEST_04",
+            "value": "Storyauftragspaket IV"
+        },
+        {
+            "key": "MG_MP_QEST_05",
+            "value": "Storyauftragspaket V"
+        },
+        {
+            "key": "MG_MP_QEST_06",
+            "value": "Storyauftragspaket VI"
+        },
+        {
+            "key": "MG_MP_QEST_07",
+            "value": "Storyauftragspaket VII"
+        },
+        {
+            "key": "MG_MP_QEST_08",
+            "value": "Storyauftragspaket VIII"
+        },
+        {
+            "key": "MG_MP_QEST_09",
+            "value": "Storyauftragspaket IX"
+        },
+        {
+            "key": "MG_MP_GL_RANK_01",
+            "value": "Spielerrangpaket I"
+        },
+        {
+            "key": "MG_MP_GL_RANK_02",
+            "value": "Spielerrangpaket II"
+        },
+        {
+            "key": "MG_MP_GL_RANK_03",
+            "value": "Spielerrangpaket III"
+        },
+        {
+            "key": "MG_MONDAY_001",
+            "value": "Montagsmission"
+        },
+        {
+            "key": "MG_GL_DY_HALFANNI_01",
+            "value": "Tagesmission zum Halbjährigen Jubiläum"
+        },
+        {
+            "key": "MG_GL_DY_TORCELEB_01",
+            "value": "Feierliche „Prüfungen des Urteils“-Tagesmission"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_01",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_02",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_03",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_04",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_05",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_06",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_07",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DY_RAID_01",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DY_RAID_02",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DY_RAID_03",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DY_RAID_04",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DY_RAID_05",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DY_RAID_06",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_GL_DY_RAID_07",
+            "value": "[Tagesmission] Kraftproben-Teilnahme"
+        },
+        {
+            "key": "MG_FF14_1_01",
+            "value": "FINA FANTASY XIV: Shadowbringers"
+        },
+        {
+            "key": "MG_FF14_1_02",
+            "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+        },
+        {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "[Runde 2] FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_1_01",
+            "value": "FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_1_02",
+            "value": "FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_1_03",
+            "value": "[Multi] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_1_M_01",
+            "value": "FINAL FANTASY TACTICS [Geübt]"
+        },
+        {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINA FANTASY I [Geübt]"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "[Multi] FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "[Runde 2] FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "[Runde 2] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "[Multi] [Runde 2] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_GL_HALL_CH_01",
+            "value": "Halloween-Mission"
+        },
+        {
+            "key": "MG_EV_IGNT_01",
+            "value": "Herausforderung des Eisengiganten"
+        },
+        {
+            "key": "MG_MU_IGNT_01",
+            "value": "[Multi] Herausforderung des Eisengiganten"
+        },
+        {
+            "key": "MG_EV_CSLI_01",
+            "value": "Herausforderung des Schokopuddings"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "[Multi] Herausforderung des Schokopuddings"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "Herausforderung des Küsschens"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "[Multi] Herausforderung des Küsschens"
+        },
+        {
+            "key": "MG_EV_IFRT_01",
+            "value": "Herausforderung des Ifrit"
+        },
+        {
+            "key": "MG_MU_IFRT_01",
+            "value": "[Multi] Herausforderung des Ifrit"
+        },
+        {
+            "key": "MG_EV_ART_CRF_01",
+            "value": "Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "MG_EV_ART_CRF_02",
+            "value": "Brutaler Schwierigkeitsgrad: Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "MG_MU_ART_CRF_02",
+            "value": "[Multi] Brutaler Schwierigkeitsgrad: Ausrüstungsverbesserungsauftrag"
+        },
+        {
+            "key": "MG_EV_ART_CRF_03",
+            "value": "Ausrüstungsverbesserungsauftrag (Schlafschwert, Goldaxt)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_03",
+            "value": "[Multi] Ausrüstungsverbesserungsauftrag (Schlafschwert, Goldaxt)"
+        },
+        {
+            "key": "MG_EV_ART_CRF_04",
+            "value": "Ausrüstungsverbesserungsauftrag (Platinkeule, Korallenklinge)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_04",
+            "value": "[Multi] Ausrüstungsverbesserungsauftrag (Platinkeule, Korallenklinge)"
+        },
+        {
+            "key": "MG_EV01_1_01",
+            "value": "Der begehrte Prinz"
+        },
+        {
+            "key": "MG_EV01_1_02",
+            "value": "Der begehrte Prinz [EX]"
+        },
+        {
+            "key": "MG_MU_EV01_1_02",
+            "value": "[Multi] Der begehrte Prinz [EX]"
+        },
+        {
+            "key": "MG_EV02_1_01",
+            "value": "Rundall, Bedrohung im Westen"
+        },
+        {
+            "key": "MG_EV02_1_02",
+            "value": "Rundall, Bedrohung im Westen [EX]"
+        },
+        {
+            "key": "MG_MU_EV02_1_01",
+            "value": "[Multi] Rundall, Bedrohung im Westen"
+        },
+        {
+            "key": "MG_EV03_1_01",
+            "value": "Brennender Lebenswille"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "Brennender Lebenswille [EX]"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "[Multi] Brennender Lebenswille [EX]"
+        },
+        {
+            "key": "MG_EV04_1_01",
+            "value": "Fern im Osten"
+        },
+        {
+            "key": "MG_EV04_1_02",
+            "value": "Fern im Osten [EX]"
+        },
+        {
+            "key": "MG_MU_EV04_1_02",
+            "value": "[Multi] Fern im Osten [EX]"
+        },
+        {
+            "key": "MG_EV05_1_01",
+            "value": "Gouga und Saiga: Teil I"
+        },
+        {
+            "key": "MG_EV05_1_02",
+            "value": "Gouga und Saiga: Teil I [EX]"
+        },
+        {
+            "key": "MG_MU_EV05_1_02",
+            "value": "[Multi] Gouga und Saiga: Teil I [EX]"
+        },
+        {
+            "key": "MG_ETRE01_01",
+            "value": "Trainingsauftrag „Etre“"
+        },
+        {
+            "key": "MG_ETRE01_02",
+            "value": "Hoher Schwierigkeitsgrad: Trainingsauftrag „Etre“ [EX]"
+        },
+        {
+            "key": "MG_MU_ETRE01_01",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Trainingsauftrag „Etre“ [EX]"
+        },
+        {
+            "key": "MG_THLA01_01",
+            "value": "Fragment-Belohnungsauftrag „Salire“"
+        },
+        {
+            "key": "MG_THLA01_02",
+            "value": "Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX]"
+        },
+        {
+            "key": "MG_MU_THLA01_01",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Fragment-Belohnungsauftrag „Salire“ [EX]"
+        },
+        {
+            "key": "MG_EV_ART_SCR_00",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag"
+        },
+        {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag I"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag I"
+        },
+        {
+            "key": "MG_EV_ART_SCR_02",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag II"
+        },
+        {
+            "key": "MG_MU_ART_SCR_02",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag II"
+        },
+        {
+            "key": "MG_EV_SCR_01",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)"
+        },
+        {
+            "key": "MG_MU_SCR_01",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Schwert, Großschwert, Axt)"
+        },
+        {
+            "key": "MG_EV_SCR_02",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)"
+        },
+        {
+            "key": "MG_MU_SCR_02",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Lanze, Fäuste, Pistole)"
+        },
+        {
+            "key": "MG_EV_SCR_03",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)"
+        },
+        {
+            "key": "MG_MU_SCR_03",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Rüstung, Accessoire, Shinobigatana)"
+        },
+        {
+            "key": "MG_EV_SCR_04",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)"
+        },
+        {
+            "key": "MG_MU_SCR_04",
+            "value": "[Multi] Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Stab, Katana, Dolch)"
+        },
+        {
+            "key": "MG_EV_SCR_05",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Kolben, Bogen, Rüstung)"
+        },
+        {
+            "key": "MG_MU_SCR_05",
+            "value": "Hoher Schwierigkeitsgrad: Almanach-Belohnungsauftrag (Kolben, Bogen, Rüstung)"
+        },
+        {
+            "key": "MG_DAILY_002_5",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_002_6",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_002_7",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_002_1",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_002_2",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_002_3",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_002_4",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_003_7",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_006_1",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_006_2",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_006_3",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_006_4",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_006_5",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_DAILY_006_6",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_GL_DAILY_006_7",
+            "value": "Tagesmission"
+        },
+        {
+            "key": "MG_MONTHLY_001_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_001_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_001_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_001_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_001_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_001_6",
+            "value": "[Monatsmission] Gildenkämpfe"
+        },
+        {
+            "key": "MG_MONTHLY_001_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_MONTHLY_GL_01",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_002_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_002_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_002_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_002_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_002_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_002_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_002_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_MONTHLY_003_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_003_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_003_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_003_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_003_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_003_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_003_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_MONTHLY_004_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_MONTHLY_005_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_005_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_005_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_005_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_005_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_005_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_005_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_MONTHLY_006_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_MONTHLY_007_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_007_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_007_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_007_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_007_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_007_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_007_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_MONTHLY_008_1",
+            "value": "[Monatsmission] Storyaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_008_2",
+            "value": "[Monatsmission] Schwierige Aufträge"
+        },
+        {
+            "key": "MG_MONTHLY_008_3",
+            "value": "[Monatsmission] Multiaufträge"
+        },
+        {
+            "key": "MG_MONTHLY_008_4",
+            "value": "[Monatsmission] ERF-Kammer"
+        },
+        {
+            "key": "MG_MONTHLY_008_5",
+            "value": "[Monatsmission] Arena"
+        },
+        {
+            "key": "MG_MONTHLY_008_6",
+            "value": "[Monatsmission] Chocobo-Expedition"
+        },
+        {
+            "key": "MG_MONTHLY_008_7",
+            "value": "[Monatsmission] Gildenstatuen"
+        },
+        {
+            "key": "MG_LAPS_P_LUCA",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_VKTR",
+            "value": "Visiore einsetzen: Begrenzter Zeitraum"
+        },
+        {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_WROL",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_QILF",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_LAPS_P_IRDL",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_P_STRN_01",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_P_GRSR",
+            "value": "Visiore einsetzen: Limitierter Bonus"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "Rückkehrermission"
+        }
+    ]
+}

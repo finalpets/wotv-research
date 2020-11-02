@@ -1,0 +1,64 @@
+{
+    "infos": [
+        {
+            "key": "001",
+            "value": "今回は、ユニットの<color=#0000ff>属性</color>について<br>ご説明差し上げます。"
+        },
+        {
+            "key": "//変更なし//",
+            "value": ""
+        },
+        {
+            "key": "002",
+            "value": "全てのユニットは、<br><color=#0000ff>火</color>、<color=#0000ff>氷</color>、<color=#0000ff>風</color>、<color=#0000ff>土</color>、<color=#0000ff>雷</color>、<color=#0000ff>水</color>、<color=#0000ff>光</color>、<color=#0000ff>闇</color>。<br>いずれかの属性の加護を受けております。"
+        },
+        {
+            "key": "//色指定更新//",
+            "value": ""
+        },
+        {
+            "key": "003",
+            "value": "また、それぞれの属性には相性、つまり<br><color=#0000ff>得意</color>・<color=#0000ff>苦手</color>となる属性が存在します。"
+        },
+        {
+            "key": "006",
+            "value": "味方ユニットの属性が、<color=#0000ff>得意な属性</color>の敵に<br>攻撃する場合ダメージが<color=#0000ff>増加</color>。"
+        },
+        {
+            "key": "//文章更新//",
+            "value": ""
+        },
+        {
+            "key": "007",
+            "value": "逆に<color=#0000ff>苦手な属性</color>へ攻撃する場合<br>ダメージは<color=#0000ff>減少</color>します。"
+        },
+        {
+            "key": "008",
+            "value": "モント様は<color=#0000ff>土属性</color>なので<color=#0000ff>雷属性の敵</color>が得意。"
+        },
+        {
+            "key": "009",
+            "value": "リリシュは<color=#0000ff>火属性</color>なので<color=#0000ff>氷属性の敵</color>が得意。"
+        },
+        {
+            "key": "010",
+            "value": "そして私は<color=#0000ff>水属性</color>なので<color=#0000ff>火属性</color>の敵が得意。<br>それぞれ<color=#0000ff>得意な属性</color>の敵へ<br>攻撃を行いましょう。"
+        },
+        {
+            "key": "011",
+            "value": "【削除】"
+        },
+        {
+            "key": "012",
+            "value": "無事敵を撃破できましたわね。"
+        },
+        {
+            "key": "013",
+            "value": "ところで、敵への攻撃を決定する直前<br><color=#0000ff>属性相性表</color>が出ていることに<br>気づきましたでしょうか。"
+        },
+        {
+            "key": "014",
+            "value": "慣れないうちは、この相性表を確認しながら<br>戦うようにすると良いですわ。"
+        }
+    ]
+}

@@ -1,0 +1,800 @@
+{
+    "infos": [
+        {
+            "key": "GMG_NORMAL",
+            "value": "Mission de guilde"
+        },
+        {
+            "key": "MG_DAILY_001",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_FF14",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_GUILD",
+            "value": "Quête d'événement quotidienne de guilde"
+        },
+        {
+            "key": "MG_GL_DAILY_GUILD_01",
+            "value": "Mission de la campagne de soutien de guilde"
+        },
+        {
+            "key": "MG_STORY_001",
+            "value": "Quête d'histoire - Saison 1"
+        },
+        {
+            "key": "MG_VIP_LOGB_01",
+            "value": "Bonus de connexion royaux"
+        },
+        {
+            "key": "MG_PR_001",
+            "value": "Utilisez des visiores"
+        },
+        {
+            "key": "MG_PR_002",
+            "value": "Faites-vous davantage d'amis"
+        },
+        {
+            "key": "MG_PR_003",
+            "value": "Éveillez une unité"
+        },
+        {
+            "key": "MG_PR_004",
+            "value": "Brisez la limite d'une unité"
+        },
+        {
+            "key": "MG_SBQ_001",
+            "value": "Terminez une quête secondaire"
+        },
+        {
+            "key": "MG_MP_SAMPLE_01",
+            "value": "Coffre de missions échantillon 1"
+        },
+        {
+            "key": "MG_MP_QEST_01",
+            "value": "Quête d'histoire - Lot I"
+        },
+        {
+            "key": "MG_MP_QEST_02",
+            "value": "Quête d'histoire - Lot II"
+        },
+        {
+            "key": "MG_MP_QEST_03",
+            "value": "Quête d'histoire - Lot III"
+        },
+        {
+            "key": "MG_MP_QEST_04",
+            "value": "Quête d'histoire - Lot IV"
+        },
+        {
+            "key": "MG_MP_QEST_05",
+            "value": "Quête d'histoire - Lot V"
+        },
+        {
+            "key": "MG_MP_QEST_06",
+            "value": "Quête d'histoire - Lot VI"
+        },
+        {
+            "key": "MG_MP_QEST_07",
+            "value": "Quête d'histoire - Lot VII"
+        },
+        {
+            "key": "MG_MP_QEST_08",
+            "value": "Quête d'histoire - Lot VIII"
+        },
+        {
+            "key": "MG_MP_QEST_09",
+            "value": "Quête d'histoire - Lot IX"
+        },
+        {
+            "key": "MG_MP_GL_RANK_01",
+            "value": "Lot spécial rang de joueur I"
+        },
+        {
+            "key": "MG_MP_GL_RANK_02",
+            "value": "Lot spécial rang de joueur II"
+        },
+        {
+            "key": "MG_MP_GL_RANK_03",
+            "value": "Lot spécial rang de joueur III"
+        },
+        {
+            "key": "MG_MONDAY_001",
+            "value": "Mission du lundi"
+        },
+        {
+            "key": "MG_GL_DY_HALFANNI_01",
+            "value": "Mission quotidienne de l'anniversaire des 6 mois"
+        },
+        {
+            "key": "MG_GL_DY_TORCELEB_01",
+            "value": "Mission quotidienne des Épreuves du Jugement"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_01",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_02",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_03",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_04",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_05",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_06",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DAILY_RAID_07",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DY_RAID_01",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DY_RAID_02",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DY_RAID_03",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DY_RAID_04",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DY_RAID_05",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DY_RAID_06",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_GL_DY_RAID_07",
+            "value": "Mission quotidienne de participation au raid"
+        },
+        {
+            "key": "MG_FF14_1_01",
+            "value": "FINAL FANTASY XIV: Shadowbringers"
+        },
+        {
+            "key": "MG_FF14_1_02",
+            "value": "FINAL FANTASY XIV: Shadowbringers [EX]"
+        },
+        {
+            "key": "MG_GL_FFT_2_CH_01",
+            "value": "FINAL FANTASY TACTICS<br>[Partie II]"
+        },
+        {
+            "key": "MG_FFT_1_01",
+            "value": "FINAL FANTASY TACTICS"
+        },
+        {
+            "key": "MG_FFT_1_02",
+            "value": "FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_1_03",
+            "value": "[Multi] FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "MG_FFT_1_M_01",
+            "value": "FINAL FANTASY TACTICS [Intermédiaire]"
+        },
+        {
+            "key": "MG_FF1_1_01",
+            "value": "FINAL FANTASY I "
+        },
+        {
+            "key": "MG_FF1_1_M_01",
+            "value": "FINAL FANTASY I [Intermédiaire]"
+        },
+        {
+            "key": "MG_FF1_1_02",
+            "value": "FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FF1_1_M_02",
+            "value": "[Multi] FINAL FANTASY I [EX]"
+        },
+        {
+            "key": "MG_FFT_2_01",
+            "value": "FINAL FANTASY TACTICS<br>[Partie II]"
+        },
+        {
+            "key": "MG_FFT_2_02",
+            "value": "FINAL FANTASY TACTICS<br>[Partie II] EX"
+        },
+        {
+            "key": "MG_FFT_2_03",
+            "value": "[Multi] FINAL FANTASY TACTICS<br>[Partie II] EX"
+        },
+        {
+            "key": "MG_GL_HALL_CH_01",
+            "value": "Mission d'Halloween"
+        },
+        {
+            "key": "MG_EV_IGNT_01",
+            "value": "Le défi du Géant de fer"
+        },
+        {
+            "key": "MG_MU_IGNT_01",
+            "value": "[Multi] Le défi du Géant de fer"
+        },
+        {
+            "key": "MG_EV_CSLI_01",
+            "value": "Le défi du Chocoflan"
+        },
+        {
+            "key": "MG_MU_CSLI_01",
+            "value": "[Multi] Le défi du Chocoflan"
+        },
+        {
+            "key": "MG_EV_OCHU_01",
+            "value": "Le défi d'Otyugh"
+        },
+        {
+            "key": "MG_MU_OCHU_01",
+            "value": "[Multi] Le défi d'Otyugh"
+        },
+        {
+            "key": "MG_EV_IFRT_01",
+            "value": "Le défi d'Ifrit"
+        },
+        {
+            "key": "MG_MU_IFRT_01",
+            "value": "[Multi] Le défi d'Ifrit"
+        },
+        {
+            "key": "MG_EV_ART_CRF_01",
+            "value": "Quête d'entraînement d'équipement"
+        },
+        {
+            "key": "MG_EV_ART_CRF_02",
+            "value": "Quête d'entraînement d'équipement [Super difficile]"
+        },
+        {
+            "key": "MG_MU_ART_CRF_02",
+            "value": "[Multi] Quête d'entraînement d'équipement [Super difficile]"
+        },
+        {
+            "key": "MG_EV_ART_CRF_03",
+            "value": "Quête d'entraînement d'équipement (Lame Morphée, Hache en or)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_03",
+            "value": "[Multi] Quête d'entraînement d'équipement (Lame Morphée, Hache en or)"
+        },
+        {
+            "key": "MG_EV_ART_CRF_04",
+            "value": "Quête d'entraînement d'équipement (Masse de platine, Épée de corail)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_04",
+            "value": "[Multi] Quête d'entraînement d'équipement (Masse de platine, Épée de corail)"
+        },
+        {
+            "key": "MG_EV01_1_01",
+            "value": "Le magnifique prince"
+        },
+        {
+            "key": "MG_EV01_1_02",
+            "value": "Le magnifique prince [EX]"
+        },
+        {
+            "key": "MG_MU_EV01_1_02",
+            "value": "[Multi] Le magnifique prince [EX]"
+        },
+        {
+            "key": "MG_EV02_1_01",
+            "value": "Rundall, menace à l'ouest"
+        },
+        {
+            "key": "MG_EV02_1_02",
+            "value": "Rundall, menace à l'ouest [EX]"
+        },
+        {
+            "key": "MG_MU_EV02_1_01",
+            "value": "[Multi] Rundall, menace à l'ouest [EX]"
+        },
+        {
+            "key": "MG_EV03_1_01",
+            "value": "Embraser la vie"
+        },
+        {
+            "key": "MG_EV03_1_02",
+            "value": "Embraser la vie [EX]"
+        },
+        {
+            "key": "MG_MU_EV03_1_02",
+            "value": "[Multi] Embraser la vie [EX]"
+        },
+        {
+            "key": "MG_EV04_1_01",
+            "value": "Aux confins de l'Orient"
+        },
+        {
+            "key": "MG_EV04_1_02",
+            "value": "Aux confins de l'Orient [EX]"
+        },
+        {
+            "key": "MG_MU_EV04_1_02",
+            "value": "[Multi] Aux confins de l'Orient [EX]"
+        },
+        {
+            "key": "MG_EV05_1_01",
+            "value": "Gouga et Saiga : Partie I"
+        },
+        {
+            "key": "MG_EV05_1_02",
+            "value": "Gouga et Saiga : Partie I [EX]"
+        },
+        {
+            "key": "MG_MU_EV05_1_02",
+            "value": "[Multi] Gouga et Saiga : Partie I [EX]"
+        },
+        {
+            "key": "MG_ETRE01_01",
+            "value": "Quête d'entraînement d'Éthéa"
+        },
+        {
+            "key": "MG_ETRE01_02",
+            "value": "Quête d'entraînement EX d'Éthéa [Très difficile]"
+        },
+        {
+            "key": "MG_MU_ETRE01_01",
+            "value": "[Multi] Quête d'entraînement EX d'Éthéa [Très difficile]"
+        },
+        {
+            "key": "MG_THLA01_01",
+            "value": "Quête des fragments d'unité de Saliah"
+        },
+        {
+            "key": "MG_THLA01_02",
+            "value": "Quête EX des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "MG_MU_THLA01_01",
+            "value": "[Multi] Quête EX des fragments d'unité de Saliah [Très difficile]"
+        },
+        {
+            "key": "MG_EV_ART_SCR_00",
+            "value": "Quête du livre secret [Très difficile]"
+        },
+        {
+            "key": "MG_MU_ART_SCR_00",
+            "value": "[Multi] Quête du livre secret [Très difficile]"
+        },
+        {
+            "key": "MG_EV_ART_SCR_01",
+            "value": "Quête du livre secret I [Très difficile]"
+        },
+        {
+            "key": "MG_MU_ART_SCR_01",
+            "value": "[Multi] Quête du livre secret I [Très difficile]"
+        },
+        {
+            "key": "MG_EV_ART_SCR_02",
+            "value": "Quête du livre secret II [Très difficile]"
+        },
+        {
+            "key": "MG_MU_ART_SCR_02",
+            "value": "[Multi] Quête du livre secret II [Très difficile]"
+        },
+        {
+            "key": "MG_EV_SCR_01",
+            "value": "Quête du livre secret (épée, spathe, hache) [Très difficile]"
+        },
+        {
+            "key": "MG_MU_SCR_01",
+            "value": "[Multi] Quête du livre secret (épée, spathe, hache) [Très difficile]"
+        },
+        {
+            "key": "MG_EV_SCR_02",
+            "value": "Quête du livre secret (lance, poings, fusil) [Très difficile]"
+        },
+        {
+            "key": "MG_MU_SCR_02",
+            "value": "[Multi] Quête du livre secret (lance, poings, fusil) [Très difficile]"
+        },
+        {
+            "key": "MG_EV_SCR_03",
+            "value": "Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
+        },
+        {
+            "key": "MG_MU_SCR_03",
+            "value": "[Multi] Quête du livre secret (armure, accessoire, lame ninja) [Très difficile]"
+        },
+        {
+            "key": "MG_EV_SCR_04",
+            "value": "Quête du livre secret (bâton, katana, dague) [Très difficile]"
+        },
+        {
+            "key": "MG_MU_SCR_04",
+            "value": "[Multi] Quête du livre secret (bâton, katana, dague) [Très difficile]"
+        },
+        {
+            "key": "MG_EV_SCR_05",
+            "value": "Quête du livre secret (masse, arc, armure) [Très difficile]"
+        },
+        {
+            "key": "MG_MU_SCR_05",
+            "value": "[Multi] Quête du livre secret (masse, arc, armure) [Très difficile]"
+        },
+        {
+            "key": "MG_DAILY_002_5",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_002_6",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_002_7",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_002_1",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_002_2",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_002_3",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_002_4",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_1",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_2",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_3",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_4",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_5",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_6",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_003_7",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_006_1",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_006_2",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_006_3",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_006_4",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_006_5",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_DAILY_006_6",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_GL_DAILY_006_7",
+            "value": "Mission quotidienne"
+        },
+        {
+            "key": "MG_MONTHLY_001_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_001_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_001_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_001_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_001_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_001_6",
+            "value": "[Mission mensuelle] Combats de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_001_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_GL_01",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_002_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_002_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_002_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_002_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_002_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_002_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_002_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_003_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_003_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_003_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_003_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_003_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_003_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_003_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_004_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_004_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_004_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_004_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_004_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_004_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_004_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_005_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_005_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_005_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_005_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_005_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_005_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_005_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_006_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_006_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_006_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_006_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_006_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_006_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_006_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_007_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_007_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_007_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_007_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_007_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_007_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_007_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_MONTHLY_008_1",
+            "value": "[Mission mensuelle] Quêtes d'histoire"
+        },
+        {
+            "key": "MG_MONTHLY_008_2",
+            "value": "[Mission mensuelle] Quêtes difficiles"
+        },
+        {
+            "key": "MG_MONTHLY_008_3",
+            "value": "[Mission mensuelle] Quêtes multi"
+        },
+        {
+            "key": "MG_MONTHLY_008_4",
+            "value": "[Mission mensuelle] Chambre d'EXP"
+        },
+        {
+            "key": "MG_MONTHLY_008_5",
+            "value": "[Mission mensuelle] Arène"
+        },
+        {
+            "key": "MG_MONTHLY_008_6",
+            "value": "[Mission mensuelle] Expédition chocobo"
+        },
+        {
+            "key": "MG_MONTHLY_008_7",
+            "value": "[Mission mensuelle] Statues de guilde"
+        },
+        {
+            "key": "MG_LAPS_P_LUCA",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_VKTR",
+            "value": "Utilisez des visiores - Période limitée"
+        },
+        {
+            "key": "MG_GL_LAPS_P_FRVA",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_VNLA",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_WROL",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_QILF",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_ORDR",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_DELT",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_LAPS_P_IRDL",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_P_STRN_01",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_P_GRSR",
+            "value": "Utilisez des visiores - Bonus à durée limitée"
+        },
+        {
+            "key": "MG_COMEBACK_001",
+            "value": "Mission de retour au jeu"
+        }
+    ]
+}

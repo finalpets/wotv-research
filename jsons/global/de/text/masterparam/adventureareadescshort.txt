@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "Hol dir Hellblauen Maginit für deine Wasser-Esper!"
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "Hol dir Roten Maginit für deine Feuer-Esper!"
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "Hol dir Orangen Maginit für deine Erd-Esper!"
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "Hol dir Blauen Maginit für deine Eis-Esper!"
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "Hol dir Gelben Maginit für deine Blitz-Esper!"
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "Hol dir Violetten Maginit für deine Dunkel-Esper!"
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "Hol dir Weißen Maginit für deine Licht-Esper!"
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "Hol dir Grünen Maginit für deine Wind-Esper!"
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "Hol dir Adamantit zur Verbesserung deiner Ausrüstung!"
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "Hol dir Maginit aller Elemente für deine Esper!"
+        },
+        {
+            "key": "AD_AREA_FFT_01",
+            "value": "Limitierte FFT-Kollabo-Region! Hol dir Eventmedaillen und mehr!"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Limitierte FF1-Kollabo-Region! Hol dir Eventmedaillen und mehr!"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "스타터 패키지<br>판매 중!"
+        },
+        {
+            "key": "2",
+            "value": "<cspace=1>100만 다운로드<br>기념 상점"
+        },
+        {
+            "key": "3",
+            "value": "<cspace=1>200만 다운로드<br>기념 상점"
+        },
+        {
+            "key": "4",
+            "value": "람자<br>이용 가능!"
+        },
+        {
+            "key": "5",
+            "value": "<cspace=1>FFT 콜라보<cspace=-0.5><br>5월 12일 종료"
+        },
+        {
+            "key": "6",
+            "value": "<cspace=1>스토리 제6장 개방<br>기념 상점"
+        },
+        {
+            "key": "7",
+            "value": "<cspace=1>500만 다운로드<br>기념 상점"
+        },
+        {
+            "key": "8",
+            "value": "<cspace=1>500만 다운로드<br>기념 상점 제2탄"
+        },
+        {
+            "key": "9",
+            "value": "<cspace=1>버전 업 기념<br>상점"
+        },
+        {
+            "key": "10",
+            "value": "<cspace=1>레이드 기념<br>특별 상점!"
+        },
+        {
+            "key": "11",
+            "value": "<cspace=1>초여름 기념<br>특별 상점"
+        },
+        {
+            "key": "12",
+            "value": "<cspace=1>MOBIUS FF<br>콜라보 기념 상점"
+        },
+        {
+            "key": "13",
+            "value": "<cspace=1>백자탑 개최<cspace=-0.5><br>기념 상점!"
+        },
+        {
+            "key": "14",
+            "value": "<cspace=1>길드 응원<cspace=-0.5><br>캠페인 상점!"
+        },
+        {
+            "key": "15",
+            "value": "<cspace=1>레이드 기념<br>특별 상점!"
+        },
+        {
+            "key": "16",
+            "value": "<cspace=1>2020 여름 기념<cspace=-0.5><br>캠페인 상점"
+        },
+        {
+            "key": "17",
+            "value": "<cspace=1>FFI 콜라보<cspace=-0.5><br>8월 11일 종료"
+        },
+        {
+            "key": "18",
+            "value": "<cspace=1>스토리 제8장 개방<cspace=-0.5><br>기념 상점"
+        },
+        {
+            "key": "19",
+            "value": "<cspace=1>대규모 버전 업데이트<cspace=-0.5><br>기념 상점"
+        },
+        {
+            "key": "20",
+            "value": "<cspace=1>기간 한정!<cspace=-0.5><br>콜라보 기념 패키지"
+        },
+        {
+            "key": "21",
+            "value": "<cspace=1>람자 보장 <cspace=-0.5>획득 가능"
+        },
+        {
+            "key": "22",
+            "value": "<cspace=1>FFT 콜라보<cspace=-0.5><br>9/15(화) 종료"
+        },
+        {
+            "key": "23",
+            "value": "<cspace=1>출시 6개월 기념<cspace=-0.5><br>전야제 상점"
+        },
+        {
+            "key": "24",
+            "value": "<cspace=1>출시 6개월 기념<cspace=-0.5><br>기념 상점 개최 중!"
+        },
+        {
+            "key": "25",
+            "value": "<cspace=1>출시 6개월 기념<cspace=-0.5><br>제2탄 기념 상점!"
+        },
+        {
+            "key": "26",
+            "value": "<cspace=1>출시 6개월 기념<cspace=-0.5><br>제3탄 기념 상점!"
+        },
+        {
+            "key": "27",
+            "value": "<cspace=1>출시 6개월 기념<cspace=-0.5><br>제4탄 기념 상점!"
+        },
+        {
+            "key": "28",
+            "value": "<cspace=1>할로윈 캠페인<cspace=-0.5><br>제1탄 상점!"
+        },
+        {
+            "key": "29",
+            "value": "<cspace=1>할로윈 캠페인<cspace=-0.5><br>제2탄 상점!"
+        }
+    ]
+}

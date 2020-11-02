@@ -1,0 +1,60 @@
+{
+    "infos": [
+        {
+            "key": "TS_LGBP_2006_1",
+            "value": "Runde 1"
+        },
+        {
+            "key": "TS_LGBP_2006_2",
+            "value": "Runde 2"
+        },
+        {
+            "key": "TS_LGBP_2006_3",
+            "value": "Runde 3"
+        },
+        {
+            "key": "TS_LGBP_2006_4",
+            "value": "Runde 4"
+        },
+        {
+            "key": "TS_LGBP_2006_5",
+            "value": "Runde 5"
+        },
+        {
+            "key": "TS_LGBP_2006_6",
+            "value": "Runde 6"
+        },
+        {
+            "key": "TS_LGBP_2006_7",
+            "value": "Runde 7"
+        },
+        {
+            "key": "TS_LGBP_2006_8",
+            "value": "Runde 8"
+        },
+        {
+            "key": "TS_LGBP_2006_9",
+            "value": "Runde 9"
+        },
+        {
+            "key": "TS_LGBP_2006_10",
+            "value": "Runde 10"
+        },
+        {
+            "key": "TS_LGBP_2006_11",
+            "value": "Runde 11"
+        },
+        {
+            "key": "TS_LGBP_2006_12",
+            "value": "Runde 12"
+        },
+        {
+            "key": "TS_LGBP_2006_13",
+            "value": "Runde 13"
+        },
+        {
+            "key": "TS_LGBP_2006_14",
+            "value": "Runde 14"
+        }
+    ]
+}

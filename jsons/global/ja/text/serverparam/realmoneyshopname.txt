@@ -1,0 +1,328 @@
+{
+    "infos": [
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact.001",
+            "value": "Equipment: Metal Slayer"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.003",
+            "value": "Release Starter Pack III"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.002.01",
+            "value": "Release Starter Pack II"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.001",
+            "value": "Release Starter Pack I"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_booster.001",
+            "value": "NRG Booster Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_cg.001",
+            "value": "NRG & Gil Snapper Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.001",
+            "value": "Unit Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_awaken.001",
+            "value": "Esper Awakening Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.001",
+            "value": "Weekly Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.001",
+            "value": "Unit Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_exp.001",
+            "value": "Equipment Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.summon_exp.001",
+            "value": "Esper Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.001",
+            "value": "Vision Card Enhancing Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.001",
+            "value": "Daily NRG Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.001",
+            "value": "[Free Bonus] Visiore Pack A"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.002",
+            "value": "[Free Bonus] Visiore Pack B"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.003",
+            "value": "[Free Bonus] Visiore Pack C"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.004",
+            "value": "[Free Bonus] Visiore Pack D"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.005",
+            "value": "[Free Bonus] Visiore Pack E"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.006",
+            "value": "[Free Bonus] Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.007",
+            "value": "[Free Bonus] Visiore Pack G"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.001",
+            "value": "Visiore Pack A"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.002",
+            "value": "Visiore Pack B"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.003",
+            "value": "Visiore Pack C"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.004",
+            "value": "Visiore Pack D"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.005",
+            "value": "Visiore Pack E"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.006",
+            "value": "Visiore Pack F"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.standard.007.01",
+            "value": "Visiore Pack G"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.004",
+            "value": "Monthly Fire Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.005",
+            "value": "Monthly Water Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.006",
+            "value": "Monthly Wind Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.007",
+            "value": "Monthly Lightning Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.008",
+            "value": "Monthly Ice Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.009",
+            "value": "Monthly Earth Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.010",
+            "value": "Monthly Light Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.011",
+            "value": "Monthly Dark Pack"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_01.rew",
+            "value": "Rare Summon Ticket"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_02.rew",
+            "value": "Rare 10x Summon Ticket"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_05.rew",
+            "value": "Visiore x 100"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_03.rew",
+            "value": "Visiore x 640"
+        },
+        {
+            "key": "wotvffbe_ww_gpp_04.rew",
+            "value": "Visiore x 1350"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.009",
+            "value": "【コラボ記念】幻導石パックI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.010",
+            "value": "【コラボ記念】幻導石パックⅡ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.011",
+            "value": "【コラボ記念】幻導石パックⅢ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.012",
+            "value": "【コラボ記念】幻導石パックⅣ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.003",
+            "value": "【コラボ記念】虹の覚醒パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard.001",
+            "value": "ビジョンカード：ジョブクリスタル"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.daily.001",
+            "value": "デイリー幻導石パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.012",
+            "value": "マンスリー虹の覚醒パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.001",
+            "value": "武具育成【攻】パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.002",
+            "value": "武具育成【魔】パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.artifact_grow.003",
+            "value": "武具育成【命】パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.limit_burst_exp.001",
+            "value": "リミットバースト強化パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.weapon_ability_exp.001",
+            "value": "武具アビリティ強化パック"
+        },
+        {
+            "key": "wotvffbeww.normal.exhaustion.continuation.001",
+            "value": "30 Days Visore Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.006",
+            "value": "スターターパックⅢ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.005",
+            "value": "スターターパックⅡ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.starter.004",
+            "value": "スターターパックⅠ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.013",
+            "value": "FF EXVIUS幻導石パックI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.014",
+            "value": "FF EXVIUS幻導石パックⅡ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.015",
+            "value": "FF EXVIUS幻導石パックⅢ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.016",
+            "value": "FF EXVIUS幻導石パックⅣ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.017",
+            "value": "FF EXVIUS幻導石パックⅤ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.018",
+            "value": "FF EXVIUS幻導石パックⅥ"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.actp_daily.003",
+            "value": "FFI Daily Hype-Up Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.013",
+            "value": "FFI Hype-UP Pack"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_exp.003",
+            "value": "ユニット強化スーパーパック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.visioncard_exp.003",
+            "value": "ビジョンカード強化スーパーパック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.015",
+            "value": "ユニット覚醒スーパーパック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.cg.001",
+            "value": "ギルガメパック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.unit_awaken.014",
+            "value": "コラボ記念 虹の覚醒パック"
+        },
+        {
+            "key": "wotvffbeww.realmoney.exhaustion.chocobo_weekly.003",
+            "value": "Summer Triple Chocobo Pack"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.019",
+            "value": "【コラボ記念】幻導石パックI"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.020",
+            "value": "【コラボ記念】幻導石パックⅡ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.021",
+            "value": "【コラボ記念】幻導石パックⅢ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.022",
+            "value": "【コラボ記念】幻導石パックⅣ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.023",
+            "value": "【コラボ記念】幻導石パックⅤ"
+        },
+        {
+            "key": "wotvffbeww.limited.exhaustion.standard.024",
+            "value": "【コラボ記念】幻導石パックⅥ"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.001",
+            "value": "クエスト挑戦パス"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.002",
+            "value": "ユニット育成パス"
+        },
+        {
+            "key": "wotvffbeww.normal.non_sub.passport.003",
+            "value": "武具育成パス"
+        }
+    ]
+}

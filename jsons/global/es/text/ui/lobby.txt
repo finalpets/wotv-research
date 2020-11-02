@@ -1,0 +1,108 @@
+{
+    "infos": [
+        {
+            "key": "EVENT_TITLE",
+            "value": "Eventos"
+        },
+        {
+            "key": "EVENT_DESC",
+            "value": "¡Consigue objetos especiales!"
+        },
+        {
+            "key": "MULTI_TITLE",
+            "value": "Multijugador"
+        },
+        {
+            "key": "MULTI_DESC",
+            "value": "¡Realiza misiones con tus amigos!"
+        },
+        {
+            "key": "RAID_TITLE",
+            "value": "Asaltos"
+        },
+        {
+            "key": "RAID_DESC",
+            "value": "¡Trabaja con otros jugadores para derrotar a enemigos difíciles!"
+        },
+        {
+            "key": "TOWER_TITLE",
+            "value": "Torre de Porcelana"
+        },
+        {
+            "key": "TOWER_DESC",
+            "value": "Misiones difíciles"
+        },
+        {
+            "key": "SUMMON_TITLE",
+            "value": "Guarida de la Bestia"
+        },
+        {
+            "key": "SUMMON_DESC",
+            "value": "¡Consigue los materiales necesarios para despertar a tus espers!"
+        },
+        {
+            "key": "QLN_EVENT_1",
+            "value": "¡Evento de colaboración en curso!"
+        },
+        {
+            "key": "QLN_EVENT_2",
+            "value": "(Prueba) ¡Nuevo capítulo disponible!"
+        },
+        {
+            "key": "QLN_MULTI_1",
+            "value": "(Prueba) ¡Monedas de la Arena x2!"
+        },
+        {
+            "key": "QLN_MULTI_2",
+            "value": "(Prueba) ¡Evento de encuentro en curso!"
+        },
+        {
+            "key": "QLN_RAID_1",
+            "value": "¡Desafía a Máquina mortal!"
+        },
+        {
+            "key": "QLN_RAID_2",
+            "value": "El periodo para recibir la recompensa de asalto está disponible ahora."
+        },
+        {
+            "key": "QLN_RAID_3",
+            "value": "¡Derrota al Rey Bégimo!"
+        },
+        {
+            "key": "QLN_RAID_4",
+            "value": "¡Desafía al jefe de asalto!"
+        },
+        {
+            "key": "QLN_TOWER_1",
+            "value": "¡Torre de Porcelana disponible!"
+        },
+        {
+            "key": "QLN_TOWER_4",
+            "value": "¡Consigue ya el anillo de la marea!"
+        },
+        {
+            "key": "QLN_SUMMON_1",
+            "value": "¡Ya está aquí Férreo!"
+        },
+        {
+            "key": "TOWER_OPEN_TITLE",
+            "value": "Condiciones para desbloquear"
+        },
+        {
+            "key": "TOWER_OPEN_DESC",
+            "value": "Puedes desbloquearlo si cumples las siguientes condiciones:<br>Alcanza el rango de jugador {0}"
+        },
+        {
+            "key": "QUEST_OPEN_DESC",
+            "value": "Fuera del periodo de evento"
+        },
+        {
+            "key": "CHALLENGE_OPEN_DESC",
+            "value": "Ha terminado el periodo de desafío"
+        },
+        {
+            "key": "QLN_TOWER_3",
+            "value": "¡Consigue ya el sable carmesí!"
+        }
+    ]
+}

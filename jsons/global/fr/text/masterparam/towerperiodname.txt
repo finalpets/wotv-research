@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "TW_01_PR",
+            "value": "Tour de porcelaine"
+        },
+        {
+            "key": "TW_02_PR",
+            "value": "Donjon impénétrable"
+        },
+        {
+            "key": "TW_03_PR",
+            "value": "Tour de porcelaine"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "Obtenez une « Magilithe bleu clair » pour vos chimères d'eau !"
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "Obtenez une « Magilithe rouge » pour vos chimères de feu !"
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "Obtenez une « Magilithe orange » pour vos chimères de terre !"
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "Obtenez une « Magilithe bleue » pour vos chimères de glace !"
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "Obtenez une « Magilithe jaune » pour vos chimères de foudre !"
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "Obtenez une « Magilithe violette » pour vos chimères d'ombre !"
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "Obtenez une « Magilithe blanche » pour vos chimères de lumière !"
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "Obtenez une « Magilithe verte » pour vos chimères de vent !"
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "Obtenez une « Adamantine » pour améliorer votre équipement !"
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "Obtenez des « Magilithes » de tous les éléments pour vos chimères !"
+        },
+        {
+            "key": "AD_AREA_FFT_01",
+            "value": "Zone pour la collaboration FFT ! Remportez des médailles d'événement et bien plus encore !"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "Zone pour la collaboration FFI ! Remportez des médailles d'événement et bien plus encore !"
+        }
+    ]
+}

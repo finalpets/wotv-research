@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "GACHA_ID_0001",
+            "value": "No olvides canjear tus medallas de <br>las Pruebas del Veredicto por recompensas."
+        }
+    ]
+}

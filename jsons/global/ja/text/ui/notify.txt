@@ -1,0 +1,112 @@
+{
+    "infos": [
+        {
+            "key": "REQUEST",
+            "value": "<voffset=0.3em>REQUEST"
+        },
+        {
+            "key": "UNLOCK",
+            "value": "UNLOCK!"
+        },
+        {
+            "key": "CLEAR",
+            "value": "<cspace=0.11em>CLEAR!"
+        },
+        {
+            "key": "REWARD",
+            "value": "<size=14>REWARD!"
+        },
+        {
+            "key": "FRIENDREQUEST_TITLE",
+            "value": "フレンド申請"
+        },
+        {
+            "key": "RANDOMSHOP_TITLE",
+            "value": "Random Shop"
+        },
+        {
+            "key": "FEVER_TITLE",
+            "value": "Fever!"
+        },
+        {
+            "key": "RAIDBOSS_TITLE",
+            "value": "レイドボス出現!"
+        },
+        {
+            "key": "UNLOCK_TITLE",
+            "value": "Unlock!"
+        },
+        {
+            "key": "MISSIONCLEAR_TITLE",
+            "value": "Mission Clear!"
+        },
+        {
+            "key": "SUBQUESTCLEAR_TITLE",
+            "value": "SubQuest Clear!"
+        },
+        {
+            "key": "SUPPORTREWARD_TITLE",
+            "value": "同行者報酬!"
+        },
+        {
+            "key": "QUESTCOSTZERO_TITLE",
+            "value": "体力消費0"
+        },
+        {
+            "key": "ROYALRANKUP_TITLE",
+            "value": "RoyalRankが上がりました！"
+        },
+        {
+            "key": "FRIENDREQUEST_DESC",
+            "value": "新しいフレンド申請が{0}件あります。"
+        },
+        {
+            "key": "RANDOMSHOP_DESC",
+            "value": "気まぐれ屋と遭遇しました。"
+        },
+        {
+            "key": "FEVER_DESC",
+            "value": "レアドロップ確率アップ!"
+        },
+        {
+            "key": "RAIDBOSS_DESC",
+            "value": "Lv{0}の{1}に遭遇しました。"
+        },
+        {
+            "key": "UNLOCK_DESC",
+            "value": "{0}が解放!"
+        },
+        {
+            "key": "SUBQUESTCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "MISSIONCLEAR_DESC",
+            "value": "{0}"
+        },
+        {
+            "key": "SUPPORTREWARD_DESC",
+            "value": "{0}人に同行し{1}ギル獲得!"
+        },
+        {
+            "key": "QUESTCOSTZERO_DESC",
+            "value": "Rank{0}まで体力消費0"
+        },
+        {
+            "key": "ROYALRANKUP_DESC",
+            "value": "RoyalRankが{0}に到達しました。"
+        },
+        {
+            "key": "GPPREWARDS_DESC",
+            "value": "You have received Google Play Points Rewards!"
+        },
+        {
+            "key": "GPPREWARDS_TITLE",
+            "value": "Congratulations!"
+        },
+        {
+            "key": "GOOGLEPLAYPOINTREWARDS",
+            "value": "Google<br>Rewards!"
+        }
+    ]
+}

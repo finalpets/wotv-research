@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "La barra no se rellenará tras la invocación si en esta se ha obtenido una unidad UR."
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "La barra no se rellenará tras la invocación si en esta se ha obtenido una unidad UR."
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "La barra no se rellenará tras la invocación si en esta se ha obtenido una unidad UR."
+        }
+    ]
+}

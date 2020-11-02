@@ -1,0 +1,476 @@
+{
+    "infos": [
+        {
+            "key": "DU_LW_NARR",
+            "value": ",ナレーター"
+        },
+        {
+            "key": "DU_LW_ELDE",
+            "value": "リオニス王　エルデ,エルデ,エルデ・リオニス"
+        },
+        {
+            "key": "DU_LW_HLNA",
+            "value": "リオニス妃　ヘレナ,ヘレナ,ヘレナ・リオニス"
+        },
+        {
+            "key": "DU_LW_HLNA_01",
+            "value": "ヘレナ・リオニス（黒衣の魔女）,ヘレナ・リオニス,ヘレナ"
+        },
+        {
+            "key": "DU_LW_MONT",
+            "value": "モント・リオニス,モント"
+        },
+        {
+            "key": "DU_LW_STRN",
+            "value": "シュテル・リオニス,シュテル"
+        },
+        {
+            "key": "DU_LW_LILS",
+            "value": "リリシュ"
+        },
+        {
+            "key": "DU_LW_RAMD",
+            "value": "ラマダ"
+        },
+        {
+            "key": "DU_LW_BYLO",
+            "value": "ベイロ"
+        },
+        {
+            "key": "DU_LW_RART",
+            "value": "リアート"
+        },
+        {
+            "key": "DU_LW_MINU",
+            "value": "ミンウ"
+        },
+        {
+            "key": "DU_LW_OOOO",
+            "value": "オー,騎士オー"
+        },
+        {
+            "key": "DU_LW_KTON",
+            "value": "キトン"
+        },
+        {
+            "key": "DU_LW_RYER",
+            "value": "リレルリラ"
+        },
+        {
+            "key": "DU_LW_SCIA",
+            "value": "ソシア"
+        },
+        {
+            "key": "DU_LW_VRID",
+            "value": "ヴァライド"
+        },
+        {
+            "key": "DU_LW_SOLD_LONS",
+            "value": "リオニス兵,兵士,リオニスの斥候,伝令,リオニス兵たち"
+        },
+        {
+            "key": "DU_LW_WITC_LONS",
+            "value": "リオニス兵,兵士,リオニスの斥候,伝令,リオニス兵たち"
+        },
+        {
+            "key": "DU_LW_ROBB",
+            "value": "ロブ・ホルン,ホルン王　ロブ,ロブ"
+        },
+        {
+            "key": "DU_LW_MACR",
+            "value": "マシュリー・ホルン,マシュリー"
+        },
+        {
+            "key": "DU_LW_DRIO",
+            "value": "ダリオ・ホルン,ダリオ"
+        },
+        {
+            "key": "DU_LW_VNLA",
+            "value": "ヴィネラ・フェネス,ヴィネラ"
+        },
+        {
+            "key": "DU_LW_SZRT",
+            "value": "シュゼルト"
+        },
+        {
+            "key": "DU_LW_ENBT",
+            "value": "エンゲルベルト"
+        },
+        {
+            "key": "DU_LW_FDRC",
+            "value": "フェデリカ"
+        },
+        {
+            "key": "DU_LW_LRNZ",
+            "value": "ロレンツォ"
+        },
+        {
+            "key": "DU_LW_ADLD",
+            "value": "アドラード"
+        },
+        {
+            "key": "DU_LW_THLA",
+            "value": "サリア"
+        },
+        {
+            "key": "DU_LW_SDLX",
+            "value": "シャドウリンクス"
+        },
+        {
+            "key": "DU_LW_ZIZA",
+            "value": "ジザ"
+        },
+        {
+            "key": "DU_LW_VSTR",
+            "value": "ヴィストラール"
+        },
+        {
+            "key": "DU_LW_SO_01",
+            "value": "ホルン兵,ホルン兵A,ホルン兵B,ホルン兵C,ホルン兵D,ホルン兵E,ホルン兵F,ホルン兵G"
+        },
+        {
+            "key": "DU_LW_LYCS",
+            "value": "レイシェス"
+        },
+        {
+            "key": "DU_LW_GLAR",
+            "value": "グラール"
+        },
+        {
+            "key": "DU_LW_MURG",
+            "value": "ムラガ・フェネス,ムラガ,ムラガの声"
+        },
+        {
+            "key": "DU_LW_RIRY",
+            "value": "ライリュウ"
+        },
+        {
+            "key": "DU_LW_STRN_01",
+            "value": "シュテル・リオニス,シュテル,シュテル・リオニス（呪われた騎士）"
+        },
+        {
+            "key": "DU_LW_ZZAN",
+            "value": "ザザン"
+        },
+        {
+            "key": "DU_LW_DRZA",
+            "value": "ドルーザ"
+        },
+        {
+            "key": "DU_LW_SO_03",
+            "value": "フェネス兵"
+        },
+        {
+            "key": "DU_LW_MLNA",
+            "value": "メルニア"
+        },
+        {
+            "key": "DU_LW_RNEL",
+            "value": "ラネル"
+        },
+        {
+            "key": "DU_LW_VADM",
+            "value": "ヴァジム"
+        },
+        {
+            "key": "DU_LW_MGRT",
+            "value": "マルグリット"
+        },
+        {
+            "key": "DU_LW_SO_05",
+            "value": "紅蓮兵,≪紅蓮≫の兵士,≪紅蓮≫の兵士たち"
+        },
+        {
+            "key": "DU_LW_NADR",
+            "value": "ナドル,少年"
+        },
+        {
+            "key": "DU_LW_ORDR",
+            "value": "オルドア"
+        },
+        {
+            "key": "DU_LW_QILF",
+            "value": "キルフェ"
+        },
+        {
+            "key": "DU_LW_ELSR",
+            "value": "エルシレール"
+        },
+        {
+            "key": "DU_LW_RFAL",
+            "value": "ラファール"
+        },
+        {
+            "key": "DU_LW_IREZ",
+            "value": "イリーザ"
+        },
+        {
+            "key": "DU_LW_VRAS",
+            "value": "光輝のヴェリアス "
+        },
+        {
+            "key": "DU_LW_SHLS",
+            "value": "シェルース "
+        },
+        {
+            "key": "DU_LW_SIMR",
+            "value": "シムール"
+        },
+        {
+            "key": "DU_LW_HWLT",
+            "value": "ハウレット"
+        },
+        {
+            "key": "DU_LW_TITU",
+            "value": "タイタス"
+        },
+        {
+            "key": "DU_LW_CHEL",
+            "value": "チェル"
+        },
+        {
+            "key": "DU_LW_SDLE",
+            "value": "サーダリー・クルステア,サーダリー"
+        },
+        {
+            "key": "DU_LW_DRND",
+            "value": "ドランド"
+        },
+        {
+            "key": "DU_LW_PRAY",
+            "value": "≪祈り≫"
+        },
+        {
+            "key": "DU_LW_MURM",
+            "value": "≪呟き≫"
+        },
+        {
+            "key": "DU_LW_WHIS",
+            "value": "≪囁き≫"
+        },
+        {
+            "key": "DU_LW_GRGS",
+            "value": "ガーガス"
+        },
+        {
+            "key": "DU_LW_CLEY",
+            "value": "クーリ・ウェズエット,ウェズエット王　クーリ,クーリ"
+        },
+        {
+            "key": "DU_LW_SRJS",
+            "value": "サージェス"
+        },
+        {
+            "key": "DU_LW_UNII",
+            "value": "ユニ"
+        },
+        {
+            "key": "DU_LW_SEVR",
+            "value": "セヴェロ"
+        },
+        {
+            "key": "DU_LW_MRND",
+            "value": "ミランダ"
+        },
+        {
+            "key": "DU_LW_GRSR",
+            "value": "グラセラ・ウェズエット"
+        },
+        {
+            "key": "DU_LW_CEAN",
+            "value": "カエアン"
+        },
+        {
+            "key": "DU_LW_KADI",
+            "value": "カディア"
+        },
+        {
+            "key": "DU_LW_MRLK",
+            "value": "メリルーク "
+        },
+        {
+            "key": "DU_LW_SO_02",
+            "value": "ウェズエット兵"
+        },
+        {
+            "key": "DU_LW_CMLO",
+            "value": "カミッロ"
+        },
+        {
+            "key": "DU_LW_LUCA",
+            "value": "ル・シア"
+        },
+        {
+            "key": "DU_LW_JEDN",
+            "value": "ジェーダン・ランダル"
+        },
+        {
+            "key": "DU_LW_SO_04",
+            "value": "ランダル兵,ランダル兵A,ランダル兵B,ランダル兵C,ランダル兵たち"
+        },
+        {
+            "key": "DU_LW_GLMS",
+            "value": "ギルガメッシュ"
+        },
+        {
+            "key": "DU_LW_AMNR",
+            "value": "アムネリス,女性の声"
+        },
+        {
+            "key": "DU_LW_AMNR_99",
+            "value": "アムネリス,女性の声"
+        },
+        {
+            "key": "DU_LW_MIIA",
+            "value": "ミーア"
+        },
+        {
+            "key": "DU_LW_SCAL",
+            "value": "スカール"
+        },
+        {
+            "key": "DU_LW_RVAL",
+            "value": "リヴィアル"
+        },
+        {
+            "key": "DU_LW_ALIM",
+            "value": "アリム"
+        },
+        {
+            "key": "DU_LW_NJ_02",
+            "value": "サイガのシノビ"
+        },
+        {
+            "key": "DU_LW_MRAL",
+            "value": "マリアル"
+        },
+        {
+            "key": "DU_LW_RRIR",
+            "value": "ロレイラ"
+        },
+        {
+            "key": "DU_LW_NIVL",
+            "value": "ニヴ・ル"
+        },
+        {
+            "key": "DU_LW_NJ_03",
+            "value": "ゴウガのシノビA,ゴウガのシノビB,ゴウガのシノビC,ゴウガのシノビD,ゴウガのシノビE,ゴウガのシノビ"
+        },
+        {
+            "key": "DU_LW_DIAA",
+            "value": "ディアー"
+        },
+        {
+            "key": "DU_LW_YERM",
+            "value": "イェルマ"
+        },
+        {
+            "key": "DU_LW_NASR",
+            "value": "ナーシア"
+        },
+        {
+            "key": "DU_LW_ETRE",
+            "value": "エトア"
+        },
+        {
+            "key": "DU_LW_VKTR",
+            "value": "ヴィクトラ"
+        },
+        {
+            "key": "DU_LW_LATH",
+            "value": "ルアーサ"
+        },
+        {
+            "key": "DU_LW_LVES",
+            "value": "ラヴィエス"
+        },
+        {
+            "key": "DU_LW_MDNA",
+            "value": "メディエナ"
+        },
+        {
+            "key": "DU_LW_TREL",
+            "value": "ティレル"
+        },
+        {
+            "key": "DU_LW_CHCB",
+            "value": "チョコボ"
+        },
+        {
+            "key": "DU_LW_NJ_00",
+            "value": "シノビ,フェネスのシノビ,ホルンのシノビ,フェネスのシノビA,フェネスのシノビB,フェネスのシノビC"
+        },
+        {
+            "key": "DU_LW_PR_00",
+            "value": "僧兵,教会の使者"
+        },
+        {
+            "key": "DU_LW_TH_00",
+            "value": "賊"
+        },
+        {
+            "key": "DU_LW_TH_02",
+            "value": "賊の頭目"
+        },
+        {
+            "key": "DU_LW_CH_00",
+            "value": "少年"
+        },
+        {
+            "key": "DU_LW_WOLF",
+            "value": "ウルフ"
+        },
+        {
+            "key": "DU_LW_OGRE",
+            "value": "オーガ"
+        },
+        {
+            "key": "DU_LW_BOMB",
+            "value": "ボム"
+        },
+        {
+            "key": "DU_LW_MOBR",
+            "value": "モルボル"
+        },
+        {
+            "key": "DU_LW_WOLF_01",
+            "value": "ブラインドウルフ"
+        },
+        {
+            "key": "DU_LW_ZUUU",
+            "value": "ズー"
+        },
+        {
+            "key": "DU_LW_SKEL",
+            "value": "スケルトン"
+        },
+        {
+            "key": "DU_LW_ARMN",
+            "value": "アーリマン"
+        },
+        {
+            "key": "DU_LW_WYVN",
+            "value": "ワイバーン"
+        },
+        {
+            "key": "DU_LW_WYVN_01",
+            "value": "ワイバーン"
+        },
+        {
+            "key": "DU_LW_IGNT",
+            "value": "鉄巨人"
+        },
+        {
+            "key": "DU_LW_IGNT_02",
+            "value": "黒鉄魔人,鉄巨人"
+        },
+        {
+            "key": "DU_LW_GLEM",
+            "value": "ゴーレム"
+        },
+        {
+            "key": "DU_LW_IFRT",
+            "value": "イフリート"
+        }
+    ]
+}

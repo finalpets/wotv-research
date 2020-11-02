@@ -1,0 +1,2216 @@
+{
+    "infos": [
+        {
+            "key": "UN_LW_P_MONT",
+            "value": "Je vais vous protéger ! J'en fais le serment !"
+        },
+        {
+            "key": "UN_LW_P_STRN",
+            "value": "Ma lame est dévouée à la protection de Leonis. N'est-ce pas, Mont ?"
+        },
+        {
+            "key": "UN_LW_P_ELDE",
+            "value": "La lignée des Leonis doit perdurer, même s'il nous faut défier les dieux pour la défendre."
+        },
+        {
+            "key": "UN_LW_P_ROBB",
+            "value": "L'avantage a tourné au profit de Hourne..."
+        },
+        {
+            "key": "UN_LW_P_ENBT",
+            "value": "Hmm. Ne pense pas que tu peux me surpasser."
+        },
+        {
+            "key": "UN_LW_P_ZIZA",
+            "value": "Cela fait longtemps que je suis prête."
+        },
+        {
+            "key": "UN_LW_P_AILN",
+            "value": "Quel genre d'arme souhaiteriez-vous ? Hmm ? Vous voulez que je me batte ?"
+        },
+        {
+            "key": "UN_LW_P_MDNA",
+            "value": "Je vous prêterai ma force. Mais j'attends de vous que vous partagiez vos résultats."
+        },
+        {
+            "key": "UN_LW_P_AYKA",
+            "value": "J'ai confiance en mes capacités à utiliser la magie blanche. N'hésitez pas à en tirer profit."
+        },
+        {
+            "key": "UN_LW_P_MACR",
+            "value": "Montrez-moi votre force. Donnez à mon cœur une raison de s'emballer."
+        },
+        {
+            "key": "UN_LW_P_HLNA",
+            "value": "Je vais sûrement devoir vous montrer ce qu'est la fierté des Leonis."
+        },
+        {
+            "key": "UN_LW_P_LILS",
+            "value": "Mon heure n'est pas encore venue. Je fais cela pour vivre."
+        },
+        {
+            "key": "UN_LW_P_RAMD",
+            "value": "Les étoiles continuent de briller..."
+        },
+        {
+            "key": "UN_LW_P_OOOO",
+            "value": "Voyons si cette vieille épée peut encore me servir !"
+        },
+        {
+            "key": "UN_LW_P_LRNZ",
+            "value": "Je vais vous montrer... la force d'un véritable dragonnier."
+        },
+        {
+            "key": "UN_LW_P_RIRY",
+            "value": "Aligne l'argent si tu veux que je fasse quelque chose."
+        },
+        {
+            "key": "UN_LW_P_VSTR",
+            "value": "Vous ne savez pas que la curiosité est un vilain défaut ?"
+        },
+        {
+            "key": "UN_LW_P_CLEY",
+            "value": "Ceux qui se moquent de moi ne seront pas épargnés. Tous autant qu'ils sont !"
+        },
+        {
+            "key": "UN_LW_P_KADI",
+            "value": "Vous nous donnez l'espoir nécessaire à notre survie !"
+        },
+        {
+            "key": "UN_LW_P_MRLK",
+            "value": "Et voici l'arme secrète !"
+        },
+        {
+            "key": "UN_LW_P_MGRT",
+            "value": "Pour nos compagnons !"
+        },
+        {
+            "key": "UN_LW_P_PRAY",
+            "value": "Que la lumière des Cristaux vous guide."
+        },
+        {
+            "key": "UN_LW_P_SZRT",
+            "value": "Admirez la puissance du Champion téméraire de Hourne."
+        },
+        {
+            "key": "UN_LW_P_FINA",
+            "value": "Comment disent les gens déjà ? Ah oui ! Je maîtrise !"
+        },
+        {
+            "key": "UN_LW_P_BYLO",
+            "value": "Ah... Je commence à avoir faim..."
+        },
+        {
+            "key": "UN_LW_P_RYER",
+            "value": "Je graverai mon nom dans leur cœur !"
+        },
+        {
+            "key": "UN_LW_P_SCIA",
+            "value": "Eh bien, faisons un bout de chemin ensemble."
+        },
+        {
+            "key": "UN_LW_P_VRID",
+            "value": "Tout finira par s'arranger. Pour le moment, il nous faut avancer."
+        },
+        {
+            "key": "UN_LW_P_NAIA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_P_SRJS",
+            "value": "La mort attend ceux qui défient le destin..."
+        },
+        {
+            "key": "UN_LW_P_UNII",
+            "value": "Impossible pour moi de rater ma cible ! Quoique..."
+        },
+        {
+            "key": "UN_LW_P_SEVR",
+            "value": "Je ne raffole pas de l'armée, mais je suis content de pouvoir faire mes recherches."
+        },
+        {
+            "key": "UN_LW_P_VADM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_P_MURM",
+            "value": "Que la lumière des Cristaux vous guide."
+        },
+        {
+            "key": "UN_LW_P_PHBE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_P_RART",
+            "value": "J'aimerais prouver ma valeur au combat et être récompensée !"
+        },
+        {
+            "key": "UN_LW_P_MICE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_P_MIIA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_P_ZZAN",
+            "value": "Mon but dans la vie, c'est de tuer le plus de monde possible."
+        },
+        {
+            "key": "UN_LW_P_GLMS",
+            "value": "Enfant de mortels. Ne surestimez pas votre force."
+        },
+        {
+            "key": "UN_FF14_P_YSTL",
+            "value": ""
+        },
+        {
+            "key": "UN_FF14_P_TNCR",
+            "value": "Peu importe le chemin que tu décides d'emprunter, je serai toujours là pour assurer tes arrières."
+        },
+        {
+            "key": "UN_LW_P_FDRC",
+            "value": "Pan, pan ! Et un de moins !"
+        },
+        {
+            "key": "UN_LW_P_SDLX",
+            "value": "Pensez-vous que quelqu'un verserait une larme pour moi ?"
+        },
+        {
+            "key": "UN_LW_P_YERM",
+            "value": "Je peux me débarrasser de n'importe quel adversaire en un clin d'œil."
+        },
+        {
+            "key": "UN_LW_P_NASR",
+            "value": "Ce n'est surtout pas à moi qu'il faut demander ton chemin. Hi hi !"
+        },
+        {
+            "key": "UN_LW_P_ETRE",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_P_RAMZ",
+            "value": "Je ne laisserai personne traîner le nom de Béoulve dans la boue !"
+        },
+        {
+            "key": "UN_FFT_P_GFGR",
+            "value": "Vous avez besoin de mes services ? Mais en avez-vous les moyens ?"
+        },
+        {
+            "key": "UN_FFT_P_ORND",
+            "value": "Quelqu'un a appelé le pouvoir du dieu-foudre ?"
+        },
+        {
+            "key": "UN_LW_P_WHIS",
+            "value": "Que la lumière des Cristaux vous guide."
+        },
+        {
+            "key": "UN_LW_P_KTON",
+            "value": "Je continuerai à le soutenir dans l'ombre. Cela me suffit."
+        },
+        {
+            "key": "UN_LW_P_MRND",
+            "value": "Avec grâce et élégance… Ce sera votre dernière danse !"
+        },
+        {
+            "key": "UN_LW_P_DRND",
+            "value": "Les mauviettes ne m'intéressent pas."
+        },
+        {
+            "key": "UN_LW_P_LUCA",
+            "value": "Ce qui me fait vibrer, c'est d'écraser, de réduire en miettes l'amour qui unit les autres entre eux."
+        },
+        {
+            "key": "UN_LW_P_ADLD",
+            "value": "Dois-je vraiment t'expliquer pourquoi on m'appelle « le Diable rouge » ?"
+        },
+        {
+            "key": "UN_LW_P_MURG",
+            "value": "Le vrai plaisir d'la bataille réside dans l'agonie des blessés et les bains d'sang."
+        },
+        {
+            "key": "UN_LW_P_VKTR",
+            "value": "Je n'aime pas être enfermée, c'est tout."
+        },
+        {
+            "key": "UN_LW_P_THLA",
+            "value": "Haaa. Si tout le monde pouvait disparaître de la surface de la Terre, à l'exception de toi, frère."
+        },
+        {
+            "key": "UN_LW_P_RAIN",
+            "value": "En tant que chevalier de Grandshelt, je te protègerai quoi qu'il m'en coûte."
+        },
+        {
+            "key": "UN_LW_P_FRVA",
+            "value": "Comment allez-vous ? Personne pour un petit combat ?"
+        },
+        {
+            "key": "UN_LW_P_VNLA",
+            "value": "Peu importe... je n'ai pas de regrets !"
+        },
+        {
+            "key": "UN_LW_P_DRIO",
+            "value": "Je le ferai. Pour protéger ceux que j'aime."
+        },
+        {
+            "key": "UN_LW_P_TREL",
+            "value": ""
+        },
+        {
+            "key": "UN_FF1_P_WROL",
+            "value": "Suis-je ici par la volonté des cristaux ?<br>Qu'importe, ma force sera la vôtre !"
+        },
+        {
+            "key": "UN_LW_P_QILF",
+            "value": "Peu importe mon adversaire, j'irai jusqu'au bout."
+        },
+        {
+            "key": "UN_LW_P_SIMR",
+            "value": "Laisse-moi te montrer l'art de l'épée qu'on maîtrise dans l'Est."
+        },
+        {
+            "key": "UN_LW_P_ORDR",
+            "value": "Réjouissez-vous ! Vous avez l'honneur de poser les yeux sur moi, Oldoa, de la garde impériale de Muraga !"
+        },
+        {
+            "key": "UN_LW_P_LVES",
+            "value": "Je refuse de partir. Quoi qu'il arrive, je ne rentrerai pas."
+        },
+        {
+            "key": "UN_FFT_P_AGRA",
+            "value": "Nos vies sont aussi fugaces que nos rêves. Ça a quelque chose de mélancolique."
+        },
+        {
+            "key": "UN_FFT_P_DELT",
+            "value": "Êtes-vous chevalier vous aussi ? Alors même dans ce monde je n'ai pas ma place..."
+        },
+        {
+            "key": "UN_FFT_P_MSTD",
+            "value": "Les fusils ne demandent pas de temps de chargement. Il suffit de viser et de tirer !"
+        },
+        {
+            "key": "UN_LW_P_IRDL",
+            "value": "Hors de question d'abandonner. Je fais partie de la garde rapprochée de la reine Helena."
+        },
+        {
+            "key": "UN_LW_P_STRN_01",
+            "value": "Tu ne peux pas échapper à ton destin !"
+        },
+        {
+            "key": "UN_LW_P_LSWL",
+            "value": "Je brandirai mon épée aussi longtemps que mes camarades auront besoin de mon aide."
+        },
+        {
+            "key": "UN_LW_P_GRSR",
+            "value": "Et maintenant, le plan est en marche."
+        },
+        {
+            "key": "UN_LW_P_RRIR",
+            "value": "La nation que je compte bâtir... sera complètement différente."
+        },
+        {
+            "key": "UN_LW_P_RYER_01",
+            "value": "Graou ! Pas de bonbon, juste des sorts !"
+        },
+        {
+            "key": "UN_LW_P_RIRY_01",
+            "value": "Faites-moi vite entendre vos cris de terreur !"
+        },
+        {
+            "key": "UN_LW_P_HWLT",
+            "value": "Laissez-nous un instant, douces princesses. Nous vous aurons bientôt débarrassées d'eux."
+        },
+        {
+            "key": "UN_LW_E_IRDL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LILS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_STRN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SZRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MACR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MURG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ADLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THLA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_HLNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SDLX",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GRGS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OOOO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RIRY",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VSTR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CLEY",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_NASR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ETRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ZIZA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELDE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ZZAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_STRN_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_STRN_01_TO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRND",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SRJS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_UNII",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SEVR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GRSR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CMLO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_WHIS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_KTON",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ROBB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VADM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TREL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VNLA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DIAA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ORDR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRZA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RART",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RRIR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VKTR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLMS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BYLO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RYER",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MURM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DRIO",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_02_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RU_01_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_02_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_CLR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_TIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_GRM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_RDM_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TH_00_THI_RA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_04_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_00_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_02_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_01_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_04_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_03_VIK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_NIN_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_01_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_02_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_03_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_04",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BM_00",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_WM_00",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TM_00",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_NJ_00",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_NJ_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_DRG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_01_RDM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_CLR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_TIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_GRM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_PR_02_TIM_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SO_05_MGK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OGRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OGRE_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OGRE_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BOMB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BOMB_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BOMB_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MABR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MABR_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MABR_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MABR_03",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_WOLF",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_WOLF_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_WOLF_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_WOLF_02_RA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ZUUU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ZUUU_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ZUUU_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SKEL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SKEL_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SKEL_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SKEL_02_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ARMN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ARMN_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ARMN_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM_03",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM_04",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM_05",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM_06",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELEM_07",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LAMA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LAMA_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LAMA_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FF14_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FF14BOSS",
+            "value": ""
+        },
+        {
+            "key": "UN_FF14_E_YSTL",
+            "value": ""
+        },
+        {
+            "key": "UN_FF14_E_TNCR",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CHCB",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CHCB_01",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CHCB1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_CCLI",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_GFGR",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_MSTD",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_AGRA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_TW_EX2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_01_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BHMT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BHMT_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BHMT_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLSP",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CACT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CACT_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CACT_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IFRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IFRT_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SIRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SHIV",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLEM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ODIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TSLP",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SLIM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CSLI_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_00_BLM_RA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CACT_03",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_CACT_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IFRT_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BHMT_01_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TNBR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TNBR_RAID",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_PT_NO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_PT_HA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_DABL_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IFRT_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ODIN_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SIRE_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_SHIV_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMU_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLEM_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_IGNT_SIREN2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MABR_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BHMT_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TSLP_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_THDG_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_E_WRMC_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDFY",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDFY_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_OCHU_QE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FNRR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FNRR_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TITN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_TITN_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_BLMN_SIREN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GLMS_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_YERM_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_FDRC_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MONT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LUCA_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ENBT_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_ORND_ARENA",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_E_RAMZ_ARENA",
+            "value": "Je ne laisserai personne traîner le nom de Béoulve dans la boue !"
+        },
+        {
+            "key": "UN_LW_E_IRDL_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_VKTR_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AYKA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_QILF_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAMD_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LRNZ_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_ELDE_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_AILN_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RAIN_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_GRSR_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_LSWL_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_HLNA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MDNA_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_RYER_01_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_E_MRND_MOGI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MONT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_STRN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_RAMD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_BOMB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_ZUUU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_MACR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_SZRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_BHMT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_TU_WOLF",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_MONT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_STRN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_ELDE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_RAMD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_LILS",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_BYLO",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_AILN",
+            "value": "Quel genre d'arme souhaiteriez-vous ? Hmm ? Vous voulez que je me batte ?"
+        },
+        {
+            "key": "UN_LW_BGN_LRNZ",
+            "value": "Je vais vous montrer... la force d'un véritable dragonnier."
+        },
+        {
+            "key": "UN_LW_BGN_MDNA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_KTON",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_RART",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_AYKA",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_MACR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_MICE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_SEVR",
+            "value": "Je ne raffole pas de l'armée, mais je suis content de pouvoir faire mes recherches."
+        },
+        {
+            "key": "UN_LW_BGN_TH_02_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_THI",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_HUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_GUN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_WAR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_PLD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_KNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_SWN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_MNK",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_LAN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_SAM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_NIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_BLM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_TH_00_WHM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_OGRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_OGRE_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_OGRE_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_BGN_ZUUU_02",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_U_TOAD",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_U_CHKN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_U_CHCB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IFRT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IFRT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IFRT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_GLEM",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_GLEM_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_GLEM_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SIRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SIRE_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SIRE_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IGNT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IGNT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_IGNT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BHMT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BHMT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BHMT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MABR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MABR_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MABR_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_CACT",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_CACT_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_CACT_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ARMN_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ARMN_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ARMN_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ZUUU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ZUUU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ZUUU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OGRE",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OGRE_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OGRE_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BOMB",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BOMB_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BOMB_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SHIV",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SHIV_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_SHIV_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_RAMU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_RAMU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_RAMU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_LAMA_01",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_LAMA_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_LAMA_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TSLP",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TSLP_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TSLP_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_OCHU_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_THDG_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FF01_S_WRMC_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_DABL_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_FFT_S_CHCB_01_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MDFY",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MDFY_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_MDFY_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_FNRR",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_FNRR_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_FNRR_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TITN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TITN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_TITN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BLMN",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW1",
+            "value": ""
+        },
+        {
+            "key": "UN_LW_S_BLMN_AW2",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TREASURE",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_CRYSTAL",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_CRYSTAL_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_02",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_SWITCH_03",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_KATA",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED_FIRE",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED_ATK",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_PLACED_BASH",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_MGSW_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_TARU_02",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_OPOT_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_FIRE_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_KENZAN_01",
+            "value": ""
+        }
+    ]
+}

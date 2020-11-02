@@ -1,0 +1,252 @@
+{
+    "infos": [
+        {
+            "key": "EX_SUB_AW_VBALL",
+            "value": ""
+        },
+        {
+            "key": "EX_SUB_AW_FIRE",
+            "value": "Feuer-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_AW_ICE",
+            "value": "Eis-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_AW_WIND",
+            "value": "Wind-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_AW_SOIL",
+            "value": "Erd-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_AW_TNDR",
+            "value": "Blitz-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_AW_WATER",
+            "value": "Wasser-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_AW_SHINE",
+            "value": "Licht-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_AW_DARK",
+            "value": "Dunkel-Erweckungsprisma"
+        },
+        {
+            "key": "EX_SUB_COM_FIRE",
+            "value": "Feuer-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_COM_ICE",
+            "value": "Eis-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_COM_WIND",
+            "value": "Wind-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_COM_SOIL",
+            "value": "Erd-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_COM_TNDR",
+            "value": "Blitz-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_COM_WATER",
+            "value": "Wasser-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_COM_SHINE",
+            "value": "Licht-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_COM_DARK",
+            "value": "Dunkel-Gedankenfragment"
+        },
+        {
+            "key": "EX_SUB_AW_F_2_6",
+            "value": "Feuer-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_AW_I_2_6",
+            "value": "Eis-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_AW_WI_2_6",
+            "value": "Wind-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_AW_S_2_6",
+            "value": "Erd-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_AW_T_2_6",
+            "value": "Blitz-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_AW_WA_2_6",
+            "value": "Wasser-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_AW_SH_2_6",
+            "value": "Licht-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_AW_D_2_6",
+            "value": "Dunkel-Erweckungsseele"
+        },
+        {
+            "key": "EX_SUB_EM_FIRE",
+            "value": "Feuer-Alkrist"
+        },
+        {
+            "key": "EX_SUB_EM_ICE",
+            "value": "Eis-Alkrist"
+        },
+        {
+            "key": "EX_SUB_EM_WIND",
+            "value": "Wind-Alkrist"
+        },
+        {
+            "key": "EX_SUB_EM_SOIL",
+            "value": "Erd-Alkrist"
+        },
+        {
+            "key": "EX_SUB_EM_TNDR",
+            "value": "Blitz-Alkrist"
+        },
+        {
+            "key": "EX_SUB_EM_WATER",
+            "value": "Wasser-Alkrist"
+        },
+        {
+            "key": "EX_SUB_EM_SHINE",
+            "value": "Licht-Alkrist"
+        },
+        {
+            "key": "EX_SUB_EM_DARK",
+            "value": "Dunkel-Alkrist"
+        },
+        {
+            "key": "EX_SUB_IM_ANG",
+            "value": "Statue des Betenden Engels"
+        },
+        {
+            "key": "EX_SUB_IM_DRG",
+            "value": "Statue des Lauernden Lindwurms"
+        },
+        {
+            "key": "EX_SUB_JB_MM_ALL",
+            "value": "Verschwommene Erinnerungen"
+        },
+        {
+            "key": "EX_SUB_JB_SWORD",
+            "value": "Schwert-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_LSWORD",
+            "value": "Großschwert-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_JSWORD",
+            "value": "Katana-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_FIST",
+            "value": "Fäuste-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_SPEAR",
+            "value": "Lanzen-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_SSWORD",
+            "value": "Dolch-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_KUNAI",
+            "value": "Shinobigatana-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_BOW",
+            "value": "Bogen-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_GUN",
+            "value": "Pistolen-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_STAFF",
+            "value": "Stab-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_MACE",
+            "value": "Kolben-Juwel"
+        },
+        {
+            "key": "EX_SUB_JB_AXE",
+            "value": "Axt-Juwel"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SW",
+            "value": "Almanach der Veredelung (Schwert)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_LS",
+            "value": "Almanach der Veredelung (Großschwert)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_JS",
+            "value": "Almanach der Veredelung (Katana)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_FI",
+            "value": "Almanach der Veredelung (Fäuste)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SP",
+            "value": "Almanach der Veredelung (Lanze)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_SS",
+            "value": "Almanach der Veredelung (Dolch)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_KU",
+            "value": "Almanach der Veredelung (Shinobigatana)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_BO",
+            "value": "Almanach der Veredelung (Bogen)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_GU",
+            "value": "Almanach der Veredelung (Pistole)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_ST",
+            "value": "Almanach der Veredelung (Stab)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_MA",
+            "value": "Almanach der Veredelung (Kolben)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AX",
+            "value": "Almanach der Veredelung (Axt)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AR",
+            "value": "Almanach der Veredelung (Rüstung)"
+        },
+        {
+            "key": "EX_SUB_AF_AW_AC",
+            "value": "Almanach der Veredelung (Accessoire)"
+        }
+    ]
+}

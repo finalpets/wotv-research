@@ -1,0 +1,48 @@
+{
+    "infos": [
+        {
+            "key": "CH_ST_0101",
+            "value": "El despertar del león"
+        },
+        {
+            "key": "CH_ST_0102",
+            "value": "El alzamiento contra Hourne"
+        },
+        {
+            "key": "CH_ST_0103",
+            "value": "Deseos problemáticos"
+        },
+        {
+            "key": "CH_ST_0104",
+            "value": "La Rosa Negra"
+        },
+        {
+            "key": "CH_WD_0101",
+            "value": ""
+        },
+        {
+            "key": "CH_ST_0105",
+            "value": "La deidad"
+        },
+        {
+            "key": "CH_ST_0106",
+            "value": "Traición"
+        },
+        {
+            "key": "CH_ST_0107",
+            "value": "Aprovechar la ventaja"
+        },
+        {
+            "key": "CH_ST_0108",
+            "value": "Tiempo de rebelión"
+        },
+        {
+            "key": "CH_ST_0109",
+            "value": "Tierra sagrada en llamas"
+        },
+        {
+            "key": "CH_WD_0102",
+            "value": ""
+        }
+    ]
+}

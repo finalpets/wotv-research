@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "RANDOM_ITEM_0001",
+            "value": "Es kann eine zufällige Art Jadeit erhalten werden"
+        },
+        {
+            "key": "RANDOM_ITEM_0002",
+            "value": "Es kann eine zufällige Art Azurit erhalten werden"
+        },
+        {
+            "key": "RANDOM_ITEM_0003",
+            "value": "Es kann eine zufällige Art Charoit erhalten werden"
+        },
+        {
+            "key": "RANDOM_ITEM_0004",
+            "value": "Es kann eine zufällige Art Citrin erhalten werden"
+        },
+        {
+            "key": "RANDOM_ITEM_0005",
+            "value": "Es kann eine zufällige Art Spinell erhalten werden"
+        }
+    ]
+}

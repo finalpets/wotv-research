@@ -1,0 +1,1052 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "Equipo: Espada ancha"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "Equipo: Espada grande"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "Equipo: Ashura"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "Equipo: Puño de bronce"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "Equipo: Jabalina"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "Equipo: Daga de bronce"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "Equipo: Sable ninja"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "Equipo: Arco corto"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "Equipo: Altair"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "Equipo: Bastón"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "Equipo: Maza de bronce"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "Equipo: Peto de cuero"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "Equipo: Gorro de cuero"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "Equipo: Chaqueta de cuero"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "Equipo: Yelmo de bronce"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "Equipo: Anillo de rinopiedra"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "Equipo: Hacha de guerra"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "Set de objetos de recuperación para las misiones"
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "Lote de alcrists verdes omnielementales"
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "Lote de jadeíta I"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "Lote de jadeíta II"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "Lote de receta de equipo R I "
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "Lote de receta de equipo R II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "Lote del despertar de fuego II"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "Lote del despertar de agua II"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "Lote del despertar de viento II"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "Lote del despertar de rayo II"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "Lote del despertar de tierra II"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "Lote del despertar de hielo II"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "Lote del despertar de luz II"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "Lote del despertar de oscuridad II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "Lote del despertar de fuego I"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "Lote del despertar de agua I"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "Lote del despertar de viento I"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "Lote del despertar de rayo I"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "Lote del despertar de tierra I"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "Lote del despertar de hielo I"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "Lote del despertar de luz I"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "Lote del despertar de oscuridad I"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "Lote de alma del despertar de fuego (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "Lote de alma del despertar de agua (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "Lote de alma del despertar de viento (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "Lote de alma del despertar de rayo (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "Lote de alma del despertar de tierra (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "Lote de alma del despertar de hielo (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "Lote de alma del despertar de luz (2–4★)"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "Lote de alma del despertar de oscuridad (2–4★)"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "Lote arcoíris de la suerte"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "Tícket seleccionador de recuerdo de profesión (amarillo) x4"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "Tícket seleccionador de recuerdo de profesión (morado) x3"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "[Principiantes] Lote de mejora de profesión"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "[Principiantes] Lote de mejora de unidad"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "Cura de energía gratuita diaria"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "[Lanzamiento] Lote arcoíris de la suerte"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "Lote de apoyo de historia A"
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "Lote de apoyo de historia B"
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "Lote arcoíris de la suerte"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "Cura de energía gratuita diaria"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "Cubo de EXP (M) diario gratuito"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "Lote diario de cubos de EXP"
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "Lote diario de los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "Lote diario de recuerdos lejanos"
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "Lote diario de cubos de EXP B"
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "Lote de rayo de los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "Lote de luz de los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "Lote de tierra de los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "Lote de oscuridad de los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "Lote para despertar unidad de los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "Lote de entrenamiento para Ramza "
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "Lote de Ramza"
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "Lote de fuego de los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "Lote de hielo los 3 millones de descargas"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "Tíckets de avance gratuitos diarios"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "Lote de rayo de los 4 millones de descargas"
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "Lote de luz de los 4 millones de descargas"
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "Lote de tierra de los 4 millones de descargas"
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "Lote de oscuridad de los 4 millones de descargas"
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "Lote para despertar unidad de los 4 millones de descargas"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "Lote de mejora de estallido límite"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "Lote de habilidad de equipo"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "Lote para despertar unidad"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "Lote de agua de los 5 millones de descargas"
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "Lote de luz de los 5 millones de descargas"
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "Lote de tierra de los 5 millones de descargas"
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "Lote de entrenamiento de carta de visión A"
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "Lote de entrenamiento de carta de visión B"
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "Lote de entrenamiento de carta de visión de los 5 millones de descargas"
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "Lote de oscuridad de los 5 millones de descargas"
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "Lote de hielo de los 5 millones de descargas"
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "Huevo nutritivo (R) gratuito diario"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "Lote de unidad UR"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "Lote de carta de visión UR de los 5 millones de descargas"
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "Lote del despertar de viento"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "Lote del despertar de fuego"
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "Lote de entrenamiento de unidad"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "Restaurador de asalto multijugador gratuito diario"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "Lote de apoyo de asalto"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "Lote del despertar de fuego"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "Lote del despertar de viento"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "Lote del despertar de tierra"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "Lote del despertar de hielo"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "Lote de mejora de VIT de equipo"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "Lote de mejora de ATQ de equipo"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "Lote de mejora de ACI de equipo"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "Lote de entrenamiento de carta de visión C"
+        },
+        {
+            "key": "IT_SET_AWK_GL01",
+            "value": "Lote para despertar unidad"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "10 tíckets de avance gratuitos diarios"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "Lote del despertar de rayo"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "Lote del despertar de oscuridad"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": "Lote de mejora de EVASIÓN de equipo"
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": "Lote de mejora de MAG de equipo"
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": "Lote de mejora de CRÍT de equipo"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "Lote de colaboración de MOBIUS FINAL FANTASY"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "Lote de entrenamiento de «Mobius de desesperación y verdad»"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "Lote de entrenamiento de «Mobius de esperanza e ilusión»"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "Lote de entrenamiento de carta de visión II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "Lote de entrenamiento de unidad"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "Lote del despertar de luz"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "Lote del despertar de agua"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "Lote de entrenamiento de Fryevia"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "Lote de alcrists de fuego"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "Lote de alcrists de agua"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "Lote de alcrists de viento"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "Lote de alcrists de rayo"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "Lote de alcrists de tierra"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "Lote de alcrists de hielo"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "Lote de alcrists de luz"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "Lote de alcrists de oscuridad"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "Lote de cubos de EXP de celebración del lanzamiento de la Torre de Porcelana"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "Lote de habilidad de equipo"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "Cura de energía (G) gratuita diaria"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "Lote de entrenamiento de carta de visión de la Torre de Porcelana"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (fuego)"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (agua)"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (hielo)"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (viento)"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (rayo)"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (tierra)"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (luz)"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "Lote de mejora de la Torre de Porcelana (oscuridad)"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "Lote de mejora de estatuas del gremio"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "Lote del despertar total de oscuridad"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "[Principiantes] Esfera de visión arcoíris"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "[Principiantes] Esfera de visión cerúlea"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "[Principiantes] Fragmento de la memoria arcoíris"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "[Principiantes] Lote de profesión"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "[Principiantes] Lote de jadeíta I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "[Principiantes] Lote de jadeíta II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "[Principiantes] Lote de azurita I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "[Principiantes] Lote de azurita II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "[Principiantes] Lote para despertar unidad UR"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "Lote de receta de equipo R II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "Lote de carta de visión UR"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "Lote de mejora de esper de luz"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "Lote de mejora de DEF de equipo"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "Lote de mejora de ESP de equipo"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "Lote de entrenamiento del Guerrero de la Luz"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "Lote del despertar total de luz"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "Lote de entrenamiento de la carta de visión «Máquina mortal»"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "Lote del despertar total de tierra"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "Lote de unidad UR"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "Lote de entrenamiento de carta de visión B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "Lote de mejora de esper de oscuridad"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "Lote de mejora: c. visión"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "Lote de despertar arcoíris"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "Lote de mejora de profesión de viento (rojo)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "Lote de mejora de profesión de viento (amarillo)"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "Lote de mejora de profesión de viento (morado)"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "Lote de cubos de EXP+"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "Lote de tíckets de expedición+"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "Lote del despertar de viento+"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "Lote de entrenamiento para Oldoa"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "Lote de entrenamiento para Agrias"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "Lote de ruptura de límite de unidad UR"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "Lote del despertar de hielo+"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "Lote del despertar de fuego+"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "Lote de apoyo de mejora de profesión"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "Lote de cubos de EXP"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "Lote de huevo nutritivo"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "Lote de adamantita"
+        },
+        {
+            "key": "IT_SET_GROW_ORND",
+            "value": "Lote de entrenamiento para Orlandeau"
+        },
+        {
+            "key": "IT_SET_SWO_GL01",
+            "value": "Lote de Nagnarok +3 (asalto)"
+        },
+        {
+            "key": "IT_SET_HAT_GL01",
+            "value": "Lote de sombrero de sabio (esquivo)"
+        },
+        {
+            "key": "IT_SET_RNG_GL01",
+            "value": "Lote de anillo enjoyado +3 (certero)"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_CM_03",
+            "value": "Lote del despertar de rayo+"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_04",
+            "value": "Lote del despertar de luz+"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL01",
+            "value": "Lote de invocación de unidad"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_GL03",
+            "value": "Lote de unidad UR"
+        },
+        {
+            "key": "IT_SET_AW_WATER_CM_GL04",
+            "value": "Lote del despertar de agua+"
+        },
+        {
+            "key": "IT_SET_JB_WATER_03",
+            "value": "Lote de mejora de profesión de agua (rojo)"
+        },
+        {
+            "key": "IT_SET_JB_WATER_02",
+            "value": "Lote de mejora de profesión de agua (amarillo)"
+        },
+        {
+            "key": "IT_SET_JB_WATER_01",
+            "value": "Lote de mejora de profesión de agua (morado)"
+        },
+        {
+            "key": "IT_SET_SWO_GL02",
+            "value": "Lote de despertar de espada"
+        },
+        {
+            "key": "IT_SET_MACE_GL02",
+            "value": "Lote de despertar de maza"
+        },
+        {
+            "key": "IT_SET_ACCE_GL02",
+            "value": "Lote de despertar de accesorio"
+        },
+        {
+            "key": "IT_SET_LW_ENBT",
+            "value": "Lote de Engelberto"
+        },
+        {
+            "key": "IT_SET_GROW_ENBT",
+            "value": "Lote de entrenamiento de Engelberto"
+        },
+        {
+            "key": "IT_SET_VC_GROW_06",
+            "value": "Lote de entrenamiento de carta de visión B"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL02",
+            "value": "Lote de invocación de unidad"
+        },
+        {
+            "key": "IT_SET_VC_EXP_04",
+            "value": "Lote de entrenamiento de carta de visión"
+        },
+        {
+            "key": "IT_SET_HLM_GL01",
+            "value": "Lote de yelmo de platino +3 (mental)"
+        },
+        {
+            "key": "IT_SET_MAC_GL01",
+            "value": "Lote de maza de platino +3 (mágico)"
+        },
+        {
+            "key": "IT_SET_CLT_GL01",
+            "value": "Lote de abrigo perspicaz +3 (mental)"
+        },
+        {
+            "key": "IT_SET_ARM_GL01",
+            "value": "Lote de armadura dorada +3 (defensor)"
+        },
+        {
+            "key": "IT_SET_HA_SE_UNIT",
+            "value": "[6 primeros meses del juego] Lote seleccionador de unidad"
+        },
+        {
+            "key": "IT_SET_HA_SE_VCARD",
+            "value": "[6 primeros meses del juego] Lote seleccionador de carta de visión"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_GL04",
+            "value": "Lote del despertar de oscuridad+"
+        },
+        {
+            "key": "IT_SET_GROW_HA",
+            "value": "[6 primeros meses del juego] Lote arcoíris de la suerte"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_L",
+            "value": "[6 primeros meses del juego] Lote de mejora de profesión III"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_M",
+            "value": "[6 primeros meses del juego] Lote de mejora de profesión II"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_S",
+            "value": "[6 primeros meses del juego] Lote de mejora de profesión I"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_L",
+            "value": "[6 primeros meses del juego] Lote de cubos de EXP II"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_S",
+            "value": "[6 primeros meses del juego] Lote de cubos de EXP I"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_L",
+            "value": "[6 primeros meses del juego] Lote de huevos nutritivos II"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_S",
+            "value": "[6 primeros meses del juego] Lote de huevos nutritivos I"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA",
+            "value": "[6 primeros meses del juego] Lote de adamantita"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_FREE_00",
+            "value": "2 piezas de unidad UR gratuitas diarias"
+        },
+        {
+            "key": "IT_SET_ICE_SB_EXP_GL_01",
+            "value": "Lote de magicita azul"
+        },
+        {
+            "key": "IT_SET_LB_EXP_HA",
+            "value": "[6 primeros meses del juego] Lote de estallido límite"
+        },
+        {
+            "key": "IT_SET_WA_EXP_HA",
+            "value": "[6 primeros meses del juego] Lote de habilidad de equipo"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA_02",
+            "value": "[6 primeros meses del juego] Lote para despertar equipo"
+        },
+        {
+            "key": "IT_SET_SE_JB_HA",
+            "value": "[6 primeros meses del juego] Lote de mejora de profesión"
+        },
+        {
+            "key": "IT_SET_BSW_GL01",
+            "value": "Lote de hoja rúnica +3 (certero)"
+        },
+        {
+            "key": "IT_SET_SWO_GL03",
+            "value": "Lote de sable de coral +3 (asalto)"
+        },
+        {
+            "key": "IT_SET_GROW_LSWL",
+            "value": "Lote de entrenamiento para Lasswell"
+        },
+        {
+            "key": "IT_SET_HA_UE_EXP",
+            "value": "[6 primeros meses del juego] Lote de mejora de unidad"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP",
+            "value": "[6 primeros meses del juego] Lote de mejora: c. visión"
+        },
+        {
+            "key": "IT_SET_SPE_GL01",
+            "value": "Lote de lanza de hielo +3 (crítico)"
+        },
+        {
+            "key": "IT_SET_SPEAR_01",
+            "value": "Lote del despertar de lanzas"
+        },
+        {
+            "key": "IT_SET_BOW_01",
+            "value": "Lote del despertar de arcos"
+        },
+        {
+            "key": "IT_SET_TITN_EXP",
+            "value": "Lote de entrenamiento de «Titán, el Temblor de la Tierra»"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_GROW",
+            "value": "Lote especial de pieza de unidad UR"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_01",
+            "value": "[6 primeros meses del juego] Lote de despertar: c. visión"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_HA_01",
+            "value": "[6 primeros meses del juego] Lote de apoyo de asalto"
+        },
+        {
+            "key": "IT_SET_JSWORD_01",
+            "value": "Lote del despertar para katanas"
+        },
+        {
+            "key": "IT_SET_KAT_GL01",
+            "value": "Lote de Rayo Púrpura +3 (fuerte)"
+        },
+        {
+            "key": "IT_SET_ACC_GL01",
+            "value": "Lote de cinta +3 (esquivo)"
+        },
+        {
+            "key": "IT_SET_HA_SM_EXP",
+            "value": "[6 primeros meses del juego] Lote de mejora de esper"
+        },
+        {
+            "key": "IT_SET_WA_EXP_02",
+            "value": "5 minitarros acorazados diarios gratis"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL03",
+            "value": "Lote de invocación de unidad"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_04",
+            "value": "Lote del despertar de tierra+"
+        },
+        {
+            "key": "IT_SET_PI_COM_1100DL",
+            "value": "[Campaña de Halloween] Lote de fragmentos de la memoria"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_L",
+            "value": "[Campaña de Halloween] Lote de cubos de EXP II"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL",
+            "value": "[Campaña de Halloween] Lote de habilidad de equipo"
+        },
+        {
+            "key": "IT_SET_STA_01",
+            "value": "Lote de despertar de bastones"
+        },
+        {
+            "key": "IT_SET_SWO_01",
+            "value": "Lote de despertar de espada"
+        },
+        {
+            "key": "IT_SET_AXE_01",
+            "value": "Lote de despertar de hachas"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_S",
+            "value": "[Campaña de Halloween] Lote de cubos de EXP I"
+        },
+        {
+            "key": "IT_SET_1100DL_SE_UPI",
+            "value": "[Campaña de Halloween] Lote de entrenamiento de unidad"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_05",
+            "value": "[Campaña de Halloween] Lote de mejora de profesión V"
+        },
+        {
+            "key": "IT_SET_1100DL_UE_EXP",
+            "value": "[Campaña de Halloween] Lote de mejora de unidad"
+        },
+        {
+            "key": "IT_SET_1100DL_UR_ AWK_01",
+            "value": "[Campaña de Halloween] Lote para despertar unidad UR"
+        },
+        {
+            "key": "IT_SET_1100DL_SSR_ AWK_01",
+            "value": "[Campaña de Halloween] Lote para despertar unidad MR"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_04",
+            "value": "[Campaña de Halloween] Lote de mejora de profesión IV"
+        },
+        {
+            "key": "IT_SET_1100DL_VE_EXP",
+            "value": "[Campaña de Halloween] Lote de mejora: c. visión"
+        },
+        {
+            "key": "IT_SET_1100DL_SM_EXP",
+            "value": "[Campaña de Halloween] Lote de mejora de esper"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_03",
+            "value": "[Campaña de Halloween] Lote de mejora de profesión III"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_02",
+            "value": "[Campaña de Halloween] Lote de mejora de profesión II"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_01",
+            "value": "[Campaña de Halloween] Lote de mejora de profesión I"
+        }
+    ]
+}

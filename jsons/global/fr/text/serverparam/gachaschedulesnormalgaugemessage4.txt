@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "La jauge se remplira légèrement seulement si vous n'obtenez pas d'unité de rareté UR lors des invocations."
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "La jauge se remplira légèrement seulement si vous n'obtenez pas d'unité de rareté UR lors des invocations."
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "La jauge se remplira légèrement seulement si vous n'obtenez pas d'unité de rareté UR lors des invocations."
+        }
+    ]
+}

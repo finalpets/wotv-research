@@ -1,0 +1,20 @@
+{
+    "infos": [
+        {
+            "key": "PIECE",
+            "value": "錬成"
+        },
+        {
+            "key": "REFRESH",
+            "value": "更新"
+        },
+        {
+            "key": "ATTACKABLE",
+            "value": "出撃可能のみ"
+        },
+        {
+            "key": "NOT_ENHANCE_WEAPON",
+            "value": "強化できる装備がありません"
+        }
+    ]
+}

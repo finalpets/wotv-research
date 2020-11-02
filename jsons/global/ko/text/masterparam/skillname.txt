@@ -1,0 +1,7840 @@
+{
+    "infos": [
+        {
+            "key": "SK_EMPTY",
+            "value": ""
+        },
+        {
+            "key": "SK_FROG_ATK",
+            "value": "일반 공격 스킬(개구리 시)"
+        },
+        {
+            "key": "SK_CRYSTAL_NORMAL",
+            "value": "크리스탈 효과"
+        },
+        {
+            "key": "SK_LW_WAR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_WAR_M_1",
+            "value": "수살인"
+        },
+        {
+            "key": "SK_LW_WAR_M_4",
+            "value": "킬러 블레이드"
+        },
+        {
+            "key": "SK_LW_WAR_S_3",
+            "value": "재밍 엣지"
+        },
+        {
+            "key": "SK_LW_WAR_S_1_INIT",
+            "value": "돌팔매"
+        },
+        {
+            "key": "SK_LW_WAR_M_2_INIT",
+            "value": "기 가다듬기"
+        },
+        {
+            "key": "SK_LW_WAR_S_2",
+            "value": "몸통 박치기"
+        },
+        {
+            "key": "SK_LW_WAR_M_3",
+            "value": "응급처치"
+        },
+        {
+            "key": "SK_LW_WAR_R_1",
+            "value": "카운터 어택"
+        },
+        {
+            "key": "SK_LW_WAR_R_1_MONT",
+            "value": "반격의 칼날"
+        },
+        {
+            "key": "SK_LW_WAR_P_1",
+            "value": "공격력 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_WAR_P_1_MONT",
+            "value": "레오니스 제1왕자"
+        },
+        {
+            "key": "SK_LW_WAR_M_1_SUB",
+            "value": "수살인"
+        },
+        {
+            "key": "SK_LW_WAR_M_4_SUB",
+            "value": "킬러 블레이드"
+        },
+        {
+            "key": "SK_LW_WAR_S_3_SUB",
+            "value": "재밍 엣지"
+        },
+        {
+            "key": "SK_LW_WAR_S_1",
+            "value": "돌팔매"
+        },
+        {
+            "key": "SK_LW_WAR_M_2",
+            "value": "기 가다듬기"
+        },
+        {
+            "key": "SK_LW_KNT_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_KNT_M_4",
+            "value": "트리니티 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_S_2",
+            "value": "TP 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_M_3",
+            "value": "AP 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_S_1_INIT",
+            "value": "디바인 힐"
+        },
+        {
+            "key": "SK_LW_KNT_M_1_INIT",
+            "value": "파워 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_M_2",
+            "value": "매직 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_S_3",
+            "value": "암 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_S_4",
+            "value": "스피드 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_R_1",
+            "value": "소드 가드"
+        },
+        {
+            "key": "SK_LW_KNT_P_1",
+            "value": "성스러운 가호"
+        },
+        {
+            "key": "SK_LW_KNT_P_2",
+            "value": "HP 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_KNT_M_4_SUB",
+            "value": "트리니티 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_S_2_SUB",
+            "value": "TP 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_M_3_SUB",
+            "value": "AP 브레이크"
+        },
+        {
+            "key": "SK_LW_KNT_S_1",
+            "value": "디바인 힐"
+        },
+        {
+            "key": "SK_LW_KNT_M_1",
+            "value": "파워 브레이크"
+        },
+        {
+            "key": "SK_LW_PLD_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_PLD_M_4",
+            "value": "성스러운 벽"
+        },
+        {
+            "key": "SK_LW_PLD_M_2",
+            "value": "불멸의 투지"
+        },
+        {
+            "key": "SK_LW_PLD_S_7",
+            "value": "성스러운 십자가"
+        },
+        {
+            "key": "SK_LW_PLD_M_1_INIT",
+            "value": "성스러운 치유"
+        },
+        {
+            "key": "SK_LW_PLD_S_5_INIT",
+            "value": "블레이드 강타"
+        },
+        {
+            "key": "SK_LW_PLD_S_6",
+            "value": "센티넬"
+        },
+        {
+            "key": "SK_LW_PLD_S_2",
+            "value": "디바인 그레이스"
+        },
+        {
+            "key": "SK_LW_PLD_M_3",
+            "value": "어트랙트 블레이드"
+        },
+        {
+            "key": "SK_LW_PLD_R_1",
+            "value": "팔라딘 가드"
+        },
+        {
+            "key": "SK_LW_PLD_P_1",
+            "value": "성기사의 가호"
+        },
+        {
+            "key": "SK_LW_PLD_M_4_SUB",
+            "value": "성스러운 벽"
+        },
+        {
+            "key": "SK_LW_PLD_M_2_SUB",
+            "value": "불멸의 투지"
+        },
+        {
+            "key": "SK_LW_PLD_S_7_SUB",
+            "value": "성스러운 십자가"
+        },
+        {
+            "key": "SK_LW_PLD_M_1",
+            "value": "성스러운 치유"
+        },
+        {
+            "key": "SK_LW_PLD_S_5",
+            "value": "블레이드 강타"
+        },
+        {
+            "key": "SK_LW_MGK_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_M_4",
+            "value": "파이가 검"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_M_4",
+            "value": "워터가 검"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_M_4",
+            "value": "블리자가 검"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_M_4",
+            "value": "스톤가 검"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_M_4",
+            "value": "선더가 검"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_M_4",
+            "value": "에어로가 검"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_M_4",
+            "value": "배니시가 검"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_M_4",
+            "value": "다크가 검"
+        },
+        {
+            "key": "SK_LW_MGK_M_2",
+            "value": "치킨 검"
+        },
+        {
+            "key": "SK_LW_MGK_S_4",
+            "value": "사일런스 검"
+        },
+        {
+            "key": "SK_LW_MGK_M_3",
+            "value": "매직 배리어"
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_S_1_INIT",
+            "value": "파이어 검"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_S_1_INIT",
+            "value": "워터 검"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_S_1_INIT",
+            "value": "블리자드 검"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_S_1_INIT",
+            "value": "스톤 검"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_S_1_INIT",
+            "value": "선더 검"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_S_1_INIT",
+            "value": "에어로 검"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_S_1_INIT",
+            "value": "배니시 검"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_S_1_INIT",
+            "value": "다크 검"
+        },
+        {
+            "key": "SK_LW_MGK_M_1_INIT",
+            "value": "바이오 검"
+        },
+        {
+            "key": "SK_LW_MGK_S_3",
+            "value": "매직 레지스트"
+        },
+        {
+            "key": "SK_LW_MGK_S_2",
+            "value": "어트랙트 스펠"
+        },
+        {
+            "key": "SK_LW_MGK_R_1",
+            "value": "매직 가드"
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_P_1",
+            "value": "불 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_P_1",
+            "value": "물 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_P_1",
+            "value": "얼음 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_P_1",
+            "value": "땅 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_P_1",
+            "value": "번개 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_P_1",
+            "value": "바람 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_P_1",
+            "value": "빛 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_P_1",
+            "value": "어둠 정령의 가호"
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_M_4_SUB",
+            "value": "파이가 검"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_M_4_SUB",
+            "value": "워터가 검"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_M_4_SUB",
+            "value": "블리자가 검"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_M_4_SUB",
+            "value": "스톤가 검"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_M_4_SUB",
+            "value": "선더가 검"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_M_4_SUB",
+            "value": "에어로가 검"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_M_4_SUB",
+            "value": "배니시가 검"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_M_4_SUB",
+            "value": "다크가 검"
+        },
+        {
+            "key": "SK_LW_MGK_M_2_SUB",
+            "value": "치킨 검"
+        },
+        {
+            "key": "SK_LW_MGK_S_4_SUB",
+            "value": "사일런스 검"
+        },
+        {
+            "key": "SK_LW_MGK_M_3_SUB",
+            "value": "매직 배리어"
+        },
+        {
+            "key": "SK_LW_MGK_FIRE_S_1",
+            "value": "파이어 검"
+        },
+        {
+            "key": "SK_LW_MGK_WATR_S_1",
+            "value": "워터 검"
+        },
+        {
+            "key": "SK_LW_MGK_ICE_S_1",
+            "value": "블리자드 검"
+        },
+        {
+            "key": "SK_LW_MGK_SOIL_S_1",
+            "value": "스톤 검"
+        },
+        {
+            "key": "SK_LW_MGK_THUN_S_1",
+            "value": "선더 검"
+        },
+        {
+            "key": "SK_LW_MGK_WIND_S_1",
+            "value": "에어로 검"
+        },
+        {
+            "key": "SK_LW_MGK_SHIN_S_1",
+            "value": "배니시 검"
+        },
+        {
+            "key": "SK_LW_MGK_DARK_S_1",
+            "value": "다크 검"
+        },
+        {
+            "key": "SK_LW_MGK_M_1",
+            "value": "바이오 검"
+        },
+        {
+            "key": "SK_LW_SWN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_SWN_M_4",
+            "value": "해저드 브레이크"
+        },
+        {
+            "key": "SK_LW_SWN_S_2",
+            "value": "드레인 포스"
+        },
+        {
+            "key": "SK_LW_SWN_S_3",
+            "value": "그림 리퍼"
+        },
+        {
+            "key": "SK_LW_SWN_M_2_INIT",
+            "value": "해저드 폼"
+        },
+        {
+            "key": "SK_LW_SWN_M_5_INIT",
+            "value": "아스필 포스"
+        },
+        {
+            "key": "SK_LW_SWN_M_1",
+            "value": "난폭한 참격"
+        },
+        {
+            "key": "SK_LW_SWN_S_1",
+            "value": "파라이즈 엣지"
+        },
+        {
+            "key": "SK_LW_SWN_S_4",
+            "value": "해저드 스핀"
+        },
+        {
+            "key": "SK_LW_SWN_R_1",
+            "value": "반격의 참격"
+        },
+        {
+            "key": "SK_LW_SWN_P_1",
+            "value": "필사의 각오"
+        },
+        {
+            "key": "SK_LW_SWN_M_4_SUB",
+            "value": "해저드 브레이크"
+        },
+        {
+            "key": "SK_LW_SWN_S_2_SUB",
+            "value": "드레인 포스"
+        },
+        {
+            "key": "SK_LW_SWN_S_3_SUB",
+            "value": "그림 리퍼"
+        },
+        {
+            "key": "SK_LW_SWN_M_2",
+            "value": "해저드 폼"
+        },
+        {
+            "key": "SK_LW_SWN_M_5",
+            "value": "아스필 포스"
+        },
+        {
+            "key": "SK_LW_MNK_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_MNK_M_3",
+            "value": "차크라"
+        },
+        {
+            "key": "SK_LW_MNK_M_2",
+            "value": "기공술"
+        },
+        {
+            "key": "SK_LW_MNK_S_5",
+            "value": "소생"
+        },
+        {
+            "key": "SK_LW_MNK_S_4",
+            "value": "혈도 찌르기"
+        },
+        {
+            "key": "SK_LW_MNK_M_1_INIT",
+            "value": "연속권"
+        },
+        {
+            "key": "SK_LW_MNK_S_2_INIT",
+            "value": "힘 모으기"
+        },
+        {
+            "key": "SK_LW_MNK_M_4",
+            "value": "지열참"
+        },
+        {
+            "key": "SK_LW_MNK_S_3",
+            "value": "파동격"
+        },
+        {
+            "key": "SK_LW_MNK_R_1",
+            "value": "주먹 맞받아치기"
+        },
+        {
+            "key": "SK_LW_MNK_P_1",
+            "value": "타격의 비법"
+        },
+        {
+            "key": "SK_LW_MNK_P_2",
+            "value": "HP 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_MNK_M_3_SUB",
+            "value": "차크라"
+        },
+        {
+            "key": "SK_LW_MNK_M_2_SUB",
+            "value": "기공술"
+        },
+        {
+            "key": "SK_LW_MNK_S_5_SUB",
+            "value": "소생"
+        },
+        {
+            "key": "SK_LW_MNK_S_4_SUB",
+            "value": "혈도 찌르기"
+        },
+        {
+            "key": "SK_LW_MNK_M_1",
+            "value": "연속권"
+        },
+        {
+            "key": "SK_LW_MNK_S_2",
+            "value": "힘 모으기"
+        },
+        {
+            "key": "SK_LW_SAM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_SAM_M_4",
+            "value": "금강"
+        },
+        {
+            "key": "SK_LW_SAM_S_4",
+            "value": "농월"
+        },
+        {
+            "key": "SK_LW_SAM_M_3",
+            "value": "질풍"
+        },
+        {
+            "key": "SK_LW_SAM_M_1_INIT",
+            "value": "비연"
+        },
+        {
+            "key": "SK_LW_SAM_S_3_INIT",
+            "value": "묵상"
+        },
+        {
+            "key": "SK_LW_SAM_S_1",
+            "value": "전심"
+        },
+        {
+            "key": "SK_LW_SAM_M_2",
+            "value": "허상"
+        },
+        {
+            "key": "SK_LW_SAM_S_2",
+            "value": "야장"
+        },
+        {
+            "key": "SK_LW_SAM_R_1",
+            "value": "심안"
+        },
+        {
+            "key": "SK_LW_SAM_P_1",
+            "value": "도혼"
+        },
+        {
+            "key": "SK_LW_SAM_M_4_SUB",
+            "value": "금강"
+        },
+        {
+            "key": "SK_LW_SAM_S_4_SUB",
+            "value": "농월"
+        },
+        {
+            "key": "SK_LW_SAM_M_3_SUB",
+            "value": "질풍"
+        },
+        {
+            "key": "SK_LW_SAM_M_1",
+            "value": "비연"
+        },
+        {
+            "key": "SK_LW_SAM_S_3",
+            "value": "묵상"
+        },
+        {
+            "key": "SK_LW_THI_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_THI_M_3",
+            "value": "약탈"
+        },
+        {
+            "key": "SK_LW_THI_M_4",
+            "value": "기습 공격"
+        },
+        {
+            "key": "SK_LW_THI_S_3",
+            "value": "하트 훔치기"
+        },
+        {
+            "key": "SK_LW_THI_M_1_INIT",
+            "value": "훔치기"
+        },
+        {
+            "key": "SK_LW_THI_S_1_INIT",
+            "value": "시력 훔치기"
+        },
+        {
+            "key": "SK_LW_THI_S_2",
+            "value": "어둠 타기"
+        },
+        {
+            "key": "SK_LW_THI_S_4",
+            "value": "혼란 단검"
+        },
+        {
+            "key": "SK_LW_THI_M_2",
+            "value": "시간 훔치기"
+        },
+        {
+            "key": "SK_LW_THI_R_1",
+            "value": "퀵 액션"
+        },
+        {
+            "key": "SK_LW_THI_P_1",
+            "value": "도적의 마음가짐"
+        },
+        {
+            "key": "SK_LW_THI_P_2",
+            "value": "획득 AP 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_THI_M_3_SUB",
+            "value": "약탈"
+        },
+        {
+            "key": "SK_LW_THI_M_4_SUB",
+            "value": "기습 공격"
+        },
+        {
+            "key": "SK_LW_THI_S_3_SUB",
+            "value": "하트 훔치기"
+        },
+        {
+            "key": "SK_LW_THI_M_1",
+            "value": "훔치기"
+        },
+        {
+            "key": "SK_LW_THI_S_1",
+            "value": "시력 훔치기"
+        },
+        {
+            "key": "SK_LW_NIN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_NIN_M_4",
+            "value": "몽환삼단"
+        },
+        {
+            "key": "SK_LW_NIN_S_3",
+            "value": "그림자 속박"
+        },
+        {
+            "key": "SK_LW_NIN_M_2",
+            "value": "매미 허물"
+        },
+        {
+            "key": "SK_LW_NIN_S_1_INIT",
+            "value": "수리검"
+        },
+        {
+            "key": "SK_LW_NIN_S_2_INIT",
+            "value": "은신술"
+        },
+        {
+            "key": "SK_LW_NIN_M_3",
+            "value": "독안개 술법"
+        },
+        {
+            "key": "SK_LW_NIN_FIRE_M_1",
+            "value": "화둔"
+        },
+        {
+            "key": "SK_LW_NIN_ICE_M_1",
+            "value": "빙둔"
+        },
+        {
+            "key": "SK_LW_NIN_WIND_M_1",
+            "value": "풍둔"
+        },
+        {
+            "key": "SK_LW_NIN_SOIL_M_1",
+            "value": "토둔"
+        },
+        {
+            "key": "SK_LW_NIN_THUN_M_1",
+            "value": "뇌둔"
+        },
+        {
+            "key": "SK_LW_NIN_WATR_M_1",
+            "value": "수둔"
+        },
+        {
+            "key": "SK_LW_NIN_DARK_M_1",
+            "value": "암둔"
+        },
+        {
+            "key": "SK_LW_NIN_SHIN_M_1",
+            "value": "광둔"
+        },
+        {
+            "key": "SK_LW_NIN_S_4",
+            "value": "생사여탈"
+        },
+        {
+            "key": "SK_LW_NIN_R_1",
+            "value": "독침 되돌리기"
+        },
+        {
+            "key": "SK_LW_NIN_P_1",
+            "value": "그림자 달리기"
+        },
+        {
+            "key": "SK_LW_NIN_P_2",
+            "value": "축지"
+        },
+        {
+            "key": "SK_LW_NIN_M_4_SUB",
+            "value": "몽환삼단"
+        },
+        {
+            "key": "SK_LW_NIN_S_3_SUB",
+            "value": "그림자 속박"
+        },
+        {
+            "key": "SK_LW_NIN_M_2_SUB",
+            "value": "매미 허물"
+        },
+        {
+            "key": "SK_LW_NIN_S_1",
+            "value": "수리검"
+        },
+        {
+            "key": "SK_LW_NIN_S_2",
+            "value": "은신술"
+        },
+        {
+            "key": "SK_LW_LAN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_LAN_M_4",
+            "value": "허공일섬"
+        },
+        {
+            "key": "SK_LW_LAN_S_4",
+            "value": "대지찬충"
+        },
+        {
+            "key": "SK_LW_LAN_S_3",
+            "value": "황천 보내기"
+        },
+        {
+            "key": "SK_LW_LAN_M_2_INIT",
+            "value": "나이트 호크"
+        },
+        {
+            "key": "SK_LW_LAN_S_2_INIT",
+            "value": "샤프 스피어"
+        },
+        {
+            "key": "SK_LW_LAN_M_3_INIT",
+            "value": "정신 타격"
+        },
+        {
+            "key": "SK_LW_LAN_M_1_INIT",
+            "value": "버스트 슬래시"
+        },
+        {
+            "key": "SK_LW_LAN_S_1_INIT",
+            "value": "그림자 붙이기"
+        },
+        {
+            "key": "SK_LW_LAN_R_1",
+            "value": "반격의 찌르기"
+        },
+        {
+            "key": "SK_LW_LAN_P_2",
+            "value": "찌르기의 비법"
+        },
+        {
+            "key": "SK_LW_LAN_P_1",
+            "value": "필살의 비법"
+        },
+        {
+            "key": "SK_LW_LAN_M_4_SUB",
+            "value": "허공일섬"
+        },
+        {
+            "key": "SK_LW_LAN_S_4_SUB",
+            "value": "대지찬충"
+        },
+        {
+            "key": "SK_LW_LAN_S_3_SUB",
+            "value": "황천 보내기"
+        },
+        {
+            "key": "SK_LW_LAN_M_2",
+            "value": "나이트 호크"
+        },
+        {
+            "key": "SK_LW_LAN_S_2",
+            "value": "샤프 스피어"
+        },
+        {
+            "key": "SK_LW_LAN_M_3",
+            "value": "정신 타격"
+        },
+        {
+            "key": "SK_LW_LAN_M_1",
+            "value": "버스트 슬래시"
+        },
+        {
+            "key": "SK_LW_LAN_S_1",
+            "value": "그림자 붙이기"
+        },
+        {
+            "key": "SK_LW_DRG_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_DRG_S_3",
+            "value": "수직 점프"
+        },
+        {
+            "key": "SK_LW_DRG_S_4",
+            "value": "수평 점프"
+        },
+        {
+            "key": "SK_LW_DRG_M_4",
+            "value": "용의 돌진"
+        },
+        {
+            "key": "SK_LW_DRG_S_1_INIT",
+            "value": "점프"
+        },
+        {
+            "key": "SK_LW_DRG_M_3_INIT",
+            "value": "용혈"
+        },
+        {
+            "key": "SK_LW_DRG_M_1",
+            "value": "용의 포효"
+        },
+        {
+            "key": "SK_LW_DRG_M_2",
+            "value": "비룡 표식"
+        },
+        {
+            "key": "SK_LW_DRG_R_1",
+            "value": "용검"
+        },
+        {
+            "key": "SK_LW_DRG_P_1",
+            "value": "점프+1"
+        },
+        {
+            "key": "SK_LW_DRG_P_2",
+            "value": "HP 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_DRG_S_3_SUB",
+            "value": "수직 점프"
+        },
+        {
+            "key": "SK_LW_DRG_S_4_SUB",
+            "value": "수평 점프"
+        },
+        {
+            "key": "SK_LW_DRG_M_4_SUB",
+            "value": "용의 돌진"
+        },
+        {
+            "key": "SK_LW_DRG_S_1",
+            "value": "점프"
+        },
+        {
+            "key": "SK_LW_DRG_M_3",
+            "value": "용혈"
+        },
+        {
+            "key": "SK_LW_HUN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_HUN_M_4",
+            "value": "장대비 쏘기"
+        },
+        {
+            "key": "SK_LW_HUN_M_2",
+            "value": "그림자 묶기"
+        },
+        {
+            "key": "SK_LW_HUN_S_4",
+            "value": "오버 차지"
+        },
+        {
+            "key": "SK_LW_HUN_S_2_INIT",
+            "value": "차지"
+        },
+        {
+            "key": "SK_LW_HUN_M_3_INIT",
+            "value": "독화살"
+        },
+        {
+            "key": "SK_LW_HUN_S_1",
+            "value": "경계"
+        },
+        {
+            "key": "SK_LW_HUN_M_1",
+            "value": "저격"
+        },
+        {
+            "key": "SK_LW_HUN_S_3",
+            "value": "슈퍼 차지"
+        },
+        {
+            "key": "SK_LW_HUN_R_1",
+            "value": "간파"
+        },
+        {
+            "key": "SK_LW_HUN_P_1",
+            "value": "사냥꾼의 마음가짐"
+        },
+        {
+            "key": "SK_LW_HUN_P_2",
+            "value": "집중"
+        },
+        {
+            "key": "SK_LW_HUN_M_4_SUB",
+            "value": "장대비 쏘기"
+        },
+        {
+            "key": "SK_LW_HUN_M_2_SUB",
+            "value": "그림자 묶기"
+        },
+        {
+            "key": "SK_LW_HUN_S_4_SUB",
+            "value": "오버 차지"
+        },
+        {
+            "key": "SK_LW_HUN_S_2",
+            "value": "차지"
+        },
+        {
+            "key": "SK_LW_HUN_M_3",
+            "value": "독화살"
+        },
+        {
+            "key": "SK_LW_GUN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_GUN_M_4",
+            "value": "팔 노리기"
+        },
+        {
+            "key": "SK_LW_GUN_M_3",
+            "value": "급소 노리기"
+        },
+        {
+            "key": "SK_LW_GUN_S_4",
+            "value": "이중 쏘기"
+        },
+        {
+            "key": "SK_LW_GUN_M_1_INIT",
+            "value": "블랙 아웃"
+        },
+        {
+            "key": "SK_LW_GUN_M_2_INIT",
+            "value": "표적 조준"
+        },
+        {
+            "key": "SK_LW_GUN_S_3",
+            "value": "독사 강습"
+        },
+        {
+            "key": "SK_LW_GUN_S_1",
+            "value": "발 노리기"
+        },
+        {
+            "key": "SK_LW_GUN_S_2",
+            "value": "조언"
+        },
+        {
+            "key": "SK_LW_GUN_R_1",
+            "value": "카운터 샷"
+        },
+        {
+            "key": "SK_LW_GUN_P_1",
+            "value": "정신통일"
+        },
+        {
+            "key": "SK_LW_GUN_P_2",
+            "value": "사격의 비법"
+        },
+        {
+            "key": "SK_LW_GUN_M_4_SUB",
+            "value": "팔 노리기"
+        },
+        {
+            "key": "SK_LW_GUN_M_3_SUB",
+            "value": "급소 노리기"
+        },
+        {
+            "key": "SK_LW_GUN_S_4_SUB",
+            "value": "이중 쏘기"
+        },
+        {
+            "key": "SK_LW_GUN_M_1",
+            "value": "블랙 아웃"
+        },
+        {
+            "key": "SK_LW_GUN_M_2",
+            "value": "표적 조준"
+        },
+        {
+            "key": "SK_LW_BLM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_BLM_M_7",
+            "value": "플레어"
+        },
+        {
+            "key": "SK_LW_BLM_M_3",
+            "value": "토드"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_5",
+            "value": "파이가"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_5",
+            "value": "블리자가"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_5",
+            "value": "에어로가"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_5",
+            "value": "스톤가"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_5",
+            "value": "선더가"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_5",
+            "value": "워터가"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_5",
+            "value": "다크가"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_5",
+            "value": "배니시가"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_S_1_INIT",
+            "value": "파이어"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_S_1_INIT",
+            "value": "블리자드"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_S_1_INIT",
+            "value": "에어로"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_S_1_INIT",
+            "value": "스톤"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_S_1_INIT",
+            "value": "선더"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_S_1_INIT",
+            "value": "워터"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_S_1_INIT",
+            "value": "다크"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_S_1_INIT",
+            "value": "배니시"
+        },
+        {
+            "key": "SK_LW_BLM_M_1_INIT",
+            "value": "바이오"
+        },
+        {
+            "key": "SK_LW_BLM_S_3",
+            "value": "드레인"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_4",
+            "value": "파이라"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_4",
+            "value": "블리자라"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_4",
+            "value": "에어로라"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_4",
+            "value": "스톤라"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_4",
+            "value": "선더라"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_4",
+            "value": "워터라"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_4",
+            "value": "다크라"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_4",
+            "value": "배니시라"
+        },
+        {
+            "key": "SK_LW_BLM_S_4",
+            "value": "슬리플"
+        },
+        {
+            "key": "SK_LW_BLM_M_2",
+            "value": "아스필"
+        },
+        {
+            "key": "SK_LW_BLM_R_1",
+            "value": "매직 카운터"
+        },
+        {
+            "key": "SK_LW_BLM_P_1",
+            "value": "마력 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_BLM_M_7_SUB",
+            "value": "플레어"
+        },
+        {
+            "key": "SK_LW_BLM_M_3_SUB",
+            "value": "토드"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_M_5_SUB",
+            "value": "파이가"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_M_5_SUB",
+            "value": "블리자가"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_M_5_SUB",
+            "value": "에어로가"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_M_5_SUB",
+            "value": "스톤가"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_M_5_SUB",
+            "value": "선더가"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_M_5_SUB",
+            "value": "워터가"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_M_5_SUB",
+            "value": "다크가"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_M_5_SUB",
+            "value": "배니시가"
+        },
+        {
+            "key": "SK_LW_BLM_FIRE_S_1",
+            "value": "파이어"
+        },
+        {
+            "key": "SK_LW_BLM_ICE_S_1",
+            "value": "블리자드"
+        },
+        {
+            "key": "SK_LW_BLM_WIND_S_1",
+            "value": "에어로"
+        },
+        {
+            "key": "SK_LW_BLM_SOIL_S_1",
+            "value": "스톤"
+        },
+        {
+            "key": "SK_LW_BLM_THUN_S_1",
+            "value": "선더"
+        },
+        {
+            "key": "SK_LW_BLM_WATR_S_1",
+            "value": "워터"
+        },
+        {
+            "key": "SK_LW_BLM_DARK_S_1",
+            "value": "다크"
+        },
+        {
+            "key": "SK_LW_BLM_SHIN_S_1",
+            "value": "배니시"
+        },
+        {
+            "key": "SK_LW_BLM_M_1",
+            "value": "바이오"
+        },
+        {
+            "key": "SK_LW_WHM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_WHM_S_4_1",
+            "value": "케알가"
+        },
+        {
+            "key": "SK_LW_WHM_M_4",
+            "value": "리제네"
+        },
+        {
+            "key": "SK_LW_WHM_M_6",
+            "value": "홀리"
+        },
+        {
+            "key": "SK_LW_WHM_S_4_3",
+            "value": "어레이즈"
+        },
+        {
+            "key": "SK_LW_WHM_S_1_INIT",
+            "value": "케알"
+        },
+        {
+            "key": "SK_LW_WHM_M_2_INIT",
+            "value": "에스나"
+        },
+        {
+            "key": "SK_LW_WHM_M_1",
+            "value": "케알라"
+        },
+        {
+            "key": "SK_LW_WHM_S_2",
+            "value": "프로테스"
+        },
+        {
+            "key": "SK_LW_WHM_S_3",
+            "value": "셸"
+        },
+        {
+            "key": "SK_LW_WHM_M_3",
+            "value": "케알다"
+        },
+        {
+            "key": "SK_LW_WHM_M_5",
+            "value": "레이즈"
+        },
+        {
+            "key": "SK_LW_WHM_R_1",
+            "value": "리제네레이터"
+        },
+        {
+            "key": "SK_LW_WHM_P_1",
+            "value": "성자의 행진"
+        },
+        {
+            "key": "SK_LW_WHM_S_4_1_SUB",
+            "value": "케알가"
+        },
+        {
+            "key": "SK_LW_WHM_M_4_SUB",
+            "value": "리제네"
+        },
+        {
+            "key": "SK_LW_WHM_M_6_SUB",
+            "value": "홀리"
+        },
+        {
+            "key": "SK_LW_WHM_S_4_3_SUB",
+            "value": "어레이즈"
+        },
+        {
+            "key": "SK_LW_WHM_S_1",
+            "value": "케알"
+        },
+        {
+            "key": "SK_LW_WHM_M_2",
+            "value": "에스나"
+        },
+        {
+            "key": "SK_LW_CLR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_CLR_M_3",
+            "value": "재앙 방어"
+        },
+        {
+            "key": "SK_LW_CLR_M_4",
+            "value": "에스나가"
+        },
+        {
+            "key": "SK_LW_CLR_S_5",
+            "value": "이레이즈"
+        },
+        {
+            "key": "SK_LW_CLR_M_2_INIT",
+            "value": "배니시"
+        },
+        {
+            "key": "SK_LW_CLR_S_1_INIT",
+            "value": "케알"
+        },
+        {
+            "key": "SK_LW_CLR_M_1",
+            "value": "중족의 지팡이"
+        },
+        {
+            "key": "SK_LW_CLR_M_5",
+            "value": "라이트 베일"
+        },
+        {
+            "key": "SK_LW_CLR_M_6",
+            "value": "다크 베일"
+        },
+        {
+            "key": "SK_LW_CLR_R_1",
+            "value": "자동 케알"
+        },
+        {
+            "key": "SK_LW_CLR_P_1",
+            "value": "정신력 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_CLR_M_3_SUB",
+            "value": "재앙 방어"
+        },
+        {
+            "key": "SK_LW_CLR_M_4_SUB",
+            "value": "에스나가"
+        },
+        {
+            "key": "SK_LW_CLR_S_5_SUB",
+            "value": "이레이즈"
+        },
+        {
+            "key": "SK_LW_CLR_M_2",
+            "value": "배니시"
+        },
+        {
+            "key": "SK_LW_CLR_S_1",
+            "value": "케알"
+        },
+        {
+            "key": "SK_LW_GRM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_GRM_M_4",
+            "value": "위크"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_3",
+            "value": "바파이라"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_3",
+            "value": "바블리자라"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_3",
+            "value": "바에어로라"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_3",
+            "value": "바스톤라"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_3",
+            "value": "바선더라"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_3",
+            "value": "바워터라"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_3",
+            "value": "바라이트라"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_3",
+            "value": "바다크라"
+        },
+        {
+            "key": "SK_LW_GRM_S_3",
+            "value": "디스펠"
+        },
+        {
+            "key": "SK_LW_GRM_M_5_INIT",
+            "value": "루인"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_2_INIT",
+            "value": "바파이"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_2_INIT",
+            "value": "바블리자"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_2_INIT",
+            "value": "바에어로"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_2_INIT",
+            "value": "바스톤"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_2_INIT",
+            "value": "바선더"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_2_INIT",
+            "value": "바워터"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_2_INIT",
+            "value": "바라이트"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_2_INIT",
+            "value": "바다크"
+        },
+        {
+            "key": "SK_LW_GRM_S_1",
+            "value": "디프로테"
+        },
+        {
+            "key": "SK_LW_GRM_S_2",
+            "value": "디셸"
+        },
+        {
+            "key": "SK_LW_GRM_M_1",
+            "value": "속력 부여"
+        },
+        {
+            "key": "SK_LW_GRM_R_1",
+            "value": "디스펠 카운터"
+        },
+        {
+            "key": "SK_LW_GRM_P_1",
+            "value": "신마의 가호"
+        },
+        {
+            "key": "SK_LW_GRM_P_2",
+            "value": "에메랄드 에코"
+        },
+        {
+            "key": "SK_LW_GRM_M_4_SUB",
+            "value": "위크"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_3_SUB",
+            "value": "바파이라"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_3_SUB",
+            "value": "바블리자라"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_3_SUB",
+            "value": "바에어로라"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_3_SUB",
+            "value": "바스톤라"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_3_SUB",
+            "value": "바선더라"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_3_SUB",
+            "value": "바워터라"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_3_SUB",
+            "value": "바라이트라"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_3_SUB",
+            "value": "바다크라"
+        },
+        {
+            "key": "SK_LW_GRM_S_3_SUB",
+            "value": "디스펠"
+        },
+        {
+            "key": "SK_LW_GRM_M_5",
+            "value": "루인"
+        },
+        {
+            "key": "SK_LW_GRM_FIRE_M_2",
+            "value": "바파이"
+        },
+        {
+            "key": "SK_LW_GRM_ICE_M_2",
+            "value": "바블리자"
+        },
+        {
+            "key": "SK_LW_GRM_WIND_M_2",
+            "value": "바에어로"
+        },
+        {
+            "key": "SK_LW_GRM_SOIL_M_2",
+            "value": "바스톤"
+        },
+        {
+            "key": "SK_LW_GRM_THUN_M_2",
+            "value": "바선더"
+        },
+        {
+            "key": "SK_LW_GRM_WATR_M_2",
+            "value": "바워터"
+        },
+        {
+            "key": "SK_LW_GRM_SHIN_M_2",
+            "value": "바라이트"
+        },
+        {
+            "key": "SK_LW_GRM_DARK_M_2",
+            "value": "바다크"
+        },
+        {
+            "key": "SK_LW_RDM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_RDM_M_4",
+            "value": "레지스트 브레이크"
+        },
+        {
+            "key": "SK_LW_RDM_S_3",
+            "value": "재밍 드러스트"
+        },
+        {
+            "key": "SK_LW_RDM_S_4",
+            "value": "신속 시전"
+        },
+        {
+            "key": "SK_LW_RDM_M_2_INIT",
+            "value": "에스나"
+        },
+        {
+            "key": "SK_LW_RDM_S_2_INIT",
+            "value": "케알라"
+        },
+        {
+            "key": "SK_LW_RDM_FIRE_M_1_INIT",
+            "value": "파이라"
+        },
+        {
+            "key": "SK_LW_RDM_ICE_M_1_INIT",
+            "value": "블리자라"
+        },
+        {
+            "key": "SK_LW_RDM_WIND_M_1_INIT",
+            "value": "에어로라"
+        },
+        {
+            "key": "SK_LW_RDM_SOIL_M_1_INIT",
+            "value": "스톤라"
+        },
+        {
+            "key": "SK_LW_RDM_THUN_M_1_INIT",
+            "value": "선더라"
+        },
+        {
+            "key": "SK_LW_RDM_WATR_M_1_INIT",
+            "value": "워터라"
+        },
+        {
+            "key": "SK_LW_RDM_DARK_M_1_INIT",
+            "value": "다크라"
+        },
+        {
+            "key": "SK_LW_RDM_SHIN_M_1_INIT",
+            "value": "배니시라"
+        },
+        {
+            "key": "SK_LW_RDM_S_1",
+            "value": "슬리플"
+        },
+        {
+            "key": "SK_LW_RDM_R_1",
+            "value": "마법 간파"
+        },
+        {
+            "key": "SK_LW_RDM_P_1",
+            "value": "초기 AP 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_RDM_P_2",
+            "value": "마도사의 가호"
+        },
+        {
+            "key": "SK_LW_RDM_M_4_SUB",
+            "value": "레지스트 브레이크"
+        },
+        {
+            "key": "SK_LW_RDM_S_3_SUB",
+            "value": "재밍 드러스트"
+        },
+        {
+            "key": "SK_LW_RDM_S_4_SUB",
+            "value": "신속 시전"
+        },
+        {
+            "key": "SK_LW_RDM_M_2",
+            "value": "에스나"
+        },
+        {
+            "key": "SK_LW_RDM_S_2",
+            "value": "케알라"
+        },
+        {
+            "key": "SK_LW_RDM_FIRE_M_1",
+            "value": "파이라"
+        },
+        {
+            "key": "SK_LW_RDM_ICE_M_1",
+            "value": "블리자라"
+        },
+        {
+            "key": "SK_LW_RDM_WIND_M_1",
+            "value": "에어로라"
+        },
+        {
+            "key": "SK_LW_RDM_SOIL_M_1",
+            "value": "스톤라"
+        },
+        {
+            "key": "SK_LW_RDM_THUN_M_1",
+            "value": "선더라"
+        },
+        {
+            "key": "SK_LW_RDM_WATR_M_1",
+            "value": "워터라"
+        },
+        {
+            "key": "SK_LW_RDM_DARK_M_1",
+            "value": "다크라"
+        },
+        {
+            "key": "SK_LW_RDM_SHIN_M_1",
+            "value": "배니시라"
+        },
+        {
+            "key": "SK_LW_TIM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_TIM_M_5",
+            "value": "메테오"
+        },
+        {
+            "key": "SK_LW_TIM_S_2",
+            "value": "스톱"
+        },
+        {
+            "key": "SK_LW_TIM_M_4",
+            "value": "퀵"
+        },
+        {
+            "key": "SK_LW_TIM_M_3_INIT",
+            "value": "코멧"
+        },
+        {
+            "key": "SK_LW_TIM_S_3_INIT",
+            "value": "돈무브"
+        },
+        {
+            "key": "SK_LW_TIM_M_1",
+            "value": "헤이스트"
+        },
+        {
+            "key": "SK_LW_TIM_S_4",
+            "value": "레비테트"
+        },
+        {
+            "key": "SK_LW_TIM_M_2",
+            "value": "공간 전이"
+        },
+        {
+            "key": "SK_LW_TIM_S_1",
+            "value": "슬로우"
+        },
+        {
+            "key": "SK_LW_TIM_R_1",
+            "value": "슬로우 카운터"
+        },
+        {
+            "key": "SK_LW_TIM_P_2",
+            "value": "CT 변화 무효화"
+        },
+        {
+            "key": "SK_LW_TIM_P_1",
+            "value": "고속 시전"
+        },
+        {
+            "key": "SK_LW_TIM_M_5_SUB",
+            "value": "메테오"
+        },
+        {
+            "key": "SK_LW_TIM_S_2_SUB",
+            "value": "스톱"
+        },
+        {
+            "key": "SK_LW_TIM_M_4_SUB",
+            "value": "퀵"
+        },
+        {
+            "key": "SK_LW_TIM_M_3",
+            "value": "코멧"
+        },
+        {
+            "key": "SK_LW_TIM_S_3",
+            "value": "돈무브"
+        },
+        {
+            "key": "SK_LW_GLMS_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_GLMS_M_4",
+            "value": "얼음 칼날"
+        },
+        {
+            "key": "SK_LW_GLMS_M_3",
+            "value": "단절의 갑옷"
+        },
+        {
+            "key": "SK_LW_GLMS_S_4",
+            "value": "엑스칼리버"
+        },
+        {
+            "key": "SK_LW_GLMS_S_2",
+            "value": "고테쓰"
+        },
+        {
+            "key": "SK_LW_GLMS_M_2",
+            "value": "셀프 헤이스트"
+        },
+        {
+            "key": "SK_LW_GLMS_S_1",
+            "value": "치유의 아우라"
+        },
+        {
+            "key": "SK_LW_GLMS_M_1",
+            "value": "칼날 문양"
+        },
+        {
+            "key": "SK_LW_GLMS_S_3",
+            "value": "종말의 때"
+        },
+        {
+            "key": "SK_LW_GLMS_R_1",
+            "value": "파선의 칼날"
+        },
+        {
+            "key": "SK_LW_GLMS_P_1",
+            "value": "획득 AP 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_GLMS_P_2",
+            "value": "자동 레비테트"
+        },
+        {
+            "key": "SK_LW_FINA_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_FINA_M_1",
+            "value": "케알가"
+        },
+        {
+            "key": "SK_LW_FINA_M_3",
+            "value": "리제네"
+        },
+        {
+            "key": "SK_LW_FINA_M_4",
+            "value": "어레이즈"
+        },
+        {
+            "key": "SK_LW_FINA_M_2",
+            "value": "그림자 묶기"
+        },
+        {
+            "key": "SK_LW_FINA_S_1",
+            "value": "케알"
+        },
+        {
+            "key": "SK_LW_FINA_S_2",
+            "value": "차지"
+        },
+        {
+            "key": "SK_LW_FINA_S_3",
+            "value": "에스나"
+        },
+        {
+            "key": "SK_LW_FINA_S_4",
+            "value": "케알라"
+        },
+        {
+            "key": "SK_LW_FINA_S_5",
+            "value": "격려"
+        },
+        {
+            "key": "SK_LW_FINA_S_6",
+            "value": "노리기"
+        },
+        {
+            "key": "SK_LW_FINA_S_7",
+            "value": "내리쬐는 빛"
+        },
+        {
+            "key": "SK_LW_FINA_R_1",
+            "value": "청렴한 소원"
+        },
+        {
+            "key": "SK_LW_FINA_P_1",
+            "value": "성자의 행진"
+        },
+        {
+            "key": "SK_LW_FINA_P_2",
+            "value": "순수한 사수"
+        },
+        {
+            "key": "SK_LW_YSTL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_YSTL_M_1",
+            "value": "야슈톨라의 파이라"
+        },
+        {
+            "key": "SK_LW_YSTL_M_2",
+            "value": "신속한 마법"
+        },
+        {
+            "key": "SK_LW_YSTL_M_4",
+            "value": "미지의 언어"
+        },
+        {
+            "key": "SK_LW_YSTL_S_1",
+            "value": "새벽의 파이어"
+        },
+        {
+            "key": "SK_LW_YSTL_S_2",
+            "value": "에테르 촉진"
+        },
+        {
+            "key": "SK_LW_YSTL_M_3",
+            "value": "마력 각성"
+        },
+        {
+            "key": "SK_LW_YSTL_S_3",
+            "value": "금지된 언어"
+        },
+        {
+            "key": "SK_LW_YSTL_R_1",
+            "value": "마나샘"
+        },
+        {
+            "key": "SK_LW_YSTL_P_1",
+            "value": "천사의 언어"
+        },
+        {
+            "key": "SK_LW_TNCR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_TNCR_S_3",
+            "value": "대분할"
+        },
+        {
+            "key": "SK_LW_TNCR_M_3",
+            "value": "폭발 유성"
+        },
+        {
+            "key": "SK_LW_TNCR_M_4",
+            "value": "발파 지대"
+        },
+        {
+            "key": "SK_LW_TNCR_M_2",
+            "value": "예리한 총검"
+        },
+        {
+            "key": "SK_LW_TNCR_S_1",
+            "value": "무자비"
+        },
+        {
+            "key": "SK_LW_TNCR_M_1",
+            "value": "파열격"
+        },
+        {
+            "key": "SK_LW_TNCR_S_2",
+            "value": "돌의 심장"
+        },
+        {
+            "key": "SK_LW_TNCR_S_4",
+            "value": "오로라"
+        },
+        {
+            "key": "SK_LW_TNCR_R_1",
+            "value": "급소 베기"
+        },
+        {
+            "key": "SK_LW_TNCR_P_1",
+            "value": "위장술"
+        },
+        {
+            "key": "SK_LW_TNCR_P_2",
+            "value": "성운"
+        },
+        {
+            "key": "SK_LW_VIK_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_VIK_M_1",
+            "value": "킬링 액스"
+        },
+        {
+            "key": "SK_LW_VIK_M_2",
+            "value": "혼신의 일격"
+        },
+        {
+            "key": "SK_LW_VIK_M_3",
+            "value": "드레인 사이클론"
+        },
+        {
+            "key": "SK_LW_VIK_S_1_INIT",
+            "value": "무릎 부수기"
+        },
+        {
+            "key": "SK_LW_VIK_S_2_INIT",
+            "value": "반골 정신"
+        },
+        {
+            "key": "SK_LW_VIK_S_1",
+            "value": "무릎 부수기"
+        },
+        {
+            "key": "SK_LW_VIK_S_2",
+            "value": "반골 정신"
+        },
+        {
+            "key": "SK_LW_VIK_S_3",
+            "value": "전쟁의 함성"
+        },
+        {
+            "key": "SK_LW_VIK_S_4",
+            "value": "대투척"
+        },
+        {
+            "key": "SK_LW_VIK_R_1",
+            "value": "전의 고양"
+        },
+        {
+            "key": "SK_LW_VIK_P_1_2",
+            "value": "바이킹의 마음가짐"
+        },
+        {
+            "key": "SK_LW_VIK_P_2_2",
+            "value": "활과 방패의 가호"
+        },
+        {
+            "key": "SK_LW_VIK_M_1_SUB",
+            "value": "킬링 액스"
+        },
+        {
+            "key": "SK_LW_VIK_M_2_SUB",
+            "value": "혼신의 일격"
+        },
+        {
+            "key": "SK_LW_VIK_M_3_SUB",
+            "value": "드레인 사이클론"
+        },
+        {
+            "key": "SK_LW_VIK_P_1",
+            "value": "전투광"
+        },
+        {
+            "key": "SK_LW_VIK_P_2",
+            "value": "활과 방패의 가호"
+        },
+        {
+            "key": "SK_FFT_RAMZ_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_1",
+            "value": "삼연격"
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_2",
+            "value": "W브레이크"
+        },
+        {
+            "key": "SK_FFT_RAMZ_M_3",
+            "value": "외침"
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_2",
+            "value": "주술"
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_3",
+            "value": "광휘의 검"
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_1",
+            "value": "돌팔매"
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_4",
+            "value": "격려"
+        },
+        {
+            "key": "SK_FFT_RAMZ_S_5",
+            "value": "응원가"
+        },
+        {
+            "key": "SK_FFT_RAMZ_R_1",
+            "value": "반격 태클"
+        },
+        {
+            "key": "SK_FFT_RAMZ_P_1",
+            "value": "획득 JP 증가"
+        },
+        {
+            "key": "SK_FFT_RAMZ_P_2",
+            "value": "이동력+1"
+        },
+        {
+            "key": "SK_FFT_GFGR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FFT_GFGR_M_1",
+            "value": "어둠의 검"
+        },
+        {
+            "key": "SK_FFT_GFGR_M_2",
+            "value": "기만"
+        },
+        {
+            "key": "SK_FFT_GFGR_M_3",
+            "value": "악의 칼날"
+        },
+        {
+            "key": "SK_FFT_GFGR_S_1",
+            "value": "무기 강타"
+        },
+        {
+            "key": "SK_FFT_GFGR_S_2",
+            "value": "암흑의 검"
+        },
+        {
+            "key": "SK_FFT_GFGR_S_3",
+            "value": "배신의 칼날"
+        },
+        {
+            "key": "SK_FFT_GFGR_S_4",
+            "value": "전장의 마음가짐"
+        },
+        {
+            "key": "SK_FFT_GFGR_S_5",
+            "value": "사악한 사령"
+        },
+        {
+            "key": "SK_FFT_GFGR_R_1",
+            "value": "노회한 용병"
+        },
+        {
+            "key": "SK_FFT_GFGR_P_1",
+            "value": "필사의 각오"
+        },
+        {
+            "key": "SK_FFT_GFGR_P_2",
+            "value": "용병의 긍지"
+        },
+        {
+            "key": "SK_FFT_ORND_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FFT_ORND_M_1",
+            "value": "성광폭렬파"
+        },
+        {
+            "key": "SK_FFT_ORND_M_2",
+            "value": "명계공규타"
+        },
+        {
+            "key": "SK_FFT_ORND_M_3",
+            "value": "어둠의 검"
+        },
+        {
+            "key": "SK_FFT_ORND_S_1",
+            "value": "강갑 파점 찌르기"
+        },
+        {
+            "key": "SK_FFT_ORND_S_2",
+            "value": "흑사자 문장"
+        },
+        {
+            "key": "SK_FFT_ORND_S_3",
+            "value": "성천폭격타"
+        },
+        {
+            "key": "SK_FFT_ORND_S_4",
+            "value": "암흑의 검"
+        },
+        {
+            "key": "SK_FFT_ORND_S_5",
+            "value": "무쌍 번개 찌르기"
+        },
+        {
+            "key": "SK_FFT_ORND_R_1",
+            "value": "자동 리프레시"
+        },
+        {
+            "key": "SK_FFT_ORND_P_1",
+            "value": "뇌신"
+        },
+        {
+            "key": "SK_FFT_ORND_P_2",
+            "value": "전투의 고수"
+        },
+        {
+            "key": "SK_LW_WGN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_WGN_M_1",
+            "value": "사격 태세"
+        },
+        {
+            "key": "SK_LW_WGN_M_2",
+            "value": "사연발"
+        },
+        {
+            "key": "SK_LW_WGN_M_3",
+            "value": "더블 샷"
+        },
+        {
+            "key": "SK_LW_WGN_S_1_INIT",
+            "value": "스플릿 샷"
+        },
+        {
+            "key": "SK_LW_WGN_S_2_INIT",
+            "value": "속사"
+        },
+        {
+            "key": "SK_LW_WGN_S_3",
+            "value": "연막"
+        },
+        {
+            "key": "SK_LW_WGN_S_4",
+            "value": "스턴 샷"
+        },
+        {
+            "key": "SK_LW_WGN_S_5",
+            "value": "수평 쏘기"
+        },
+        {
+            "key": "SK_LW_WGN_R_1",
+            "value": "예측 사격"
+        },
+        {
+            "key": "SK_LW_WGN_P_1",
+            "value": "사격의 비법"
+        },
+        {
+            "key": "SK_LW_WGN_P_2",
+            "value": "영점 조절"
+        },
+        {
+            "key": "SK_LW_WGN_S_1",
+            "value": "스플릿 샷"
+        },
+        {
+            "key": "SK_LW_WGN_S_2",
+            "value": "속사"
+        },
+        {
+            "key": "SK_LW_WGN_M_1_SUB",
+            "value": "사격 태세"
+        },
+        {
+            "key": "SK_LW_WGN_M_2_SUB",
+            "value": "사연발"
+        },
+        {
+            "key": "SK_LW_WGN_M_3_SUB",
+            "value": "더블 샷"
+        },
+        {
+            "key": "SK_LW_RAIN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_RAIN_M_1",
+            "value": "파이가"
+        },
+        {
+            "key": "SK_LW_RAIN_M_2",
+            "value": "타오르는 육체"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3",
+            "value": "홍염의 영혼"
+        },
+        {
+            "key": "SK_LW_RAIN_M_3_B",
+            "value": "홍염의 영혼"
+        },
+        {
+            "key": "SK_LW_RAIN_S_1",
+            "value": "파이어"
+        },
+        {
+            "key": "SK_LW_RAIN_S_2",
+            "value": "파워 브레이크"
+        },
+        {
+            "key": "SK_LW_RAIN_S_3",
+            "value": "성좌의 방어"
+        },
+        {
+            "key": "SK_LW_RAIN_S_4",
+            "value": "사기 꺾기"
+        },
+        {
+            "key": "SK_LW_RAIN_R_1",
+            "value": "맞받아치기"
+        },
+        {
+            "key": "SK_LW_RAIN_P_1",
+            "value": "정신력 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_RAIN_P_2",
+            "value": "격화하는 힘"
+        },
+        {
+            "key": "SK_LW_ASS_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_ASS_M_4",
+            "value": "파개인"
+        },
+        {
+            "key": "SK_LW_ASS_M_3",
+            "value": "천인"
+        },
+        {
+            "key": "SK_LW_ASS_S_4",
+            "value": "이선인"
+        },
+        {
+            "key": "SK_LW_ASS_S_1_INIT",
+            "value": "독침"
+        },
+        {
+            "key": "SK_LW_ASS_M_1_INIT",
+            "value": "습탈인"
+        },
+        {
+            "key": "SK_LW_ASS_S_2",
+            "value": "금박법"
+        },
+        {
+            "key": "SK_LW_ASS_M_2",
+            "value": "급습인"
+        },
+        {
+            "key": "SK_LW_ASS_S_3",
+            "value": "AP 강탈"
+        },
+        {
+            "key": "SK_LW_ASS_R_1",
+            "value": "암영"
+        },
+        {
+            "key": "SK_LW_ASS_P_1",
+            "value": "회피 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_ASS_M_4_SUB",
+            "value": "파개인"
+        },
+        {
+            "key": "SK_LW_ASS_M_3_SUB",
+            "value": "천인"
+        },
+        {
+            "key": "SK_LW_ASS_S_4_SUB",
+            "value": "이선인"
+        },
+        {
+            "key": "SK_LW_ASS_S_1",
+            "value": "독침"
+        },
+        {
+            "key": "SK_LW_ASS_M_1",
+            "value": "습탈인"
+        },
+        {
+            "key": "SK_LW_ASS_P_2",
+            "value": "획득 AP 증가 Lv.1"
+        },
+        {
+            "key": "SK_FF1_WROL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FF1_WROL_M_1",
+            "value": "브레이브 홀리"
+        },
+        {
+            "key": "SK_FF1_WROL_M_2",
+            "value": "생명의 숨결"
+        },
+        {
+            "key": "SK_FF1_WROL_M_3",
+            "value": "무적의 방패"
+        },
+        {
+            "key": "SK_FF1_WROL_S_1",
+            "value": "이동 공격"
+        },
+        {
+            "key": "SK_FF1_WROL_S_2",
+            "value": "브레이브 프레즌스"
+        },
+        {
+            "key": "SK_FF1_WROL_S_3",
+            "value": "저지의 검"
+        },
+        {
+            "key": "SK_FF1_WROL_S_4",
+            "value": "스톱 스트라이크"
+        },
+        {
+            "key": "SK_FF1_WROL_R_1",
+            "value": "전사의 긍지"
+        },
+        {
+            "key": "SK_FF1_WROL_P_1",
+            "value": "시작의 전사"
+        },
+        {
+            "key": "SK_FF1_WROL_P_2",
+            "value": "혼돈을 물리치는 힘"
+        },
+        {
+            "key": "SK_LW_MST_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_MST_M_1",
+            "value": "에너지 버스터"
+        },
+        {
+            "key": "SK_LW_MST_M_2",
+            "value": "마장방둔"
+        },
+        {
+            "key": "SK_LW_MST_M_3",
+            "value": "신념 향상"
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1_INIT",
+            "value": "화장술"
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1_INIT",
+            "value": "빙장술"
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1_INIT",
+            "value": "풍장술"
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1_INIT",
+            "value": "뇌장술"
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1_INIT",
+            "value": "수장술"
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1_INIT",
+            "value": "토장술"
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1_INIT",
+            "value": "광장술"
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1_INIT",
+            "value": "암장술"
+        },
+        {
+            "key": "SK_LW_MST_S_2_INIT",
+            "value": "마장술: 날개"
+        },
+        {
+            "key": "SK_LW_MST_S_3",
+            "value": "마장술: 혼란"
+        },
+        {
+            "key": "SK_LW_MST_S_4",
+            "value": "마장술: 기절"
+        },
+        {
+            "key": "SK_LW_MST_S_5",
+            "value": "스텝 앤 매직"
+        },
+        {
+            "key": "SK_LW_MST_R_1",
+            "value": "반장벽"
+        },
+        {
+            "key": "SK_LW_MST_P_1",
+            "value": "마력 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_MST_P_2",
+            "value": "방어력 증가 Lv.1"
+        },
+        {
+            "key": "SK_FFT_AGRA_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_1",
+            "value": "부동무명검"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_2",
+            "value": "무쌍 번개 찌르기"
+        },
+        {
+            "key": "SK_FFT_AGRA_M_3",
+            "value": "액막이"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_1",
+            "value": "북두골쇄타"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_2",
+            "value": "왕녀의 근위기사"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_3",
+            "value": "성 근위기사의 수호"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_4",
+            "value": "난 널 믿는다!"
+        },
+        {
+            "key": "SK_FFT_AGRA_S_5",
+            "value": "풀 브레이크"
+        },
+        {
+            "key": "SK_FFT_AGRA_R_1",
+            "value": "방어"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_1",
+            "value": "기사도"
+        },
+        {
+            "key": "SK_FFT_AGRA_P_2",
+            "value": "기사의 신의"
+        },
+        {
+            "key": "SK_FFT_DELT_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FFT_DELT_M_1",
+            "value": "난명할살타"
+        },
+        {
+            "key": "SK_FFT_DELT_M_2",
+            "value": "교격빙랑파"
+        },
+        {
+            "key": "SK_FFT_DELT_M_3",
+            "value": "인과의 검"
+        },
+        {
+            "key": "SK_FFT_DELT_S_1",
+            "value": "돌팔매"
+        },
+        {
+            "key": "SK_FFT_DELT_S_2",
+            "value": "주술"
+        },
+        {
+            "key": "SK_FFT_DELT_S_3",
+            "value": "파이가 검"
+        },
+        {
+            "key": "SK_FFT_DELT_S_4",
+            "value": "명상"
+        },
+        {
+            "key": "SK_FFT_DELT_S_5",
+            "value": "부동무명검"
+        },
+        {
+            "key": "SK_FFT_DELT_R_1",
+            "value": "반격 태클"
+        },
+        {
+            "key": "SK_FFT_DELT_P_1",
+            "value": "이동력+1"
+        },
+        {
+            "key": "SK_FFT_DELT_P_2",
+            "value": "획득 AP 증가"
+        },
+        {
+            "key": "SK_FFT_MSTD_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_1",
+            "value": "다중 파열"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_2",
+            "value": "사심 봉인"
+        },
+        {
+            "key": "SK_FFT_MSTD_M_3",
+            "value": "속사"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_1",
+            "value": "파워 샷"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_2",
+            "value": "수리"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_3",
+            "value": "위장술"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_4",
+            "value": "발 노리기"
+        },
+        {
+            "key": "SK_FFT_MSTD_S_5",
+            "value": "팔 노리기"
+        },
+        {
+            "key": "SK_FFT_MSTD_R_1",
+            "value": "자동 포션"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_1",
+            "value": "노리기"
+        },
+        {
+            "key": "SK_FFT_MSTD_P_2",
+            "value": "사격 공격력 증가"
+        },
+        {
+            "key": "SK_LW_CAL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_CAL_M_1",
+            "value": "3층 홀리"
+        },
+        {
+            "key": "SK_LW_CAL_M_1_B",
+            "value": "2층 홀리"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_M_2",
+            "value": "4레벨 파이가"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_M_2_B",
+            "value": "3레벨 파이가"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_M_2",
+            "value": "4레벨 블리자가"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_M_2_B",
+            "value": "3레벨 블리자가"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_M_2",
+            "value": "4레벨 에어로가"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_M_2_B",
+            "value": "3레벨 에어로가"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_M_2",
+            "value": "4레벨 스톤가"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_M_2_B",
+            "value": "3레벨 스톤가"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_M_2",
+            "value": "4레벨 선더가"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_M_2_B",
+            "value": "3레벨 선더가"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_M_2",
+            "value": "4레벨 워터가"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_M_2_B",
+            "value": "3레벨 워터가"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_M_2",
+            "value": "4레벨 배니시가"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_M_2_B",
+            "value": "3레벨 배니시가"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_M_2",
+            "value": "4레벨 다크가"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_M_2_B",
+            "value": "3레벨 다크가"
+        },
+        {
+            "key": "SK_LW_CAL_M_3",
+            "value": "3층 케알라"
+        },
+        {
+            "key": "SK_LW_CAL_M_3_B",
+            "value": "2층 케알라"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_S_1_INIT",
+            "value": "고층 파이어"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_S_1_INIT",
+            "value": "고층 블리자드"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_S_1_INIT",
+            "value": "고층 에어로"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_S_1_INIT",
+            "value": "고층 스톤"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_S_1_INIT",
+            "value": "고층 선더"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_S_1_INIT",
+            "value": "고층 워터"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_S_1_INIT",
+            "value": "고층 배니시"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_S_1_INIT",
+            "value": "고층 다크"
+        },
+        {
+            "key": "SK_LW_CAL_S_2_INIT",
+            "value": "고층 케알"
+        },
+        {
+            "key": "SK_LW_CAL_S_3",
+            "value": "3층 돈액트"
+        },
+        {
+            "key": "SK_LW_CAL_S_3_B",
+            "value": "2층 돈액트"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_S_4",
+            "value": "4레벨 파이라"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_S_4_B",
+            "value": "3레벨 파이라"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_S_4",
+            "value": "4레벨 블리자라"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_S_4_B",
+            "value": "3레벨 블리자라"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_S_4",
+            "value": "4레벨 에어로라"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_S_4_B",
+            "value": "3레벨 에어로라"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_S_4",
+            "value": "4레벨 스톤라"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_S_4_B",
+            "value": "3레벨 스톤라"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_S_4",
+            "value": "4레벨 선더라"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_S_4_B",
+            "value": "3레벨 선더라"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_S_4",
+            "value": "4레벨 워터라"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_S_4_B",
+            "value": "3레벨 워터라"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_S_4",
+            "value": "4레벨 배니시라"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_S_4_B",
+            "value": "3레벨 배니시라"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_S_4",
+            "value": "4레벨 다크라"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_S_4_B",
+            "value": "3레벨 다크라"
+        },
+        {
+            "key": "SK_LW_CAL_S_5",
+            "value": "CT 평균화"
+        },
+        {
+            "key": "SK_LW_CAL_R_1",
+            "value": "피해량 분배"
+        },
+        {
+            "key": "SK_LW_CAL_P_1",
+            "value": "3층을 2층으로"
+        },
+        {
+            "key": "SK_LW_CAL_P_2",
+            "value": "4레벨을 3레벨로"
+        },
+        {
+            "key": "SK_LW_CAL_M_1_SUB",
+            "value": "3층 홀리"
+        },
+        {
+            "key": "SK_LW_CAL_M_1_B_SUB",
+            "value": "2층 홀리"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_M_2_SUB",
+            "value": "4레벨 파이가"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_M_2_B_SUB",
+            "value": "3레벨 파이가"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_M_2_SUB",
+            "value": "4레벨 블리자가"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_M_2_B_SUB",
+            "value": "3레벨 블리자가"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_M_2_SUB",
+            "value": "4레벨 에어로가"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_M_2_B_SUB",
+            "value": "3레벨 에어로가"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_M_2_SUB",
+            "value": "4레벨 스톤가"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_M_2_B_SUB",
+            "value": "3레벨 스톤가"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_M_2_SUB",
+            "value": "4레벨 선더가"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_M_2_B_SUB",
+            "value": "3레벨 선더가"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_M_2_SUB",
+            "value": "4레벨 워터가"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_M_2_B_SUB",
+            "value": "3레벨 워터가"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_M_2_SUB",
+            "value": "4레벨 배니시가"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_M_2_B_SUB",
+            "value": "3레벨 배니시가"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_M_2_SUB",
+            "value": "4레벨 다크가"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_M_2_B_SUB",
+            "value": "3레벨 다크가"
+        },
+        {
+            "key": "SK_LW_CAL_M_3_SUB",
+            "value": "3층 케알라"
+        },
+        {
+            "key": "SK_LW_CAL_M_3_B_SUB",
+            "value": "2층 케알라"
+        },
+        {
+            "key": "SK_LW_CAL_FIRE_S_1",
+            "value": "고층 파이어"
+        },
+        {
+            "key": "SK_LW_CAL_ICE_S_1",
+            "value": "고층 블리자드"
+        },
+        {
+            "key": "SK_LW_CAL_WIND_S_1",
+            "value": "고층 에어로"
+        },
+        {
+            "key": "SK_LW_CAL_SOIL_S_1",
+            "value": "고층 스톤"
+        },
+        {
+            "key": "SK_LW_CAL_THUN_S_1",
+            "value": "고층 선더"
+        },
+        {
+            "key": "SK_LW_CAL_WATER_S_1",
+            "value": "고층 워터"
+        },
+        {
+            "key": "SK_LW_CAL_SHIN_S_1",
+            "value": "고층 배니시"
+        },
+        {
+            "key": "SK_LW_CAL_DARK_S_1",
+            "value": "고층 다크"
+        },
+        {
+            "key": "SK_LW_CAL_S_2",
+            "value": "고층 케알"
+        },
+        {
+            "key": "SK_LW_STRN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_STRN_M_1",
+            "value": "파멸"
+        },
+        {
+            "key": "SK_LW_STRN_M_2",
+            "value": "신속한 참격"
+        },
+        {
+            "key": "SK_LW_STRN_M_3",
+            "value": "해저드 크러시"
+        },
+        {
+            "key": "SK_LW_STRN_S_1",
+            "value": "마이티 브레이크"
+        },
+        {
+            "key": "SK_LW_STRN_S_2",
+            "value": "이중 공격"
+        },
+        {
+            "key": "SK_LW_STRN_S_3",
+            "value": "파멸의 포효"
+        },
+        {
+            "key": "SK_LW_STRN_S_4",
+            "value": "악마의 치유"
+        },
+        {
+            "key": "SK_LW_STRN_R_1",
+            "value": "살의의 눈빛"
+        },
+        {
+            "key": "SK_LW_STRN_P_1",
+            "value": "자포자기"
+        },
+        {
+            "key": "SK_LW_GRSR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_GRSR_M_1",
+            "value": "삼연속 찌르기"
+        },
+        {
+            "key": "SK_LW_GRSR_M_2",
+            "value": "단호한 분출"
+        },
+        {
+            "key": "SK_LW_GRSR_M_3",
+            "value": "도약 습격"
+        },
+        {
+            "key": "SK_LW_GRSR_S_1",
+            "value": "투창 할퀴기"
+        },
+        {
+            "key": "SK_LW_GRSR_S_2",
+            "value": "발키리의 혜안"
+        },
+        {
+            "key": "SK_LW_GRSR_S_3",
+            "value": "크로스 임팩트"
+        },
+        {
+            "key": "SK_LW_GRSR_S_4",
+            "value": "파라이즈 크로스"
+        },
+        {
+            "key": "SK_LW_GRSR_R_1",
+            "value": "카운터 스팅"
+        },
+        {
+            "key": "SK_LW_GRSR_P_1",
+            "value": "내찌르기의 비법"
+        },
+        {
+            "key": "SK_LW_LSWL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_LSWL_M_1",
+            "value": "분신술"
+        },
+        {
+            "key": "SK_LW_LSWL_M_2",
+            "value": "자전일섬: 각성"
+        },
+        {
+            "key": "SK_LW_LSWL_M_3",
+            "value": "설화종언"
+        },
+        {
+            "key": "SK_LW_LSWL_M_3_B",
+            "value": "설화종언"
+        },
+        {
+            "key": "SK_LW_LSWL_S_1",
+            "value": "잔잔한 거울"
+        },
+        {
+            "key": "SK_LW_LSWL_S_2",
+            "value": "비도의 계승자"
+        },
+        {
+            "key": "SK_LW_LSWL_S_3",
+            "value": "백일몽"
+        },
+        {
+            "key": "SK_LW_LSWL_S_4",
+            "value": "파사의 얼음폭풍"
+        },
+        {
+            "key": "SK_LW_LSWL_R_1",
+            "value": "잔잔한 거울: 응보"
+        },
+        {
+            "key": "SK_LW_LSWL_P_1",
+            "value": "공격력 증가 Lv.1"
+        },
+        {
+            "key": "SK_LW_LSWL_P_2",
+            "value": "염담허무"
+        },
+        {
+            "key": "SK_LW_MKN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_M_1",
+            "value": "에어로가 검"
+        },
+        {
+            "key": "SK_LW_MKN_SOIL_M_1",
+            "value": "스톤가 검"
+        },
+        {
+            "key": "SK_LW_MKN_M_2",
+            "value": "해저드 슬래시"
+        },
+        {
+            "key": "SK_LW_MKN_M_3",
+            "value": "천상검"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_S_1_INIT",
+            "value": "에어로 검"
+        },
+        {
+            "key": "SK_LW_MKN_SOIL_S_1_INIT",
+            "value": "스톤 검"
+        },
+        {
+            "key": "SK_LW_MKN_S_3_INIT",
+            "value": "드레인 이보크"
+        },
+        {
+            "key": "SK_LW_MKN_S_2",
+            "value": "해저드 스펠"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_S_4",
+            "value": "풍쇄의 룬"
+        },
+        {
+            "key": "SK_LW_MKN_SOIL_S_4",
+            "value": "토쇄의 룬"
+        },
+        {
+            "key": "SK_LW_MKN_R_1",
+            "value": "마동전환"
+        },
+        {
+            "key": "SK_LW_MKN_WIND_P_1",
+            "value": "격성풍의 룬"
+        },
+        {
+            "key": "SK_LW_MKN_SOIL_P_1",
+            "value": "격성토의 룬"
+        },
+        {
+            "key": "SK_LW_MKN_P_2",
+            "value": "샤프 마인드"
+        },
+        {
+            "key": "SK_LW_TU_BLM_ICE",
+            "value": "블리자라"
+        },
+        {
+            "key": "SK_LB_LW_TU_MONT",
+            "value": "운명의 십자가"
+        },
+        {
+            "key": "SK_SMN_TU_IFRT",
+            "value": "지옥의 화염"
+        },
+        {
+            "key": "SK_IFRT_M_03_01_100_U",
+            "value": "열 흡수"
+        },
+        {
+            "key": "SK_LW_TU_WAR_M_4",
+            "value": "전력 베기"
+        },
+        {
+            "key": "SK_LW_TU_CLR_M_2",
+            "value": "배니시"
+        },
+        {
+            "key": "SK_TU_BHMT_M_01",
+            "value": "밀어 올리기"
+        },
+        {
+            "key": "SK_TU_USE_RING",
+            "value": "반지 사용하기"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_3",
+            "value": "토드"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_4",
+            "value": "슬리플"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_1_2",
+            "value": "바이오"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_M_1",
+            "value": "바이오"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_2",
+            "value": "블라인"
+        },
+        {
+            "key": "SK_LW_BLM_BGN_S_2_2",
+            "value": "블라인"
+        },
+        {
+            "key": "SK_LB_LW_BGN_MONT",
+            "value": "운명의 십자가"
+        },
+        {
+            "key": "SK_LB_LW_BGN_STRN",
+            "value": "페이털 팡"
+        },
+        {
+            "key": "SK_LW_WHM_BGN",
+            "value": "초기 AP 가산 1-999"
+        },
+        {
+            "key": "SK_LW_WHM_BGN_M_5",
+            "value": "레이즈"
+        },
+        {
+            "key": "SK_BTL_GETSP_1-999_U",
+            "value": "획득 SP 1-999% 증가"
+        },
+        {
+            "key": "SK_LW_WAR_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_KNT_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_PLD_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_MGK_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_SWN_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_MNK_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_VIK_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_SAM_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_THI_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_NIN_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_LAN_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_DRG_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_HUN_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_GUN_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_BLM_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_WHM_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_CLR_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_GRM_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_RDM_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_TIM_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_GLMS_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_FINA_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_YSTL_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_TNCR_ATK_100",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_BOMB_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_BOMB_M_01",
+            "value": "위협"
+        },
+        {
+            "key": "SK_BOMB_M_02",
+            "value": "자폭"
+        },
+        {
+            "key": "SK_BOMB_M_02_1",
+            "value": "자폭"
+        },
+        {
+            "key": "SK_BOMB_M_03",
+            "value": "맞받아치기"
+        },
+        {
+            "key": "SK_BOMB_M_03_CHECK",
+            "value": "맞받아치기"
+        },
+        {
+            "key": "SK_BOMB_M_04",
+            "value": "파이어"
+        },
+        {
+            "key": "SK_BOMB_M_04_01",
+            "value": "파이어"
+        },
+        {
+            "key": "SK_BHMT_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_BHMT_M_01",
+            "value": "밀어 올리기"
+        },
+        {
+            "key": "SK_BHMT_M_02",
+            "value": "날뛰기"
+        },
+        {
+            "key": "SK_BHMT_M_03",
+            "value": "쳐올리기"
+        },
+        {
+            "key": "SK_BHMT_ATK_01",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_BHMT_M_01_01",
+            "value": "밀어 올리기"
+        },
+        {
+            "key": "SK_BHMT_M_02_01",
+            "value": "날뛰기"
+        },
+        {
+            "key": "SK_BHMT_M_03_01",
+            "value": "쳐올리기"
+        },
+        {
+            "key": "SK_MABR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_MABR_M_01",
+            "value": "끈적끈적 액체"
+        },
+        {
+            "key": "SK_MABR_M_02",
+            "value": "촉수"
+        },
+        {
+            "key": "SK_MABR_M_03",
+            "value": "역한 입냄새"
+        },
+        {
+            "key": "SK_ARMN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_ARMN_M_01",
+            "value": "노려보기"
+        },
+        {
+            "key": "SK_ARMN_M_02",
+            "value": "악마의 시선"
+        },
+        {
+            "key": "SK_ARMN_M_03",
+            "value": "죽음의 선고"
+        },
+        {
+            "key": "SK_OGRE_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_OGRE_M_01",
+            "value": "내려찍기"
+        },
+        {
+            "key": "SK_OGRE_M_02",
+            "value": "내던지기"
+        },
+        {
+            "key": "SK_OGRE_M_03",
+            "value": "마구 휘두르기"
+        },
+        {
+            "key": "SK_WOLF_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_WOLF_M_01",
+            "value": "독발톱"
+        },
+        {
+            "key": "SK_WOLF_M_02",
+            "value": "킥"
+        },
+        {
+            "key": "SK_WOLF_M_03",
+            "value": "으르렁"
+        },
+        {
+            "key": "SK_ZUUU_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_ZUUU_M_01",
+            "value": "대선풍"
+        },
+        {
+            "key": "SK_ZUUU_M_02",
+            "value": "마구 찌르기"
+        },
+        {
+            "key": "SK_ZUUU_M_03",
+            "value": "날개바람"
+        },
+        {
+            "key": "SK_SKEL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_SKEL_M_01",
+            "value": "발 공격"
+        },
+        {
+            "key": "SK_SKEL_M_02",
+            "value": "팔 공격"
+        },
+        {
+            "key": "SK_SKEL_M_03",
+            "value": "블라인"
+        },
+        {
+            "key": "SK_SKEL_M_04",
+            "value": "흡혈"
+        },
+        {
+            "key": "SK_CACT_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_CACT_M_01",
+            "value": "바늘 1,000개"
+        },
+        {
+            "key": "SK_CACT_M_02",
+            "value": "바늘 10,000개"
+        },
+        {
+            "key": "SK_CACT_M_03",
+            "value": "마비침"
+        },
+        {
+            "key": "SK_CACT_M_03_CHECK",
+            "value": "마비침"
+        },
+        {
+            "key": "SK_GLSP_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_GLSP_M_01",
+            "value": "단단해지기"
+        },
+        {
+            "key": "SK_GLSP_M_02",
+            "value": "찌부러뜨리기"
+        },
+        {
+            "key": "SK_GLSP_R_01",
+            "value": "거북이 등딱지"
+        },
+        {
+            "key": "SK_GLSP_M_02_TOW",
+            "value": "찌부러뜨리기"
+        },
+        {
+            "key": "SK_GLSP_R_01_TOW",
+            "value": "거북이 등딱지"
+        },
+        {
+            "key": "SK_ELEM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_ELEM_R_01",
+            "value": "반사"
+        },
+        {
+            "key": "SK_ELEM_M_01",
+            "value": "파이어"
+        },
+        {
+            "key": "SK_ELEM_M_02",
+            "value": "파이라"
+        },
+        {
+            "key": "SK_ELEM_M_03",
+            "value": "블리자드"
+        },
+        {
+            "key": "SK_ELEM_M_04",
+            "value": "블리자라"
+        },
+        {
+            "key": "SK_ELEM_M_05",
+            "value": "에어로"
+        },
+        {
+            "key": "SK_ELEM_M_06",
+            "value": "에어로라"
+        },
+        {
+            "key": "SK_ELEM_M_07",
+            "value": "선더"
+        },
+        {
+            "key": "SK_ELEM_M_08",
+            "value": "선더라"
+        },
+        {
+            "key": "SK_ELEM_M_09",
+            "value": "스톤"
+        },
+        {
+            "key": "SK_ELEM_M_10",
+            "value": "스톤라"
+        },
+        {
+            "key": "SK_ELEM_M_11",
+            "value": "워터"
+        },
+        {
+            "key": "SK_ELEM_M_12",
+            "value": "워터라"
+        },
+        {
+            "key": "SK_ELEM_M_13",
+            "value": "배니시"
+        },
+        {
+            "key": "SK_ELEM_M_14",
+            "value": "케알"
+        },
+        {
+            "key": "SK_ELEM_M_15",
+            "value": "바이오"
+        },
+        {
+            "key": "SK_ELEM_M_16",
+            "value": "드레인"
+        },
+        {
+            "key": "SK_FF14BOSS_ATK",
+            "value": "일반 공격 스킬"
+        },
+        {
+            "key": "SK_FF14BOSS_M_01",
+            "value": "가슴 뜯기"
+        },
+        {
+            "key": "SK_FF14BOSS_M_02",
+            "value": "고뇌의 배"
+        },
+        {
+            "key": "SK_FF14BOSS_M_03",
+            "value": "삼각목마"
+        },
+        {
+            "key": "SK_CHCB_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_CHCB_M_01",
+            "value": "초코 케알"
+        },
+        {
+            "key": "SK_CHCB_M_02",
+            "value": "초코 볼"
+        },
+        {
+            "key": "SK_CHCB_M_03",
+            "value": "초코 에스나"
+        },
+        {
+            "key": "SK_CHCB_M_04",
+            "value": "초코 메테오"
+        },
+        {
+            "key": "SK_CHCB_R_01",
+            "value": "맞받아치기"
+        },
+        {
+            "key": "SK_CHCB1_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_CHCB1_M_02",
+            "value": "초코 볼"
+        },
+        {
+            "key": "SK_CHCB1_R_01",
+            "value": "맞받아치기"
+        },
+        {
+            "key": "SK_CCLI_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_CCLI_M_01",
+            "value": "공포: 악몽"
+        },
+        {
+            "key": "SK_CCLI_M_02",
+            "value": "공포: 계주"
+        },
+        {
+            "key": "SK_CCLI_M_03",
+            "value": "부정: 오한"
+        },
+        {
+            "key": "SK_CCLI_M_04",
+            "value": "부정: 바이오가"
+        },
+        {
+            "key": "SK_CSLI_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_CSLI_M_01",
+            "value": "갈색 구체"
+        },
+        {
+            "key": "SK_CSLI_M_02",
+            "value": "물어뜯기"
+        },
+        {
+            "key": "SK_CSLI_M_03",
+            "value": "달콤한 분수"
+        },
+        {
+            "key": "SK_CSLI_M_03_QE",
+            "value": "달콤한 분수"
+        },
+        {
+            "key": "SK_SLIM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_SLIM_M_01",
+            "value": "액체 던지기"
+        },
+        {
+            "key": "SK_SLIM_M_02",
+            "value": "소화"
+        },
+        {
+            "key": "SK_SLIM_M_03",
+            "value": "액체 뿌리기"
+        },
+        {
+            "key": "SK_CSLI_01_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_CSLI_01_M_01",
+            "value": "마시멜로 던지기"
+        },
+        {
+            "key": "SK_CSLI_01_M_02",
+            "value": "녹이기"
+        },
+        {
+            "key": "SK_CSLI_01_M_03",
+            "value": "하얀 파티"
+        },
+        {
+            "key": "SK_IFRT_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_IFRT_M_01",
+            "value": "파이어"
+        },
+        {
+            "key": "SK_IFRT_M_02",
+            "value": "파이가"
+        },
+        {
+            "key": "SK_IFRT_M_03",
+            "value": "열 흡수"
+        },
+        {
+            "key": "SK_IFRT_M_04",
+            "value": "지옥의 화염"
+        },
+        {
+            "key": "SK_SIRE_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_SIRE_M_01",
+            "value": "워터"
+        },
+        {
+            "key": "SK_SIRE_M_02",
+            "value": "워터가"
+        },
+        {
+            "key": "SK_SIRE_M_03",
+            "value": "침묵의 노래"
+        },
+        {
+            "key": "SK_SIRE_M_04",
+            "value": "광기의 노래"
+        },
+        {
+            "key": "SK_SHIV_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_SHIV_M_01",
+            "value": "블리자드"
+        },
+        {
+            "key": "SK_SHIV_M_02",
+            "value": "블리자가"
+        },
+        {
+            "key": "SK_SHIV_M_03",
+            "value": "슈팅 헤일"
+        },
+        {
+            "key": "SK_SHIV_M_04",
+            "value": "다이아몬드 더스트"
+        },
+        {
+            "key": "SK_RAMU_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_RAMU_M_01",
+            "value": "선더"
+        },
+        {
+            "key": "SK_RAMU_M_02",
+            "value": "선더가"
+        },
+        {
+            "key": "SK_RAMU_M_03",
+            "value": "쇼크 스트라이크"
+        },
+        {
+            "key": "SK_RAMU_M_04",
+            "value": "심판의 벼락"
+        },
+        {
+            "key": "SK_GLEM_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_GLEM_M_01",
+            "value": "스톤"
+        },
+        {
+            "key": "SK_GLEM_M_02",
+            "value": "스톤가"
+        },
+        {
+            "key": "SK_GLEM_M_03",
+            "value": "대지의 벽"
+        },
+        {
+            "key": "SK_GLEM_M_04",
+            "value": "쇄설암"
+        },
+        {
+            "key": "SK_ODIN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_ODIN_M_01",
+            "value": "궁니르"
+        },
+        {
+            "key": "SK_ODIN_M_02",
+            "value": "에인헤랴르 소환 시전"
+        },
+        {
+            "key": "SK_ODIN_M_03",
+            "value": "에인헤랴르"
+        },
+        {
+            "key": "SK_ODIN_M_04",
+            "value": "참철검"
+        },
+        {
+            "key": "SK_ODIN_R_01",
+            "value": "맞받아치기"
+        },
+        {
+            "key": "SK_IGNT_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_IGNT_M_01",
+            "value": "철의 광전사"
+        },
+        {
+            "key": "SK_IGNT_M_02",
+            "value": "파워 웨이브"
+        },
+        {
+            "key": "SK_IGNT_M_03",
+            "value": "휩쓸기"
+        },
+        {
+            "key": "SK_LAMA_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LAMA_M_01",
+            "value": "유혹"
+        },
+        {
+            "key": "SK_LAMA_M_01_MAN",
+            "value": "유혹"
+        },
+        {
+            "key": "SK_LAMA_M_02",
+            "value": "블링크"
+        },
+        {
+            "key": "SK_LAMA_M_03",
+            "value": "매혹의 꼬리"
+        },
+        {
+            "key": "SK_GL_LAMA_M_03",
+            "value": "매혹의 꼬리"
+        },
+        {
+            "key": "SK_TSLP_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_TSLP_M_01",
+            "value": "에어로"
+        },
+        {
+            "key": "SK_TSLP_M_02",
+            "value": "에어로가"
+        },
+        {
+            "key": "SK_TSLP_M_03",
+            "value": "에어 장벽"
+        },
+        {
+            "key": "SK_TSLP_M_04",
+            "value": "사천의 바람"
+        },
+        {
+            "key": "SK_OCHU_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_OCHU_M_01",
+            "value": "맹독 꽃가루"
+        },
+        {
+            "key": "SK_OCHU_M_02",
+            "value": "마비 채찍"
+        },
+        {
+            "key": "SK_OCHU_M_03",
+            "value": "오츄 댄스"
+        },
+        {
+            "key": "SK_OCHU_M_04",
+            "value": "집속: 씨앗 대포"
+        },
+        {
+            "key": "SK_WRMC_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_WRMC_M_01",
+            "value": "확산 미사일"
+        },
+        {
+            "key": "SK_WRMC_M_02",
+            "value": "빔 대포"
+        },
+        {
+            "key": "SK_WRMC_M_03",
+            "value": "핵 공격"
+        },
+        {
+            "key": "SK_THDG_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_THDG_R_01",
+            "value": "용의 목소리"
+        },
+        {
+            "key": "SK_THDG_M_01",
+            "value": "머리 돌격"
+        },
+        {
+            "key": "SK_THDG_M_02",
+            "value": "힘주기"
+        },
+        {
+            "key": "SK_THDG_M_03",
+            "value": "이중 브레이크 브레스: 불"
+        },
+        {
+            "key": "SK_THDG_M_04",
+            "value": "이중 브레이크 브레스: 얼음"
+        },
+        {
+            "key": "SK_THDG_M_05",
+            "value": "내뿜기"
+        },
+        {
+            "key": "SK_DABL_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_DABL_M_01",
+            "value": "보랏빛 공포"
+        },
+        {
+            "key": "SK_DABL_M_02",
+            "value": "그라비데"
+        },
+        {
+            "key": "SK_DABL_M_03",
+            "value": "케알가"
+        },
+        {
+            "key": "SK_DABL_M_04",
+            "value": "어둠의 사자"
+        },
+        {
+            "key": "SK_MDFY_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_MDFY_M_01",
+            "value": "바이오"
+        },
+        {
+            "key": "SK_MDFY_M_02",
+            "value": "드레인"
+        },
+        {
+            "key": "SK_MDFY_M_03",
+            "value": "환난"
+        },
+        {
+            "key": "SK_MDFY_M_04",
+            "value": "정신파괴"
+        },
+        {
+            "key": "SK_FNRR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_FNRR_M_01",
+            "value": "물어뜯기"
+        },
+        {
+            "key": "SK_FNRR_M_02",
+            "value": "냉기 숨결"
+        },
+        {
+            "key": "SK_FNRR_M_03",
+            "value": "울부짖는 달"
+        },
+        {
+            "key": "SK_FNRR_M_04",
+            "value": "신비한 포효"
+        },
+        {
+            "key": "SK_TITN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_TITN_M_01",
+            "value": "토석류"
+        },
+        {
+            "key": "SK_TITN_M_02",
+            "value": "바위 퇴적물"
+        },
+        {
+            "key": "SK_TITN_M_03",
+            "value": "거인 증강"
+        },
+        {
+            "key": "SK_TITN_M_04",
+            "value": "대지의 분노"
+        },
+        {
+            "key": "SK_BLMN_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_BLMN_M_01",
+            "value": "유성달"
+        },
+        {
+            "key": "SK_BLMN_M_02",
+            "value": "조소하는 죽음의 달"
+        },
+        {
+            "key": "SK_BLMN_M_03",
+            "value": "낙하하는 붉은 달"
+        },
+        {
+            "key": "SK_BHMT_ATK_02",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_BHMT_M_01_02",
+            "value": "밀어 올리기"
+        },
+        {
+            "key": "SK_BHMT_M_02_02",
+            "value": "날뛰기"
+        },
+        {
+            "key": "SK_BHMT_M_03_02",
+            "value": "쳐올리기"
+        },
+        {
+            "key": "SK_TNBR_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_TNBR_M_01",
+            "value": "식칼"
+        },
+        {
+            "key": "SK_TNBR_M_02",
+            "value": "원한의 식칼"
+        },
+        {
+            "key": "SK_TNBR_M_03",
+            "value": "사무치는 원한"
+        },
+        {
+            "key": "SK_TNBR_M_04",
+            "value": "모두의 원한"
+        },
+        {
+            "key": "SK_TNBR_M_04_R",
+            "value": "모두의 원한"
+        },
+        {
+            "key": "SK_LW_E_VIK_ATK",
+            "value": "일반 공격"
+        },
+        {
+            "key": "SK_LW_E_VIK_P_1",
+            "value": "전투광"
+        },
+        {
+            "key": "SK_LW_E_VIK_P_2",
+            "value": "활과 방패의 가호"
+        },
+        {
+            "key": "SK_LW_E_VIK_M_1",
+            "value": "대투척"
+        },
+        {
+            "key": "SK_LW_E_VIK_M_3",
+            "value": "대회전"
+        },
+        {
+            "key": "SK_LW_E_VIK_M_4",
+            "value": "킬링 액스"
+        },
+        {
+            "key": "SK_LW_E_VIK_S_1",
+            "value": "사용하지 않음"
+        },
+        {
+            "key": "SK_LW_E_VIK_S_2",
+            "value": "무릎 부수기"
+        },
+        {
+            "key": "SK_LW_E_VIK_S_3",
+            "value": "반골 정신"
+        },
+        {
+            "key": "SK_LB_LW_MONT",
+            "value": "운명의 십자가"
+        },
+        {
+            "key": "SK_LB_LW_MONT_B",
+            "value": "강화된 운명의 십자가"
+        },
+        {
+            "key": "SK_LB_LW_ELDE",
+            "value": "레오니스의 장벽"
+        },
+        {
+            "key": "SK_LB_LW_ELDE_B",
+            "value": "강화된 레오니스의 장벽"
+        },
+        {
+            "key": "SK_LB_LW_STRN",
+            "value": "페이털 팡"
+        },
+        {
+            "key": "SK_LB_LW_STRN_B",
+            "value": "강화된 페이털 팡"
+        },
+        {
+            "key": "SK_LB_LW_ROBB",
+            "value": "위풍늠연"
+        },
+        {
+            "key": "SK_LB_LW_ROBB_B",
+            "value": "강화된 위풍늠연"
+        },
+        {
+            "key": "SK_LB_LW_ENBT",
+            "value": "견인불발"
+        },
+        {
+            "key": "SK_LB_LW_ENBT_B",
+            "value": "강화된 견인불발"
+        },
+        {
+            "key": "SK_LB_LW_FDRC",
+            "value": "접무봉자"
+        },
+        {
+            "key": "SK_LB_LW_FDRC_B",
+            "value": "강화된 접무봉자"
+        },
+        {
+            "key": "SK_LB_LW_MRND",
+            "value": "홍람"
+        },
+        {
+            "key": "SK_LB_LW_MRND_B",
+            "value": "강화된 홍람"
+        },
+        {
+            "key": "SK_LB_LW_AILN",
+            "value": "드릴 임팩트"
+        },
+        {
+            "key": "SK_LB_LW_AILN_B",
+            "value": "강화된 드릴 임팩트"
+        },
+        {
+            "key": "SK_LB_LW_ZIZA",
+            "value": "호교"
+        },
+        {
+            "key": "SK_LB_LW_ZIZA_B",
+            "value": "강화된 호교"
+        },
+        {
+            "key": "SK_LB_LW_MDNA",
+            "value": "코스모 플룸"
+        },
+        {
+            "key": "SK_LB_LW_MDNA_B",
+            "value": "강화된 코스모 플룸"
+        },
+        {
+            "key": "SK_LB_LW_AYKA",
+            "value": "천사의 은총"
+        },
+        {
+            "key": "SK_LB_LW_AYKA_B",
+            "value": "강화된 천사의 은총"
+        },
+        {
+            "key": "SK_LB_LW_GLMS",
+            "value": "일섬"
+        },
+        {
+            "key": "SK_LB_LW_GLMS_B",
+            "value": "강화된 일섬"
+        },
+        {
+            "key": "SK_LB_LW_KTON",
+            "value": "사이가류 그림자 속박"
+        },
+        {
+            "key": "SK_LB_LW_KTON_B",
+            "value": "강화된 사이가류 그림자 속박"
+        },
+        {
+            "key": "SK_LB_LW_WHIS",
+            "value": "하얀 파동"
+        },
+        {
+            "key": "SK_LB_LW_WHIS_B",
+            "value": "강화된 하얀 파동"
+        },
+        {
+            "key": "SK_LB_LW_MACR",
+            "value": "성광쌍격"
+        },
+        {
+            "key": "SK_LB_LW_MACR_B",
+            "value": "강화된 성광쌍격"
+        },
+        {
+            "key": "SK_LB_LW_LUCA",
+            "value": "새디스틱 댄스"
+        },
+        {
+            "key": "SK_LB_LW_LUCA_B",
+            "value": "강화된 새디스틱 댄스"
+        },
+        {
+            "key": "SK_LB_LW_YERM",
+            "value": "거대 도끼 휘두르기"
+        },
+        {
+            "key": "SK_LB_LW_YERM_B",
+            "value": "강화된 거대 도끼 휘두르기"
+        },
+        {
+            "key": "SK_LB_FFT_RAMZ",
+            "value": "알테마"
+        },
+        {
+            "key": "SK_LB_FFT_ORND",
+            "value": "뇌신의 검기"
+        },
+        {
+            "key": "SK_LB_LW_VKTR",
+            "value": "감미로운 덫"
+        },
+        {
+            "key": "SK_LB_LW_RAIN",
+            "value": "샛별의 광휘"
+        },
+        {
+            "key": "SK_LB_LW_FRVA",
+            "value": "얼음 감옥"
+        },
+        {
+            "key": "SK_LB_LW_VNLA",
+            "value": "암기: 농은"
+        },
+        {
+            "key": "SK_LB_FF1_WROL",
+            "value": "크리스탈 브레이버"
+        },
+        {
+            "key": "SK_LB_LW_QILF",
+            "value": "마장집극"
+        },
+        {
+            "key": "SK_LB_LW_ORDR",
+            "value": "오르도안 봄버"
+        },
+        {
+            "key": "SK_LB_FFT_AGRA_01",
+            "value": "성광집황파"
+        },
+        {
+            "key": "SK_LB_FFT_DELT_01",
+            "value": "진 번개 무쌍 삼단 "
+        },
+        {
+            "key": "SK_LB_LW_IRDL",
+            "value": "일디라의 정리"
+        },
+        {
+            "key": "SK_LB_LW_STRN_01",
+            "value": "디스트럭션 팡"
+        },
+        {
+            "key": "SK_LB_LW_GRSR",
+            "value": "발키리 드라이브"
+        },
+        {
+            "key": "SK_LB_LW_LSWL",
+            "value": "운외창천"
+        },
+        {
+            "key": "SK_LB_LW_RYER_01",
+            "value": "애니멀 펌프킨"
+        },
+        {
+            "key": "SK_LB_LW_RIRY_01",
+            "value": "기어 나오는 공포"
+        },
+        {
+            "key": "SK_LB_LW_HWLT",
+            "value": "스텔라 알테"
+        },
+        {
+            "key": "SK_SMN_IFRT",
+            "value": "지옥의 화염"
+        },
+        {
+            "key": "SK_SMN_GLEM",
+            "value": "쇄설암"
+        },
+        {
+            "key": "SK_SMN_RAMU",
+            "value": "심판의 벼락"
+        },
+        {
+            "key": "SK_SMN_SHIV",
+            "value": "다이아몬드 더스트"
+        },
+        {
+            "key": "SK_SMN_SIRE",
+            "value": "광기의 노래"
+        },
+        {
+            "key": "SK_SMN_ODIN",
+            "value": "참철검"
+        },
+        {
+            "key": "SK_SMN_IGNT",
+            "value": "휩쓸기"
+        },
+        {
+            "key": "SK_SMN_BHMT",
+            "value": "날뛰기"
+        },
+        {
+            "key": "SK_SMN_MABR",
+            "value": "역한 입냄새"
+        },
+        {
+            "key": "SK_SMN_CACT",
+            "value": "바늘 1,000개"
+        },
+        {
+            "key": "SK_SMN_ARMN",
+            "value": "노려보기"
+        },
+        {
+            "key": "SK_SMN_ZUUU",
+            "value": "대선풍"
+        },
+        {
+            "key": "SK_SMN_OGRE",
+            "value": "내던지기"
+        },
+        {
+            "key": "SK_SMN_BOMB",
+            "value": "자폭"
+        },
+        {
+            "key": "SK_SMN_LAMA",
+            "value": "매혹의 꼬리"
+        },
+        {
+            "key": "SK_SMN_TSLP",
+            "value": "사천의 바람"
+        },
+        {
+            "key": "SK_SMN_OCHU",
+            "value": "집속: 씨앗 대포"
+        },
+        {
+            "key": "SK_SMN_THDG",
+            "value": "내뿜기"
+        },
+        {
+            "key": "SK_SMN_WRMC",
+            "value": "핵 공격"
+        },
+        {
+            "key": "SK_SMN_DABL",
+            "value": "어둠의 사자"
+        },
+        {
+            "key": "SK_SMN_CHCB_01",
+            "value": "초코 메테오"
+        },
+        {
+            "key": "SK_SMN_MDFY",
+            "value": "정신파괴"
+        },
+        {
+            "key": "SK_SMN_FNRR",
+            "value": "신비한 포효"
+        },
+        {
+            "key": "SK_SMN_TITN",
+            "value": "대지의 분노"
+        },
+        {
+            "key": "SK_SMN_BLMN",
+            "value": "조소하는 죽음의 달"
+        },
+        {
+            "key": "SK_US_POTION",
+            "value": "포션"
+        },
+        {
+            "key": "SK_US_HIPOTION",
+            "value": "하이 포션"
+        },
+        {
+            "key": "SK_US_EXPOTION",
+            "value": "엑스 포션"
+        },
+        {
+            "key": "SK_US_ETHER",
+            "value": "에테르"
+        },
+        {
+            "key": "SK_US_ETHERTURBO",
+            "value": "에테르 터보"
+        },
+        {
+            "key": "SK_US_ELIXIR",
+            "value": "엘릭서"
+        },
+        {
+            "key": "SK_US_PNXFEATHER",
+            "value": "피닉스의 꼬리"
+        },
+        {
+            "key": "SK_US_ANTIDOTE",
+            "value": "해독제 "
+        },
+        {
+            "key": "SK_US_EYEDROPS",
+            "value": "안약"
+        },
+        {
+            "key": "SK_US_REMINDER",
+            "value": " 각성약"
+        },
+        {
+            "key": "SK_US_ECHODROP",
+            "value": "메아리풀"
+        },
+        {
+            "key": "SK_US_UNICORNHORN",
+            "value": "유니콘의 뿔"
+        },
+        {
+            "key": "SK_US_MAIDENKISS",
+            "value": " 소녀의 키스"
+        },
+        {
+            "key": "SK_US_GOLDNEEDLE",
+            "value": " 금침"
+        },
+        {
+            "key": "SK_US_REMEDY",
+            "value": "만능약"
+        },
+        {
+            "key": "SK_US_ENCHANTDRAG",
+            "value": "증강약"
+        },
+        {
+            "key": "SK_US_HOLYTORCH",
+            "value": "성스러운 횃불"
+        },
+        {
+            "key": "SK_US_HERODRINK",
+            "value": "영웅의 약"
+        },
+        {
+            "key": "SK_US_BACCHUS",
+            "value": "바커스의 술"
+        },
+        {
+            "key": "SK_US_SHELL",
+            "value": "셸 물약"
+        },
+        {
+            "key": "SK_US_PROTECT",
+            "value": "프로테스 물약"
+        },
+        {
+            "key": "SK_US_HEALWATER",
+            "value": "회복의 샘물"
+        },
+        {
+            "key": "SK_US_HPPOTION",
+            "value": "체력의 약"
+        },
+        {
+            "key": "SK_US_ATKPOTION",
+            "value": "힘의 약"
+        },
+        {
+            "key": "SK_US_MAGPOTION",
+            "value": "마력의 약"
+        },
+        {
+            "key": "SK_US_SPDPOTION",
+            "value": "신속의 약"
+        },
+        {
+            "key": "SK_US_DEXPOTION",
+            "value": "솜씨의 약"
+        },
+        {
+            "key": "SK_MA_LW_MONT",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_STRN",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_ELDE",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_ROBB",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_ENBT",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_ZIZA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MRND",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_AILN",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MDNA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_AYKA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_GLMS",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_GLMS_2",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MACR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FF14_TNCR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_HLNA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_LILS",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RAMD",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_OOOO",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_LRNZ",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RIRY",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_VSTR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_CLEY",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_KADI",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MRLK",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MGRT",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_PRAY",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FF14_YSTL",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_SZRT",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_FINA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_BYLO",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RYER",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_SCIA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_VRID",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_NAIA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_SRJS",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_UNII",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_SEVR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_VADM",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MURM",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_PHBE",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RART",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MICE",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MIIA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_ZZAN",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_FDRC",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_SDLX",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_MINU",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_YERM",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_P_NASR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_P_ETRE",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FFT_RAMZ",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FFT_GFGR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FFT_ORND",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_P_WHIS",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_P_KTON",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_DRND",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_P_LUCA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_P_ADLD",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_VKTR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_THLA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RAIN",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_FRVA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_VNLA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_DRIO",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_TREL",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FF1_WROL",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_QILF",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_SIMR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_ORDR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_LVES",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FFT_AGRA",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FFT_DELT",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_FFT_MSTD",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_IRDL",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_STRN_01",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_LSWL",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_GRSR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RRIR",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RYER_01",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_RIRY_01",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_MA_LW_HWLT",
+            "value": "마스터 어빌리티"
+        },
+        {
+            "key": "SK_LW_SLASH_1",
+            "value": "베기 공격력+2"
+        },
+        {
+            "key": "SK_LW_SLASH_2",
+            "value": "베기 공격력+3"
+        },
+        {
+            "key": "SK_LW_SLASH_3",
+            "value": "베기 공격력+5"
+        },
+        {
+            "key": "SK_LW_SLASH_4_N",
+            "value": "베기 공격력+6"
+        },
+        {
+            "key": "SK_LW_SLASH_5_N",
+            "value": "베기 공격력+10"
+        },
+        {
+            "key": "SK_LW_SLASH_4_R",
+            "value": "베기 공격력+6"
+        },
+        {
+            "key": "SK_LW_SLASH_5_R",
+            "value": "베기 공격력+12"
+        },
+        {
+            "key": "SK_LW_SLASH_4_SR",
+            "value": "베기 공격력+7"
+        },
+        {
+            "key": "SK_LW_SLASH_5_SR",
+            "value": "베기 공격력+13"
+        },
+        {
+            "key": "SK_LW_SLASH_4_SSR",
+            "value": "베기 공격력+8"
+        },
+        {
+            "key": "SK_LW_SLASH_5_SSR",
+            "value": "베기 공격력+15"
+        },
+        {
+            "key": "SK_LW_SLASH_4_UR",
+            "value": "베기 공격력+10"
+        },
+        {
+            "key": "SK_LW_SLASH_5_UR",
+            "value": "베기 공격력+20"
+        },
+        {
+            "key": "SK_LW_AVOID_1",
+            "value": "회피율+1"
+        },
+        {
+            "key": "SK_LW_AVOID_2",
+            "value": "회피율+2"
+        },
+        {
+            "key": "SK_LW_AVOID_3",
+            "value": "회피율+3"
+        },
+        {
+            "key": "SK_LW_AVOID_4_N_SSR",
+            "value": "회피율+4"
+        },
+        {
+            "key": "SK_LW_AVOID_5_SSR",
+            "value": "회피율+8"
+        },
+        {
+            "key": "SK_LW_SWO_003_1",
+            "value": "수면의 검"
+        },
+        {
+            "key": "SK_LW_SWO_003_5",
+            "value": "수면의 검"
+        },
+        {
+            "key": "SK_LW_ROD_003_1",
+            "value": "얼음의 홀장"
+        },
+        {
+            "key": "SK_LW_ROD_004_5",
+            "value": "케알라"
+        },
+        {
+            "key": "SK_LW_SWO_004_1",
+            "value": "얼음서리 검"
+        },
+        {
+            "key": "SK_LW_SWO_004_5",
+            "value": "얼음서리 검"
+        },
+        {
+            "key": "SK_LW_RNG_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_005_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SWO_006_1",
+            "value": "산호검"
+        },
+        {
+            "key": "SK_LW_SWO_006_5",
+            "value": "산호검"
+        },
+        {
+            "key": "SK_LW_SWO_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_1",
+            "value": "얼음속성 어빌리티 공격력 증가 패시브"
+        },
+        {
+            "key": "SK_LW_AF_ICE_PA_5",
+            "value": "얼음속성 어빌리티 공격력 증가 패시브"
+        },
+        {
+            "key": "SK_LW_SPE_006_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_SPE_006_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_004_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_FTW_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_003_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_BSW_011_1",
+            "value": "진홍의 군도"
+        },
+        {
+            "key": "SK_LW_BSW_011_3",
+            "value": "진홍의 군도"
+        },
+        {
+            "key": "SK_LW_BSW_011_5",
+            "value": "진홍의 군도"
+        },
+        {
+            "key": "SK_FFT_SWO_002_2",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_SWO_002_3",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_SWO_002_4",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_SWO_002_5",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FFT_ACC_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ACC_001_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_ACC_001_5",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_KAT_008_1",
+            "value": "자색 번개(얼음속성 공격력 증가)"
+        },
+        {
+            "key": "SK_LW_KAT_008_5",
+            "value": "자색 번개(얼음속성 공격력 증가)"
+        },
+        {
+            "key": "SK_LW_RNG_007_1",
+            "value": ""
+        },
+        {
+            "key": "SK_LW_RNG_007_5",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_MONT_1_1",
+            "value": "부르는 소리"
+        },
+        {
+            "key": "SK_ARM_LW_STRN_1_1",
+            "value": "필드의 장벽"
+        },
+        {
+            "key": "SK_CLK_LW_ELDE_1_1",
+            "value": "왕의 호령"
+        },
+        {
+            "key": "SK_ARM_LW_ROBB_1_1",
+            "value": "혜안의 칼날"
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_1_1",
+            "value": "충의의 맹공"
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_1_1",
+            "value": "트라이 프로텍션"
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_1_1",
+            "value": "활성공"
+        },
+        {
+            "key": "SK_CLT_LW_MRND_1_1",
+            "value": "섬세한 격려"
+        },
+        {
+            "key": "SK_HAT_LW_AILN_1_1",
+            "value": "분석"
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_1_1",
+            "value": "달빛의 열정"
+        },
+        {
+            "key": "SK_FTW_LW_AYKA_1_1",
+            "value": "정화"
+        },
+        {
+            "key": "SK_HLM_LW_GLMS_1_1",
+            "value": "주력질주"
+        },
+        {
+            "key": "SK_ACC_LW_MACR_1_1",
+            "value": "기사에게 내리는 축복"
+        },
+        {
+            "key": "SK_BLT_LW_YERM_1_1",
+            "value": "뜨겁게 끓어오르는 피"
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_1_1",
+            "value": "TP 맡기기"
+        },
+        {
+            "key": "SK_ACC_FFT_ORND_1_1",
+            "value": "뇌신진지형"
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_1",
+            "value": "허무함을 감싸는 깃"
+        },
+        {
+            "key": "SK_ARW_LW_KTON_1_1",
+            "value": "준족술"
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_1_1",
+            "value": "리미터 오프"
+        },
+        {
+            "key": "SK_ARM_LW_VKTR_1_1",
+            "value": "요사한 용의 눈동자"
+        },
+        {
+            "key": "SK_CLT_LW_RAIN_1_1",
+            "value": "수호자의 투기"
+        },
+        {
+            "key": "SK_ACC_LW_FRVA_1_1",
+            "value": "혹한의 비법"
+        },
+        {
+            "key": "SK_ACC_LW_VNLA_1_1",
+            "value": "거짓 야장"
+        },
+        {
+            "key": "SK_ACC_FF1_WROL_1_1",
+            "value": "신성한 빛"
+        },
+        {
+            "key": "SK_ACC_LW_QILF_1_1",
+            "value": "배반하는 긍지"
+        },
+        {
+            "key": "SK_ACC_LW_ORDR_1_1",
+            "value": "이어받은 위세"
+        },
+        {
+            "key": "SK_SWO_LW_LVES_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_FFT_AGRA_1_1",
+            "value": "성 근위기사단의 긍지"
+        },
+        {
+            "key": "SK_ARM_FFT_DELT_1_1",
+            "value": "AP 맡기기"
+        },
+        {
+            "key": "SK_GUN_FFT_MSTD_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_IRDL_1_1",
+            "value": "순속전이법"
+        },
+        {
+            "key": "SK_ARM_LW_STRN_01_1_1",
+            "value": "끝없는 증오"
+        },
+        {
+            "key": "SK_CLT_LW_LSWL_1_1",
+            "value": "고요한 투지"
+        },
+        {
+            "key": "SK_ARM_LW_GRSR_1_1",
+            "value": "발키리의 숨결"
+        },
+        {
+            "key": "SK_BOW_LW_RRIR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_RIRY_01_1_1",
+            "value": "시체 변화"
+        },
+        {
+            "key": "SK_ACC_LW_RYER_01_1_1",
+            "value": "풀문 스타일"
+        },
+        {
+            "key": "SK_CLT_LW_HWLT_1_1",
+            "value": "선혈의 룬"
+        },
+        {
+            "key": "SK_ACC_LW_MONT_ARENA",
+            "value": "부르는 소리"
+        },
+        {
+            "key": "SK_ACC_LW_ZIZA_ARENA",
+            "value": "활성공"
+        },
+        {
+            "key": "SK_ARW_LW_KTON_ARENA",
+            "value": "준족술"
+        },
+        {
+            "key": "SK_ARM_LW_LUCA_ARENA",
+            "value": "리미터 오프"
+        },
+        {
+            "key": "SK_HAT_LW_MDNA_ARENA",
+            "value": "달빛의 열정"
+        },
+        {
+            "key": "SK_ARM_FFT_RAMZ_ARENA",
+            "value": "TP 맡기기"
+        },
+        {
+            "key": "SK_SHI_LW_ENBT_ARENA",
+            "value": "충의의 맹공"
+        },
+        {
+            "key": "SK_ACC_LW_FDRC_ARENA",
+            "value": "트라이 프로텍션"
+        },
+        {
+            "key": "SK_SWO_LW_ADLD_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_HLNA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_LW_LILS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SPE_LW_RAMD_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_OOOO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_NKN_LW_SDLX_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SPE_LW_LRNZ_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_GUN_LW_RIRY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_DAG_LW_VSTR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BOW_LW_CLEY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_MAC_LW_KADI_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_FIS_LW_MRLK_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_MGRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_2",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_PRAY_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_FF14_YSTL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BOW_LW_FINA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_BSW_LW_SZRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_BYLO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_RYER_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_SCIA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_VRID_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_NAIA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_SRJS_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_UNII_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_CLT_LW_SEVR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_VADM_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_MURM_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_PHBE_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_FF14_TNCR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_FFT_GFGR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_AXE_LW_DRND_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_CMLO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_DRZA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_KTON_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ACC_LW_THLA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_DIAA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_SWO_LW_DRIO_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_KAT_LW_SIMR_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ROBUST_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ROBUST_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ROBUST_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MDFY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MDFY_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FNRR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FNRR_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FNRR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CACT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ARMN_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ZUUU_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OGRE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BOMB_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_JOBCRYSTAL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BYLO_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RART_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RYER_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RIRY_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CRYSTAL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DYNVERK_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_01_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_02_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MIRROR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV2_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV2_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ORDR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ORDR_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TITN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TITN_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TITN_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KING_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KING_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VKTR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VKTR_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VKTR_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BLMN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BLMN_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_GS_AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TITN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TITN_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TITN_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_TITN_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_TITN_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_TITN_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KING_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KING_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VKTR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VKTR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VKTR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_VKTR_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_VKTR_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_VKTR_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_VKTR_P3",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_VKTR_P3AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_VKTR_P3MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HALL_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_HALL_P2",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_HALL_P2AW",
+            "value": ""
+        },
+        {
+            "key": "SK_GL_VC_LW_HALL_P2MAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BLMN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BLMN_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GLEM_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SHIV_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RAMU_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IFRT_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SIRE_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SOKYU_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRAINING_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MURG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MACR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GRSR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOLYNIGHT_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ROBUST_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ROBUST_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ROBUST_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MDFY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MDFY_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FNRR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FNRR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FNRR_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_IGNT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BHMT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MABR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FAMILY_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_KTON_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_PROPOSE_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HUNT_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TEAPARTY_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_SDLX_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF14_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LAMA_01_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_GUARD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_MBFF_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CBVPARTY1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CACT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ARMN_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ZUUU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OGRE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BOMB_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_JOBCRYSTAL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_BYLO_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RART_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RYER_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_RIRY_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_CRYSTAL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LEONIS2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_HOURN2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_FENICE2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WEZETT2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DYNVERK_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_01_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TRSV_02_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_MIRROR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_TSLP_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_LILS_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_OCHU_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE1_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VALE2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ADLD_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_WHITEDAY1_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_VNLA2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_THDG_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FF01_DMAC_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFCC_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_DABL_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV2_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_FFT_MV3_PMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ORDR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ORDR_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U",
+            "value": "최대 HP 100-99900 증가"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U",
+            "value": "최대 HP 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U",
+            "value": "최대 TP 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U",
+            "value": "최대 AP 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U",
+            "value": "물리 공격력 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999PER_U",
+            "value": "물리 공격력 1-999% 증가"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U",
+            "value": "마법 공격력 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U",
+            "value": "민첩성 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U",
+            "value": "솜씨 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U",
+            "value": "행운 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_BRAVE_1-100_U",
+            "value": "용기 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_FAITH_1-100_U",
+            "value": "신념 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_MOVE_1-20_U",
+            "value": "이동력 1-20 증가"
+        },
+        {
+            "key": "SK_BTL_JUMP_1-20_U",
+            "value": "점프 1-20 증가"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U",
+            "value": "사정거리 1-20 증가"
+        },
+        {
+            "key": "SK_BTL_RANGE_1-20_U_PA",
+            "value": "사정거리 1-15 증가"
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_D",
+            "value": "▼최대 HP 100-99900 감소"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_D",
+            "value": "▼AP 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_D",
+            "value": "▼최대 HP 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_D",
+            "value": "▼물리 공격력 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_D",
+            "value": "▼마법 공격력 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U",
+            "value": "방어력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U",
+            "value": "정신력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_D",
+            "value": "▼민첩성 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_D",
+            "value": "▼솜씨 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_D",
+            "value": "▼행운 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_BRAVE_1-100_D",
+            "value": "▼용기 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_FAITH_1-100_D",
+            "value": "▼신념 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_MOVE_1-20_D",
+            "value": "▼이동력 1-20 감소"
+        },
+        {
+            "key": "SK_BTL_JUMP_1-20_D",
+            "value": "▼점프 1-20 감소"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U",
+            "value": "마법 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U",
+            "value": "베기 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U",
+            "value": "찌르기 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U",
+            "value": "사격 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U",
+            "value": "타격 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U",
+            "value": "모든 공격 종류 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D",
+            "value": "▼마법 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D",
+            "value": "▼베기 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D",
+            "value": "▼찌르기 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D",
+            "value": "▼사격 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D",
+            "value": "▼타격 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D",
+            "value": "▼모든 공격 종류 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U",
+            "value": "불속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U",
+            "value": "물속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U",
+            "value": "바람속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U",
+            "value": "번개속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U",
+            "value": "얼음속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U",
+            "value": "땅속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U",
+            "value": "어둠속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U",
+            "value": "빛속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U",
+            "value": "모든 속성 저항력 1-80 증가"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D",
+            "value": "▼불속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D",
+            "value": "▼물속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D",
+            "value": "▼바람속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D",
+            "value": "▼번개속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D",
+            "value": "▼얼음속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D",
+            "value": "▼땅속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_D",
+            "value": "▼어둠속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D",
+            "value": "▼빛속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D",
+            "value": "▼모든 속성 저항력 1-80 감소"
+        },
+        {
+            "key": "SK_BTL_HIT_1_999_U",
+            "value": "명중률 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_AVOI_1_999_U",
+            "value": "회피율 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_CRI_1_999_U",
+            "value": "크리티컬 확률 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_CRIHIT_1_999_U",
+            "value": "크리티컬 명중률 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_CRIAVOI_1_999_U",
+            "value": "크리티컬 회피율 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_HIT_1_999_D",
+            "value": "▼명중률 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_AVOI_1_999_D",
+            "value": "▼회피율 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_CRI_1_999_D",
+            "value": "▼크리티컬 확률 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_CRIHIT_1_999_D",
+            "value": "▼크리티컬 명중률 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_CRIAVOI_1_999_D",
+            "value": "▼크리티컬 회피율 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_STR_MAGIC_1_100_U",
+            "value": "마법 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_SLASH_1_100_U",
+            "value": "베기 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_SPEAR_1_100_U",
+            "value": "찌르기 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_SHOT_1_100_U",
+            "value": "사격 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_BLOW_1_100_U",
+            "value": "타격 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_MAGIC_1_100_D",
+            "value": "▼마법 공격력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_STR_SLASH_1_100_D",
+            "value": "▼베기 공격력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_STR_SPEAR_1_100_D",
+            "value": "▼찌르기 공격력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_STR_SHOT_1_100_D",
+            "value": "▼사격 공격력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_STR_BLOW_1_100_D",
+            "value": "▼타격 공격력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_CASTTIME_1_999_D",
+            "value": "▼시전 시간 1-999 단축"
+        },
+        {
+            "key": "SK_BTL_RES_DEBUFF_1_100_U",
+            "value": "디버프 저항력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_RES_DEBUFF_1_100_D",
+            "value": "▼디버프 저항력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_RES_POISON_1_100_U",
+            "value": "상태이상[독] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_DARKN_1_100_U",
+            "value": "상태이상[실명] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SLEEP_1_100_U",
+            "value": "상태이상[수면] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SILENCE_1_100_U",
+            "value": "상태이상[침묵] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_PARA_1_100_U",
+            "value": "상태이상[마비] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_CONFU_1_100_U",
+            "value": "상태이상[혼란] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_CHARM_1_100_U",
+            "value": "상태이상[매료] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_STONE_1_100_U",
+            "value": "상태이상[석화] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_TOAD_1_100_U",
+            "value": "상태이상[토드] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_SLOW_1_100_U",
+            "value": "상태이상[슬로우] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_STOP_1_100_U",
+            "value": "상태이상[스톱] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_DACT_1_100_U",
+            "value": "상태이상[돈액트] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_DMOV_1_100_U",
+            "value": "상태이상[돈무브] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_BERSK_1_100_U",
+            "value": "상태이상[광폭화] 저항력 증가"
+        },
+        {
+            "key": "SK_BTL_RES_POISON_1_100_D",
+            "value": "▼상태이상[독] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_DARKN_1_100_D",
+            "value": "▼상태이상[실명] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_INV_HPDOWN",
+            "value": "최대 HP감소 무효화"
+        },
+        {
+            "key": "SK_BTL_INV_MKBT",
+            "value": "무기물 저항력"
+        },
+        {
+            "key": "SK_BTL_INV_CTDOWN",
+            "value": "CT 변동 무효화"
+        },
+        {
+            "key": "SK_BTL_INV_SPDDOWN",
+            "value": "민첩성 감소 무효화"
+        },
+        {
+            "key": "SK_BTL_RES_SLEEP_1_100_D",
+            "value": "▼상태이상[수면] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_SILENCE_1_100_D",
+            "value": "▼상태이상[침묵] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_PARA_1_100_D",
+            "value": "▼상태이상[마비] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_CONFU_1_100_D",
+            "value": "▼상태이상[혼란] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_CHARM_1_100_D",
+            "value": "▼상태이상[매료] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_STONE_1_100_D",
+            "value": "▼상태이상[석화] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_TOAD_1_100_D",
+            "value": "▼상태이상[토드] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_SLOW_1_100_D",
+            "value": "▼상태이상[슬로우] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_STOP_1_100_D",
+            "value": "▼상태이상[스톱] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_DACT_1_100_D",
+            "value": "▼상태이상[돈액트] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_DMOV_1_100_D",
+            "value": "▼상태이상[돈무브] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_RES_BERSK_1_100_D",
+            "value": "▼상태이상[광폭화] 저항력 감소"
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_U",
+            "value": "초기 AP 1-999 증가"
+        },
+        {
+            "key": "SK_BTL_FAP_1-999_D",
+            "value": "▼초기 AP 1-999 감소"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_U_KISO",
+            "value": "마법 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_U_KISO",
+            "value": "베기 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_U_KISO",
+            "value": "찌르기 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_U_KISO",
+            "value": "사격 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_U_KISO",
+            "value": "타격 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_U_KISO",
+            "value": "모든 공격 종류 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_MAGIC_1_80_D_KISO",
+            "value": "▼마법 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SLASH_1_80_D_KISO",
+            "value": "▼베기 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SPEAR_1_80_D_KISO",
+            "value": "▼찌르기 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SHOT_1_80_D_KISO",
+            "value": "▼사격 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_BLOW_1_80_D_KISO",
+            "value": "▼타격 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_ATKALL_1_80_D_KISO",
+            "value": "▼모든 공격 종류 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_U_KISO",
+            "value": "불속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_U_KISO",
+            "value": "물속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_U_KISO",
+            "value": "바람속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_U_KISO",
+            "value": "번개속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_U_KISO",
+            "value": "얼음속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_U_KISO",
+            "value": "땅속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_DARK_1_80_U_KISO",
+            "value": "어둠속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_U_KISO",
+            "value": "빛속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_U_KISO",
+            "value": "모든 속성 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_FIRE_1_80_D_KISO",
+            "value": "▼불속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_WATER_1_80_D_KISO",
+            "value": "▼물속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_WIND_1_80_D_KISO",
+            "value": "▼바람속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_THUNDER_1_80_D_KISO",
+            "value": "▼번개속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_ICE_1_80_D_KISO",
+            "value": "▼얼음속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SOIL_1_80_D_KISO",
+            "value": "▼땅속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_D_KISOARK_1_80_D_KISO",
+            "value": "▼어둠속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_SHINE_1_80_D_KISO",
+            "value": "▼빛속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_ELEMALL_1_80_D_KISO",
+            "value": "▼모든 속성 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_U",
+            "value": "불속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_U",
+            "value": "물속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_U",
+            "value": "바람속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_U",
+            "value": "번개속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_U",
+            "value": "얼음속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_U",
+            "value": "땅속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_U",
+            "value": "어둠속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_U",
+            "value": "빛속성 이외의 저항력 1-80 증가(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTFIRE_1_80_D",
+            "value": "▼불속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWATER_1_80_D",
+            "value": "▼물속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTWIND_1_80_D",
+            "value": "▼바람속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTTHUNDER_1_80_D",
+            "value": "▼번개속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTICE_1_80_D",
+            "value": "▼얼음속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSOIL_1_80_D",
+            "value": "▼땅속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTDARK_1_80_D",
+            "value": "▼어둠속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTSHINE_1_80_D",
+            "value": "▼빛속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_RES_OTELEMALL_1_80_D",
+            "value": "▼모든 속성 이외의 저항력 1-80 감소(기초)"
+        },
+        {
+            "key": "SK_BTL_HP_100-99900_U_PA",
+            "value": "최대 HP 100-99900 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_HP_1-999_U_PA",
+            "value": "최대 HP 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_MP_1-999_U_PA",
+            "value": "최대 TP 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_AP_1-999_U_PA",
+            "value": "최대 AP 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_ATK_1-999_U_PA",
+            "value": "물리 공격력 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_MAG_1-999_U_PA",
+            "value": "마법 공격력 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U_PA",
+            "value": "방어력 1-80 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U_PA",
+            "value": "정신력 1-80 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_SPD_1-999_U_PA",
+            "value": "민첩성 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_DEX_1-999_U_PA",
+            "value": "솜씨 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_LUK_1-999_U_PA",
+            "value": "행운 1-999 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_HATE_1-100_U_PA",
+            "value": "헤이트 1-100 증가(패시브)"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_U",
+            "value": "단일 공격 저항력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_SATK_1-100_D",
+            "value": "▼단일 공격 저항력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_U",
+            "value": "범위 공격 저항력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_RATK_1-100_D",
+            "value": "▼범위 공격 저항력 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_PKILLER_MAN_1-100_U",
+            "value": "물리 공격 시 인간 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_MAN_1-100_U",
+            "value": "인간 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_MKILLER_MAN_1-100_U",
+            "value": "마법 공격 시 인간 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_FIRE_1-100_U",
+            "value": "불속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_WATER_1-100_U",
+            "value": "물속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_WIND_1-100_U",
+            "value": "바람속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_THUNDER_1-100_U",
+            "value": "번개속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_ICE_1-100_U",
+            "value": "얼음속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_SOIL_1-100_U",
+            "value": "땅속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_DARK_1-100_U",
+            "value": "어둠속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_KILLER_SHINE_1-100_U",
+            "value": "빛속성 킬러 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_CHARM_1-100_U",
+            "value": "상태이상[매료] 확률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_POIS_1-100_U",
+            "value": "상태이상[독] 확률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_SILENCE_1-100_U",
+            "value": "상태이상[침묵] 확률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_TOAD_1-100_U",
+            "value": "상태이상[토드] 확률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STONE_1-100_U",
+            "value": "상태이상[석화] 확률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_DONMV_1-100_U",
+            "value": "상태이상[돈무브] 확률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_DONMV_1-100_D",
+            "value": "상태이상[돈무브] 확률 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_STUN_1-100_U",
+            "value": "상태이상[기절] 확률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STUN_1-100_D",
+            "value": "상태이상[기절] 확률 1-100 감소"
+        },
+        {
+            "key": "SK_BTL_DEFPIERCE_1-100_U",
+            "value": "방어 관통률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_DEFPIERCE_1-100_U_KISO",
+            "value": "방어 관통률 1-100 증가(기초 능력치)"
+        },
+        {
+            "key": "SK_BTL_MDFPIERCE_1-100_U",
+            "value": "정신 관통률 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_MDFPIERCE_1-100_U_KISO",
+            "value": "정신 관통률 1-100 증가(기초 능력치)"
+        },
+        {
+            "key": "SK_BTL_INV_DEATH",
+            "value": "즉사 무효화"
+        },
+        {
+            "key": "SK_BTL_INV_DOOM",
+            "value": "죽음의 선고 무효화"
+        },
+        {
+            "key": "SK_BTL_INV_POISON",
+            "value": "독 무효화"
+        },
+        {
+            "key": "SK_BTL_STR_FIRE_1-100_U",
+            "value": "불속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_ICE_1-100_U",
+            "value": "얼음속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_WIND_1-100_U",
+            "value": "바람속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_SOIL_1-100_U",
+            "value": "땅속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_THUNDER_1-100_U",
+            "value": "번개속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_WATER_1-100_U",
+            "value": "물속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_SHINE_1-100_U",
+            "value": "빛속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_DARK_1-100_U",
+            "value": "어둠속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_STR_ELEMALL_1-100_U",
+            "value": "모든 속성 공격력 1-100 증가"
+        },
+        {
+            "key": "SK_BTL_JOB_THI_1_15_U",
+            "value": "직업 레벨[도적] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_HUN_1_15_U",
+            "value": "직업 레벨[사냥꾼] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_GUN_1_15_U",
+            "value": "직업 레벨[총술사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_WAR_1_15_U",
+            "value": "직업 레벨[전사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_PLD_1_15_U",
+            "value": "직업 레벨[팔라딘] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_KNT_1_15_U",
+            "value": "직업 레벨[나이트] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_SWN_1_15_U",
+            "value": "직업 레벨[소드 나이트] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_MNK_1_15_U",
+            "value": "직업 레벨[몽크] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_LAN_1_15_U",
+            "value": "직업 레벨[창술사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_SAM_1_15_U",
+            "value": "직업 레벨[사무라이] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_DRG_1_15_U",
+            "value": "직업 레벨[용기사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_NIN_1_15_U",
+            "value": "직업 레벨[닌자] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_CLR_1_15_U",
+            "value": "직업 레벨[클레릭] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_BLM_1_15_U",
+            "value": "직업 레벨[흑마도사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_WHM_1_15_U",
+            "value": "직업 레벨[백마도사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_TIM_1_15_U",
+            "value": "직업 레벨[시마도사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_GRM_1_15_U",
+            "value": "직업 레벨[녹마도사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_RDM_1_15_U",
+            "value": "직업 레벨[적마도사] 1-15"
+        },
+        {
+            "key": "SK_BTL_JOB_MGK_1_15_U",
+            "value": "직업 레벨[마법검사] 1-15"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST",
+            "value": "기믹 임시 공격"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_FIRE",
+            "value": "기믹 임시 공격(불꽃)"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_ARROW",
+            "value": "기믹 임시 공격(활)"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_KATA_1",
+            "value": "기믹 임시 공격(투석기 단일)"
+        },
+        {
+            "key": "SK_GMK_ATK_TEST_KATA_2",
+            "value": "기믹 임시 공격(투석기 범위)"
+        },
+        {
+            "key": "SK_GMK_ATK_NEEDLE",
+            "value": "트랩"
+        },
+        {
+            "key": "SK_GMK_ATK_FIRE",
+            "value": "트랩"
+        },
+        {
+            "key": "SK_GMK_ATK_ARROW",
+            "value": "트랩"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1",
+            "value": "돌팔매"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2",
+            "value": "장대비 돌팔매"
+        },
+        {
+            "key": "SK_GMK_ATK_KENZAN",
+            "value": "피해 구역"
+        },
+        {
+            "key": "SK_LW_WAR_P_2",
+            "value": "HP 증가"
+        },
+        {
+            "key": "SK_LW_PLD_P_2",
+            "value": "타격 저항력 증가"
+        },
+        {
+            "key": "SK_LW_SWN_P_2",
+            "value": "HP 증가"
+        },
+        {
+            "key": "SK_LW_SAM_P_2",
+            "value": "베기 저항력 증가"
+        },
+        {
+            "key": "SK_LW_HUN_P_3",
+            "value": "명중률 증가"
+        },
+        {
+            "key": "SK_LW_WHM_P_2",
+            "value": "신념 증가"
+        },
+        {
+            "key": "SK_ARMN_M_01_TW",
+            "value": "노려보기"
+        },
+        {
+            "key": "SK_ARMN_M_02_TW",
+            "value": "악마의 시선"
+        },
+        {
+            "key": "SK_ARMN_M_03_TW",
+            "value": "죽음의 선고"
+        }
+    ]
+}

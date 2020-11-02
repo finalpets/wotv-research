@@ -1,0 +1,120 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<line-height=15><cspace=1>Lots de lancement !<cspace=-2.5>"
+        },
+        {
+            "key": "2",
+            "value": "<line-height=15>« 1 million de téléchargements » Boutique de célébration"
+        },
+        {
+            "key": "3",
+            "value": "<line-height=15>« 2 millions de téléchargements » Boutique"
+        },
+        {
+            "key": "4",
+            "value": "<line-height=15>Ramza disponible !"
+        },
+        {
+            "key": "5",
+            "value": "<line-height=15>La collaboration avec FFT s'achève le 12/5"
+        },
+        {
+            "key": "6",
+            "value": "<line-height=15>Boutique « Sortie du Chapitre 6 ! »"
+        },
+        {
+            "key": "7",
+            "value": "<line-height=15>Boutique des « 5 millions de téléchargements »"
+        },
+        {
+            "key": "8",
+            "value": "<line-height=15>Boutique des « 5 millions de téléchargements » - Partie II !"
+        },
+        {
+            "key": "9",
+            "value": "<line-height=15>Boutique de la célébration de la nouvelle version"
+        },
+        {
+            "key": "10",
+            "value": "<line-height=15>Boutique spéciale de raid !"
+        },
+        {
+            "key": "11",
+            "value": "<line-height=15>Début de l'été<br>Boutique spéciale"
+        },
+        {
+            "key": "12",
+            "value": "<line-height=15>Boutique de la collaboration<br>MOBIUS FF"
+        },
+        {
+            "key": "13",
+            "value": "<line-height=15>Tour de porcelaine<br>Boutique de célébration !"
+        },
+        {
+            "key": "14",
+            "value": "<line-height=15>Boutique de la campagne <br>de soutien de guilde"
+        },
+        {
+            "key": "15",
+            "value": "<line-height=15>Boutique spéciale de raid !"
+        },
+        {
+            "key": "16",
+            "value": "<line-height=15>Boutique de la campagne <br>de l'été 2020"
+        },
+        {
+            "key": "17",
+            "value": "<line-height=15>La collaboration avec FFI s'achève le 11/08"
+        },
+        {
+            "key": "18",
+            "value": "<line-height=15>Boutique « Sortie du Chapitre 8 ! »"
+        },
+        {
+            "key": "19",
+            "value": "<line-height=15>Boutique de célébration<br>de la nouvelle version"
+        },
+        {
+            "key": "20",
+            "value": "<line-height=15>Limités !<br>Lots de la collaboration !"
+        },
+        {
+            "key": "21",
+            "value": "<line-height=15>Ramza garanti"
+        },
+        {
+            "key": "22",
+            "value": "<line-height=15>La collaboration avec FFT s'achève le 15/09"
+        },
+        {
+            "key": "23",
+            "value": "<line-height=15>Compte à rebours de<br>l'Anniversaire des 6 mois - Boutique !"
+        },
+        {
+            "key": "24",
+            "value": "<line-height=15>Anniversaire des 6 mois <br>Boutique ouverte !"
+        },
+        {
+            "key": "25",
+            "value": "<line-height=15>Anniversaire des 6 mois<br>[Partie II] - Boutique !"
+        },
+        {
+            "key": "26",
+            "value": "<line-height=15>Anniversaire des 6 mois [Partie III]<br>- Boutique !"
+        },
+        {
+            "key": "27",
+            "value": "<line-height=15>Anniversaire des 6 mois [Partie IV]<br>- Boutique !"
+        },
+        {
+            "key": "28",
+            "value": "<line-height=15>Halloween<br>[Partie I]<br>Boutique"
+        },
+        {
+            "key": "29",
+            "value": "<line-height=15>Halloween<br>[Partie II]<br>Boutique"
+        }
+    ]
+}

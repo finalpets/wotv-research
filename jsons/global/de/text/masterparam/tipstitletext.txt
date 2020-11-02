@@ -1,0 +1,100 @@
+{
+    "infos": [
+        {
+            "key": "TIPS_ALL_001",
+            "value": "Mitteilungen"
+        },
+        {
+            "key": "TIPS_ALL_002",
+            "value": "Spielerrang"
+        },
+        {
+            "key": "TIPS_ALL_003",
+            "value": "Freund"
+        },
+        {
+            "key": "TIPS_ALL_004",
+            "value": "Läden"
+        },
+        {
+            "key": "TIPS_ALL_006",
+            "value": "Anmeldeboni"
+        },
+        {
+            "key": "TIPS_ALLQE_001",
+            "value": "Schadensschätzungen"
+        },
+        {
+            "key": "TIPS_ALLQE_003",
+            "value": "Vertrautheit 1"
+        },
+        {
+            "key": "TIPS_ALLQE_004",
+            "value": "Vertrautheit 2"
+        },
+        {
+            "key": "TIPS_ALLQE_002",
+            "value": "Ausrüstungskenntnis 1"
+        },
+        {
+            "key": "TIPS_ALLQE_005",
+            "value": "Ausrüstungskenntnis 2"
+        },
+        {
+            "key": "TIPS_ALLQE_006",
+            "value": "Gruppenfähigkeiten"
+        },
+        {
+            "key": "TIPS_ALLQE_007",
+            "value": "Esperresonanz"
+        },
+        {
+            "key": "TIPS_ALLQE_008",
+            "value": "Auto-Kämpfe"
+        },
+        {
+            "key": "TIPS_ALLQE_009",
+            "value": "Courage"
+        },
+        {
+            "key": "TIPS_ALLQE_010",
+            "value": "Spiritualität"
+        },
+        {
+            "key": "TIPS_ALLQE_011",
+            "value": "Courage/Spiritualität nach Kämpfen"
+        },
+        {
+            "key": "TIPS_ALLQE_012",
+            "value": "Status „Hühnchen“"
+        },
+        {
+            "key": "TIPS_DUEL_001",
+            "value": "Wahrscheinlichkeiten"
+        },
+        {
+            "key": "TIPS_DUEL_002",
+            "value": "Teilnahmebelohnungen"
+        },
+        {
+            "key": "TIPS_DUEL_003",
+            "value": "Rangliste"
+        },
+        {
+            "key": "TIPS_MULTI_001",
+            "value": "Stempel"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "Belohnungen für Freie Matches"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "Modusauswahl"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "Kraftproben-Bosse"
+        }
+    ]
+}

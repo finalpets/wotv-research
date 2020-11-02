@@ -1,0 +1,8 @@
+{
+    "infos": [
+        {
+            "key": "GACHA_ID_0001",
+            "value": "Vergiss nicht, deine<br>„Prüfungen des Urteils“-Medaillen gegen Belohnungen einzutauschen!"
+        }
+    ]
+}

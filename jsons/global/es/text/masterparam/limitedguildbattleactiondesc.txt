@@ -1,0 +1,16 @@
+{
+    "infos": [
+        {
+            "key": "LGBA_001",
+            "value": "Muestra el grupo oponente 1"
+        },
+        {
+            "key": "LGBA_002",
+            "value": "Aumenta el n.º de ofensivas del aliado en 1"
+        },
+        {
+            "key": "LGBA_003",
+            "value": "Restaura los usos de habilidades del aliado en 1"
+        }
+    ]
+}

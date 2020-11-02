@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "VC_LW_GLEM",
+            "value": "　In einem Zeitalter, in dem Magie und Wissenschaft fusioniert wurden, um neue Technologien hervorzubringen, sind Wunder wie das Erlangen von Unsterblichkeit und das Animieren von Objekten keine Träumerei mehr. Es war Technologie, die dem Felstitanen, Golem, Leben einhauchte. Der Golem handelt nach eigenem Willen, muss jedoch in seinem Handeln stets dem Befehl seines Schöpfers gehorchen. Solange diesem Befehl entsprochen wird, verleiht der Golem bereitwillig jedem seine Stärke, mit dem er sich verbunden fühlt."
+        },
+        {
+            "key": "VC_LW_IFRT",
+            "value": "　Mit seinen enormen Hörnern und einem extrem muskulösen Körper hüllt sich diese wilde Esper in einen Wirbelsturm aus lodernden Flammen. Ifrit lebt für den Kampf. Er stürzt sich auf alles, was töricht genug ist, ihm die Stirn zu bieten, verwandelt sich in eine monströse Flammenzunge und verbrennt seine Feinde zu Asche. Sein Temperament ist, gelinde gesagt, instabil. Nichtsdestoweniger setzt er sich mit absoluter Hingabe für andere ein – wenn er findet, dass ihre Leidenschaft seiner Hilfe würdig ist."
+        },
+        {
+            "key": "VC_LW_SIRE",
+            "value": "　Eine weibliche Esper, die mit ihrer wunderschönen Singstimme Seefahrer in das Wasser lockt. Oft ist nur ihre Stimme zu hören, doch manchmal erscheint sie in Gestalt einer schönen jungen Maid und singt so sanft, als flüstere sie ins Ohr ihrer Zuhörer. Viele sehen in ihren vogelartigen Flügeln den Beweis dafür, dass sie ein fleischgewordener Engel ist. Doch wer von der Sirene betört wurde, den erwartet nichts als der sichere Tod und ein Ticket in die Hölle."
+        },
+        {
+            "key": "VC_LW_SOKYU",
+            "value": "　Beide Prinzen Leonis’ beaufsichtigten ihre jeweils eigene Division der Streitkräfte. Während Prinz Styr ein strenges Regiment über „Fortem“ führt, wird Prinz Monts „Caelum“ nicht selten als ein zusammengewürfelter Haufen beschrieben. Dieser Umstand dürfte nicht zuletzt auf Monts überbordende Gutherzigkeit und seine oft belächelte Art und Weise der Auswahl von Soldaten zurückzuführen sein. Die auch unter dem Namen „Flamme des Schlachtfeldes“ bekannte Divisionskommandantin Lilith ist eine geschickte Kriegerin, während der mit seiner Kraft angebende Baelo und die Bogenschützin Learte mit Mont bereits seit ihrer aller Kindheit befreundet sind. Darüberhinaus zählt auch noch Lhamada – die in Caelum sowohl als Strategin, als auch als Astrologin dient – zu Monts Vertrauten in der Division. Dies hat nicht wenige Stimmen aufkommen lassen, welche die spärliche Schlachtfelderfahrung der Kernmitglieder und letztlich fehlende Durchschlagskraft bemängeln. Doch Caelum kämpft nicht an vorderster Front, sondern stellt eher eine Einheit dar, die sich ändernden Umständen anpassen und flexibel eingesetzt werden kann. Was den Mitgliedern an reiner Kampfstärke fehlt, machen sie durch ihre individuellen Fähigkeiten und das untrennbare Band der Freundschaft, das zwischen ihnen besteht, wieder wett."
+        },
+        {
+            "key": "VC_LW_TRAINING",
+            "value": "　Jeder Soldat im Land fürchtet den teuflischen Schwertkämpfer namens Sir Ornh. Leonis' Fähigkeit, sich gegen seine größeren Nachbarreiche zu behaupten, ist nicht zuletzt Ornhs zahllosen militärischen Heldentaten zu verdanken. So war es für König Yrde eine leichte Entscheidung, ihn zum Tutor der Schwertkunst seiner Prinzen zu ernennen. Die Prinzen waren so unterschiedlich, wie es nur ging, sowohl in ihrer Persönlichkeit als auch im Umgang mit dem Schwert. Ornh erkannte viel von sich selbst in Styr wieder, einem jungen Mann, der beflissen bemüht war, seinem unerschrockenen Vater nachzueifern. Auch in Mont sah er großes Talent schlummern, wusste aber, dass es an Mont selbst lag, es aus sich herauszuholen. Styr war motiviert und scharfsinnig und meisterte Ornhs Techniken mit derselben Präzision wie Ornh selbst. Obwohl Ornh bewusst war, dass Styrs ungewöhnlich schnelle Entwicklung bald Zerwürfnis in die königliche Familie bringen würde, verschloss er die Augen davor und liebte Styr als seinen Schüler so, wie er war."
+        },
+        {
+            "key": "VC_LW_MACR",
+            "value": "　Ein Relikt der Altvorderen, das die unerklärliche Kraft besitzt, eine Esper heraufzubeschwören. Margery erhielt es von ihrem Vater, König Robb von Hourne, als Mitgift für ihre arrangierte Ehe mit König Muraga von Fennes. Das Ehebündnis hatte Sadali, der Gründer der Kirche des Kristalls, vorgeschlagen– in erster Linie, um Hourne in ein Bündnis mit Fennes gegen die wachsende Bedrohung durch Rundall im Westen zu lotsen. Das Arrangement sah eine Heirat zwischen Muragas Tochter Vinera und Prinz Dario vor, und Margery sollte dafür nach Fennes verheiratet werden. Zunächst lehnte Robb ab, doch als Margery darauf bestand, dass all dies „zum Schutze Hournes“ geschehen würde, änderte er seine Meinung. Robb hatte nie gedacht, dass die Halskette das Königreich außerhalb von Kriegszeiten je verlassen würde. Dass er sie seiner Tochter anvertraute, zeigt, wie sehr er sie liebt."
+        },
+        {
+            "key": "VC_LW_MURG",
+            "value": "　Mit einer Streitaxt, die zu gewaltig für jeden gewöhnlichen Soldaten wäre, bringt Muraga Tod und Zerstörung über die Welt und findet großen Gefallen daran. Mit jedem Schwung beendet er wahllos Leben, und was seiner vorrückenden Armee im Weg steht, zerschellt in tausend Stücke. Er zögert nicht, Dörfer in Brand zu setzen, und sein höhnisches Grinsen, wenn er die Flüchtenden mit seiner Streitaxt abschlachtet, ist furchterregender als jedes Monster. Kaum jemand, der dieses Grinsen zu Gesicht bekam, ist heute noch am Leben und kann davon berichten, und Fennes' Soldaten selbst verlieren kein Wort über Muraga. Doch es heißt, die Schreie der armen Seelen, die seiner Gewalt zum Opfer fielen, können Berge überwinden: Wer ihr Echo hört, wird von Furcht ergriffen und sein Verstand wird geflutet von Bildern von Muragas schrecklichem Zorn."
+        },
+        {
+            "key": "VC_LW_GRSR",
+            "value": "　Glaziela, Tochter des Königs Khuri des großen Königreichs Wezette. Gestählt von jahrelangem Training bildet sie die Spitze von Wezettes Armee. Doch weder ihr noch ihrem Vater entgeht die Missgunst in den vielen Stimmen, die über ihr illegitimes Erbe tuscheln. Im Gegensatz zu ihrem Vater verbirgt sie ihre Gefühle nicht. Nicht selten erschwert dies die Auseinandersetzung mit komplexen politischen Problemen des Königreichs, aber wenn die Situation zu festgefahren ist, schwingt sie sich auf ihren Chocobo und stürmt allein über die verschneiten Ebenen. Sie wird oft getadelt, dass sie sich leichtsinnig solcher Gefahr aussetzt, aber weil sie nicht weiß, wie sie sonst ihren Kopf freibekommen sollte, ignoriert sie derlei Kritik einfach."
+        },
+        {
+            "key": "VC_FF14_MV1",
+            "value": "　Ganz Hydaelyn feiert den heldenhaften Krieger des Lichts, der Doma und Ala Mhigo aus dem eisernen Griff der garleischen Besatzer befreit hat. Doch der Bund der Morgenröte, der den Helden stets treu bei seinen Taten unterstützt, befindet sich in einer tiefen Krise: Ein Bundmitglied nach dem anderen fällt in unerklärliche Ohnmacht, gerufen von einer mysteriösen Stimme. Inmitten der Schlacht der Allianz gegen das Garleische Kaiserreich befiehlt die Stimme den Helden in eine andere Welt. Was erwartet den Krieger des Lichts dort – ein alles vernichtendes Schicksal oder nachtschwarze Hoffnung?"
+        },
+        {
+            "key": "VC_LW_HOLYNIGHT",
+            "value": "　„Wie sieht es hier aus, Liebchen, passt alles?“ „J-Ja, alles perfekt. Das sieht man sogar von unten... Mach nur weiter.“ „Liebchen? Du schaust schon brav die Dekoration an, und nicht etwa mich, oder?“ „S-So ein Unsinn! Natürlich meinte ich die Dekoration!!“ „... Hach, wie schade ... Na gut. Dann hänge ich das noch hierhin, und ... Fertig! Wow, hab ich das toll gemacht! Ich finde, dafür habe ich mir ein Küsschen als Belohnung verdient, wenn ich runterkomme!“ „Spinnst du?! I-Ich kann mich nicht daran erinnern, so etwas versprochen zu haben!“"
+        },
+        {
+            "key": "VC_LW_VALE1",
+            "value": "„Was soll ich tun ... Ob ich es wohl dieses Jahr schaffe, es ihm zu geben? Aber sollte ich das überhaupt?“<br>Wieder und wieder geht Kiton diesen Ablauf in Gedanken durch. Konkret geht es um die selbstgemachte Süßspeise, mit der sie ihm dafür danken möchte, dass er sich stets um sie kümmert. Ansonsten stecken keinerlei versteckte Absichten dahinter, also sollte sie doch eigentlich in der Lage sein, es ihm ganz normal zu geben. Sie fürchtet allerdings, es mit der Dekoration etwas übertrieben zu haben oder missverstanden zu werden, weswegen sie es letztendlich noch nie über sich gebracht hat, ihm das süße Geschenk zu überreichen. <br>„Vielleicht werde ich es letzten Endes ja auch dieses Jahr Ornh geben ...“ <br>Hastig beißt sie sich auf die Zunge, damit ihr nicht aus Versehen etwas herausrutscht. Die Idee an sich ist ja nicht unbedingt abwegig, schließlich kümmert sich auch Ornh sehr gut um sie. Und dennoch ... Noch während sie die Angelegenheit in Gedanken dreht und wendet, wird ihr klar, dass sie es wohl auch dieses Jahr nicht schaffen wird. "
+        },
+        {
+            "key": "VC_LW_SHIV",
+            "value": "　Eine prachtvolle Frau, umschmeichelt von eisigem Nebel und stets umtanzt von funkelnden Kristallen. Jeder wird augenblicklich von ihrer Schönheit verzaubert – viele jedoch erlagen schon ihrer kalten Umarmung und erstarrten zu Eis.  Normale Bemühungen reichen nicht aus, um Shivas Unterstützung zu erringen. Nur, wenn der Wunsch eines Bittstellers sie wirklich berührt, taut ihr gefrorenes Herz auf und lässt ihn an ihrem Quell der Kraft teilhaben."
+        },
+        {
+            "key": "VC_LW_RAMU",
+            "value": "　Ein schrumpeliger alter Mann mit der Kraft, über Blitze zu herrschen. Sein stolzer Bart ist beinahe so lang, wie er groß ist. Ramuh ist von einer würdevollen Aura umgeben, die jeden gewöhnlichen Sterblichen in Ehrfurcht vor ihm erzittern lässt. Er ist eine lebende Legende – tatsächlich ist der Name Ramuh schon seit Generationen bekannt – und es gibt Leute, die ihn als ihren einen, wahren König verehren. Interessanterweise lässt sich kaum feststellen, in welcher fernen Vergangenheit die Legende von Ramuh ihren Ursprung nahm."
+        },
+        {
+            "key": "VC_FFT_MV1",
+            "value": "　Das noble Haus Beoulve dient der königlichen Familie von Atkascha seit Generationen. In diese Militärfamilie wurde Ramza hineingeboren. Mitglieder von Haus Beoulve führen seit Generationen den Orden des Nordhimmels an, die größte militärische Macht in ganz Ivalice. Ramzas älterer Bruder Zalbag kommandiert nun den Orden, den sein ältester Bruder Dycedarg und ihr Vater Barbaneth bereits vor ihm anführten. Der junge Ramza beschloss jedoch, sich vom Orden fernzuhalten, und arbeitet stattdessen als Söldner. Und doch ist er derjenige, der durch Zufall die Entführung der Prinzessin aufdeckt. Der Zwischenfall führt zu Konflikten zwischen Herzog Larg von Gallionne, der der Flagge des Weißen Löwen ergeben ist, und Herzog Goltana von Zeltenia, der dem Schwarzen Löwen dient. Bald findet sich Ramza zwischen den Fronten der beiden Häuser wieder, in einem Konflikt, der später als Krieg der Löwen in die Geschichte eingeht"
+        },
+        {
+            "key": "VC_LW_ODIN",
+            "value": "　Ein Titan auf einem gewaltigen, sechsbeinigen Reittier ist in der Tat ein heroischer Anblick, und Odins stämmiger Körperbau soll den anderer Giganten sogar noch übertreffen. Bereits seit längst vergangenen Zeiten in Legenden besungen, zeigte sich Odin nicht nur in Gestalt eines Soldaten, sondern auch als Magier oder König, je nachdem, wessen Münder seine Geschichte erzählten.<br>Es heißt, dass sein allesschneidendes Schwert nicht nur physische Objekte, sondern gar Zeit und Raum selbst zu teilen vermag, und jene, die seiner Opfer wurden, sollen auf immer und ewig vom Spalt im Raum verschlungen werden, noch bevor sie wussten, wie ihnen geschah."
+        },
+        {
+            "key": "VC_LW_TSLP",
+            "value": "　Vier Schwestern unvergleichlicher Schönheit, die die Winde mit sich bringen. Neben den Flügeln und pompösen Federn auf ihrem Haupt schmücken sie sich außerdem noch mit goldenen Diademen. Die Schönheit ihrer Schwingen zieht seit alten Zeiten Menschen in ihren Bann, doch wer es wagt, sich den Schwestern ungeschickt zu nähern, zieht sogleich ihren rasenden Zorn auf sich. Kombiniert sind die Winde, die ihre Schwingen entfachen, in der Lage, einen kolossalen Tornado zu entfachen, und sie gelten nicht ohne Grund als stärkste aller Fabelwesen."
+        },
+        {
+            "key": "VC_MBFF_MV1",
+            "value": "„Der Krieger des Lichts wird Chaos besiegen und die Welt zur Erlösung führen.“<br>So lautet die Prophezeiung – doch es kam anders als vorhergesagt ... Das Chaos, das die Menschheit in die Verzweiflung trieb, wurde beseitigt, doch der Held, der ihnen Hoffnung gab, verschwand.<br><br>Ja – durch deine Hand.<br><br>Du warst es, der die Erzählung des „Kriegers des Lichts“ beendet hat.<br>Und so wurde die mutige Gestalt des „Kriegers des Lichts“ – DU –<br>von der Welt vergessen.<br><br>Die Menschen flüstern, ihre Erinnerungen sind verloren.<br><br>Es gibt den einen, der diese einst wunderschöne Welt voller Hoffnung veränderte.<br><br>„Der Krieger der Verzweiflung“, den keiner kennt.<br>In einem Zeitalter ohne Geschichten hungert die Welt nach einer neuen Legende."
+        },
+        {
+            "key": "VC_LW_THDG",
+            "value": "　Ein mächtiger zweiköpfiger Drache, dessen gesamter Körper mit goldenen Schuppen bedeckt ist. Mit seinem Feueratem, seinen Klauen und seinem Schwanz erinnern seine Angriffsmechanismen stark an andere Drachen, doch mehr als alles andere ist sich unbedingt vor seinen zwei Häuptern in Acht zu nehmen.<br>Der Versuch, dem Angriff eines Kopfes auszuweichen, endet nur allzu leicht darin, von dem anderen im Sprung geschnappt zu werden; oft dient auch der Feueratem des einen Mauls als Ablenkung, um das andere zubeißen zu lassen.<br>Sollte man keine andere Wahl haben, als sich diesem Gegner zu stellen, sind unbedingt Strategien gegen diese doppelte Bedrohung vorzubereiten, ansonsten ist an einen Sieg nicht zu denken."
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "　Ein gefährliches mechanisches Monster, das im Luftschloss patrouilliert, einem Ort in einer fernen Welt, an den man nur über einen Turm in der weiten Wüste gelangt. Es heißt, dass die Vorväter jener Welt die fortgeschrittenste Technologie ihrer Zeit zusammentrugen, um diese Konstruktion zu erschaffen.<br>Die Mechanikbestie ist nur höchst selten anzutreffen, doch diejenigen, die das Pech haben, ihr über den Weg zu laufen, werden von ihren zahlreichen Waffen so gnadenlos unter Beschuss genommen, dass ein Überleben selbst für die Krieger des Lichts, welche die Kraft besitzen, die Welt zu retten, nicht gesichert wäre."
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "„Dario – sag ‚Aaaah‘ ...“<br> „Mhmmm ... Wow, das ist wirklich unglaublich gut. Du kannst so gut kochen, Vinera.“<br>„Bevor ich hierher gekommen bin, habe ich sehr viel geübt, weißt du ... Ah, es ist noch mehr da – lass es mich holen gehen.“<br>„Warte, Vinera, ich mache das schon. Du entspanne dich einfach, ja?“<br>„Aber Dario, du bist doch so schwach ...“<br>„Mach dir keine Sorgen; heute geht es mir richtig gut. Sicherlich, weil wir von so schönen Blumen umgeben sind.“<br>„Dario ... Vielen Dank. Ich ... Ich bin wirklich glücklich.“<br>„Ich auch, Vinera. Ich will diesen Anblick noch viele Jahre gemeinsam genießen.“<br>„Ja, ich ebenso ...“"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "　Diabolos, von dem angenommen wird, er stamme aus der Welt der Dunkelheit, ist bekannt für seinen scharfen Verstand und seine intrigante Persönlichkeit. Während es vorkommen mag, dass er jenen, die ihn riefen, im Gegenzug Wünsche gewährt, enthalten diese Transaktionen nur allzu oft Fallen und Hintertüren, und sollte sich sein Verhandlungspartner während der Verhandlungen verletzlich zeigen, kann ihn das zuweilen gar das Leben kosten."
+        },
+        {
+            "key": "VC_FFT_MV3",
+            "value": "„Es gibt wohl Dinge im Leben, die sich nicht verändern lassen, egal, was man tut ...“<br>„Sag doch so was nicht. Wenn man sich nur anstrengt, dann ...“<br>„Könnte ich dann je ein General werden? Ich will Tietra eigenhändig retten, aber ich kann absolut nichts ausrichten. Ich bin wirklich ein Habenichts ...“<br>„...“<br>„Weißt du noch, wie Vater uns beibrachte, die Halmflöte zu spielen?“"
+        },
+        {
+            "key": "VC_FFCC_MV1",
+            "value": "　Vor langer Zeit fiel ein riesiger Meteorit auf die Erde und tödliches Miasma bedeckte die Welt. Kristalle halten das Miasma in Schach, doch die Kraft der Kristalle währt nicht ewig. Junge Abenteurer begeben sich einmal im Jahr auf die Suche nach Myrrhe, um die Kristalle damit zu reinigen.<br>Dies sind die Chroniken dieser jungen Abenteurer, die mit ihrer Reise ihre Heimat beschützen. Dies sind die „CHRYSTAL CHRONICLES“."
+        },
+        {
+            "key": "VC_LW_ROBUST",
+            "value": "　„Solidus“, die prestigeträchtige 1. Division Hournes, ist auch außerhalb der Landesgrenzen für ihre militärischen Verdienste bekannt: der rauhe und maskuline Paladin und Kommandant Engelbert, der Dragoner und Vizekommandant Lorenzo, das Verwegene Erste Schwert Schuzelt und die tödliche Schüsse abfeuernde Tochter einer Jägerfamilie Frederika. Zusammen mit ihren gnadenlosen Kämpfern wie Xiza und Vystraal sind sie als die mobile Festung bekannt, die ihren König beschützt. Es ist nicht nur der Stärke der einzelnen Mitglieder, sondern auch ihre Angriffskraft als vereinte Truppe, die „Solidus“ zu den Besten auf dem Kontinent macht."
+        },
+        {
+            "key": "VC_LW_FNRR",
+            "value": "　Eine Esper, deren Blutdurst schon seit Urzeiten gefürchtet wird. Obwohl ihr Körperbau dem eines Wolfs ähneln soll, verfügt sie über ganze sechs Augen, breite Schwingen auf ihrem Rücken und sichelartige Klingen an ihren Vorderbeinen.<br>Legenden zufolge sollen sich großer Stärke rühmende Männer diese Esper einst gefangen und in Ketten gelegt haben; eines Tages jedoch riss sie sich los und zerfleischte gnadenlos jedes einzelne Mitglied ihres Stammes. Die Berichte zahlreicher Augenzeugen, die an Fenrirs Hals und Beinen die Überreste zerrissener Ketten ausgemacht haben wollen, verleihen dieser Legende Glaubwürdigkeit."
+        },
+        {
+            "key": "VC_LW_TITN",
+            "value": "　Eine Gigantenspezies, die bereits lang vor den Menschen existiert haben soll. Ganz wie der Name vermuten lässt, sind sie weithin für ihre unfassbaren Körperdimensionen sowie die mächtigen Schläge, die sie dadurch austeilen, bekannt. Selbst eine kleine Bewegung ihrerseits soll ausreichen, um die Erde weithin zum Dröhnen zu bringen, und wenn ihre Faust auf den Boden trifft, führt dies zu drastischen topographischen Veränderungen in der Umgebung.<br>Obwohl sie für gewöhnlich ihrem Status als Symbol der Erde selbst entsprechend sanftmütige Wesen sind, explodieren sie geradezu vor blinder Stärke, wenn ihr Zorn einmal geweckt wurde. Daher ist es ratsam, lieber ihre Freundschaft als ihre Feindschaft anzustreben."
+        },
+        {
+            "key": "VC_LW_VKTR",
+            "value": "　Nicht nur Glaziela behandelt sie wie ihre eigene Schwester; auch Margarete und Vadim von „Rubeus“ sowie Mont schätzen die Dragonerin Viktora als verlässliche Helferin in der Not. Hinter dem Rücken derer, die ihr vertrauen, steht sie jedoch mit Khuri, König von Wezette und Glazielas Erzfeind, in Verbindung, und vieles in ihrem Verhalten deutet darauf hin, dass sie gemeinsam mit ihrer Partnerin Luartha eigene Ziele verfolgt.<br>Stets auf ihre Schönheit bedacht und auch in Geldfragen zu keinerlei Kompromissen bereit, könnte man sagen, dass es sich bei ihren reizenden Gesichtszügen, ihrem Aussehen und ihrem Benehmen um nichts anderes als eine „Maske der Täuschung“ handelt, mithilfe derer sie jene um sich herum nach Belieben manipuliert."
+        },
+        {
+            "key": "VC_LW_HALL",
+            "value": "„Eure Wildheit, da sind diese ausgelassenen Störenfriede schon wieder!“<br>„Törichtes Geisterpack, denen machen wir den Garaus! Auf, Oldoa!“<br>„Zu Befehl, König Muraga!“<br><br>Aus der Furcht vor Monstern, die ihren Opfern das Blut aussaugen und sie so ihrer Kräfte berauben oder über andere außergewöhnliche Fähigkeiten verfügen, war es in einigen Regionen bereits seit Urzeiten Brauch, deren Aussehen durch Verkleidungen zu imitieren, um so an ihren übermenschlichen Kräften teilhaben zu können.<br>Dieses Brauchtum ist mittlerweile in vielen Städten bereits ausgestorben, jedoch häufen sich seit einigen Jahren Berichte aus solchen Gegenden, dass zu einer ganz bestimmten Zeit des Jahres eigentümlich aussehende magische Wesen auftauchen, die die ganze Nacht lang auf den Straßen ihr Unwesen treiben und Chaos anrichten.<br>Bei solcherlei Vorkommnissen werden dann die Bewohner der Gebiete, die die alten Traditionen noch ehren, in die Städte gerufen, um den Dämonen das Fürchten zu lehren und sie in ihre Welt zurückzuschicken."
+        },
+        {
+            "key": "VC_LW_IGNT",
+            "value": "　Ein gigantisches Monster, gekleidet in eine edle Eisenrüstung, mit überragender Offensive und Defensive. Selbst seine von der Rüstung unbedeckte Haut ist so hart wie Metall. Daher liegt man wohl kaum falsch in der Annahme, dass seine defensiven Kapazitäten weit fortgeschrittener sind, als man mit bloßem Auge erkennen kann. Seine Angriffe sind heftig und überraschend flink für einen Giganten in einem schweren Panzer. Man vermutet, dass der Eisengigant von einer Art Magie oder durch irgendeine Beschwörungsformel in den Kampf gesteuert wird."
+        },
+        {
+            "key": "VC_LW_BHMT",
+            "value": "　Eine vierbeinige Bestie, überzogen von eisernen Muskeln. Sie ist der Inbegriff eines Monsters; ihr Anblick genügt, um zu wissen, dass niemand bei Verstand das Schwert gegen den Behemoth heben würde. Beinahe scheint es, als sei die Bestie mehr eine chaotische Ansammlung böswilliger Einzelteile als eine einzelne Einheit. Sie hat die scharfen Hörner eines Teufels und eine dicke Löwenmähne, und aus ihrem Rücken ragen lange, spitze Dornen wie bei einem Drachen. Gerüchten zufolge soll sie sogar in der Lage sein, aufrecht wie ein Mensch auf Hinterbeinen zu gehen, obgleich kaum jemand von sich behaupten kann, diesen fürchterlichen Anblick je gesehen zu haben. Die effizienteste Lösung für einen Konflikt mit einer Bestie wie dem Behemoth ist die Flucht. Wenn aber die Konfrontation unvermeidbar ist, kämpft man am besten aus der Ferne und macht sich auf einen langen, zermürbenden Kampf gefasst."
+        },
+        {
+            "key": "VC_LW_MABR",
+            "value": "　Ein widerwärtiges Pflanzenmonster mit augenartigen Sinnesorganen, Unmengen scharfer Zähne und Dutzenden Ranken, die sich um seinen Körper winden wie Tentakel. Auch wenn der bloße Anblick seines wallenden Körpers ausreicht, um jeden zu überwältigen, ist das Fürchterlichste der faule Atem, den es aufstößt. Wer dem stinkenden Atem eines Morbol ausgesetzt wird, erblindet, wird vergiftet und verfällt in einen benebelten Geisteszustand, in dem er Freund nicht mehr von Feind unterscheiden kann – bevor er von der fauligen Bestie verschlungen wird. "
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "„Ob Seine Majestät Styr meine Schokolade wohl annehmen wird ...?“<br>„Was ist los, Etre? Warum machst du nicht weiter? Nashia ist schon fast fertig, und ich brauche auch nicht mehr lange.“<br>„... Hm? Das heißt, du bist auch bald fertig? Yerma ... was genau kochst du da?“<br>„Bist du blind? Schokolade natürlich!“<br>„Äh, wirklich? ... Uh, das riecht ja sehr ... dynamisch ... Bist du sicher, dass du alles richtig gemacht hast?“ <br>„Oh ja, dynamisch ist genau richtig! Das ist keine normale Schokolade, sondern eine Suppe mit lauter köstlichen Zutaten drin! Wenn Styr die isst, wird er sich sicher ... hehehe ...“<br>„... Wird er sich sicher in Lebensgefahr begeben! Nashia, wir müssen sie aufhalten!“<br>„Styr, nicht .... Mein zartes Herzchen ist noch nicht bereit ...“<br> „Kommt mal wieder zurück in die Wirklichkeit, ihr zwei ...!“"
+        },
+        {
+            "key": "VC_LW_FAMILY",
+            "value": "　An jenem Tag war ganz Leonis von Jubel erfüllt, denn dem König war ein Kind geboren worden – zwei Kinder, um genau zu sein. Die Jubelrufe waren umso lauter, da dies auch bedeutete, dass dem Volk ein Prinz geboren war, der eines Tages über das Land herrschen würde. Und während die Freudenrufe der Bürger so laut durchs Schloss hallten, dass die Wände erbebten, standen die engsten Berater um den König und äußerten flüsternd ihre Bedenken, dass Zwillinge sicher Zwist darüber bringen würden, wer den Thron besteigen solle. Doch König Yrde lachte alle Bedenken beiseite. Er war überzeugt, dass Zwillinge das Fortbestehen der königlichen Blutlinie sichern würden. Und so verging dem sonst so grimmigen König an diesem Tag das Lächeln nicht. Auch Königin Helena war überglücklich, doch niemand freute sich mehr über die Geburt der Jungen als Yrde selbst."
+        },
+        {
+            "key": "VC_LW_KTON",
+            "value": "　Die Aufträge einer Shinobi können ganz unterschiedlicher Natur sein – Nachrichten übermitteln, Informationen sammeln, die Meinung des Volkes manipulieren oder Attentate ausführen – und nicht immer gelingt es, sie sauber umzusetzen. Kiton steht im Dienste der Königsfamilie, seit sie klein war, allerdings wurde sie in diese Dienste gezwungen. Ob sie will oder nicht: Der einzige Weg nach vorne in ihrem Leben ist es, den Befehlen des Königs zu gehorchen. Je beunruhigender die Manöver von Fennes werden, desto öfter erhält Kiton geheime Befehle, führende Persönlichkeiten von Leonis zu beschützen. Ihre zierliche katzenartige Gestalt dient ihr als Shinobi sehr zum Vorteil. Dank ihrer hohen Agilität und ihrer erstaunlichen Körperkraft hat sie bisher noch jede Mission erfolgreich umsetzen können."
+        },
+        {
+            "key": "VC_LW_PROPOSE",
+            "value": "　Sie waren noch Kinder, als sie sich begegneten, aber eines Tages platzte ein flüchtender Schuzelt mit einem Straßenkätzchen in den Händen bei Naiah ins Zimmer, um es vor einem erbosten Sanitätsoffizier zu retten. Bis zu diesem Tag war Naiah eine eher stille Stubenhockerin gewesen. Doch als sie Schuzelts Erzählungen von der Welt hörte, glomm Neugier in ihr auf, und irgendwann begleitete sie ihn auf Spaziergängen durch die Stadt. Naiah lernte die Kunst der Weißen Magier, um Schuzelt helfen zu können, und die beiden verzeichneten ordentliche Erfolge beim Beseitigen von Monstern. Aus Tagen wurden Monate, und an Naiahs 25. Geburtstag gestand Schuzelt seine Gefühle mit der einen Frage. Und natürlich sagte sie Ja."
+        },
+        {
+            "key": "VC_LW_SDLX",
+            "value": "　Schattenluchs trat in die Dienste der königlichen Familie von Hourne, als sie noch ein Kind war. Dort diente sie nicht nur als Wache im Palast, sondern auch als Spielgefährtin für Prinzessin Margery, und es kam nicht selten vor, dass sie angesichts des ungestümen Gemüts der Prinzessin nicht wusste, wie sie sich verhalten sollte. Wenn Schattenluchs eine kurze Atempause von ihren Pflichten brauchte, besuchte sie ihre Katze, die sie in einem kleinen Versteck außerhalb der königlichen Hauptstadt hielt. Es reichen wenige Momente Spielzeit mit ihrem geliebten Haustier, um alle Sorgen auf der Welt aus ihrem Kopf zu fegen und die Falten auf ihrer Stirn zu glätten. Das ist auch heute noch so, obwohl sie inzwischen dazu auserkoren wurde, an König Robbs Seite zu dienen."
+        },
+        {
+            "key": "VC_LW_TEAPARTY",
+            "value": "　Lilith – ihres Zeichens Kommandantin von „Caelum“ – und ihre rechte Hand Lhamada halten inne, um in den Sternen zu lesen. Obwohl beide Ritterinnen sind, ist Lilith eher jemand, die tollkühn durch die feindliche Vorhut mäht, während Lhamada dazu neigt, Situationen aus der Entfernung besonnen zu analysieren. Nichtsdestotrotz holt Lilith bezüglich unterschiedlichster Angelegenheiten Lhamadas Rat ein; umgekehrt vertraut diese Caelums Kommandantin vorbehaltlos hinsichtlich ihrer beider Pflicht, Prinz Mont vor Unheil zu bewahren. Am meisten wertschätzen beide die Momente, in denen sie auf etwas gemeinsam Erreichtes anstoßen können. Dabei sind ihre Krüge mit einem von Lhamada speziell aufgebrühten Tee gefüllt. Die beiden tauschen sich fröhlich und unbeschwert miteinander aus – und nicht selten kommt dabei auch das eine oder andere wilde Gerücht über die mit ihnen reisenden Männer zur Sprache."
+        },
+        {
+            "key": "VC_LW_HUNT",
+            "value": "　König Khuri von Wezette ist bekannt für sein Geschick als Bogenschütze. „Die Kunst des Bogens“, sagt er, „liegt darin, jedwede Situation vorherzusehen und die Sinne zu fokussieren, ja, zu schärfen, bis es nicht mehr geht.“ Folgt man diesem Ratschlag, so wird der Pfeil wie von selbst sein Ziel finden und die vorgesehene Beute erlegen. Auch als Regent seines Königreiches sieht Khuri nicht nur auf das, was vor ihm liegt, sondern auch auf das, was sich dahinter verbirgt. Es mag den Anschein haben, dass Wezette sich an Handlungen beteiligt, die seinen Feinden Vorteile verschaffen – oder sogar als Verrat an seinen Alliierten gewertet werden könnten. Doch Khuri setzt seine geschärften Sinne nur ein, um herauszufinden, wo die Würfel bereits gefallen sind – und wo noch nicht. Nicht wenige bewerten Khuri als hinterlistig und kalkulierend, doch mindestens ebenso viele loben ihn als einen einmalig weisen König."
+        },
+        {
+            "key": "VC_FF14_MV2",
+            "value": "　Das neue Abenteuer des Kriegers des Lichts führt ihn in eine andere Dimension; er betritt den Kontinent Norvrandt in der ersten Splitterwelt, die von einer nahezu alles vernichtenden Lichtflut heimgesucht wurde. Diese Lande bringen eine neue Bedrohung hervor, eine, die jenen der bisher durchquerten Welten verdächtig ähnlich sieht ... Und so wird der Krieger des Lichts zum Krieger der Dunkelheit, eingeschworen darauf, der Splitterwelt den Nachthimmel zurückzubringen."
+        },
+        {
+            "key": "VC_LW_NEWYEAR",
+            "value": "　„Mir kam zu Ohren, dass in einer fernen Welt Gewänder wie dieses getragen werden, um festliche Anlässe zu begehen. <br>Recht unkomfortabel zwar, muss ich sagen, aber durchaus genehm!“ <br> „Schön, dass es dir gefällt. Und dir steht es wirklich gut, Margery.“<br> „Das kann ich nur zurückgeben, Mont! Übrigens, welcherlei Festivitäten erwarten uns denn? Ich nehme an, dieser Schläger ist dazu da, unsere Feinde damit niederzuschlagen?“<br> „Äh, nun ja, also ... Vielleicht nicht ganz ...“"
+        },
+        {
+            "key": "VC_LW_LAMA_01",
+            "value": "　Lamia sind furchterregende Monster mit dem Torso einer Frau und dem Unterkörper einer Schlange. Noch viel schlimmer ist ihre aufreizende Anführerin, die Lamia-Königin. Wenngleich Lamia oft über bezaubernde feminine Schönheit verfügen, so soll keine von ihnen ihrer Königin auch nur im Entferntesten das Wasser reichen können.<br>Nicht wenige, die sich schon von ihrer Legende betören lassen, fallen ihr später zum Opfer: Zuerst manipuliert sie sie und später, wenn sie das Interesse an ihnen verliert, verschlingt sie sie in einem Zug."
+        },
+        {
+            "key": "VC_LW_GUARD",
+            "value": "　Sadali Krystheas Eliteleibwächterinnen, die ihm wie ein Schatten folgen und jegliche Bedrohung von ihm abwenden. Sie wirken alles andere als bedrohlich, sind aber mehr als fähig, feindliche Angriffsversuche im Keim zu ersticken, und wenn sie in die Offensive gehen, entspricht ihre Stärke allein der einer ganzen Armee. Sadali baut auf sie mehr als auf alles andere, da sie es sind, die die Kristallene Stätte in die Ränge der anderen großen Nationen erheben.<br>Da sie außer in Zwiesprache mit ihrem Meister Sadali nur selten ihre Stimmen ertönen lassen, bleiben sie selbst Angehörigen der Kirche des Kristalls ein Mysterium. Die Altersunterschiede zwischen den drei sind leicht ersichtlich, doch aufgrund ihrer Masken, die jeweils einen anderen Teil ihrer ansonsten verblüffend ähnlichen Gesichtszüge verbergen, munkelt man, ob sich bei ihnen nicht vielleicht um Schwestern handelt."
+        },
+        {
+            "key": "VC_LW_LILS",
+            "value": "　Es gab einen Zeitraum von etwa zwei Jahren, in dem Lilith Leonis den Rücken kehrte. Der Grund hierfür war der Tod ihres Bruders Falk im Krieg gegen Fennes: seinen lädierten, leblosen Körper umklammernd, schwor sie Rache. Was genau innerhalb dieser zwei Jahre geschah, gibt sie nicht einmal Mont preis. Selbst für eine Schwertkämpferin ihres Kalibers stellt das Ansinnen, ganz alleine den König einer Kriegernation niederstrecken zu wollen, ein wahnwitziges Vorhaben dar. Angeblich soll sie Muraga und seine Armee unaufhörlich durch kalte Tundren und lebensfeindliche Gebiete verfolgt haben, alles in dem Bestreben, in einem Moment der Unaufmerksamkeit zuzuschlagen; auch ihre unzähligen Narben stammen aus dieser Zeit. Wenngleich sie letzten Endes heimkehrte, ohne ihre Rachegelüste befriedigt zu haben, so wartet sie auch jetzt noch auf eine Chance, Vergeltung zu üben."
+        },
+        {
+            "key": "VC_LW_OCHU",
+            "value": "　Ein massives Pflanzenmonster, dessen Größe mühelos kleinere Hügel in den Schatten stellt. Neben seinem gigantischen Maul mit spitzen Fangzähnen zeichnet es sich durch seine zahllosen Ranken aus, die den Barteln eines Wels ähneln. Es ist berüchtigt für seine Fähigkeit, eine Reihe schädlicher Zustandsveränderungen wie Gift oder Lähmung hervorrufen zu können. Sobald es in Erregung gerät, schüttelt es seinen gewaltigen Körper, was für manche eine Art Tanz darstellt. Oft werden sie auch von einer Schar junger Kleinküsschen begleitet."
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "　Diese Welt ist nicht die deine. Deines Gedächtnisses beraubt findest du dich hier, in Palamecia, wieder. Doch du bist nicht der Einzige; neben dir hat es auch viele andere hierher verschlagen, die sich an nichts erinnern können. Ohne Vergangenheit nennt man euch die „Blanks“. Doch wenngleich ihr eure Vergangenheit verloren habt, bleibt euch immer noch die Zukunft.<br>In Palamecia gibt es eine Prophezeiung, die lautet: „Eines Tages wird der Krieger des Lichts auftauchen und der Welt die Hoffnung zurückbringen.“<br>Kann es sein, dass einer der Blanks – oder etwa sogar du – der Krieger des Lichts aus der Prophezeiung ist?<br>Kämpfe für die Zukunft und bringe Hoffnung nach Palamecia!"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "　Adelard, seines Zeichens Rotmagier und Kommandant von Hournes 2. Division „Nitor“, darf sich exquisiter Schwertführung und magischen Talents rühmen. Für gewöhnlich niemals die Fassung verlierend, hat jedoch auch er einen Schwachpunkt: seine jüngere Schwester Salire, eine seiner Division angehörende Schwarzmagierin und seine einzige Blutsverwandte.<br>In krassem Gegensatz zu ihrem Bruder, welcher selbst seiner Schwester gegenüber nur unter vier Augen seine sanfte Seite zeigt, macht Salire keinen Hehl aus ihrer glühenden Bewunderung für ihren großen Bruder: selbst im Einsatz weicht sie keinen Millimeter von seiner Seite und tut alles Menschenmögliche, andere von ihm fernzuhalten, um ihn ganz für sich alleine zu haben. Es überrascht daher nicht, dass seine zahlreichen Verehrerinnen, angezogen von seinem guten Aussehen und seinem exzellenten Ruf, in allerhöchstem Maße Salires brennende Eifersucht auf sich ziehen, doch auch Männer und sogar Haustiere sind Objekte ihrer Rivalität."
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "„Ooh, können wir das wirklich annehmen? Sieht ja echt teuer aus ...“ „Nur um das nochmal klarzumachen: Lolla und ich haben dir nur aus Verpflichtung heraus Schokolade gegeben, klar?“ „Natürlich weiß ich das, Sosha. Aber ich wollte mich einfach dafür revanchieren, dass ihr euch immer um mich kümmert. Ist wirklich nichts Besonderes!“ „Hey Lallu, wann haben wir uns denn um ihn ihn gekümmert?“ „Also wirklich, Sosha – du hast ihm doch sogar liebesmäßig unter die Arme gegriffen! Für Lhamada hast du doch sicher noch was Besseres vorbereitet, oder, Vallaid?“ „Absolut! Allerdings kann ich mich bei ihr nicht ‚revanchieren‘, da ich noch nie irgendetwas von ihr bekommen habe ...“"
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "　Die Heirat von Dario, dem Prinzen von Hourne, und Vinera, der Prinzessin von Fennes, war nichts weiter als ein politisches Manöver, um eine Allianz zwischen den beiden verfeindeten Nationen zu erzwingen; dahinter jedoch stand eine finstere Verschwörung.<br>Wenngleich die Bürger der beiden Königreiche vorgaben, die Vermählung zu feiern, glaubte doch niemand an eine glückliche Zukunft für die beiden ... Niemand außer dem Prinzen und der Prinzessin selbst.<br>Die beiden wurden einander versprochen, ohne auch nur das Geringste über den jeweils Anderen zu wissen, und auf ihrer Beziehung lasteten schwer Verpflichtung und Verantwortung, doch Dario nahm sich Vinera an, wie es Gemahlen mit einer Gemahlin tun, und mit jedem Mal, das sie seine Freundlichkeit erfuhr, öffnete sich ihr Herz mehr. <br>Auch wenn die Verbindung der beiden aus ominösen Umständen hervorging – letzten Endes wurde daraus eine echte Seelenverwandtschaft."
+        },
+        {
+            "key": "VC_FFT_MV2",
+            "value": "　Chocobos sind weithin bekannt für ihr flauschig weiches, gelbes Gefieder, doch tatsächlich haben unterschiedliche Umweltbedingungen und Veranlagungen eine Vielzahl von Farbvarianten hervorgebracht. Unter diesen tun sich insbesondere Chocobos mit rotem Federkleid als besonders temperamentvoll und aggressiv hervor, was ihnen zu der gesonderten Bezeichnung „Roter Chocobo“ verholfen hat.<br>In einer fernen Welt lebt eine große Herde Chocobos, darunter auch die rote Spezies, nah einem gewissen Fluss; es heißt, dass ihre starken Beine ihnen die mühelose Fortbewegung auf selbst unwegsamstem Terrain ermöglichen und sie außerdem in der Lage seien, kleine Meteoriten heraufzubeschwören. In Anbetracht all dessen ist es nicht verwunderlich, dass jene, die einer Gruppe roter Chocobos auf ihren Reisen begegneten, vor Angst nur so schlotterten."
+        },
+        {
+            "key": "VC_FFCC_MV2",
+            "value": "　Um sich vor dem giftigen Miasma, das die Welt umhüllt, zu schützen, errichteten die Menschen Dörfer und Siedlungen in jenen Gebieten, in denen sich Kristalle fanden.<br>Da die Kristalle jedes Jahr einer Reinigung durch die Tropfen des Myrrhe-Baums bedürfen, wagen sich alle Jahre junge Helden aus den Dörfern auf die Reise, mit einem Splitter des Kristalls in einem Topf im Gepäck, um die kostbaren Myrrhe-Tropfen aufzutreiben.<br>Sie sind das, was man die Kristall-Karawane nennt.  "
+        },
+        {
+            "key": "VC_LW_MDFY",
+            "value": "Ein Monster, dessen Name „den Verstand strapazieren“ bedeutet. Wenngleich es den Menschen schon seit Urzeiten bekannt ist und ebensolange von ihnen gefürchtet wird, ranken sich dennoch zahlreiche Mysterien um seine Existenz. Obwohl über seine enorme Intelligenz und magischen Fähigkeiten keine Zweifel bestehen, ist unbekannt, ob es über menschliche Emotionen verfügt oder über Sprache kommunizieren kann. Einige Gerüchte besagen gar, dass es sein Wissen durch den Verzehr der Gehirne intelligenter Lebewesen erlangt oder dass es aufgrund seiner Erscheinung einst selbst ein Mensch gewesen sein soll. Eines jedoch ist unbestritten: alle, die sich dieser Kreatur entgegenstellten, erlitten beträchtlichen mentalen Schaden, und selbst jene, die siegreich aus dem Kampf hervorgingen, würden es kein zweites Mal tun wollen."
+        },
+        {
+            "key": "VC_LW_ORDR",
+            "value": "　Wenngleich es vielen ungewöhnlich erscheinen mag, hat Oldoa aus der königlichen Leibgarde Muragas eine große Schwäche für niedliche Tierchen aller Art. Diese Zuneigung stößt allerdings in den seltensten Fällen auf Erwiderung. Obwohl ihre Tierliebe sie sogar während des Dienstes ihren Marsch unterbrechen lässt, wenn sie eines der reizenden Geschöpfe am Wegesrand erblickt, empfinden diese ihre schrille Haarpracht und pompöse Rüstung nur zu oft als Bedrohung und ergreifen die Flucht.<br>Kilphe, Zeugin solcher Szenen aus nächster Nähe, hat den Grund für die Furcht der Tiere längst durchschaut, Oldoa jedoch noch nicht darauf aufmerksam gemacht. Sie bevorzugt es, beim Anblick der aufgrund der Ablehnung ihrer geliebten Tierchen niedergeschlagenen Oldoa zufrieden in sich hineinzulächeln."
+        },
+        {
+            "key": "VC_LW_KING",
+            "value": "　Inmitten der in Ardra tobenden Hegemonialkämpfe machten sich vier herausragende Könige einen Namen.<br>König Robb von Hourne, dessen weite Ländereien sowie beeindruckende militärische Macht den Westen prägen, ist weithin für seinen Großmut bekannt. Im Osten erstreckt sich das frostige Königreich Wezette, das bereits seit unzähligen Generationen ein angespanntes Verhältnis zu Hourne pflegt und vom nervösen, vorsichtigen König Khuri mit eiserner Hand regiert wird.<br>Zwischen diesen beiden Nationen finden sich das vom grobschlächtigen Barbaren Muraga beherrschte Fennes im Norden sowie das kleine Leonis im Süden, dem König Yrde trotz der fehlenden Größe seines Einflussbereichs durch seinen Listenreichtum und seine geschickten politischen Manöver zu Präsenz verhalf.<br>Bisher erhielten diese vier Königreiche auf beinahe wundersame Weise eine multilaterale Balance aufrecht und schafften es, größere Kriege zu vermeiden, doch dieses Kräftegleichgewicht droht nun, durch die Schachzüge von Papst Sadali der Kirche des Kristalls nach und nach zusammenzubrechen."
+        },
+        {
+            "key": "VC_LW_BLMN",
+            "value": "　Ein böser Geist, der die Gestalt eines Mondes angenommen hat. Seine rote Färbung lässt es so wirken, als sei es frisch vergossenes Blut, das ihm seine Farbe verleiht. Schon seit längst vergangenen Zeiten gilt er als Vorzeichen von Katastrophen und bringt seinen Betrachtern nur Unglück und Tod. Wer den mächtigen Magieangriffen, die er mit höhnischem Grinsen entfesselt, nicht standhalten kann, verliert nur allzu leicht sein Leben im Kampf gegen dieses Monster."
+        },
+        {
+            "key": "VC_LW_CACT",
+            "value": "　Ein Monster vom Typ Pflanze, das normalerweise in Wüstenregionen gesichtet wird. Seine verblüffende Ähnlichkeit mit einem Kaktus – einer sukkulenten, wasserspeichernden Pflanze, die in Wüsten oder anderen trockenen Biomen zu Hause ist – gab ihm seinen kuriosen Namen. Sein stacheliges Äußeres erinnert stark an die dornigen Blätter eines Kaktus, und wenn er stillsteht, ist er kaum von der tatsächlichen Pflanze zu unterscheiden. In seltenen Fällen wachsen einem Kaktor sogar Blüten wie seinem botanischen Gegenstück; nicht wenige Wüstenwanderer fielen schon auf diesen hoch spezialisierten Doppelgänger herein. Mund und Augen dieser Kreatur sind seltsam hohl, und obwohl der Kaktor über alle Gliedmaßen verfügt, die er zum aufrechten Gehen bräuchte, wurde er noch nie dabei beobachtet. Das mag allerdings daran liegen, dass er im Augenblick seiner Sichtung erstarrt und blitzartig verschwindet, sobald sein Gegenüber auch nur eine Sekunde lang abgelenkt ist."
+        },
+        {
+            "key": "VC_LW_ARMN_01",
+            "value": "　Der Körper dieses Monsters besteht aus nicht viel mehr als einem Augapfel und einem Mund. Daran angewachsen sind ein Horn, Flügel, Klauen und ein Schwanz. Es zählt zu der Sorte Monster, die generisch als Teufelsart klassifiziert wird, wobei es in Sachen Stärke einen eher niedrigen Rang belegt. Es soll Menschen geben, die das Schwebauge auf eine morbide Art als „knuffig“  empfinden. Tatsächlich ist es aber reichlich aggressiv. Es weiß seine Klauen mit beängstigendem Geschick einzusetzen – manchmal wird es sogar beobachtet, wie es primitive Waffen damit bedient."
+        },
+        {
+            "key": "VC_LW_ZUUU",
+            "value": "　\"Wenn dieser enorme Vogel vom Boden abhebt, fährt er in den Himmel wie ein aufsteigender Berg und kann aus meilenweiter Entfernung gesichtet werden. Ein einziger Schlag seiner Flügel reicht aus, um ein kleines Dorf von der Landkarte zu fegen – ein Talent, das ihm den furchtbesetzten Namen „Sturmvogel“ eingebracht hat. In der Luft verfügt der Zuu über unübertroffene Stärke, doch auch er hat Schwachstellen. Seine übermäßige Größe macht ihn schwerfällig zu Land, und auch das Abheben vom Boden ist mit großer Anstrengung verbunden. Nur wenn er sich am Boden befindet, bietet sich die Möglichkeit, ihn zu fangen.\""
+        },
+        {
+            "key": "VC_LW_OGRE",
+            "value": "　Ein kampflustiges Monster mit einem Faible für Folter. Von Menschen gleichermaßen gefürchtet wie gehasst, wird es auch der Menschenfresser genannt. Seine enorm muskulöse Gestalt – und die damit einhergehende Stärke – beträgt das Vielfache eines gewöhnlichen Menschenkörpers, was es zu einer wahrhaft bedrohlichen Präsenz für die Völker von Ardra macht."
+        },
+        {
+            "key": "VC_LW_BOMB",
+            "value": "　Ein eigentümliches, kugelförmiges Monster, dessen schwebender Körper komplett in Flammen gehüllt ist. Es verfügt über Augen und einen Mund, doch diese scheinen Gebilde der Flammen zu sein und nehmen nur so weit Gestalt an, wie der Gefühlszustand der Kreatur es verlangt. Wie schon der Name vermuten lässt, ist der Bomber explosiver Natur, und Konflikte beendet er oft mit seiner Selbstzerstörung. Diese Taktik scheint direkt mit dem Zorn in Verbindung zu stehen, den er während des Kampfes empfindet."
+        },
+        {
+            "key": "VC_LW_JOBCRYSTAL",
+            "value": "　Kristalle enthalten unzählige Erinnerungen und werden gebraucht, um die verschiedensten Dinge zu beschwören; diesem ganz speziellen Kristall jedoch wohnt einzig die Essenz inne, die dazu benötigt wird, sich einen Job anzueignen. Auch die Extraktionsmethode ist einzigartig, reicht es doch, den Kristall mit sich auf das Schlachtfeld zu führen. Ein warmes Licht soll von ihm ausgehen und seinen Besitzer umhüllen, wann immer dieser einen Feind bezwingt, und ihm so zu mehr Erfahrung als gewöhnlich verhelfen."
+        },
+        {
+            "key": "VC_LW_BYLO",
+            "value": "　Es gibt für Baelo keine schlimmeren Attacken als seine plötzlichen Hungerschübe. Er liebt jegliche Art von Essen und ist sich durchaus bewusst, dass die Mengen, die er verzehrt, deutlich über dem Durchschnitt liegen. Nicht selten wird er für seinen Körperumfang verhöhnt, doch solchem Gerede schenkt er kaum Beachtung, solange er sich stattdessen auf sein nächstes Mahl konzentrieren kann. Baelo blickt stets nach vorn. Er ist stolz auf seine Körperkraft und überzeugt, dass er sie den Unmengen Essen verdankt, die er vertilgt. Diese Überzeugung teilt er – sehr zum Ärger seiner Kameraden – auch ungeniert der Umwelt mit, wenn er verkündet, dass dies sein wahrer Beitrag als Ritter bei „Caelum“ sei. Baelo versucht sich oft im Aufstellen von essensbezogenen Rekorden, obwohl Learte ihn regelmäßig davon abzuhalten versucht. Er testet jedes Gericht, das ein Restaurant zu bieten hat, und bestellt zuweilen dieselbe Speise ein Dutzend Mal. Er behauptet unbeirrt, dass dies „zum Wohle von Caelum“ geschehe, und lässt sich durch nichts und niemanden von dieser Sicht abbringen."
+        },
+        {
+            "key": "VC_LW_RART",
+            "value": "　Learte ist nicht nur eine unglaublich talentierte Bogenschützin, die in „Caelum“ dient, sondern auch eine ausgesprochen typische Jugendliche. Ihre Aufmerksamkeit gilt gleichermaßen ihrer Frisur, ihrem Outfit, den Accessoires, die sie trägt, und den Jungs, die ihr nahestehen. Sie ist stolz auf ihre Position als Soldatin Leonis’ und bereit, für Mont und ihre anderen Gefährten zu kämpfen. Gleichzeitig träumt sie von einer Zukunft, in der sie mit dem Mann, den ihr das Schicksal bestimmt, eine Familie gründet. Learte packt ihre freien Tage voll mit Dingen, die sie tun möchte. Da Leonis handelstechnisch den geografischen Mittelpunkt zwischen den größeren umliegenden Königreichen darstellt, werden auf seinen Märkten viele seltene und exotische Waren feilgeboten. Ihre freien Tage verbringt Learte normalerweise damit, die Märkte zu durchstreifen – auch wenn die Liste ihrer Lieblingsstände zu lang ist, um sie alle an einem einzigen Tag abklappern zu können."
+        },
+        {
+            "key": "VC_LW_RYER",
+            "value": "　Lilli trat „Fortem“ vor zwei Jahren nach einem Vorfall in Schloss Leonis bei. An jenem Tag veranstaltete das Schloss ein Abendbankett, um hohe Besucher aus dem Ausland willkommen zu heißen. Während des vergnügten Treibens wurde Königin Helenas Diadem von einem mysteriösen Dieb gestohlen. Das ganze Schloss geriet in Panik, und ihrem niedrigen Rang zum Trotz war es Lilli, die den Fall letzten Endes löste. Als alle Ausgänge des Schlosses verriegelt wurden und Paranoia sich unter den Gästen ausbreitete, trat Lilli vor, analysierte jeden Aspekt der Situation und schussfolgerte, dass der Täter zum Schlosspersonal gehören und gewusst haben musste, dass die Königin das Diadem zum Bankett tragen würde. Nach der Befragung einiger Schlossdiener stellte sich heraus, dass ein schuldengeplagter Adliger eine der Mägde dazu angestiftet hatte, das Diadem zu entwenden. Ihre erfolgreiche Schnüffelei erregte Aufmerksamkeit, und nur wenige Tage darauf lud Sir Ornh sie ein, „Fortem“ beizutreten."
+        },
+        {
+            "key": "VC_LW_VNLA",
+            "value": "　Es mag verwundern, dass das Königreich Fennes im Vergleich zu seinen Nachbarländern in taktischer Spionage lange Zeit unterentwickelt war. Dann gründete König Muraga die Schlangengrube, eine geheime Organisation zur Ausbildung von Shinobi. Zu diesem Zweck wurden Kinder, die man dorthin gebracht hatte, einem ideologischen Drill unterzogen und in der Kunst des Meuchelmordes unterwiesen. Vinera war eines dieser Kinder. Als vorgeschlagen wurde, dass Fennes und Hourne eine Allianz mittels Eheschließung bilden sollten, fiel Muragas Blick auf Vineras schöne Gestalt. Ihr Wissen um versteckte Messer und Gifte würden nicht ausreichen in dem Unterfangen, sie als Tochter des Königs auszugeben. Also brachte ein Lehrer ihr bei, wie man sich als Dame königlicher Abstammung zu verhalten und zu kleiden hat. Das Ergebnis übertraf Muragas Erwartungen. Was nun vor ihm stand, war eine wahre Prinzessin – betörend und trotz allem noch über einen Hauch von Unschuld verfügend. Sie würde die perfekte Braut für den Prinzen eines großen Königreiches abgeben."
+        },
+        {
+            "key": "VC_LW_RIRY",
+            "value": "　Rairyu zählte einst zu den führenden Shinobi des Gouga-Klans, doch nun verkauft er seine Dienste an Fennes. Zu dieser Entscheidung trug nicht unwesentlich bei, dass Leonis und Hourne – mit Fennes konkurrierende Königreiche – einige Shinobi aus dem Saiga-Klan angeheuert hatten. Die Möglichkeit, Krieger von Saiga auszuschalten, war der Grund, weshalb sich Rairyu Fennes anschloss; danach will er mit anderen Ländern verhandeln. Rairyu hat seinen Auftraggebern noch nie vertraut – auch nicht in der Zeit vor Fennes. Seiner Meinung nach kann man auf nichts vertrauen, außer auf Bargeld. Er hatte schon mit Auftraggebern zu tun, die versuchten, sich aus der Zahlungspflicht zu winden – und er ließ sie mit dem Leben dafür bezahlen. Schlussendlich geht es immer nur ums Geld. Sollte der Tag je kommen, an dem er nach erfüllter Arbeit keine Münzen mehr zählen kann, wird er sich zweifelsohne einen neuen Beruf zulegen."
+        },
+        {
+            "key": "VC_LW_LEONIS",
+            "value": "　Der Löwe ist wahrlich ein passendes Wahrzeichen für ein Königreich mit dem Namen Leonis. Die stattliche Abbildung eines Löwen, der sich auf die Hinterbeine aufrichtet, gilt als Symbol der Stärke in Ardra, und für Leonis repräsentiert er nicht nur den Namen des Königs, sondern das Wesen des Königreiches selbst."
+        },
+        {
+            "key": "VC_LW_HOURN",
+            "value": "　Das weitläufige Königreich Hourne trägt den Stier als Wahrzeichen. Hourne wird sowohl im Namen als auch in seinem Wesen vom Stier repräsentiert. Obwohl das Königreich über reichlich Fläche verfügt und grundsätzlich eine friedliebende Haltung wahrt, würde es nicht zögern, gegen diejenigen Sturm zu laufen, die sein Volk bedrohen."
+        },
+        {
+            "key": "VC_LW_FENICE",
+            "value": "　Die Schlangen, die sich um das Schwert auf der Flagge von Fennes winden, symbolisieren die Kraft, im Kampf den Sieg zu erringen. Schlangen gelten in Ardra schon seit Ewigkeiten als Quelle der Lebenskraft. In alten Sagen essen Leute sie roh, um sich ihre Gabe zunutze zu machen."
+        },
+        {
+            "key": "VC_LW_WEZETT",
+            "value": "　Es heißt, dass die Leute von Wezette ihren Lebensraum mit den Wölfen teilten, bevor das Königreich gegründet wurde. Kein Wunder, dass ein Wolf – der in Rudeln lebt, um der Kälte des Nordens zu widerstehen – das ideale Symbol für die Leute dieser Region ist."
+        },
+        {
+            "key": "VC_LW_CRYSTAL",
+            "value": "　Der Kristall ist das ultimative Symbol für Wunder. Nachdem Sadali die Kirche gegründet hatte, zog er durch die Lande, heilte Kranke oder Verwundete und wirkte Wunder für die Mittellosen. Die Kirche zählt viele Anhänger im Volk, doch gerüchteweise finden sich auch in den obersten Rängen der Gesellschaft ergebene Gläubige."
+        },
+        {
+            "key": "VC_LW_LEONIS2",
+            "value": "　Das kleine Königreich Leonis ist von größeren Ländern umringt und setzt sich vornehmlich aus Bergen und Wäldern zusammen. Das Schloss schmiegt sich zwischen zerklüftete Gipfel, was eine hervorragende geografische Defensive und mehr als genug Aussichtspunkte für seine tödlich akkuraten Bogenschützen gewährleistet – diese Lage hat Schloss Leonis bei den Generälen anderer Königreiche den Namen der „Uneinnehmbaren Höhle des Löwen“ eingebracht."
+        },
+        {
+            "key": "VC_LW_HOURN2",
+            "value": "　Die königliche Hauptstadt von Hourne ist eine befestigte Stadt. In ihrem Herzen liegt das Schloss, umgeben von einer weitläufigen Stadt. Hinter den Stadtmauern liegen weite Äcker und natürliche Industrieregionen, die Hourne den größten Ressourcenreichtum unter allen Königreichen in Ardra bescheren."
+        },
+        {
+            "key": "VC_LW_FENICE2",
+            "value": "　Schloss Fennes liegt inmitten unfruchtbaren Ödlandes. Dort wurde es einst von einer Gruppe von Vagabunden errichtet, die nirgendwo sonst zu Hause waren. In Fennes gilt nur ein einziges Gesetz: der Starke nimmt sich, was er will. Mehr und mehr kommen und fordern dieses Gesetz heraus - und unterliegen ihm: So erfährt die Bevölkerung um das Schloss herum ein kontinuierliches Wachstum."
+        },
+        {
+            "key": "VC_LW_WEZETT2",
+            "value": "　Das Reich von Wezette liegt in den östlichen Ausläufen des Kontinents Ardra, und in über der Hälfte seiner Fläche herrscht tödliche Kälte. Schloss Wezette wurde auf steilen Klippen in einer Region mit häufigen Schneestürmen errichtet. Feindlichen Armeen ist es fast unmöglich, sich ihm zu nähern, geschweige denn es einzunehmen."
+        },
+        {
+            "key": "VC_LW_DYNVERK",
+            "value": "　Die Hauptkirche der Kristallenen Stätte liegt an der Grenze der Königreiche Hourne und Rundall. Jahrhundertealte Buntglasfenster zieren die Stätte, und auf ihnen sind zwei Figuren abgebildet – eine mit Flügeln, eine ohne. Beide halten brennende Kerzen empor, um dem Kristall in der Mitte zu huldigen."
+        },
+        {
+            "key": "VC_LW_TRSV_01",
+            "value": "　Eines von zwei zusammengehörigen Relikten der Altvorderen, mit denen man, wenn man sie gleichzeitig nutzt, über weite Distanzen hinweg miteinander kommunizieren kann. Gibt man das Gegenstück seinem Kommandanten an der Kriegsfront, können strategische Anweisungen schnell weitergeleitet werden."
+        },
+        {
+            "key": "VC_LW_TRSV_02",
+            "value": "　Eines von zwei zusammengehörigen Relikten der Altvorderen, die, wenn man sie gleichzeitig nutzt, die Anwender befähigen, über weite Distanzen hinweg miteinander zu kommunizieren. Im Gegensatz zum Himmelsapparat ist auf dem Erdapparat eine weibliche Figur abgebildet, in der Funktion unterscheiden sie sich jedoch nicht."
+        },
+        {
+            "key": "VC_LW_MIRROR",
+            "value": "　Ein Relikt der Altvorderen, das angeblich Bilder aus fernen Landen zeigen kann. Eine kleine weibliche Figur mit vogelartigen Flügeln ziert den Spiegel, und auf ihrem Arm sitzt ein Greifvogel."
+        },
+        {
+            "key": "VC_EXP_01",
+            "value": "　Ein durchsichtiger, eierförmiger Behälter, der bis zum Rand mit einer seltsamen Flüssigkeit gefüllt ist. Bei näherem Hinsehen kann man beobachten, wie feine Bläschen sanft vom Grund aufsteigen. Dieses Ei erlaubt die Verbesserung einer Visionskarte."
+        },
+        {
+            "key": "VC_EXP_02",
+            "value": "　Ein durchsichtiger, eierförmiger Behälter, der bis zum Rand mit einer seltsamen Flüssigkeit gefüllt ist. Bei näherem Hinsehen kann man beobachten, wie feine Bläschen sanft vom Grund aufsteigen. Dieses Ei erlaubt die Verbesserung einer Visionskarte."
+        },
+        {
+            "key": "VC_EXP_03",
+            "value": "　Ein durchsichtiger, eierförmiger Behälter, der bis zum Rand mit einer seltsamen Flüssigkeit gefüllt ist. Bei näherem Hinsehen kann man beobachten, wie feine Bläschen sanft vom Grund aufsteigen. Dieses Ei erlaubt die Verbesserung einer Visionskarte."
+        },
+        {
+            "key": "VC_EXP_04",
+            "value": "　Ein durchscheinendes, eiförmiges Gefäß, das bis zum Rand mit einer rätselhaften Flüssigkeit gefüllt ist. Bei genauerem Hinsehen sind einige Bläschen zu erkennen, die sanft im Inneren hin- und herschweben. Der Einsatz dieses Kleinods ermöglicht die Verbesserung einer Visionskarte."
+        }
+    ]
+}
