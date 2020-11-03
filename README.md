@@ -20,9 +20,9 @@ Issue repository for Wotv Research APP (Android/iOS).
 
 _Read this in other languages: [English](README.md), [Spanish](README.es.md)._
 
-## Why the app Cost Money?
+## Why the app have Ads?
 
-The Main difference between other tools or websites, its because i need an API to manage the data for iOS/Android, i have my own VPS server in AWS (Amazon Web services) and i need to pay each month, the iOS Developer account is expensive compare to the Android, 100 USD for a year on Apple vs 25 USD for Life on Google, thats why i need to get back the investment sorry about that, the other option was Free but with ADS, but i dont like that.
+The Main difference between other tools or websites, its because i need an API to manage the data for iOS/Android, i have my own VPS server in AWS (Amazon Web services) and i need to pay each month, the iOS Developer account is expensive compare to the Android, 100 USD for a year on Apple vs 25 USD for Life on Google, thats why i need to get back the investment sorry about that.
 
 ## Purpose
 
