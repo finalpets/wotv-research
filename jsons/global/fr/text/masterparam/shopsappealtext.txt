@@ -115,6 +115,10 @@
         {
             "key": "29",
             "value": "<line-height=15>Halloween<br>[Partie II]<br>Boutique"
+        },
+        {
+            "key": "30",
+            "value": "<line-height=15>Spécial automne 2020<br>[Partie II]<br>Boutique"
         }
     ]
 }

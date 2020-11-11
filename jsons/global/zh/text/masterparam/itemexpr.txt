@@ -1,0 +1,4000 @@
+{
+    "infos": [
+        {
+            "key": "IT_US_POTION",
+            "value": "恢復兵員的HP（小）"
+        },
+        {
+            "key": "IT_US_HIPOTION",
+            "value": "恢復兵員的HP（中）"
+        },
+        {
+            "key": "IT_US_EXPOTION",
+            "value": "恢復兵員的HP（大）"
+        },
+        {
+            "key": "IT_US_ETHER",
+            "value": "恢復兵員的TP（小）"
+        },
+        {
+            "key": "IT_US_ETHERTURBO",
+            "value": "恢復兵員的TP（中）"
+        },
+        {
+            "key": "IT_US_ELIXIR",
+            "value": "恢復兵員的HP和TP"
+        },
+        {
+            "key": "IT_US_PNXFEATHER",
+            "value": "恢復異常狀態（無法戰鬥）"
+        },
+        {
+            "key": "IT_US_ANTIDOTE",
+            "value": "恢復異常狀態（中毒）"
+        },
+        {
+            "key": "IT_US_EYEDROPS",
+            "value": "恢復異常狀態（失明）"
+        },
+        {
+            "key": "IT_US_REMINDER",
+            "value": "恢復異常狀態（睡眠、混亂）"
+        },
+        {
+            "key": "IT_US_ECHODROP",
+            "value": "恢復異常狀態（沉默）"
+        },
+        {
+            "key": "IT_US_UNICORNHORN",
+            "value": "恢復異常狀態（麻痹）"
+        },
+        {
+            "key": "IT_US_MAIDENKISS",
+            "value": "恢復異常狀態（蛙變）"
+        },
+        {
+            "key": "IT_US_GOLDNEEDLE",
+            "value": "恢復異常狀態（石化）"
+        },
+        {
+            "key": "IT_US_REMEDY",
+            "value": "恢復異常狀態（中毒、失明、睡眠、沉默、麻痹、混亂）"
+        },
+        {
+            "key": "IT_US_ENCHANTDRAG",
+            "value": "恢復異常狀態（沉默、止移、止動）"
+        },
+        {
+            "key": "IT_US_HOLYTORCH",
+            "value": "解除狀態效果（急速、再生、物防護、魔防護、浮空、重生）"
+        },
+        {
+            "key": "IT_US_HERODRINK",
+            "value": "暫時提升攻擊、魔力"
+        },
+        {
+            "key": "IT_US_BACCHUS",
+            "value": "暫時附加狂暴效果"
+        },
+        {
+            "key": "IT_US_SHELL",
+            "value": "暫時附加魔防護效果"
+        },
+        {
+            "key": "IT_US_PROTECT",
+            "value": "暫時附加物防護效果"
+        },
+        {
+            "key": "IT_US_HEALWATER",
+            "value": "暫時附加再生效果"
+        },
+        {
+            "key": "IT_US_HPPOTION",
+            "value": "暫時提升最大HP"
+        },
+        {
+            "key": "IT_US_ATKPOTION",
+            "value": "暫時提升攻擊"
+        },
+        {
+            "key": "IT_US_MAGPOTION",
+            "value": "暫時提升魔力"
+        },
+        {
+            "key": "IT_US_SPDPOTION",
+            "value": "暫時提升敏捷"
+        },
+        {
+            "key": "IT_US_DEXPOTION",
+            "value": "暫時提升靈巧"
+        },
+        {
+            "key": "IT_ACTP_01",
+            "value": "恢復玩家的體力（小）"
+        },
+        {
+            "key": "IT_ACTP_02",
+            "value": "恢復玩家的體力（中）"
+        },
+        {
+            "key": "IT_ACTP_03",
+            "value": "恢復玩家的體力（大）"
+        },
+        {
+            "key": "IT_ACTP_04",
+            "value": "恢復玩家的體力（極）"
+        },
+        {
+            "key": "IT_ARENAP_02",
+            "value": "恢復所有鬥技場寶珠"
+        },
+        {
+            "key": "IT_RAIDAP_01",
+            "value": "恢復所有共鬥寶珠"
+        },
+        {
+            "key": "IT_RANKMP_02",
+            "value": "可恢復段位賽所需寶珠的道具（全恢復）"
+        },
+        {
+            "key": "IT_CG_01",
+            "value": "可在商店換錢的道具（小）"
+        },
+        {
+            "key": "IT_CG_02",
+            "value": "可在商店換錢的道具（中）"
+        },
+        {
+            "key": "IT_CG_03",
+            "value": "可在商店換錢的道具（大）"
+        },
+        {
+            "key": "IT_CG_04",
+            "value": "可在商店換錢的道具（極）"
+        },
+        {
+            "key": "IT_US_EXP_01",
+            "value": "可對30級以下的兵員使用。使用後能獲得經驗值（小）"
+        },
+        {
+            "key": "IT_US_EXP_02",
+            "value": "可對60級以下的兵員使用。使用後能獲得經驗值（中）"
+        },
+        {
+            "key": "IT_US_EXP_03",
+            "value": "可對80級以下的兵員使用。使用後能獲得經驗值（大）"
+        },
+        {
+            "key": "IT_US_EXP_04",
+            "value": "可對所有兵員使用。使用後能獲得經驗值（極）"
+        },
+        {
+            "key": "IT_LB_EXP_01",
+            "value": "可獲得極限技的經驗值（小）"
+        },
+        {
+            "key": "IT_LB_EXP_02",
+            "value": "可獲得極限技的經驗值（中）"
+        },
+        {
+            "key": "IT_LB_EXP_03",
+            "value": "可獲得極限技的經驗值（大）"
+        },
+        {
+            "key": "IT_JB_MM_ALL",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ALL_2",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ALL_3",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ALL_4",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ALL_5",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_SWORD_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_SWORD_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_SWORD_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_SWORD_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_SWORD_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_LSWORD_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_LSWORD_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_LSWORD_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_LSWORD_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_LSWORD_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_JSWORD_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_JSWORD_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_JSWORD_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_JSWORD_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_JSWORD_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_FIST_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_FIST_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_FIST_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_FIST_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_FIST_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_SPEAR_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_SPEAR_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_SPEAR_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_SPEAR_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_SPEAR_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_SSWORD_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_SSWORD_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_SSWORD_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_SSWORD_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_SSWORD_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_KUNAI_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_KUNAI_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_KUNAI_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_KUNAI_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_KUNAI_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_BOW_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_BOW_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_BOW_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_BOW_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_BOW_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_GUN_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_GUN_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_GUN_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_GUN_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_GUN_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_STAFF_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_STAFF_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_STAFF_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_STAFF_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_STAFF_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MACE_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MACE_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MACE_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MACE_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MACE_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_AXE_01",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_AXE_02",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_AXE_03",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_AXE_04",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_AXE_05",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_COMMON",
+            "value": "可替代強化職業等級（JobLv）3時所需記憶的道具"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_2",
+            "value": "可替代強化職業等級（JobLv）6時所需記憶的道具"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_3",
+            "value": "可替代強化職業等級（JobLv）9時所需記憶的道具"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_4",
+            "value": "可替代強化職業等級（JobLv）12時所需記憶的道具"
+        },
+        {
+            "key": "IT_JB_MM_COMMON_5",
+            "value": "可替代強化職業等級（JobLv）15時所需記憶的道具"
+        },
+        {
+            "key": "IT_JB_MM_WAR",
+            "value": "強化職業（戰士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WAR_2",
+            "value": "強化職業（戰士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WAR_3",
+            "value": "強化職業（戰士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WAR_4",
+            "value": "強化職業（戰士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WAR_5",
+            "value": "強化職業（戰士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_KNT",
+            "value": "強化職業（騎士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_KNT_2",
+            "value": "強化職業（騎士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_KNT_3",
+            "value": "強化職業（騎士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_KNT_4",
+            "value": "強化職業（騎士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_KNT_5",
+            "value": "強化職業（騎士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_PLD",
+            "value": "強化職業（聖騎士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_PLD_2",
+            "value": "強化職業（聖騎士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_PLD_3",
+            "value": "強化職業（聖騎士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_PLD_4",
+            "value": "強化職業（聖騎士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_PLD_5",
+            "value": "強化職業（聖騎士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SWN",
+            "value": "強化職業（士兵）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SWN_2",
+            "value": "強化職業（士兵）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SWN_3",
+            "value": "強化職業（士兵）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SWN_4",
+            "value": "強化職業（士兵）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SWN_5",
+            "value": "強化職業（士兵）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MNK",
+            "value": "強化職業（武僧）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MNK_2",
+            "value": "強化職業（武僧）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MNK_3",
+            "value": "強化職業（武僧）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MNK_4",
+            "value": "強化職業（武僧）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MNK_5",
+            "value": "強化職業（武僧）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SAM",
+            "value": "強化職業（武士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SAM_2",
+            "value": "強化職業（武士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SAM_3",
+            "value": "強化職業（武士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SAM_4",
+            "value": "強化職業（武士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_SAM_5",
+            "value": "強化職業（武士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LAN",
+            "value": "強化職業（槍術師）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LAN_2",
+            "value": "強化職業（槍術師）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LAN_3",
+            "value": "強化職業（槍術師）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LAN_4",
+            "value": "強化職業（槍術師）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LAN_5",
+            "value": "強化職業（槍術師）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_DRG",
+            "value": "強化職業（龍騎士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_DRG_2",
+            "value": "強化職業（龍騎士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_DRG_3",
+            "value": "強化職業（龍騎士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_DRG_4",
+            "value": "強化職業（龍騎士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_DRG_5",
+            "value": "強化職業（龍騎士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_THI",
+            "value": "強化職業（竊賊）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_THI_2",
+            "value": "強化職業（竊賊）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_THI_3",
+            "value": "強化職業（竊賊）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_THI_4",
+            "value": "強化職業（竊賊）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_THI_5",
+            "value": "強化職業（竊賊）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_NIN",
+            "value": "強化職業（忍者）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_NIN_2",
+            "value": "強化職業（忍者）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_NIN_3",
+            "value": "強化職業（忍者）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_NIN_4",
+            "value": "強化職業（忍者）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_NIN_5",
+            "value": "強化職業（忍者）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_HUN",
+            "value": "強化職業（獵人）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_HUN_2",
+            "value": "強化職業（獵人）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_HUN_3",
+            "value": "強化職業（獵人）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_HUN_4",
+            "value": "強化職業（獵人）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_HUN_5",
+            "value": "強化職業（獵人）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GUN",
+            "value": "強化職業（火槍手）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GUN_2",
+            "value": "強化職業（火槍手）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GUN_3",
+            "value": "強化職業（火槍手）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GUN_4",
+            "value": "強化職業（火槍手）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GUN_5",
+            "value": "強化職業（火槍手）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WHM",
+            "value": "強化職業（白魔道士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WHM_2",
+            "value": "強化職業（白魔道士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WHM_3",
+            "value": "強化職業（白魔道士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WHM_4",
+            "value": "強化職業（白魔道士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WHM_5",
+            "value": "強化職業（白魔道士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_BLM",
+            "value": "強化職業（黑魔道士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_BLM_2",
+            "value": "強化職業（黑魔道士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_BLM_3",
+            "value": "強化職業（黑魔道士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_BLM_4",
+            "value": "強化職業（黑魔道士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_BLM_5",
+            "value": "強化職業（黑魔道士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_RDM",
+            "value": "強化職業（赤魔道士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_RDM_2",
+            "value": "強化職業（赤魔道士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_RDM_3",
+            "value": "強化職業（赤魔道士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_RDM_4",
+            "value": "強化職業（赤魔道士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_RDM_5",
+            "value": "強化職業（赤魔道士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GRM",
+            "value": "強化職業（綠魔道士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GRM_2",
+            "value": "強化職業（綠魔道士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GRM_3",
+            "value": "強化職業（綠魔道士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GRM_4",
+            "value": "強化職業（綠魔道士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_GRM_5",
+            "value": "強化職業（綠魔道士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_TIM",
+            "value": "強化職業（時魔道士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_TIM_2",
+            "value": "強化職業（時魔道士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_TIM_3",
+            "value": "強化職業（時魔道士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_TIM_4",
+            "value": "強化職業（時魔道士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_TIM_5",
+            "value": "強化職業（時魔道士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MGK",
+            "value": "強化職業（魔法劍士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MGK_2",
+            "value": "強化職業（魔法劍士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MGK_3",
+            "value": "強化職業（魔法劍士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MGK_4",
+            "value": "強化職業（魔法劍士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MGK_5",
+            "value": "強化職業（魔法劍士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CLR",
+            "value": "強化職業（聖職者）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CLR_2",
+            "value": "強化職業（聖職者）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CLR_3",
+            "value": "強化職業（聖職者）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CLR_4",
+            "value": "強化職業（聖職者）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CLR_5",
+            "value": "強化職業（聖職者）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS",
+            "value": "強化職業（有翼者）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_2",
+            "value": "強化職業（有翼者）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_3",
+            "value": "強化職業（有翼者）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_4",
+            "value": "強化職業（有翼者）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GLMS_5",
+            "value": "強化職業（有翼者）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL",
+            "value": "強化職業（魔女）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_2",
+            "value": "強化職業（魔女）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_3",
+            "value": "強化職業（魔女）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_4",
+            "value": "強化職業（魔女）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_YSTL_5",
+            "value": "強化職業（魔女）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR",
+            "value": "強化職業（絕槍戰士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_2",
+            "value": "強化職業（絕槍戰士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_3",
+            "value": "強化職業（絕槍戰士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_4",
+            "value": "強化職業（絕槍戰士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF14_TNCR_5",
+            "value": "強化職業（絕槍戰士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_VIK",
+            "value": "強化職業（維京戰士）等級3時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_VIK_2",
+            "value": "強化職業（維京戰士）等級6時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_VIK_3",
+            "value": "強化職業（維京戰士）等級9時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_VIK_4",
+            "value": "強化職業（維京戰士）等級12時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_VIK_5",
+            "value": "強化職業（維京戰士）等級15時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR",
+            "value": "強化職業（黑暗騎士）等級3時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_2",
+            "value": "強化職業（黑暗騎士）等級6時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_3",
+            "value": "強化職業（黑暗騎士）等級9時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_4",
+            "value": "強化職業（黑暗騎士）等級12時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_GFGR_5",
+            "value": "強化職業（黑暗騎士）等級15時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ",
+            "value": "強化職業（見習戰士拉姆薩）等級3時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_2",
+            "value": "強化職業（見習戰士拉姆薩）等級6時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_3",
+            "value": "強化職業（見習戰士拉姆薩）等級9時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_4",
+            "value": "強化職業（見習戰士拉姆薩）等級12時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_RAMZ_5",
+            "value": "強化職業（見習戰士拉姆薩）等級15時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND",
+            "value": "強化職業（劍聖）等級3時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_2",
+            "value": "強化職業（劍聖）等級6時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_3",
+            "value": "強化職業（劍聖）等級9時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_4",
+            "value": "強化職業（劍聖）等級12時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_FFT_ORND_5",
+            "value": "強化職業（劍聖）等級15時所需的道具。"
+        },
+        {
+            "key": "IT_JB_MM_WGN",
+            "value": "強化職業（雙槍手）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WGN_2",
+            "value": "強化職業（雙槍手）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WGN_3",
+            "value": "強化職業（雙槍手）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WGN_4",
+            "value": "強化職業（雙槍手）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_WGN_5",
+            "value": "強化職業（雙槍手）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN",
+            "value": "強化職業（格蘭謝爾特騎士（炎））等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_2",
+            "value": "強化職業（格蘭謝爾特騎士（炎））等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_3",
+            "value": "強化職業（格蘭謝爾特騎士（炎））等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_4",
+            "value": "強化職業（格蘭謝爾特騎士（炎））等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_RAIN_5",
+            "value": "強化職業（格蘭謝爾特騎士（炎））等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ASS",
+            "value": "強化職業（暗殺者）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ASS_2",
+            "value": "強化職業（暗殺者）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ASS_3",
+            "value": "強化職業（暗殺者）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ASS_4",
+            "value": "強化職業（暗殺者）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_ASS_5",
+            "value": "強化職業（暗殺者）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL",
+            "value": "強化職業（光之戰士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_2",
+            "value": "強化職業（光之戰士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_3",
+            "value": "強化職業（光之戰士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_4",
+            "value": "強化職業（光之戰士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FF1_WROL_5",
+            "value": "強化職業（光之戰士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MST",
+            "value": "強化職業（魔杖術士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MST_2",
+            "value": "強化職業（魔杖術士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MST_3",
+            "value": "強化職業（魔杖術士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MST_4",
+            "value": "強化職業（魔杖術士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MST_5",
+            "value": "強化職業（魔杖術士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA",
+            "value": "強化職業（神聖騎士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_2",
+            "value": "強化職業（神聖騎士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_3",
+            "value": "強化職業（神聖騎士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_4",
+            "value": "強化職業（神聖騎士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_AGRA_5",
+            "value": "強化職業（神聖騎士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT",
+            "value": "強化職業（見習戰士迪利塔）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_2",
+            "value": "強化職業（見習戰士迪利塔）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_3",
+            "value": "強化職業（見習戰士迪利塔）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_4",
+            "value": "強化職業（見習戰士迪利塔）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_DELT_5",
+            "value": "強化職業（見習戰士迪利塔）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD",
+            "value": "強化職業（機工士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_2",
+            "value": "強化職業（機工士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_3",
+            "value": "強化職業（機工士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_4",
+            "value": "強化職業（機工士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_FFT_MSTD_5",
+            "value": "強化職業（機工士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CAL",
+            "value": "強化職業（算術士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CAL_2",
+            "value": "強化職業（算術士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CAL_3",
+            "value": "強化職業（算術士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CAL_4",
+            "value": "強化職業（算術士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_CAL_5",
+            "value": "強化職業（算術士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN",
+            "value": "強化職業（破滅騎士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_2",
+            "value": "強化職業（破滅騎士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_3",
+            "value": "強化職業（破滅騎士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_4",
+            "value": "強化職業（破滅騎士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_STRN_5",
+            "value": "強化職業（破滅騎士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR",
+            "value": "強化職業（女武神）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_2",
+            "value": "強化職業（女武神）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_3",
+            "value": "強化職業（女武神）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_4",
+            "value": "強化職業（女武神）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_GRSR_5",
+            "value": "強化職業（女武神）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL",
+            "value": "強化職業（格蘭謝爾特騎士（冰））等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_2",
+            "value": "強化職業（格蘭謝爾特騎士（冰））等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_3",
+            "value": "強化職業（格蘭謝爾特騎士（冰））等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_4",
+            "value": "強化職業（格蘭謝爾特騎士（冰））等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_LW_LSWL_5",
+            "value": "強化職業（格蘭謝爾特騎士（冰））等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MKN",
+            "value": "強化職業（符文騎士）等級3時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MKN_2",
+            "value": "強化職業（符文騎士）等級6時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MKN_3",
+            "value": "強化職業（符文騎士）等級9時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MKN_4",
+            "value": "強化職業（符文騎士）等級12時所需的道具"
+        },
+        {
+            "key": "IT_JB_MM_MKN_5",
+            "value": "強化職業（符文騎士）等級15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_1",
+            "value": "強化火屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_2",
+            "value": "強化火屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_3",
+            "value": "強化火屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_4",
+            "value": "強化火屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_FIRE_5",
+            "value": "強化火屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_ICE_1",
+            "value": "強化冰屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_ICE_2",
+            "value": "強化冰屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_ICE_3",
+            "value": "強化冰屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_ICE_4",
+            "value": "強化冰屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_ICE_5",
+            "value": "強化冰屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WIND_1",
+            "value": "強化風屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WIND_2",
+            "value": "強化風屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WIND_3",
+            "value": "強化風屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WIND_4",
+            "value": "強化風屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WIND_5",
+            "value": "強化風屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_1",
+            "value": "強化土屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_2",
+            "value": "強化土屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_3",
+            "value": "強化土屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_4",
+            "value": "強化土屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SOIL_5",
+            "value": "強化土屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_1",
+            "value": "強化雷屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_2",
+            "value": "強化雷屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_3",
+            "value": "強化雷屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_4",
+            "value": "強化雷屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_THUNDER_5",
+            "value": "強化雷屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WATER_1",
+            "value": "強化水屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WATER_2",
+            "value": "強化水屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WATER_3",
+            "value": "強化水屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WATER_4",
+            "value": "強化水屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_WATER_5",
+            "value": "強化水屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_1",
+            "value": "強化光屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_2",
+            "value": "強化光屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_3",
+            "value": "強化光屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_4",
+            "value": "強化光屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_SHINE_5",
+            "value": "強化光屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_DARK_1",
+            "value": "強化暗屬性兵員職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_DARK_2",
+            "value": "強化暗屬性兵員職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_DARK_3",
+            "value": "強化暗屬性兵員職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_DARK_4",
+            "value": "強化暗屬性兵員職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_EM_DARK_5",
+            "value": "強化暗屬性兵員職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_1",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_2",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_3",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_4",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_ANGEL_5",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_1",
+            "value": "強化職業等級（JobLv）2～3時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_2",
+            "value": "強化職業等級（JobLv）4～6時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_3",
+            "value": "強化職業等級（JobLv）7～9時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_4",
+            "value": "強化職業等級（JobLv）10～12時所需的道具"
+        },
+        {
+            "key": "IT_JB_IM_DRAGON_5",
+            "value": "強化職業等級（JobLv）13～15時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_FIRE",
+            "value": "使火屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_ICE",
+            "value": "使冰屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WIND",
+            "value": "使風屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SOIL",
+            "value": "使土屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER",
+            "value": "使雷屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WATER",
+            "value": "使水屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SHINE",
+            "value": "使光屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_DARK",
+            "value": "使暗屬性兵員覺醒時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R2",
+            "value": "使火屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R3",
+            "value": "使火屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R4",
+            "value": "使火屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R5",
+            "value": "使火屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_FIRE_R6",
+            "value": "使火屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R2",
+            "value": "使冰屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R3",
+            "value": "使冰屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R4",
+            "value": "使冰屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R5",
+            "value": "使冰屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_ICE_R6",
+            "value": "使冰屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R2",
+            "value": "使風屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R3",
+            "value": "使風屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R4",
+            "value": "使風屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R5",
+            "value": "使風屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WIND_R6",
+            "value": "使風屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R2",
+            "value": "使土屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R3",
+            "value": "使土屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R4",
+            "value": "使土屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R5",
+            "value": "使土屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SOIL_R6",
+            "value": "使土屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R2",
+            "value": "使雷屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R3",
+            "value": "使雷屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R4",
+            "value": "使雷屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R5",
+            "value": "使雷屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_THUNDER_R6",
+            "value": "使雷屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R2",
+            "value": "使水屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R3",
+            "value": "使水屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R4",
+            "value": "使水屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R5",
+            "value": "使水屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_WATER_R6",
+            "value": "使水屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R2",
+            "value": "使光屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R3",
+            "value": "使光屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R4",
+            "value": "使光屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R5",
+            "value": "使光屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_SHINE_R6",
+            "value": "使光屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R2",
+            "value": "使暗屬性兵員覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R3",
+            "value": "使暗屬性兵員覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R4",
+            "value": "使暗屬性兵員覺醒至★4時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R5",
+            "value": "使暗屬性兵員覺醒至★5時所需的道具"
+        },
+        {
+            "key": "IT_UN_AW_DARK_R6",
+            "value": "使暗屬性兵員覺醒至★6時所需的道具"
+        },
+        {
+            "key": "IT_AW_VBALL_N",
+            "value": "使兵員、幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AW_VBALL_R",
+            "value": "使兵員、幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AW_VBALL_SR",
+            "value": "使兵員、幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AW_VBALL_SSR",
+            "value": "使兵員、幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AW_VBALL_UR",
+            "value": "使兵員、幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_PI_COM_FIRE",
+            "value": "火屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_ICE",
+            "value": "冰屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_WIND",
+            "value": "風屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_SOIL",
+            "value": "土屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_THUNDER",
+            "value": "雷屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_WATER",
+            "value": "水屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_SHINE",
+            "value": "光屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_DARK",
+            "value": "暗屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_COM_ALL",
+            "value": "全屬性兵員的覺醒道具"
+        },
+        {
+            "key": "IT_PI_LW_MONT",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_STRN",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ELDE",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ROBB",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ENBT",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ZIZA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_AILN",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MDNA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_AYKA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MACR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_HLNA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_LILS",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RAMD",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_OOOO",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_LRNZ",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RIRY",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_VSTR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_CLEY",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_KADI",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MRLK",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MGRT",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_PRAY",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_SZRT",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_FINA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_BYLO",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RYER",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_SCIA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_VRID",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_NAIA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_SRJS",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_UNII",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_SEVR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_VADM",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MURM",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_PHBE",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RART",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MICE",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MIIA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ZZAN",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_GLMS",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FF14_YSTL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FF14_TNCR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_SDLX",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_FDRC",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_YERM",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_NASR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ETRE",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FFT_GFGR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FFT_RAMZ",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FFT_ORND",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_WHIS",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_KTON",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MRND",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_DRND",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_LUCA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ADLD",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_VKTR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_THLA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RAIN",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_FRVA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_VNLA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_DRIO",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_TREL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FF1_WROL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_QILF",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_SIMR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_ORDR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_LVES",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FFT_AGRA",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FFT_DELT",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_FFT_MSTD",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_IRDL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_STRN_01",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_LSWL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_GRSR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RRIR",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RYER_01",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_RIRY_01",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_HWLT",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_SCAL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "兵員極限突破時所需的道具"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_FIRE_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_ICE_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_WIND_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_THUNDER_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_SOIL_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_WATER_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_SHINE_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_01",
+            "value": "可獲得召喚獸的經驗值（小）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_02",
+            "value": "可獲得召喚獸的經驗值（中）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_03",
+            "value": "可獲得召喚獸的經驗值（大）"
+        },
+        {
+            "key": "IT_SB_EXP_DARK_04",
+            "value": "可獲得召喚獸的經驗值（極）"
+        },
+        {
+            "key": "IT_SB_AW_FIRE",
+            "value": "使火屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_ICE",
+            "value": "使冰屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_THUNDER",
+            "value": "使雷屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_WATER",
+            "value": "使水屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_WIND",
+            "value": "使風屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_SOIL",
+            "value": "使土屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_SHINE",
+            "value": "使光屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_DARK",
+            "value": "使暗屬性召喚獸覺醒時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R2",
+            "value": "使伊弗利特覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_IFRT_R3",
+            "value": "使伊弗利特覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R2",
+            "value": "使巨像兵覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_GLEM_R3",
+            "value": "使巨像兵覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R2",
+            "value": "使塞壬覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_SIRE_R3",
+            "value": "使塞壬覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R2",
+            "value": "使鐵巨人覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_IGNT_R3",
+            "value": "使鐵巨人覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R2",
+            "value": "使凶惡巨獸覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_BHMT_R3",
+            "value": "使凶惡巨獸覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R2",
+            "value": "使毛爾波爾覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_MABR_R3",
+            "value": "使毛爾波爾覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R2",
+            "value": "使濕婆覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_SHIV_R3",
+            "value": "使濕婆覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R2",
+            "value": "使拉姆覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_RAMU_R3",
+            "value": "使拉姆覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R2",
+            "value": "使奧汀覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_ODIN_R3",
+            "value": "使奧汀覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R2",
+            "value": "使蛇身女王覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_LAMA_01_R3",
+            "value": "使蛇身女王覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R2",
+            "value": "使四方風精靈覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_TSLP_R3",
+            "value": "使四方風精靈覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R2",
+            "value": "使食腐獸覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_OCHU_R3",
+            "value": "使食腐獸覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R2",
+            "value": "使雙頭巨龍覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_THDG_R3",
+            "value": "使雙頭巨龍覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R2",
+            "value": "使迪亞波羅斯覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_DABL_R3",
+            "value": "使迪亞波羅斯覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R2",
+            "value": "使奪心魔覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_MDFY_R3",
+            "value": "使奪心魔覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R2",
+            "value": "使芬里爾覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_FNRR_R3",
+            "value": "使芬里爾覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R2",
+            "value": "使泰坦覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_TITN_R3",
+            "value": "使泰坦覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R2",
+            "value": "使血腥紅月覺醒至★2時所需的道具"
+        },
+        {
+            "key": "IT_SB_AW_BLMN_R3",
+            "value": "使血腥紅月覺醒至★3時所需的道具"
+        },
+        {
+            "key": "IT_TICKET_STORY",
+            "value": "此券可跳過劇情任務的戰鬥"
+        },
+        {
+            "key": "IT_TICKET_EVENT",
+            "value": "此券可跳過活動任務的戰鬥"
+        },
+        {
+            "key": "IT_GL_TICKET_EVENT",
+            "value": "此券可跳過活動任務的戰鬥"
+        },
+        {
+            "key": "IT_AF_EXP_01",
+            "value": "可獲得武具的經驗值（小）"
+        },
+        {
+            "key": "IT_AF_EXP_02",
+            "value": "可獲得武具的經驗值（中）"
+        },
+        {
+            "key": "IT_AF_EXP_03",
+            "value": "可獲得武具的經驗值（大）"
+        },
+        {
+            "key": "IT_AF_EXP_04",
+            "value": "可獲得武具的經驗值（極）"
+        },
+        {
+            "key": "IT_AF_AW_SWORD",
+            "value": "武具種類：劍的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_LSWORD",
+            "value": "武具種類：大劍的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_FIST",
+            "value": "武具種類：拳的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_JSWORD",
+            "value": "武具種類：刀的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_SPEAR",
+            "value": "武具種類：槍的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_SSWORD",
+            "value": "武具種類：短劍的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_KUNAI",
+            "value": "武具種類：忍刀的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_BOW",
+            "value": "武具種類：弓的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_GUN",
+            "value": "武具種類：火槍的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_STAFF",
+            "value": "武具種類：手杖的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_MACE",
+            "value": "武具種類：權杖的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_AXE",
+            "value": "武具種類：斧的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_ARMOR",
+            "value": "武具種類：防具的覺醒素材"
+        },
+        {
+            "key": "IT_AF_AW_ACCE",
+            "value": "武具種類：裝飾品的覺醒素材"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_FIRE_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_ICE_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_THUNDER_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SOIL_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_WIND_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SHINE_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_DARK_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_LESS_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_WATER_03",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_03",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_HEART_04",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_03",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_LIQUID_04",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_03",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAP_04",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_01",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_02",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_03",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_SAND_04",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_OGRE",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_BOMB",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_MABR",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_WOLF",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_ZUUU",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_BONE",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_ARMN",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_MAT_MYTHRIL",
+            "value": "武具製作、覺醒時所需的道具"
+        },
+        {
+            "key": "IT_AF_LW_SWO_001",
+            "value": "製作長劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SWO_002",
+            "value": "製作秘銀劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SWO_003",
+            "value": "製作睡眠劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SWO_004",
+            "value": "製作冰印劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SWO_005",
+            "value": "製作火舌時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SWO_006",
+            "value": "製作珊瑚劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "製作羅恩格林時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_BSW_001",
+            "value": "製作雙刃重劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_BSW_002",
+            "value": "製作秘銀大劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_BSW_003",
+            "value": "製作符文劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_BSW_004",
+            "value": "製作黃金劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_KAT_001",
+            "value": "製作虎鐵時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_KAT_002",
+            "value": "製作菊一文字時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_KAT_003",
+            "value": "製作備前長船時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_FIS_001",
+            "value": "製作金屬指套時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_FIS_002",
+            "value": "製作秘銀爪時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_FIS_003",
+            "value": "製作貓爪時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SPE_001",
+            "value": "製作遊擊槍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SPE_002",
+            "value": "製作秘銀長槍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SPE_003",
+            "value": "製作疾風槍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SPE_004",
+            "value": "製作玄冰槍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_SPE_006",
+            "value": "製作龍角之槍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_DAG_001",
+            "value": "製作短劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_DAG_002",
+            "value": "製作秘銀短劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_DAG_004",
+            "value": "製作左手劍時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_DAG_006",
+            "value": "製作封魔之刃時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_NKN_001",
+            "value": "製作苦無時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_NKN_002",
+            "value": "製作小太刀時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_NKN_003",
+            "value": "製作佐助刀時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_BOW_001",
+            "value": "製作長弓時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_BOW_002",
+            "value": "製作強弓時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_BOW_003",
+            "value": "製作符文弓時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_GUN_001",
+            "value": "製作五車二時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_GUN_002",
+            "value": "製作織女一時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_GUN_003",
+            "value": "製作帝座時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ROD_002",
+            "value": "製作鋼鐵棒時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ROD_004",
+            "value": "製作治癒之杖時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ROD_005",
+            "value": "製作白金魔棒時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_MAC_001",
+            "value": "製作鋼鐵權杖時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_MAC_002",
+            "value": "製作秘銀權杖時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_MAC_003",
+            "value": "製作白金權杖時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ARM_002",
+            "value": "製作黑鐵甲時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ARM_003",
+            "value": "製作秘銀鎧時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ARM_004",
+            "value": "製作黃金鎧時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_HAT_002",
+            "value": "製作三角帽子時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_HAT_003",
+            "value": "製作頭冠時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_HAT_004",
+            "value": "製作賢者帽時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_CLT_001",
+            "value": "製作皮衣時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_CLT_002",
+            "value": "製作學者服時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_CLT_003",
+            "value": "製作幻影背心時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_CLT_004",
+            "value": "製作智慧外套時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_HLM_002",
+            "value": "製作鐵盔時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_HLM_003",
+            "value": "製作秘銀盔時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_HLM_004",
+            "value": "製作黃金盔時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_RNG_002",
+            "value": "製作勇者指環時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_RNG_003",
+            "value": "製作仙子指環時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_RNG_004",
+            "value": "製作珠寶指環時所需的配方"
+        },
+        {
+            "key": "IT_AF_SWO_FF14_TNCT",
+            "value": "製作獅子心·複製品時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ROD_007",
+            "value": "製作賢者之杖時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ARM_005",
+            "value": "製作白金鎧甲時所需的配方"
+        },
+        {
+            "key": "IT_AF_FFT_SWO_001",
+            "value": "製作納格拉洛克時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_FTW_001",
+            "value": "製作赫密士靴時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_AXE_001",
+            "value": "製作屠魔斧時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_AXE_002",
+            "value": "製作秘銀斧時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_AXE_003",
+            "value": "製作黃金斧時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_RNG_005",
+            "value": "製作變石戒指時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_CLT_005",
+            "value": "製作白金法袍時所需的配方"
+        },
+        {
+            "key": "IT_AF_FF1_ARM_002",
+            "value": "製作光明之鎧時所需的配方"
+        },
+        {
+            "key": "IT_AF_FFT_ACC_001",
+            "value": "製作魔咒魅香水時所需的配方"
+        },
+        {
+            "key": "IT_AF_SUP_HP",
+            "value": "提升武具升級時「HP」增加的機率"
+        },
+        {
+            "key": "IT_AF_SUP_ATK",
+            "value": "提升武具升級時「攻擊」增加的機率"
+        },
+        {
+            "key": "IT_AF_SUP_MAG",
+            "value": "提升武具升級時「魔力」增加的機率"
+        },
+        {
+            "key": "IT_AF_SUP_MND",
+            "value": "提升武具升級時「精神」增加的機率"
+        },
+        {
+            "key": "IT_AF_SUP_DEF",
+            "value": "提升武具升級時「防禦」增加的機率"
+        },
+        {
+            "key": "IT_AF_SUP_AVO",
+            "value": "提升武具升級時「閃避」增加的機率"
+        },
+        {
+            "key": "IT_AF_SUP_HIT",
+            "value": "提升武具升級時「命中」增加的機率"
+        },
+        {
+            "key": "IT_AF_SUP_CRI",
+            "value": "提升武具升級時「暴擊」增加的機率"
+        },
+        {
+            "key": "IT_AF_PT_ATK",
+            "value": "提升武具的狀態數值（攻擊）"
+        },
+        {
+            "key": "IT_AF_PT_MAG",
+            "value": "提升武具的狀態數值（魔力）"
+        },
+        {
+            "key": "IT_AF_PT_DEF",
+            "value": "提升武具的狀態數值（防禦）"
+        },
+        {
+            "key": "IT_AF_PT_MND",
+            "value": "提升武具的狀態數值（精神）"
+        },
+        {
+            "key": "IT_AF_PT_HIT",
+            "value": "提升武具的狀態數值（命中）"
+        },
+        {
+            "key": "IT_AF_PT_CRI",
+            "value": "提升武具的狀態數值（暴擊）"
+        },
+        {
+            "key": "IT_AF_PT_AVO",
+            "value": "提升武具的狀態數值（閃避）"
+        },
+        {
+            "key": "IT_AF_PT_HP",
+            "value": "提升武具的狀態數值（HP）"
+        },
+        {
+            "key": "IT_AF_PT_SPD",
+            "value": "提升武具的狀態數值（敏捷）"
+        },
+        {
+            "key": "IT_WA_EXP_01",
+            "value": "可獲得武具能力的經驗值（小）"
+        },
+        {
+            "key": "IT_WA_EXP_02",
+            "value": "可獲得武具能力的經驗值（中）"
+        },
+        {
+            "key": "IT_WA_EXP_03",
+            "value": "可獲得武具能力的經驗值（大）"
+        },
+        {
+            "key": "IT_AF_RESET",
+            "value": "重置武具狀態數值時所需的道具<br>※重置狀態數值後不會返還強化武具時所使用的礦石和矮人錘"
+        },
+        {
+            "key": "IT_EC_STARQUARTZ",
+            "value": "規格未定"
+        },
+        {
+            "key": "IT_EC_ARENA",
+            "value": "可透過鬥技場獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_MULTI",
+            "value": "可透過協力任務獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_RAID",
+            "value": "可透過共鬥戰鬥獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_MATCH",
+            "value": "可透過匹配戰鬥獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_GUILD",
+            "value": "可透過公會獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_SOUL",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_SOUL_N",
+            "value": "N稀有度的兵員碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_SOUL_R",
+            "value": "R稀有度的兵員碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_SOUL_SR",
+            "value": "SR稀有度的兵員碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_SOUL_SSR",
+            "value": "MR稀有度的兵員碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_SOUL_UR",
+            "value": "UR稀有度的兵員碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_MOOGLE",
+            "value": "規格未定"
+        },
+        {
+            "key": "IT_EC_TOWER",
+            "value": "規格未定"
+        },
+        {
+            "key": "IT_EC_SUMMON",
+            "value": "規格未定"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_A",
+            "value": "可透過新兵員／幻兵卡召喚、聖誕節紀念召喚獲得的獎牌　【使用期限】2019年12月31日23:59止"
+        },
+        {
+            "key": "IT_EC_SUMMON_12_B",
+            "value": "可透過聖誕節紀念召喚第2彈獲得的獎牌　【使用期限】2020年1月15日14:59止"
+        },
+        {
+            "key": "IT_EC_VISION",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_VISION_N",
+            "value": "N稀有度的幻兵卡碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_VISION_R",
+            "value": "R稀有度的幻兵卡碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_VISION_SR",
+            "value": "SR稀有度的幻兵卡碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_VISION_SSR",
+            "value": "MR稀有度的幻兵卡碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_VISION_UR",
+            "value": "UR稀有度的幻兵卡碎片數量超過上限後，再次獲得時變換而來的獎牌"
+        },
+        {
+            "key": "IT_EC_UNIT_UR",
+            "value": "可以於UR兵員的拼圖交換所交換道具"
+        },
+        {
+            "key": "IT_EC_FRIEND",
+            "value": "可透過好友贈禮獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_FF14_1",
+            "value": "可透過FF14聯動活動獲得的交換用道具，能在神典石魔典交換所換取道具"
+        },
+        {
+            "key": "IT_EC_FF14_2",
+            "value": "可透過FFXIV聯動紀念召喚獲得的獎牌，能在聯動召喚獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_US_G_FF14_01",
+            "value": "此券可透過在FF14聯動活動中獲得的「神典石魔典」交換而來"
+        },
+        {
+            "key": "IT_EC_SUMMON_03_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌　【使用期限】2020/04/14 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/04/21 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_04_B",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/04/28 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/06/02 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_05_B",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/06/16 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/06/30 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_06_B",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/07/14 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/07/28 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_07_B",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/08/11 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/09/01 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_08_B",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/09/15 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/10/06 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_09_B",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/10/20 17:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/11/03 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_10_B",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/11/17 17:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "可透過新兵員/幻兵卡召喚獲得的獎牌。【使用期限】2020/12/01 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_FFT_1",
+            "value": "可透過FFT聯動活動獲得的交換用道具，能在FFT聯動活動獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_FFT_2_A",
+            "value": "可透過FFT聯動紀念召喚獲得的獎牌，能在FFT聯動召喚獎牌A交換所換取道具。【使用期限】2020/05/26 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_FFT_2_B",
+            "value": "可透過FFT聯動紀念召喚獲得的獎牌，能在FFT聯動召喚獎牌B交換所換取道具。【使用期限】2020/05/26 23:59 世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_FFT_3",
+            "value": "可透過FFT第2波聯動活動獲得的交換用道具，能在【第2波】FFT聯動活動獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_FFT_2_2A",
+            "value": "可透過FFT第2波聯動紀念召喚獲得的獎牌，能在【第2波】聯動召喚獎牌A交換所換取道具。【使用期限】2020/09/29 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_FFT_2_2B",
+            "value": "可透過FFT第2波聯動紀念召喚獲得的獎牌，能在【第2波】聯動召喚獎牌B交換所換取道具。【使用期限】2020/09/29 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_FFT_2_A_R",
+            "value": "可透過【復刻】FFT聯動紀念召喚～拉姆薩～獲得的獎牌，能在【復刻】聯動召喚獎牌A交換所換取道具。【使用期限】2020/09/29 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_FFT_2_B_R",
+            "value": "可透過【復刻】FFT聯動紀念召喚～奧爾蘭多～獲得的獎牌，能在【復刻】聯動召喚獎牌B交換所換取道具。【使用期限】2020/09/29 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_EC_TOWER_001",
+            "value": "可透過白磁之塔獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_TOWER_002",
+            "value": "可透過白磁之塔獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_EV02_1",
+            "value": "可透過活動「西方的威脅朗德爾」獲得的交換用道具，能在西方的威脅朗德爾獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_EV03_1",
+            "value": "可透過活動「為了燃盡生命」獲得的交換用道具，能在【7月】活動獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_EV04_1",
+            "value": "可透過活動「遙遠的東方」獲得的交換用道具，能在【8月】活動獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_EV05_1",
+            "value": "可透過活動「轟牙與齋賀　前篇」獲得的交換用道具，能在【前篇】轟牙與齋賀獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "可透過活動「被囚禁的公主」獲得的交換用道具，能在被囚禁的公主獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_FF1_1",
+            "value": "可透過FFI聯動活動獲得的交換用道具，能在FFI聯動活動獎牌交換所換取道具"
+        },
+        {
+            "key": "IT_EC_FF1_2",
+            "value": "可透過FFI聯動紀念召喚獲得的獎牌，能在FFI聯動召喚獎牌交換所換取道具。【使用期限】2020/08/25 23:59世界時間(PST)為止"
+        },
+        {
+            "key": "IT_US_G_FFT_01",
+            "value": "此券可透過FINAL FANTASY TACTICS聯動活動獲得"
+        },
+        {
+            "key": "IT_AD_TICKET_2",
+            "value": "此券可使探險陸行鳥進行2小時的高速探險"
+        },
+        {
+            "key": "IT_AD_TICKET_5",
+            "value": "此券可使探險陸行鳥進行5小時的高速探險"
+        },
+        {
+            "key": "IT_AD_TICKET_10",
+            "value": "此券可使探險陸行鳥進行10小時的高速探險"
+        },
+        {
+            "key": "IT_US_GACHA_01",
+            "value": "此券每消耗1張可進行1次稀有召喚，獲得1名兵員或1張幻兵卡"
+        },
+        {
+            "key": "IT_US_GACHA_10",
+            "value": "此券可連續進行10次稀有召喚"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01",
+            "value": "此券每消耗1張可進行1次10連召喚，並確保1個名額為MR以上稀有度兵員"
+        },
+        {
+            "key": "IT_US_G_V_SR_UR_01",
+            "value": "此券必定能召喚出1張SR以上稀有度的幻兵卡"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01",
+            "value": "此券必定能召喚出1張MR以上稀有度的幻兵卡"
+        },
+        {
+            "key": "IT_US_GL_G_V_SSR_UR_01",
+            "value": "此券必定能召喚出1張MR以上稀有度的幻兵卡"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01",
+            "value": "此券必定能召喚出1名MR以上稀有度的兵員"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_1",
+            "value": "此券可從8種屬性中選擇並召喚出10個覺醒時所需的思念的碎片"
+        },
+        {
+            "key": "IT_US_GL_SE_PI_COM_2",
+            "value": "此券可從8種屬性中選擇並召喚出200個覺醒時所需的思念的碎片"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_02",
+            "value": "此券可從8種屬性中選擇並召喚出100個覺醒時所需的思念的碎片"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_02",
+            "value": "此券可從8種屬性中選擇並召喚出100個覺醒時所需的覺醒輝源"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_03",
+            "value": "此券可從8種屬性中選擇並召喚出50個覺醒時所需的覺醒輝源"
+        },
+        {
+            "key": "IT_US_GL_SE_AW-ITEM_01",
+            "value": "此券可從8種屬性中選擇並召喚出200個覺醒時所需的覺醒輝源"
+        },
+        {
+            "key": "IT_US_SE_PI_COM_01",
+            "value": "此券可從8種屬性中選擇並召喚出50個覺醒時所需的思念的碎片"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_01_01",
+            "value": "此券可從8種屬性中選擇並召喚出30個職業強化時所需的輝石·翠"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_01",
+            "value": "此券可從8種屬性中選擇並召喚出10個職業強化時所需的輝石·碧"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_02_02",
+            "value": "此券可從8種屬性中選擇並召喚出70個職業強化時所需的輝石·碧"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_03_01",
+            "value": "此券可從8種屬性中選擇並召喚出70個職業強化時所需的輝石·紫"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_04_01",
+            "value": "此券可從8種屬性中選擇並召喚出70個職業強化時所需的輝石·黃"
+        },
+        {
+            "key": "IT_US_SE_JB_EM_05_01",
+            "value": "此券可從8種屬性中選擇並召喚出70個職業強化時所需的輝石·緋"
+        },
+        {
+            "key": "IT_US_SE_SB_AW_01",
+            "value": "此券可從8種屬性中選擇並召喚出20個召喚獸覺醒時所需的獸醒石"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_01",
+            "value": "此券可從8種屬性中選擇並召喚出50個強化召喚獸時所需的魔石（大）"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_02",
+            "value": "此券可從8種屬性中選擇並召喚出10個強化召喚獸時所需的魔石（極）"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_03",
+            "value": "此券可從8種屬性中選擇並召喚出50個強化召喚獸時所需的魔石（中）"
+        },
+        {
+            "key": "IT_US_SE_SB_EXP_05",
+            "value": "此券可從8種屬性中選擇並召喚出30個強化召喚獸時所需的魔石（極）"
+        },
+        {
+            "key": "IT_US_G_U_UR_01",
+            "value": "此券必定能召喚出1名UR稀有度的兵員"
+        },
+        {
+            "key": "IT_US_G_U_UR_02",
+            "value": "此券必定能召喚出1名UR稀有度的兵員"
+        },
+        {
+            "key": "IT_US_G_U_UR_03",
+            "value": "此券必定能召喚出1名UR稀有度的兵員"
+        },
+        {
+            "key": "IT_US_G_UR_01",
+            "value": "此券必定能召喚出UR稀有度兵員1名或幻兵卡1張"
+        },
+        {
+            "key": "IT_US_G_UR_02",
+            "value": "此券必定能召喚出UR稀有度兵員1名或幻兵卡1張"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01",
+            "value": "此券必定能召喚出1名R以上稀有度的兵員"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01",
+            "value": "此券必定能召喚出1張R以上稀有度的幻兵卡"
+        },
+        {
+            "key": "IT_US_G_V_UR_01",
+            "value": "此券必定能召喚出1張UR稀有度的幻兵卡"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_01",
+            "value": "此券可從強化職業時所需的各種職業的記憶·翠中選擇1種並召喚出1個記憶"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_02",
+            "value": "此券可從強化職業時所需的各種職業的記憶·碧中選擇1種並召喚出2個記憶"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_03",
+            "value": "此券可從強化職業時所需的各種職業的記憶·紫中選擇1種並召喚出3個記憶"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04",
+            "value": "此券可從強化職業時所需的各種職業的記憶·黃中選擇1種並召喚出4個記憶"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05",
+            "value": "此券可從強化職業時所需的各種職業的記憶·緋中選擇1種並召喚出5個記憶"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_04_2",
+            "value": "此券可從強化職業時所需的各種職業的記憶·黃中選擇1種並召喚出4個記憶※不包括聯動活動兵員的職業"
+        },
+        {
+            "key": "IT_US_SE_JB_MM_05_2",
+            "value": "此券可從強化職業時所需的各種職業的記憶·緋中選擇1種並召喚出5個記憶※不包括聯動活動兵員的職業"
+        },
+        {
+            "key": "IT_US_SE_JB_05_01",
+            "value": "此券可從強化職業等級（JobLv）13~15時所需的各種尖晶石（劍、大劍、拳、刀、槍、短劍、忍刀、弓、火槍、手杖、權杖、斧）中選擇1種並召喚出30個"
+        },
+        {
+            "key": "IT_US_SE_JB_04_01",
+            "value": "此券可從強化職業等級（JobLv）10~12時所需的各種黃水晶（劍、大劍、拳、刀、槍、短劍、忍刀、弓、火槍、手杖、權杖、斧）中選擇1種並召喚出30個"
+        },
+        {
+            "key": "IT_US_SE_JB_03_01",
+            "value": "此券可從強化職業等級（JobLv）7~9時所需的各種紫龍晶（劍、大劍、拳、刀、槍、短劍、忍刀、弓、火槍、手杖、權杖、斧）中選擇1種並召喚出30個"
+        },
+        {
+            "key": "IT_US_SE_JB_02_01",
+            "value": "此券可從強化職業等級（JobLv）4~6時所需的各種藍銅礦（劍、大劍、拳、刀、槍、短劍、忍刀、弓、火槍、手杖、權杖、斧）中選擇1種並召喚出30個"
+        },
+        {
+            "key": "IT_US_SE_JB_01_01",
+            "value": "此券可從強化職業等級（JobLv）1~3時所需的各種翡翠硬玉（劍、大劍、拳、刀、槍、短劍、忍刀、弓、火槍、手杖、權杖、斧）中選擇1種並召喚出15個"
+        },
+        {
+            "key": "IT_US_SE_UR_U_01",
+            "value": "此券可任選並召喚出1名UR稀有度的兵員"
+        },
+        {
+            "key": "IT_US_SE_R_UR_U_03",
+            "value": "此券可從2020/08/19 世界時間(PST)前登場的R~UR兵員中，選擇1名召喚。※不包括『斯特恩（破滅騎士）』『伊爾迪拉』『吉爾伽美什』『格拉西拉·維澤特』『拉斯韋爾』『埃特蕾』『泰瑞爾』以及期間限定與聯動活動的兵員。"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_01",
+            "value": "此券可從8種屬性中選擇並召喚出10個覺醒時所需的覺醒輝源"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_02",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_03",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_04",
+            "value": ""
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_05",
+            "value": "本券可進行「半週年前夜祭第3階段 確保MR以上兵員召喚」。※本券使用期限至2020/09/16 世界時間(PST)。※並不包含期間限定與聯動活動兵員。"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_06",
+            "value": "本券可進行「半週年前夜祭第4階段 確保MR以上兵員召喚」。※本券使用期限至2020/09/23 世界時間(PST)。※並不包含期間限定與聯動活動兵員。"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_07",
+            "value": "本券可進行「2020秋日活動 確保MR以上兵員召喚」。※本券使用期限至2020/10/28 世界時間(PST)。※並不包含期間限定與聯動活動兵員。"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "本券可進行「2020秋日活動 第2階段 確保MR以上兵員召喚」。※本券使用期限至2020/11/11 世界時間(PST)。※並不包含期間限定與聯動活動兵員。"
+        },
+        {
+            "key": "IT_US_SE_UR_V_01",
+            "value": ""
+        },
+        {
+            "key": "IT_US_SE_R_UR_V_GL01",
+            "value": "此券可從2020/8/12 世界時間(PST)前登場的R~UR幻兵卡中，選擇1張召喚。※不包括「霍倫王國第一部隊《堅牢》」「精神崩潰　奪心魔」「月影狼牙　芬里爾」「無法傳達的心意」「鷙猛大地　泰坦」「戰亂四君」以及期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_04",
+            "value": "此券可從8種屬性中選擇並召喚出30個覺醒時所需的覺醒輝源"
+        },
+        {
+            "key": "IT_US_SE_AW-ITEM_05",
+            "value": "此券可從8種屬性中選擇並召喚出200個覺醒時所需的覺醒輝源"
+        },
+        {
+            "key": "IT_VPI_LW_GLEM",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_IFRT",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_SIRE",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_SOKYU",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_TRAINING",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_MACR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_MURG",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_GRSR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FF14_MV1",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_HOLYNIGHT",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FFT_MV1",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_ODIN",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV1",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_IGNT",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_BHMT",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_MABR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_SHIV",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_RAMU",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV1",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_FAMILY",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_KTON",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_PROPOSE",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_SDLX",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_TEAPARTY",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_HUNT",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FF14_MV2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_NEWYEAR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_LAMA_01",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_GUARD",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_MBFF_MV2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_CACT",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_ARMN_01",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_ZUUU",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_OGRE",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_BOMB",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_JOBCRYSTAL",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_BYLO",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_RART",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_RYER",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_RIRY",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_CRYSTAL",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_LEONIS2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_HOURN2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_FENICE2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_WEZETT2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_DYNVERK",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_01",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_TRSV_02",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_MIRROR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_TSLP",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_LILS",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_OCHU",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_VALE1",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_VALE2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_ADLD",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_WHITEDAY1",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_VNLA2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_THDG",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FF01_DMAC",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_DABL",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_CBVPARTY1",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FFT_MV2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FFT_MV3",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_FFCC_MV2",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_ROBUST",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_MDFY",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_ORDR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_FNRR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_TITN",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_KING",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_VKTR",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_BLMN",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VPI_LW_HALL",
+            "value": "幻兵卡覺醒時所需的道具"
+        },
+        {
+            "key": "IT_VC_EXP_01",
+            "value": "可獲得幻兵卡的經驗值（小）"
+        },
+        {
+            "key": "IT_VC_EXP_02",
+            "value": "可獲得幻兵卡的經驗值（中）"
+        },
+        {
+            "key": "IT_VC_EXP_03",
+            "value": "可獲得幻兵卡的經驗值（大）"
+        },
+        {
+            "key": "IT_VC_EXP_04",
+            "value": "可獲得幻兵卡的經驗值（極）"
+        },
+        {
+            "key": "IT_GU_FOOD_01",
+            "value": "可補充公會兵舍的糧食（1,000）"
+        },
+        {
+            "key": "IT_GU_FOOD_02",
+            "value": "可補充公會兵舍的糧食（2,000）"
+        },
+        {
+            "key": "IT_GU_FOOD_03",
+            "value": "可補充公會兵舍的糧食（3,000）"
+        },
+        {
+            "key": "IT_GU_FOOD_04",
+            "value": "可補充公會兵舍的糧食（5,000）&獲得JP獎勵（小）"
+        },
+        {
+            "key": "IT_GU_FOOD_05",
+            "value": "可補充公會兵舍的糧食（7,500）&獲得JP獎勵（中）"
+        },
+        {
+            "key": "IT_GU_FOOD_06",
+            "value": "可補充公會兵舍的糧食（10,000）&獲得JP獎勵（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S2_01",
+            "value": "可獲得公會【大蛇石像】的經驗值（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S2_02",
+            "value": "可獲得公會【大蛇石像】的經驗值（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S2_03",
+            "value": "可獲得公會【大蛇石像】的經驗值（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S3_01",
+            "value": "可獲得公會【公牛石像】的經驗值（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S3_02",
+            "value": "可獲得公會【公牛石像】的經驗值（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S3_03",
+            "value": "可獲得公會【公牛石像】的經驗值（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S4_01",
+            "value": "可獲得公會【麒麟石像】的經驗值（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S4_02",
+            "value": "可獲得公會【麒麟石像】的經驗值（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S4_03",
+            "value": "可獲得公會【麒麟石像】的經驗值（大）"
+        },
+        {
+            "key": "IT_GU_EXP_S1_01",
+            "value": "可獲得公會【獅子石像】的經驗值（小）"
+        },
+        {
+            "key": "IT_GU_EXP_S1_02",
+            "value": "可獲得公會【獅子石像】的經驗值（中）"
+        },
+        {
+            "key": "IT_GU_EXP_S1_03",
+            "value": "可獲得公會【獅子石像】的經驗值（大）"
+        },
+        {
+            "key": "IT_EC_RAID_02",
+            "value": "可透過共鬥獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_RAID_03",
+            "value": "可透過白色棉花糖共鬥獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_RAID_05",
+            "value": "可透過共鬥戰鬥獲得的獎牌"
+        },
+        {
+            "key": "IT_EC_RAID_06",
+            "value": "可透過共鬥戰鬥獲得的獎牌"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_1",
+            "value": "此券可從8種屬性中選擇並召喚出500個強化召喚獸時所需的魔石（中）"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_2",
+            "value": "此券可從8種屬性中選擇並召喚出10個強化召喚獸時所需的魔石（中）"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_3",
+            "value": "此券可從8種屬性中選擇並召喚出25個強化召喚獸時所需的魔石（中）"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_4",
+            "value": "此券可從8種屬性中選擇並召喚出100個強化召喚獸時所需的魔石（大）"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_5",
+            "value": "此券可從8種屬性中選擇並召喚出20個強化召喚獸時所需的魔石（大）"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_6",
+            "value": "此券可從8種屬性中選擇並召喚出50個強化召喚獸時所需的魔石（極）"
+        },
+        {
+            "key": "IT_US_GL_SE_SB_EXP_7",
+            "value": "此券可從8種屬性中選擇並召喚出150個強化召喚獸時所需的魔石（大）"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_01",
+            "value": "此券可從2020/05/20 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出50個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_02",
+            "value": "此券可從2020/6/24 世界時間(PST)前登場的UR幻兵卡碎片中，選擇1種並召喚出50個。※不包括「漆黑的群像」「貝歐魯布繼承人」。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_03",
+            "value": "此券可從2020/06/17 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出50個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_04",
+            "value": "此券可從2020/07/22 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出50個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_05",
+            "value": "此券可從2020/08/12 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出50個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_06",
+            "value": "此券可從2020/09/16 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出50個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_07",
+            "value": "此券可從2020/09/16 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出100個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_08",
+            "value": "此券可從2020/09/30 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出100個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_09",
+            "value": "此券可從2020/10/14 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出100個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_GL_SE_VPI_10",
+            "value": "此券可從2020/10/14 世界時間(PST)前登場的UR幻兵卡的碎片中，選擇1種並召喚出50個。※不包括期間限定與聯動活動的幻兵卡。"
+        },
+        {
+            "key": "IT_US_SE_UR_U_02",
+            "value": "此券可從推薦的UR兵員中選擇1名召喚。當召喚您所持有之兵員時，將會換成40個兵員碎片。"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_01",
+            "value": "此券可從推薦的MR兵員中選擇1名召喚。當召喚您所持有之兵員時，將會換成20個兵員碎片。"
+        },
+        {
+            "key": "IT_US_SE_SSR_U_GL01",
+            "value": "此券可任選並召喚出1名MR稀有度的兵員"
+        },
+        {
+            "key": "IT_US_SE_PI_15",
+            "value": "此券可從UR的FFBE兵員『拉斯韋爾』『雷因』『弗雷比亞』『彩花』『美迪愛娜』『艾琳』的碎片中選擇1種召喚40個 "
+        },
+        {
+            "key": "IT_US_SE_PI_GL00",
+            "value": "此券可從2020/06/17 世界時間(PST)前登場的UR兵員碎片中，選擇1種並召喚出40個。※不包括期間限定與聯動活動的兵員。"
+        },
+        {
+            "key": "IT_US_SE_PI_GL01",
+            "value": "此券可從UR兵員的碎片中選擇召喚40個"
+        },
+        {
+            "key": "IT_US_SE_PI_GL02",
+            "value": "此券可從2020/08/19 世界時間(PST)前登場的UR兵員碎片中，選擇1種並召喚出40個。※不包括期間限定與聯動活動的兵員。"
+        },
+        {
+            "key": "IT_US_SE_PI_GL03",
+            "value": "此券可從2020/09/09 世界時間(PST)前登場的UR兵員碎片中，選擇1種並召喚出40個。※不包括期間限定與聯動活動的兵員。"
+        },
+        {
+            "key": "IT_US_SE_PI_GL04",
+            "value": "此券可從2020/09/23 世界時間(PST)前登場的UR兵員碎片中，選擇1種並召喚出40個。※不包括『格拉西拉』『拉斯韋爾』與聯動活動的兵員。"
+        },
+        {
+            "key": "IT_US_SE_PI_GL05",
+            "value": "此券可從2020/10/21 世界時間(PST)前登場的UR兵員碎片中，選擇1種並召喚出40個。※不包括萬聖節活動以外的期間限定與聯動活動的兵員。"
+        },
+        {
+            "key": "IT_US_N_GACHA_10",
+            "value": "此券可連續進行10次普通召喚"
+        },
+        {
+            "key": "IT_US_SE_AF_AW_01",
+            "value": "此券可從精煉秘籍（劍、大劍、拳、刀、槍、短劍、忍刀、弓、火槍、手杖、權杖、斧、防具、裝飾品）中選擇1種並召喚出100個"
+        },
+        {
+            "key": "IT_US_G_N_TW_10",
+            "value": "此券可獲得兵員的碎片與幻兵卡的碎片等道具"
+        },
+        {
+            "key": "IT_PT_SKIP_001",
+            "value": "此券可跳過「制裁試煉」的戰鬥"
+        },
+        {
+            "key": "IT_PT_BSSKIP_001",
+            "value": "此券可跳過「制裁試煉」的頭目戰鬥"
+        },
+        {
+            "key": "IT_PT_BOSS_001",
+            "value": "此券可挑戰「制裁試煉」的頭目戰鬥"
+        },
+        {
+            "key": "IT_EC_POINT_001",
+            "value": "可透過制裁試煉獲得的獎牌"
+        },
+        {
+            "key": "IT_AF_LW_HLM_005",
+            "value": "製作白金頭盔時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_ACC_001",
+            "value": "製作緞帶時所需的配方"
+        },
+        {
+            "key": "IT_AF_LW_KAT_008",
+            "value": "製作紫電時所需的配方"
+        }
+    ]
+}

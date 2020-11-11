@@ -1,0 +1,92 @@
+{
+    "infos": [
+        {
+            "key": "GL_BRONZE3",
+            "value": "青銅3"
+        },
+        {
+            "key": "GL_BRONZE2",
+            "value": "青銅2"
+        },
+        {
+            "key": "GL_BRONZE1",
+            "value": "青銅1"
+        },
+        {
+            "key": "GL_SILVER3",
+            "value": "白銀3"
+        },
+        {
+            "key": "GL_SILVER2",
+            "value": "白銀2"
+        },
+        {
+            "key": "GL_SILVER1",
+            "value": "白銀1"
+        },
+        {
+            "key": "GL_GOLD3",
+            "value": "黃金3"
+        },
+        {
+            "key": "GL_GOLD2",
+            "value": "黃金2"
+        },
+        {
+            "key": "GL_GOLD1",
+            "value": "黃金1"
+        },
+        {
+            "key": "GL_PLATINUM3",
+            "value": "白金3"
+        },
+        {
+            "key": "GL_PLATINUM2",
+            "value": "白金2"
+        },
+        {
+            "key": "GL_PLATINUM1",
+            "value": "白金1"
+        },
+        {
+            "key": "GL_DIA3",
+            "value": "鑽石3"
+        },
+        {
+            "key": "GL_DIA2",
+            "value": "鑽石2"
+        },
+        {
+            "key": "GL_DIA1",
+            "value": "鑽石1"
+        },
+        {
+            "key": "GL_CHAMPION3",
+            "value": "冠軍3"
+        },
+        {
+            "key": "GL_CHAMPION2",
+            "value": "冠軍2"
+        },
+        {
+            "key": "GL_CHAMPION1",
+            "value": "冠軍1"
+        },
+        {
+            "key": "GL_TITAN3",
+            "value": "宗師3"
+        },
+        {
+            "key": "GL_TITAN2",
+            "value": "宗師2"
+        },
+        {
+            "key": "GL_TITAN1",
+            "value": "宗師1"
+        },
+        {
+            "key": "GL_LEGEND",
+            "value": "傳奇"
+        }
+    ]
+}

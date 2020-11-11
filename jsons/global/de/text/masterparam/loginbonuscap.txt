@@ -191,6 +191,10 @@
         {
             "key": "LB_LIMIT_GL0030",
             "value": "Anmeldebonus der Halloween-Kampagne Teil II"
+        },
+        {
+            "key": "LB_LIMIT_GL0031",
+            "value": "Anmeldebonus der Herbstkampagne 2020 Teil II"
         }
     ]
 }

@@ -2509,6 +2509,54 @@
             "value": "ABW erhöht: Stufe 1"
         },
         {
+            "key": "SK_LW_MST_M_1_SUB",
+            "value": "Energiezwinger"
+        },
+        {
+            "key": "SK_LW_MST_M_2_SUB",
+            "value": "Stabschild"
+        },
+        {
+            "key": "SK_LW_MST_M_3_SUB",
+            "value": "Spiritu-Erhebung"
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1",
+            "value": "Stab des Feuers"
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1",
+            "value": "Stab des Eises"
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1",
+            "value": "Stab des Windes"
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1",
+            "value": "Stab der Blitze"
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1",
+            "value": "Stab des Wassers"
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1",
+            "value": "Stab der Erde"
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1",
+            "value": "Stab des Lichts"
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1",
+            "value": "Stab der Dunkelheit"
+        },
+        {
+            "key": "SK_LW_MST_S_2",
+            "value": "Stab der Flügel"
+        },
+        {
             "key": "SK_FFT_AGRA_ATK",
             "value": "Normaler Angriff"
         },
@@ -4369,6 +4417,10 @@
             "value": "Stella Artis"
         },
         {
+            "key": "SK_LB_LW_SCAL",
+            "value": "Blitzanrufung"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Inferno"
         },
@@ -4901,6 +4953,18 @@
             "value": "Meisterfähigkeit"
         },
         {
+            "key": "SK_MA_LW_SCAL",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_LW_MRAL",
+            "value": "Meisterfähigkeit"
+        },
+        {
+            "key": "SK_MA_LW_CHEL",
+            "value": "Meisterfähigkeit"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Schlitzangriff +2"
         },
@@ -5287,6 +5351,18 @@
         {
             "key": "SK_CLT_LW_HWLT_1_1",
             "value": "Frischblutrune"
+        },
+        {
+            "key": "SK_ACC_LW_SCAL_1_1",
+            "value": "Magische Aufwallung"
+        },
+        {
+            "key": "SK_SWO_LW_MRAL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_CHEL_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -7799,6 +7875,22 @@
         {
             "key": "SK_GMK_ATK_KENZAN",
             "value": "Schadenzone"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_1",
+            "value": "Beschuss"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_2",
+            "value": "Explosivgeschoss"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1_EN",
+            "value": "Steinwurf"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2_EN",
+            "value": "Steinschauer"
         },
         {
             "key": "SK_LW_WAR_P_2",

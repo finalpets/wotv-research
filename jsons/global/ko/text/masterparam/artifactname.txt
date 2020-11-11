@@ -2045,6 +2045,18 @@
             "value": "소웰루 코트"
         },
         {
+            "key": "AF_ACC_LW_SCAL_1",
+            "value": "천둥의 팔 보호대"
+        },
+        {
+            "key": "AF_SWO_LW_MRAL_1",
+            "value": "비무지주"
+        },
+        {
+            "key": "AF_ROD_LW_CHEL_1",
+            "value": "잉구즈 스틱"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "레온 소드"
         },
@@ -2185,6 +2197,10 @@
             "value": "라이조의 검"
         },
         {
+            "key": "AF_ROD_LW_SCAL_2",
+            "value": "요봉장"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "알렉산드라이트 반지"
         },
@@ -2287,6 +2303,30 @@
         {
             "key": "AF_LW_KAT_008_5",
             "value": "자색 번개+5"
+        },
+        {
+            "key": "AF_LW_SWO_023",
+            "value": "로엔그린"
+        },
+        {
+            "key": "AF_LW_SWO_023_1",
+            "value": "로엔그린+1"
+        },
+        {
+            "key": "AF_LW_SWO_023_2",
+            "value": "로엔그린+2"
+        },
+        {
+            "key": "AF_LW_SWO_023_3",
+            "value": "로엔그린+3"
+        },
+        {
+            "key": "AF_LW_SWO_023_4",
+            "value": "로엔그린+4"
+        },
+        {
+            "key": "AF_LW_SWO_023_5",
+            "value": "로엔그린+5"
         }
     ]
 }

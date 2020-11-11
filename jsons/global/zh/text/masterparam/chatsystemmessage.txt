@@ -1,0 +1,108 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "${playerName}加入了公會。"
+        },
+        {
+            "key": "2",
+            "value": "獲得了新公會徽章。"
+        },
+        {
+            "key": "3",
+            "value": "公會會長職位轉讓給了${playerName}。"
+        },
+        {
+            "key": "4",
+            "value": "${playerName}被逐出公會。"
+        },
+        {
+            "key": "5",
+            "value": "${playerName}脫離了公會。"
+        },
+        {
+            "key": "6",
+            "value": "前公會會長由於長期未登入，現已自動任命${playerName}為新公會會長。"
+        },
+        {
+            "key": "7",
+            "value": "${playerName}被任命為副會長。"
+        },
+        {
+            "key": "8",
+            "value": "${statueName}達到等級${level}。"
+        },
+        {
+            "key": "9",
+            "value": "已報名參加公會戰鬥。"
+        },
+        {
+            "key": "10",
+            "value": "由於未滿足參加條件，無法報名參加公會戰鬥。"
+        },
+        {
+            "key": "11",
+            "value": "已經確定將與${guildName}進行戰鬥。"
+        },
+        {
+            "key": "12",
+            "value": "本次公會戰鬥不戰而勝。"
+        },
+        {
+            "key": "13",
+            "value": "與${guildName}進行的公會戰鬥獲得了勝利。"
+        },
+        {
+            "key": "14",
+            "value": "與${guildName}進行的公會戰鬥失敗了。"
+        },
+        {
+            "key": "15",
+            "value": "聯盟等級從${beforeLevelName}升級為${afterLevelName}了。"
+        },
+        {
+            "key": "16",
+            "value": "已報名參加期間限定公會戰鬥"
+        },
+        {
+            "key": "17",
+            "value": "由於未滿足參加條件，無法報名參加期間限定公會戰鬥。"
+        },
+        {
+            "key": "18",
+            "value": "已經確定將與${guildName}進行戰鬥"
+        },
+        {
+            "key": "19",
+            "value": "本次期間限定公會戰鬥不戰而勝"
+        },
+        {
+            "key": "20",
+            "value": "與${guildName}進行的期間限定公會戰鬥已開始"
+        },
+        {
+            "key": "21",
+            "value": "與${guildName}進行的期間限定公會戰鬥獲得了勝利"
+        },
+        {
+            "key": "22",
+            "value": "與${guildName}進行的期間限定公會戰鬥失敗了"
+        },
+        {
+            "key": "23",
+            "value": "聯盟等級從${beforeLevelName}降級為${afterLevelName}了"
+        },
+        {
+            "key": "24",
+            "value": "<color=#00F0FF>${fromName}</color>攻擊了<color=#E03030>${toName}</color>，奪取了${star}個★。"
+        },
+        {
+            "key": "25",
+            "value": "<color=#00F0FF>${fromName}</color>對<color=#00F0FF>${toName}</color>進行了${actionIname}"
+        },
+        {
+            "key": "26",
+            "value": "<color=#00F0FF>${fromName}</color>對<color=#E03030>${toName}</color>進行了${actionIname}"
+        }
+    ]
+}

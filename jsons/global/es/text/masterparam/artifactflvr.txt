@@ -2045,6 +2045,18 @@
             "value": "Abrigo modificado por Howlet. Originalmente era una capa tradicional que heredó de su padre. La rediseñó para que encajara con sus gustos estéticos y la puso en manos de un sastre. El cambio tan radical de la capa enfureció a su padre, aunque a Howlet ni siquiera le molestó."
         },
         {
+            "key": "AF_ACC_LW_SCAL_1",
+            "value": "Guantelete perteneciente a los antiguos líderes del clan Saiga. Al estar imbuido con la magia de cada líder anterior, es imposible que para un ninja cualquiera controlar su inmenso poder mágico. Pocos han sido capaces de usar el guantelete a voluntad, pero Skahal es uno de ellos."
+        },
+        {
+            "key": "AF_SWO_LW_MRAL_1",
+            "value": "Una espada mágica única, forjada a partir de un metal maleable. Es muy difícil leer sus movimientos cuando está en manos de un dueño habilidoso, ya que da la impresión de que son múltiples hojas que aparecen al mismo tiempo, como las patas de una araña. Aunque no sirve para asesinar, Mariela sigue usándola para presumir de su fuerza superior ante sus oponentes."
+        },
+        {
+            "key": "AF_ROD_LW_CHEL_1",
+            "value": "Bastón decorado con la flor favorita de Chel. Al crearla, el armero rechazó la idea de adornarla con flores carentes de significado. Tras ver la mirada triste de Chel, sus dos hermanos se quejaron insistentemente, y la presión que ejercieron sobre el armero resultó en esas flores decorativas."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Espada de una mano forjada específicamente para Mont por el herrero de la casa real de Leonis. Se elaboró bajo petición expresa de Mont, pues necesitaba una espada fácil de manejar. Esta, en concreto, tiene pinta de ser un poco mejor que una espada de entrenamiento. Por eso, mucha gente le sugirió al príncipe que optara por una espada más propia de reyes, pero, en lo que a Mont respecta, está más que satisfecho con esta."
         },
@@ -2185,6 +2197,10 @@
             "value": "Forjada por un herrero de renombre, esta espada se caracteriza por su diseño simplista, preciosa hoja y por estar infundida con poder mágico. Su exquisito acabado hace que no se muestre ni un rasgullo tras una violenta batalla o tras emplear una gran cantidad de poder mágico. Howlet la tiene en gran estima, sabiendo que le viene como anillo al dedo."
         },
         {
+            "key": "AF_ROD_LW_SCAL_2",
+            "value": "El bastón que el anterior líder del clan le entregó a Skahal cuando lo relevó en su labor. Está fabricado con un material especial que puede resistir la increíble fuerza física y el poder mágico de Skahal. Es extraño que Skahal se enzarce en un combate propiamente dicho, pues es consciente de que recurrir al poder del bastón puede convertirlo en un arma atroz."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Un anillo con incrustaciones de radiante alejandrita. Esta gema cambia de color dependiendo de la luz que choca contra su superficie, y es tanta la belleza que irradia que se la conoce como la reina de las piedras preciosas. Las piedras de gran calidad y con variedad de color son sumamente inusuales, por lo que se venden a un precio extremadamente alto."
         },
@@ -2287,6 +2303,30 @@
         {
             "key": "AF_LW_KAT_008_5",
             "value": "Katana que usa Lasswell. Su hoja es recta y su aspecto etéreo, lo que hace que emita un destello frío, pero bonito, cuando reacciona a las emociones de quien la blande. Antes de pasar a manos de Lasswell, era propiedad del padre de Rain, Raegen. Lasswell la cuida con mucho mimo, por lo que perdura sin importar el paso de los años."
+        },
+        {
+            "key": "AF_LW_SWO_023",
+            "value": "Espada que lleva el nombre de un caballero de leyenda que ha pasado a la historia. También conocido como el «Caballero del cisne», su figura ha estado presente en numerosas canciones y obras de teatro, y esa es quizás la razón por la que esta espada ha sido tan perseguida por respetables caballeros durante generaciones. Se trata de una antigua espada de renombre que continúa siendo objeto de admiración de aquellos que siguen el camino del hidalgo."
+        },
+        {
+            "key": "AF_LW_SWO_023_1",
+            "value": "Espada que lleva el nombre de un caballero de leyenda que ha pasado a la historia. También conocido como el «Caballero del cisne», su figura ha estado presente en numerosas canciones y obras de teatro, y esa es quizás la razón por la que esta espada ha sido tan perseguida por respetables caballeros durante generaciones. Se trata de una antigua espada de renombre que continúa siendo objeto de admiración de aquellos que siguen el camino del hidalgo."
+        },
+        {
+            "key": "AF_LW_SWO_023_2",
+            "value": "Espada que lleva el nombre de un caballero de leyenda que ha pasado a la historia. También conocido como el «Caballero del cisne», su figura ha estado presente en numerosas canciones y obras de teatro, y esa es quizás la razón por la que esta espada ha sido tan perseguida por respetables caballeros durante generaciones. Se trata de una antigua espada de renombre que continúa siendo objeto de admiración de aquellos que siguen el camino del hidalgo."
+        },
+        {
+            "key": "AF_LW_SWO_023_3",
+            "value": "Espada que lleva el nombre de un caballero de leyenda que ha pasado a la historia. También conocido como el «Caballero del cisne», su figura ha estado presente en numerosas canciones y obras de teatro, y esa es quizás la razón por la que esta espada ha sido tan perseguida por respetables caballeros durante generaciones. Se trata de una antigua espada de renombre que continúa siendo objeto de admiración de aquellos que siguen el camino del hidalgo."
+        },
+        {
+            "key": "AF_LW_SWO_023_4",
+            "value": "Espada que lleva el nombre de un caballero de leyenda que ha pasado a la historia. También conocido como el «Caballero del cisne», su figura ha estado presente en numerosas canciones y obras de teatro, y esa es quizás la razón por la que esta espada ha sido tan perseguida por respetables caballeros durante generaciones. Se trata de una antigua espada de renombre que continúa siendo objeto de admiración de aquellos que siguen el camino del hidalgo."
+        },
+        {
+            "key": "AF_LW_SWO_023_5",
+            "value": "Espada que lleva el nombre de un caballero de leyenda que ha pasado a la historia. También conocido como el «Caballero del cisne», su figura ha estado presente en numerosas canciones y obras de teatro, y esa es quizás la razón por la que esta espada ha sido tan perseguida por respetables caballeros durante generaciones. Se trata de una antigua espada de renombre que continúa siendo objeto de admiración de aquellos que siguen el camino del hidalgo."
         }
     ]
 }

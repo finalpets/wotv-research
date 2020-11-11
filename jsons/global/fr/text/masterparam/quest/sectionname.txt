@@ -393,6 +393,18 @@
             "value": "[Multi] Gouga et Saiga : Partie I [EX]"
         },
         {
+            "key": "SE_EV_06_01",
+            "value": "Une damoiselle en détresse"
+        },
+        {
+            "key": "SE_EV_06_EX_01",
+            "value": "Une damoiselle en détresse [EX]"
+        },
+        {
+            "key": "SE_MU_EV_06_EX",
+            "value": "[Multi] Une damoiselle en détresse [EX]"
+        },
+        {
             "key": "SE_EV_SBEXP_01",
             "value": "Quête des magilithes"
         },
@@ -553,6 +565,14 @@
             "value": "Quête d'entraînement d'équipement"
         },
         {
+            "key": "SE_EV_ART_CRF_05",
+            "value": "Quête d'entraînement d'équipement"
+        },
+        {
+            "key": "SE_MU_ART_CRF_05",
+            "value": "Quête d'entraînement d'équipement"
+        },
+        {
             "key": "SE_EV_ART_SCR_02",
             "value": "Quête du livre secret [Très difficile]"
         },
@@ -650,6 +670,10 @@
         },
         {
             "key": "SE_EV_GL_NMAP_001",
+            "value": "Entraînement aux combats de guilde"
+        },
+        {
+            "key": "SE_EV_GL_NMAP_002",
             "value": "Entraînement aux combats de guilde"
         },
         {

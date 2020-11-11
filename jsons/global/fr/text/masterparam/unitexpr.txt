@@ -321,6 +321,18 @@
             "value": "Beau chevalier runique, il est l'aîné de la famille Groms. Amoureux de la gente féminine, il préfère passer du temps avec les femmes qu'il considère comme de réelles princesses plutôt que d'assister à ses entraînements. Son comportement lui vaudra d'être déshérité par son père et maître, l'amenant ainsi à voyager sur les routes accompagné de Thytas, son jeune frère, et de Chel, sa petite sœur."
         },
         {
+            "key": "UN_LW_P_SCAL",
+            "value": "Le nouveau jeune chef de Saiga. Il rêve d'unifier son peuple avec Gouga, l'autre village shinobi, malgré les nombreuses années de tension qui les divisent. Quand son amante, Loreila, devint cheffe de Gouga, il crut voir la paix à portée de main. Malheureusement..."
+        },
+        {
+            "key": "UN_LW_P_MRAL",
+            "value": "Une magilame de Gouga. Quand son ambition de s'emparer du pouvoir fut contrariée par Loreila qui conquit le titre de cheffe à sa place, elle nourrit pour sa rivale une rancœur meurtrière. Elle la fit surveiller par un de ses hommes et surprit ainsi les nombreuses entrevues de Loreila avec le chef de Saiga."
+        },
+        {
+            "key": "UN_LW_P_CHEL",
+            "value": "Mage vert, elle est la petite dernière de la famille Groms. Après que son frère aîné, Howlet, fut déshérité par leur père et maître, Chel décida de le suivre dans son périple. Toujours souriante, elle tient en horreur les choses difficiles. Elle adore voyager d'un pays à l'autre avec son frère aîné adoré."
+        },
+        {
             "key": "UN_LW_E_IRDL",
             "value": ""
         },
@@ -1645,6 +1657,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_HWLT_MOGI",
+            "value": ""
+        },
+        {
             "key": "UN_LW_TU_MONT",
             "value": ""
         },
@@ -2211,6 +2227,10 @@
         {
             "key": "UN_GM_KENZAN_01",
             "value": "Inflige des dégâts à la cible après qu'elle soit rentrée dans la zone"
+        },
+        {
+            "key": "UN_GM_CANN",
+            "value": ""
         }
     ]
 }

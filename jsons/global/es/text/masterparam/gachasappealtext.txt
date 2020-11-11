@@ -111,6 +111,10 @@
         {
             "key": "28",
             "value": "¡Nuevas cartas de<br>visión destacadas!"
+        },
+        {
+            "key": "29",
+            "value": "¡Nuevas unidades<br>destacadas!"
         }
     ]
 }

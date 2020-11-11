@@ -1,0 +1,100 @@
+{
+    "infos": [
+        {
+            "key": "TIPS_ALL_001",
+            "value": "通知"
+        },
+        {
+            "key": "TIPS_ALL_002",
+            "value": "玩家等級"
+        },
+        {
+            "key": "TIPS_ALL_003",
+            "value": "好友"
+        },
+        {
+            "key": "TIPS_ALL_004",
+            "value": "商店"
+        },
+        {
+            "key": "TIPS_ALL_006",
+            "value": "登入獎勵"
+        },
+        {
+            "key": "TIPS_ALLQE_001",
+            "value": "傷害預測"
+        },
+        {
+            "key": "TIPS_ALLQE_003",
+            "value": "親密度Ⅰ"
+        },
+        {
+            "key": "TIPS_ALLQE_004",
+            "value": "親密度Ⅱ"
+        },
+        {
+            "key": "TIPS_ALLQE_002",
+            "value": "武具熟練度Ⅰ"
+        },
+        {
+            "key": "TIPS_ALLQE_005",
+            "value": "武具熟練度Ⅱ"
+        },
+        {
+            "key": "TIPS_ALLQE_006",
+            "value": "隊伍能力"
+        },
+        {
+            "key": "TIPS_ALLQE_007",
+            "value": "召喚獸的共鳴值"
+        },
+        {
+            "key": "TIPS_ALLQE_008",
+            "value": "自動戰鬥"
+        },
+        {
+            "key": "TIPS_ALLQE_009",
+            "value": "勇氣"
+        },
+        {
+            "key": "TIPS_ALLQE_010",
+            "value": "信念"
+        },
+        {
+            "key": "TIPS_ALLQE_011",
+            "value": "勇氣·信念在戰鬥後的變動"
+        },
+        {
+            "key": "TIPS_ALLQE_012",
+            "value": "「威嚇」狀態"
+        },
+        {
+            "key": "TIPS_DUEL_001",
+            "value": "勝率"
+        },
+        {
+            "key": "TIPS_DUEL_002",
+            "value": "參加報酬"
+        },
+        {
+            "key": "TIPS_DUEL_003",
+            "value": "排名"
+        },
+        {
+            "key": "TIPS_MULTI_001",
+            "value": "貼圖"
+        },
+        {
+            "key": "TIPS_PVP_001",
+            "value": "自由匹配的報酬"
+        },
+        {
+            "key": "TIPS_RAID_001",
+            "value": "模式選擇"
+        },
+        {
+            "key": "TIPS_RAID_002",
+            "value": "共鬥頭目"
+        }
+    ]
+}

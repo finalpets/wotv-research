@@ -577,6 +577,114 @@
             "value": "Faites atteindre le niv. 75 à Lillyla (Halloween)"
         },
         {
+            "key": "CM_PRO_GL_HWLT_01",
+            "value": "Faites atteindre le niv. 30 à Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_02",
+            "value": "Brisez la limite de Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_03",
+            "value": "Faites atteindre le niv. 40 à Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_04",
+            "value": "Faites atteindre le niv. 6 au job principal de Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_05",
+            "value": "Faites atteindre le niv. 50 à Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_06",
+            "value": "Faites atteindre le niv. 9 au job principal de Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_07",
+            "value": "Faites atteindre le niv. 60 à Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_08",
+            "value": "Faites atteindre le niv. 70 à Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_09",
+            "value": "Faites atteindre le niv. 75 à Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_01",
+            "value": "Faites atteindre le niv. 30 à Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_02",
+            "value": "Brisez la limite de Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_03",
+            "value": "Faites atteindre le niv. 40 à Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_04",
+            "value": "Faites atteindre le niv. 6 au job principal de Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_05",
+            "value": "Faites atteindre le niv. 50 à Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_06",
+            "value": "Faites atteindre le niv. 9 au job principal de Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_07",
+            "value": "Faites atteindre le niv. 60 à Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_08",
+            "value": "Faites atteindre le niv. 70 à Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_09",
+            "value": "Faites atteindre le niv. 75 à Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_01",
+            "value": "Terminez une quête d'histoire"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_02",
+            "value": "Achetez quelque chose dans la boutique"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_03",
+            "value": "Terminez la Chambre de Gils"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_04",
+            "value": "Augmentez le niveau d'une unité 10 fois"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_05",
+            "value": "Collectez les objets récupérés lors d'une Expédition chocobo 2 fois"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_06",
+            "value": "Améliorez l'aptitude d'une unité 3 fois"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_07",
+            "value": "Augmentez le niveau de job d'une unité 5 fois"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_08",
+            "value": "Rejoignez ou créez une guilde"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_09",
+            "value": "Connectez-vous 3 jours au cours de l'événement"
+        },
+        {
             "key": "GM_0001",
             "value": "Comptez 10 membres dans votre guilde"
         },
@@ -1821,6 +1929,30 @@
             "value": "[Multi] Terminez la Quête d'entraînement d'équipement [Super difficile] 3 fois"
         },
         {
+            "key": "M_ART_CRF_09_01",
+            "value": "Terminez la Quête d'entraînement d'équipement (Sceptre de platine)"
+        },
+        {
+            "key": "M_ART_CRF_09_02",
+            "value": "Terminez la Quête d'entraînement d'équipement (Sceptre de platine) 3 fois"
+        },
+        {
+            "key": "M_ART_CRF_09_03",
+            "value": "Terminez la Quête d'entraînement d'équipement (Sceptre de platine) 5 fois"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_1",
+            "value": "[Multi] Terminez la Quête d'entraînement d'équipement (Sceptre de platine)"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_2",
+            "value": "Terminez la Quête d'entraînement d'équipement (Sceptre de platine) 3 fois"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_3",
+            "value": "Terminez la Quête d'entraînement d'équipement (Sceptre de platine) 5 fois"
+        },
+        {
             "key": "M_EV_IGNT_01",
             "value": "Relevez le défi du Géant de fer [Très difficile]"
         },
@@ -2659,6 +2791,158 @@
         {
             "key": "M_MU_EV05_EX2_03",
             "value": "[Multi] Terminez « Gouga et Saiga : Partie I » [EX2] 5 fois"
+        },
+        {
+            "key": "M_EV06_1_01",
+            "value": "Terminez [Une damoiselle en détresse], épisode 1"
+        },
+        {
+            "key": "M_EV06_1_02",
+            "value": "Terminez [Une damoiselle en détresse], épisode 1, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_03",
+            "value": "Terminez [Une damoiselle en détresse], épisode 1, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_04",
+            "value": "Terminez [Une damoiselle en détresse], épisode 2"
+        },
+        {
+            "key": "M_EV06_1_05",
+            "value": "Terminez [Une damoiselle en détresse], épisode 2, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_06",
+            "value": "Terminez [Une damoiselle en détresse], épisode 2, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_07",
+            "value": "Terminez [Une damoiselle en détresse], épisode 3"
+        },
+        {
+            "key": "M_EV06_1_08",
+            "value": "Terminez [Une damoiselle en détresse], épisode 3, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_09",
+            "value": "Terminez [Une damoiselle en détresse], épisode 3, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_10",
+            "value": "Terminez [Une damoiselle en détresse], épisode 4"
+        },
+        {
+            "key": "M_EV06_1_11",
+            "value": "Terminez [Une damoiselle en détresse], épisode 4, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_12",
+            "value": "Terminez [Une damoiselle en détresse], épisode 4, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_13",
+            "value": "Terminez [Une damoiselle en détresse], épisode 5"
+        },
+        {
+            "key": "M_EV06_1_14",
+            "value": "Terminez [Une damoiselle en détresse], épisode 5, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_15",
+            "value": "Terminez [Une damoiselle en détresse], épisode 5, 5 fois"
+        },
+        {
+            "key": "M_EV06_1_16",
+            "value": "Terminez [Une damoiselle en détresse], épisode 6"
+        },
+        {
+            "key": "M_EV06_1_17",
+            "value": "Terminez [Une damoiselle en détresse], épisode 6, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_18",
+            "value": "Terminez [Une damoiselle en détresse], épisode 6, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_19",
+            "value": "Terminez [Une damoiselle en détresse], épisode 7"
+        },
+        {
+            "key": "M_EV06_1_20",
+            "value": "Terminez [Une damoiselle en détresse], épisode 7, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_21",
+            "value": "Terminez [Une damoiselle en détresse], épisode 7, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_22",
+            "value": "Terminez [Une damoiselle en détresse], épisode 8"
+        },
+        {
+            "key": "M_EV06_1_23",
+            "value": "Terminez [Une damoiselle en détresse], épisode 8, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_24",
+            "value": "Terminez [Une damoiselle en détresse], épisode 8, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_25",
+            "value": "Terminez [Une damoiselle en détresse], épisode 9"
+        },
+        {
+            "key": "M_EV06_1_26",
+            "value": "Terminez [Une damoiselle en détresse], épisode 9, 2 fois"
+        },
+        {
+            "key": "M_EV06_1_27",
+            "value": "Terminez [Une damoiselle en détresse], épisode 9, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_28",
+            "value": "Terminez [Une damoiselle en détresse], épisode 10"
+        },
+        {
+            "key": "M_EV06_1_29",
+            "value": "Terminez [Une damoiselle en détresse], épisode 10, 3 fois"
+        },
+        {
+            "key": "M_EV06_1_30",
+            "value": "Terminez [Une damoiselle en détresse], épisode 10, 5 fois"
+        },
+        {
+            "key": "M_EV06_1_31",
+            "value": "Terminez [Une damoiselle en détresse], épisode 10, 10 fois"
+        },
+        {
+            "key": "M_EV06_EX_01",
+            "value": "Terminez « Une damoiselle en détresse » [EX]"
+        },
+        {
+            "key": "M_EV06_EX_02",
+            "value": "Terminez « Une damoiselle en détresse » [EX] 3 fois"
+        },
+        {
+            "key": "M_EV06_EX_03",
+            "value": "Terminez « Une damoiselle en détresse » [EX] 5 fois"
+        },
+        {
+            "key": "M_EV06_EX_04",
+            "value": "Terminez « Une damoiselle en détresse » [EX] 10 fois"
+        },
+        {
+            "key": "M_MU_EV06_EX_01",
+            "value": "[Multi] Terminez « Une damoiselle en détresse » [EX]"
+        },
+        {
+            "key": "M_MU_EV06_EX_02",
+            "value": "[Multi] Terminez « Une damoiselle en détresse » [EX] 3 fois"
+        },
+        {
+            "key": "M_MU_EV06_EX_03",
+            "value": "[Multi] Terminez « Une damoiselle en détresse » [EX] 5 fois"
         },
         {
             "key": "M_EV04_1_01",

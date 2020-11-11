@@ -1661,6 +1661,22 @@
             "value": "Detalles de misión<br>Recomendado: nv. 66, nv. de profesión 11<br>Condiciones para desbloquear: Consigue a [Loreila]"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Detalles de misión<br>Recomendado: nv. 67, nv. de profesión 11<br>Condiciones para desbloquear: Consigue a [Skahal]"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Detalles de misión<br>Recomendado: nv. 67, nv. de profesión 11<br>Condiciones para desbloquear: Consigue a [Mariela]"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Detalles de misión<br>Recomendado: nv. 67, nv. de profesión 11<br>Condiciones para desbloquear: Consigue a [Howlet]"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Detalles de misión<br>Recomendado: nv. 67, nv. de profesión 11<br>Condiciones para desbloquear: Consigue a [Chel]"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Zazán] de nv. 40 o superior"
         },
@@ -1975,6 +1991,22 @@
         {
             "key": "QE_CH_LW_RIRY_01",
             "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Lairyu (Halloween)] de nv. 40 o superior"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Skahal] de nv. 40 o superior"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Mariela] de nv. 40 o superior"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Howlet] de nv. 40 o superior"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "Detalles de misión<br>Recomendado: nv. 40, nv. de profesión 8<br>Condiciones para desbloquear: [Chel] de nv. 40 o superior"
         },
         {
             "key": "QE_EV_GL_CDOWN_01_9",
@@ -2633,6 +2665,54 @@
             "value": "Detalles de misión<br>Nada"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Detalles de misión<br>Nada"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Detalles de misión<br>Pista: Para destruir los cañones tendrás que derrotar a los artilleros."
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Detalles de misión<br>Pista: Para destruir los cañones tendrás que derrotar a los artilleros."
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Detalles de misión<br>Pista: Para destruir los cañones tendrás que derrotar a los artilleros."
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "Detalles de misión<br>Pista 1: Los enemigos que usan ataques físicos cuentan con habilidades de penetración de DEF...<br>Pista 2: La mayoría de los enemigos tienen una DEF elevada, por lo que los ataques mágicos que infligen daño en función de la MAG del usuario son más eficaces contra ellos..."
         },
@@ -2794,6 +2874,14 @@
         },
         {
             "key": "QE_EV_ART_CRF_06",
+            "value": "Detalles de misión<br>Recomendado: nv. 50, nv. de profesión 9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Detalles de misión<br>Recomendado: nv. 50, nv. de profesión 9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
             "value": "Detalles de misión<br>Recomendado: nv. 50, nv. de profesión 9"
         },
         {
@@ -3325,6 +3413,18 @@
             "value": "Detalles de misión<br>・Prueba del nuevo combate de gremio.<br>・Envía a tres personajes y selecciona la opción de batalla automática para simular un combate de gremio real."
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Detalles de misión<br>・Prueba del nuevo combate de gremio.<br>・Envía a tres personajes y selecciona la opción de batalla automática para simular un combate de gremio real."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Detalles de misión<br>・Prueba del nuevo combate de gremio.<br>・Envía a tres personajes y selecciona la opción de batalla automática para simular un combate de gremio real."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Detalles de misión<br>・Prueba del nuevo combate de gremio.<br>・Envía a tres personajes y selecciona la opción de batalla automática para simular un combate de gremio real."
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "Nada"
         },
@@ -3353,6 +3453,10 @@
             "value": "Res. a proyectiles↑, MAG↑"
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": "Res. a proyectiles↑"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Nada"
         },
@@ -3379,6 +3483,10 @@
         {
             "key": "QE_GVG_00010",
             "value": "Ataque mágico↑"
+        },
+        {
+            "key": "QE_GVG_GL_00001",
+            "value": "Ataque de viento↑"
         },
         {
             "key": "QE_PVP_FRE_0001",

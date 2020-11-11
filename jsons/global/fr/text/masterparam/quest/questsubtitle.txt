@@ -1661,6 +1661,22 @@
             "value": "Quête difficile"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Quête difficile"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Quête difficile"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Quête difficile"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Quête difficile"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Quête de personnage"
         },
@@ -1974,6 +1990,22 @@
         },
         {
             "key": "QE_CH_LW_RIRY_01",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Quête de personnage"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
             "value": "Quête de personnage"
         },
         {
@@ -2633,6 +2665,54 @@
             "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Niveaux conseillés : unité niv. 5, job niv. 1"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Niveaux conseillés : unité niv. 10, job niv. 2"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Niveaux conseillés : unité niv. 15, job niv. 3"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Niveaux conseillés : unité niv. 20, job niv. 4"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Niveaux conseillés : unité niv. 20, job niv. 5"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Niveaux conseillés : unité niv. 25, job niv. 5"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Niveaux conseillés : unité niv. 30, job niv. 6"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Niveaux conseillés : unité niv. 35, job niv. 7"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Niveaux conseillés : unité niv. 40, job niv. 8"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Niveaux conseillés : unité niv. 40, job niv. 9"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 10"
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "Niveaux conseillés : unité niv. 60, job niv. 10"
         },
@@ -2794,6 +2874,14 @@
         },
         {
             "key": "QE_EV_ART_CRF_06",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Niveaux conseillés : unité niv. 50, job niv. 9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
             "value": "Niveaux conseillés : unité niv. 50, job niv. 9"
         },
         {
@@ -3325,6 +3413,18 @@
             "value": "Essai de la nouvelle carte"
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Essai de la nouvelle carte"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Essai de la nouvelle carte"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Essai de la nouvelle carte"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": ""
         },
@@ -3353,6 +3453,10 @@
             "value": ""
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": ""
+        },
+        {
             "key": "QE_GVG_00001",
             "value": ""
         },
@@ -3378,6 +3482,10 @@
         },
         {
             "key": "QE_GVG_00010",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_GL_00001",
             "value": ""
         },
         {

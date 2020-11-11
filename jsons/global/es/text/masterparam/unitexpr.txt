@@ -321,6 +321,18 @@
             "value": "Un señor rúnico muy atractivo que es el hijo mayor de la familia Groms. Se dirige a todas las mujeres como princesas y aprecia el tiempo que pasa con ellas más que cualquier otra cosa, lo que le lleva a saltarse el entrenamiento más de una vez. Como resultado, fue repudiado por su padre y maestro y fue enviado a acompañar a su hermano pequeño, Taitas, y a su hermana pequeña, Chel, en sus viajes."
         },
         {
+            "key": "UN_LW_P_SCAL",
+            "value": "El joven líder de Saiga. Pese a las relaciones hostiles con Gouga, la otra aldea ninja, Skahal trabaja por la unificación de ambas en un único país. Debido a que Loreila, su amante, es la nueva jefa de Gouga, pensó que las dos aldeas podrían unificarse pronto. Sin embargo..."
+        },
+        {
+            "key": "UN_LW_P_MRAL",
+            "value": "Una esgrimaga de Gouga. Aunque quería convertirse en la siguiente jefa, Loreila le arrebató el título, por lo que le guarda muchísimo rencor. Mandó a uno de sus subordinados a espiar a Loreila y se enteró de que esta se estaba viendo en secreto con el jefe de Saiga."
+        },
+        {
+            "key": "UN_LW_P_CHEL",
+            "value": "Una maga verde que es la hija más pequeña de la familia Groms. Después de que su padre y maestro repudiase a su hermano mayor, Howlet, decide acompañarle en sus viajes. Odia las circunstancias complejas y siempre está sonriendo. En estos momentos, no puede evitar pasárselo en grande visitando numerosos países junto a su querido hermano mayor."
+        },
+        {
             "key": "UN_LW_E_IRDL",
             "value": ""
         },
@@ -1645,6 +1657,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_HWLT_MOGI",
+            "value": ""
+        },
+        {
             "key": "UN_LW_TU_MONT",
             "value": ""
         },
@@ -2211,6 +2227,10 @@
         {
             "key": "UN_GM_KENZAN_01",
             "value": "Inflige daño al objetivo al pisar la zona"
+        },
+        {
+            "key": "UN_GM_CANN",
+            "value": ""
         }
     ]
 }

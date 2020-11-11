@@ -10,7 +10,7 @@
         },
         {
             "key": "3",
-            "value": "Passe d'entraînement d'équip."
+            "value": "Passe d'entraînement d'équipement"
         },
         {
             "key": "4",

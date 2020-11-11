@@ -1,0 +1,32 @@
+{
+    "infos": [
+        {
+            "key": "ffc2f38f-daa9-4d72-8457-273e13a07b54",
+            "value": "TP_TITLE1_ZH"
+        },
+        {
+            "key": "xxc2f38f-daa9-4d72-8457-273e13a07b54",
+            "value": "TP_TITLE2_ZH"
+        },
+        {
+            "key": "ID_1",
+            "value": "禮包1名稱"
+        },
+        {
+            "key": "ID_2",
+            "value": "禮包2名稱"
+        },
+        {
+            "key": "ID_3",
+            "value": "禮包3名稱"
+        },
+        {
+            "key": "ID_4",
+            "value": "禮包4名稱"
+        },
+        {
+            "key": "ID_5",
+            "value": "禮包5名稱"
+        }
+    ]
+}

@@ -191,6 +191,10 @@
         {
             "key": "LB_LIMIT_GL0030",
             "value": "Bonificación de acceso de la campaña de Halloween, parte II"
+        },
+        {
+            "key": "LB_LIMIT_GL0031",
+            "value": "Bonificación de acceso de la campaña de otoño 2020, parte II"
         }
     ]
 }

@@ -858,11 +858,11 @@
         },
         {
             "key": "IT_SET_UNIT_EXP_HA_L",
-            "value": "[Anniversaire des 6 mois] Lot de cubes d'EXP II"
+            "value": "Spécial automne 2020 [Partie II] - Lot de cubes d'EXP II"
         },
         {
             "key": "IT_SET_UNIT_EXP_HA_S",
-            "value": "[Anniversaire des 6 mois] Lot de cubes d'EXP I"
+            "value": "Spécial automne 2020 [Partie II] - Lot de cubes d'EXP I"
         },
         {
             "key": "IT_SET_VC_EXP_HA_L",
@@ -1047,6 +1047,30 @@
         {
             "key": "IT_SET_JB_MM_1100DL_01",
             "value": "[Halloween] Lot d'amélioration de job I"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "Spécial automne 2020 [Partie II] - Lot pour le groupe"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "Lot d'invocation d'unité"
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "Spécial automne 2020 [Partie II] - Lot d'entraînement arc-en-ciel"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "Spécial automne 2020 [Partie II] - Lot d'aptitude d'équipement"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "Spécial automne 2020 [Partie II] - Lot pour l'équipement"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "Spécial automne 2020 [Partie II] - Lot d'amélioration d'atout-vision"
         }
     ]
 }

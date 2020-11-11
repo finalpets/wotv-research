@@ -1047,6 +1047,30 @@
         {
             "key": "IT_SET_JB_MM_1100DL_01",
             "value": "Un lot spécial contenant un souvenir du Héros sans nom (vert), un ticket sélectionneur de 30 alcrists élémentaires (verts), un ticket d'Halloween sélectionneur de 15 jades, des statues d'ange en prière (vertes), des statues de wyverne aux aguets (vertes) et des souvenirs confus (verts) !"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "Un lot spécial contenant des cubes d'EXP (XL), des œufs de croissance (MR) et de l'adamantine (XL) !"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "Un lot spécial contenant des cubes d'EXP (XL) pour améliorer vos unités, ainsi que des tickets nécessaires pour lancer l'invocation d'unité MR+ garantie du Spécial automne 2020 [Partie II]. *Ces tickets pour l'invocation du Spécial automne 2020 [Partie II] ne peuvent être utilisés que jusqu'au 11/11/2020, heure universelle (PST) inclus. *Les unités limitées et celles issues des collaborations ne sont pas incluses dans cette invocation."
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "Un lot spécial rempli de cubes d'EXP (XL), avec un fragment de pensée arc-en-ciel et des orbes de vision arc-en-ciel en bonus ! De quoi renforcer vos unités !"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "Un lot spécial contenant de l'adamantine (XL) avec des rois pots d'armure et des pots d'armure en bonus. Des objets essentiels pour améliorer vos pièces d'équipement et leurs aptitudes !"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "Un lot rempli d'adamantine (S/M/L), essentielle à l'amélioration de votre équipement !"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "Un lot spécial rempli d'œufs de croissance (MR), avec en bonus des œufs de croissance (SR) ! De quoi améliorer vos atouts-visions !"
         }
     ]
 }

@@ -1801,6 +1801,54 @@
             "value": ""
         },
         {
+            "key": "new-gacha_gl20201104_01",
+            "value": "Mit 10 November-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "Mit 100 November-Beschwörungsmedaillen A"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step5",
+            "value": "Eine [UR]-Einheit garantiert"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step4",
+            "value": "Mit einem „Auswählbares Elementgedankenfragment x50“-Beschwörungsticket"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step3",
+            "value": "Mit einem „Auswählbares Erweckungsprisma x50“-Beschwörungsticket"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step2",
+            "value": "[MR+]-Einheit oder -Visionskarte garantiert"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step1",
+            "value": "[MR+]-Einheit oder -Visionskarte garantiert"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step3",
+            "value": "Houlet oder Skahal garantiert"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step2",
+            "value": "Eine [UR]-Einheit/-Visionskarte garantiert"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step1",
+            "value": "Eine [UR]-Einheit/-Visionskarte garantiert"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Mit 10 März-Beschwörungsmedaillen A"
         },

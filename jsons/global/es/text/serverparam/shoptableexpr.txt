@@ -1047,6 +1047,30 @@
         {
             "key": "IT_SET_JB_MM_1100DL_01",
             "value": "¡Un lote especial que contiene un recuerdo de héroe anónimo (verde), un tícket seleccionador de 30 alcrists elementales (verdes), un tícket seleccionador de 15 jadeítas [Campaña de Halloween], estatuas de ángel devoto (verdes), estatuas de guiverno acechador (verdes), y recuerdos lejanos (verdes)!"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "¡Lote especial que contiene cubos de EXP (XL), huevos nutritivos (MR) y adamantita (XL)!"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "¡Lote especial repleto de cubos de EXP (XL) necesarios para mejorar unidades y tíckets necesarios para realizar la invocación de unidad MR+ garantizada de la campaña de otoño 2020, parte II! *Los tíckets de invocación de unidad MR+ garantizada de la campaña de otoño 2020, parte II no se podrán usar pasado el 11/11/2020, hora mundial (PST). *Esta invocación no incluye unidades limitadas ni de colaboración."
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "¡Un lote especial que contiene cubos de EXP (XL), un fragmento de la memoria arcoíris a modo de bonificación y esferas de visión arcoíris!. ¡Imprescindible para mejorar tus unidades!"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "Un lote especial que contiene adamantita (XL) y reyes tarro acorazados y tarros acorazados a modo de bonificación. ¡Imprescindibles para mejorar tu equipo y sus habilidades!"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "Un lote especial repleto de adamantita (P/M/G). ¡Imprescindible para mejorar tu equipo!"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "Un lote especial repleto de huevos nutritivos (MR), además de huevos nutritivos (SR) a modo de bonificación. ¡Imprescindibles para mejorar tus carta de visión!"
         }
     ]
 }

@@ -289,6 +289,14 @@
             "value": "[Multi] Ausrüstungsverbesserungsauftrag (Platinkeule, Korallenklinge)"
         },
         {
+            "key": "MG_EV_ART_CRF_05",
+            "value": "Ausrüstungsverbesserungsauftrag (Platinstab)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_05",
+            "value": "[Multi] Ausrüstungsverbesserungsauftrag (Platinstab)"
+        },
+        {
             "key": "MG_EV01_1_01",
             "value": "Der begehrte Prinz"
         },
@@ -347,6 +355,18 @@
         {
             "key": "MG_MU_EV05_1_02",
             "value": "[Multi] Gouga und Saiga: Teil I [EX]"
+        },
+        {
+            "key": "MG_EV06_1_01",
+            "value": "Die Prinzessin in Nöten"
+        },
+        {
+            "key": "MG_EV06_1_02",
+            "value": "Die Prinzessin in Nöten [EX]"
+        },
+        {
+            "key": "MG_MU_EV06_1_02",
+            "value": "[Multi] Die Prinzessin in Nöten [EX]"
         },
         {
             "key": "MG_ETRE01_01",

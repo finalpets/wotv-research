@@ -577,6 +577,114 @@
             "value": "Erhöhe die Stufe einer bestimmten Einheit VI"
         },
         {
+            "key": "CM_PRO_GL_HWLT_01",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit I"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_02",
+            "value": "Führe einen Limitbruch an einer bestimmten Einheit durch"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_03",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit II"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_04",
+            "value": "Erhöhe die Jobstufe einer bestimmten Einheit I"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_05",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit III"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_06",
+            "value": "Erhöhe die Jobstufe einer bestimmten Einheit II"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_07",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit IV"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_08",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit V"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_09",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit VI"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_01",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit I"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_02",
+            "value": "Führe einen Limitbruch an einer bestimmten Einheit durch"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_03",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit II"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_04",
+            "value": "Erhöhe die Jobstufe einer bestimmten Einheit I"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_05",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit III"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_06",
+            "value": "Erhöhe die Jobstufe einer bestimmten Einheit II"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_07",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit IV"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_08",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit V"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_09",
+            "value": "Erhöhe die Stufe einer bestimmten Einheit VI"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_01",
+            "value": "Spiele die Storyaufträge"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_02",
+            "value": "Tätige einen Einkauf im Laden"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_03",
+            "value": "Schließe die Gilkammer ab"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_04",
+            "value": "Erhöhe zehnmal die Stufe einer Einheit"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_05",
+            "value": "Sammle bei der Chocobo-Expedition zweimal Gegenstände ein"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_06",
+            "value": "Verbessere dreimal die Fähigkeit einer Einheit"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_07",
+            "value": "Erhöhe fünfmal die Jobstufe einer Einheit"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_08",
+            "value": "Tritt einer Gilde bei"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_09",
+            "value": "Melde dich an 3 Tagen an"
+        },
+        {
             "key": "GM_0001",
             "value": "Rekrutiere weitere Gildenmitglieder I"
         },
@@ -1821,6 +1929,30 @@
             "value": "[Multi] Schließe „Brutaler Schwierigkeitsgrad: Ausrüstungsverbesserungsauftrag“ ab (3/3)"
         },
         {
+            "key": "M_ART_CRF_09_01",
+            "value": "Schließe „Ausrüstungsverbesserungsauftrag (Platinstab)“ ab (1/5)"
+        },
+        {
+            "key": "M_ART_CRF_09_02",
+            "value": "Schließe „Ausrüstungsverbesserungsauftrag (Platinstab)“ ab (3/5)"
+        },
+        {
+            "key": "M_ART_CRF_09_03",
+            "value": "Schließe „Ausrüstungsverbesserungsauftrag (Platinstab)“ ab (5/5)"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_1",
+            "value": "[Multi] Schließe „Ausrüstungsverbesserungsauftrag (Platinstab)“ ab (1/5)"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_2",
+            "value": "[Multi] Schließe „Ausrüstungsverbesserungsauftrag (Platinstab)“ ab (3/5)"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_3",
+            "value": "[Multi] Schließe „Ausrüstungsverbesserungsauftrag (Platinstab)“ ab (5/5)"
+        },
+        {
             "key": "M_EV_IGNT_01",
             "value": "Schließe „Hoher Schwierigkeitsgrad: Herausforderung des Eisengiganten“ ab I (1/5)"
         },
@@ -2659,6 +2791,158 @@
         {
             "key": "M_MU_EV05_EX2_03",
             "value": "[Multi] Schließe „Gouga und Saiga: Teil I [EX2]“ ab (5/5)"
+        },
+        {
+            "key": "M_EV06_1_01",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 1“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_02",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 1“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_03",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 1“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_04",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 2“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_05",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 2“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_06",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 2“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_07",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 3“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_08",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 3“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_09",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 3“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_10",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 4“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_11",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 4“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_12",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 4“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_13",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 5“ ab (1/5)"
+        },
+        {
+            "key": "M_EV06_1_14",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 5“ ab (3/5)"
+        },
+        {
+            "key": "M_EV06_1_15",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 5“ ab (5/5)"
+        },
+        {
+            "key": "M_EV06_1_16",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 6“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_17",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 6“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_18",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 6“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_19",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 7“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_20",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 7“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_21",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 7“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_22",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 8“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_23",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 8“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_24",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 8“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_25",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 9“ ab (1/3)"
+        },
+        {
+            "key": "M_EV06_1_26",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 9“ ab (2/3)"
+        },
+        {
+            "key": "M_EV06_1_27",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 9“ ab (3/3)"
+        },
+        {
+            "key": "M_EV06_1_28",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 10“ ab (1/10)"
+        },
+        {
+            "key": "M_EV06_1_29",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 10“ ab (3/10)"
+        },
+        {
+            "key": "M_EV06_1_30",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 10“ ab (5/10)"
+        },
+        {
+            "key": "M_EV06_1_31",
+            "value": "Schließe „Die Prinzessin in Nöten, Episode 10“ ab (10/10)"
+        },
+        {
+            "key": "M_EV06_EX_01",
+            "value": "Schließe „Die Prinzessin in Nöten [EX]“ ab (1/10)"
+        },
+        {
+            "key": "M_EV06_EX_02",
+            "value": "Schließe „Die Prinzessin in Nöten [EX]“ ab (3/10)"
+        },
+        {
+            "key": "M_EV06_EX_03",
+            "value": "Schließe „Die Prinzessin in Nöten [EX]“ ab (5/10)"
+        },
+        {
+            "key": "M_EV06_EX_04",
+            "value": "Schließe „Die Prinzessin in Nöten [EX]“ ab (10/10)"
+        },
+        {
+            "key": "M_MU_EV06_EX_01",
+            "value": "[Multi] Schließe „Die Prinzessin in Nöten [EX]“ ab (1/5)"
+        },
+        {
+            "key": "M_MU_EV06_EX_02",
+            "value": "[Multi] Schließe „Die Prinzessin in Nöten [EX]“ ab (3/5)"
+        },
+        {
+            "key": "M_MU_EV06_EX_03",
+            "value": "[Multi] Schließe „Die Prinzessin in Nöten [EX]“ ab (5/5)"
         },
         {
             "key": "M_EV04_1_01",

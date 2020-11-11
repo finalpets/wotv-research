@@ -1801,6 +1801,54 @@
             "value": ""
         },
         {
+            "key": "new-gacha_gl20201104_01",
+            "value": "신규 유닛 픽업 소환 하울렛&스칼"
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "신규 유닛 픽업 소환 하울렛&스칼 10회 소환"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step5",
+            "value": "5 스텝 업 10회 소환 STEP5"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step4",
+            "value": "5 스텝 업 10회 소환 STEP4"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step3",
+            "value": "5 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step2",
+            "value": "5 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step1",
+            "value": "5 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step3",
+            "value": "3 스텝 업 10회 소환 STEP3"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step2",
+            "value": "3 스텝 업 10회 소환 STEP2"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step1",
+            "value": "3 스텝 업 10회 소환 STEP1"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "출시 기념 픽업 소환"
         },

@@ -1,0 +1,124 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "啟程禮包<br>販賣中！"
+        },
+        {
+            "key": "2",
+            "value": "<cspace=1>100萬下載紀念商店"
+        },
+        {
+            "key": "3",
+            "value": "<cspace=1>200萬下載紀念商店"
+        },
+        {
+            "key": "4",
+            "value": "拉姆薩登場！"
+        },
+        {
+            "key": "5",
+            "value": "<cspace=1>FFT聯動活動<cspace=-0.5>於05/12 世界時間(PST)結束"
+        },
+        {
+            "key": "6",
+            "value": "<cspace=1>第6章公開紀念商店"
+        },
+        {
+            "key": "7",
+            "value": "<cspace=1>500萬下載紀念商店"
+        },
+        {
+            "key": "8",
+            "value": "<cspace=1>500萬下載紀念商店第2階段"
+        },
+        {
+            "key": "9",
+            "value": "<cspace=1>版本更新紀念<br>商店"
+        },
+        {
+            "key": "10",
+            "value": "<cspace=1>共鬥紀念特別商店"
+        },
+        {
+            "key": "11",
+            "value": "<cspace=1>初夏紀念<br>特別商店"
+        },
+        {
+            "key": "12",
+            "value": "<cspace=1>MOBIUS FINAL FANTASY<br>聯動紀念商店"
+        },
+        {
+            "key": "13",
+            "value": "<cspace=1>白磁之塔<cspace=-0.5><br>舉辦紀念商店！"
+        },
+        {
+            "key": "14",
+            "value": "<cspace=1>公會支援<cspace=-0.5><br>活動商店！"
+        },
+        {
+            "key": "15",
+            "value": "<cspace=1>共鬥紀念<cspace=-0.5><br>特別商店"
+        },
+        {
+            "key": "16",
+            "value": "<cspace=1>2020夏日<cspace=-0.5><br>活動商店"
+        },
+        {
+            "key": "17",
+            "value": "<cspace=1>FFI聯動活動<cspace=-0.5><br>8月11日結束"
+        },
+        {
+            "key": "18",
+            "value": "<cspace=1>劇情第8章<cspace=-0.5><br>公開紀念商店"
+        },
+        {
+            "key": "19",
+            "value": "<cspace=1>大型版本更新<cspace=-0.5><br>紀念商店"
+        },
+        {
+            "key": "20",
+            "value": "<cspace=1>期間限定！<cspace=-0.5><br>聯動紀念禮包"
+        },
+        {
+            "key": "21",
+            "value": "<cspace=1>確保可獲得<cspace=-0.5><br>拉姆薩"
+        },
+        {
+            "key": "22",
+            "value": "<cspace=1>FFT聯動活動<cspace=-0.5><br>9月15日結束"
+        },
+        {
+            "key": "23",
+            "value": "<cspace=1>半週年<cspace=-0.5><br>前夜祭商店"
+        },
+        {
+            "key": "24",
+            "value": "<cspace=1>半週年紀念<cspace=-0.5><br>紀念商店登場！"
+        },
+        {
+            "key": "25",
+            "value": "<cspace=1>半週年紀念<cspace=-0.5><br>第2階段！"
+        },
+        {
+            "key": "26",
+            "value": "<cspace=1>半週年紀念<cspace=-0.5><br>第3階段！"
+        },
+        {
+            "key": "27",
+            "value": "<cspace=1>半週年紀念<cspace=-0.5><br>第4階段！"
+        },
+        {
+            "key": "28",
+            "value": "<cspace=1>萬聖節活動<cspace=-0.5><br>第1階段！"
+        },
+        {
+            "key": "29",
+            "value": "<cspace=1>萬聖節活動<cspace=-0.5><br>第2階段！"
+        },
+        {
+            "key": "30",
+            "value": "<cspace=1>秋日活動<cspace=-0.5><br>第2階段！"
+        }
+    ]
+}

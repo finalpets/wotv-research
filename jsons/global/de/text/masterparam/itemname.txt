@@ -2005,6 +2005,18 @@
             "value": "„Houlet“-Einheitenfragment"
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "„Skahal“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "„Marial“-Einheitenfragment"
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "„Chell“-Einheitenfragment"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Roter Maginit (S)"
         },
@@ -2589,6 +2601,10 @@
             "value": "[Anleitung] Korallenklinge"
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "[Anleitung] Lohengrin"
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "[Anleitung] Claymore"
         },
@@ -2981,10 +2997,6 @@
             "value": "Beschwörungsmedaille"
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": "November-Beschwörungsmedaille A"
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": "Dezember-Beschwörungsmedaille A"
         },
@@ -3097,6 +3109,10 @@
             "value": "Oktober-Beschwörungsmedaille B"
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "November-Beschwörungsmedaille A"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT-Eventmedaille"
         },
@@ -3151,6 +3167,10 @@
         {
             "key": "IT_EC_EV05_1",
             "value": "„Gouga und Saiga: Teil I“-Medaille"
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "„Die Prinzessin in Nöten“-Medaille"
         },
         {
             "key": "IT_EC_FF1_1",
@@ -3391,6 +3411,10 @@
         {
             "key": "IT_US_G_U_SSR_UR_07",
             "value": "[Herbstkampagne 2020 Teil I] „[MR+] garantiert“-Einheitenbeschwörungsticket"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "[Herbstkampagne 2020 Teil II] „[MR+] garantiert“-Einheitenbeschwörungsticket"
         },
         {
             "key": "IT_US_SE_UR_V_01",

@@ -507,6 +507,18 @@
         {
             "key": "Normal_gacha_A_gl20201028_10",
             "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_01",
+            "value": "기간 한정 일반 소환"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_10",
+            "value": "기간 한정 일반 소환 10회 소환"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "MR 이상 유닛 보장 소환"
         }
     ]
 }

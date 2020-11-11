@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "PB_LGB_Noraml01",
+            "value": "無特別限制"
+        },
+        {
+            "key": "PB_LGB_Normal02",
+            "value": "無特別限制"
+        },
+        {
+            "key": "PB_LGB_Normal03",
+            "value": "無特別限制"
+        },
+        {
+            "key": "PB_LGB_Male",
+            "value": "僅以男性兵員編配"
+        },
+        {
+            "key": "PB_LGB_Female",
+            "value": "僅以女性兵員編配"
+        }
+    ]
+}

@@ -1062,23 +1062,23 @@
         },
         {
             "key": "IT_JB_MM_MST",
-            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 3"
+            "value": "Objeto necesario para mejorar una profesión (mago de bastones) al nv. 3"
         },
         {
             "key": "IT_JB_MM_MST_2",
-            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 6"
+            "value": "Objeto necesario para mejorar una profesión (mago de bastones) al nv. 6"
         },
         {
             "key": "IT_JB_MM_MST_3",
-            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 9"
+            "value": "Objeto necesario para mejorar una profesión (mago de bastones) al nv. 9"
         },
         {
             "key": "IT_JB_MM_MST_4",
-            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 12"
+            "value": "Objeto necesario para mejorar una profesión (mago de bastones) al nv. 12"
         },
         {
             "key": "IT_JB_MM_MST_5",
-            "value": "Objeto necesario para mejorar una profesión (maga de bastones) al nv. 15"
+            "value": "Objeto necesario para mejorar una profesión (mago de bastones) al nv. 15"
         },
         {
             "key": "IT_JB_MM_FFT_AGRA",
@@ -2005,6 +2005,18 @@
             "value": "Objeto necesario para romper el límite de una unidad"
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "Objeto necesario para romper el límite de una unidad"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Otorga EXP de esper (poco)"
         },
@@ -2589,6 +2601,10 @@
             "value": "Receta necesaria para forjar una espada de coral"
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "Receta necesaria para elaborar una Lohengrin."
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "Receta necesaria para forjar una Claymore"
         },
@@ -2981,10 +2997,6 @@
             "value": "Sin detalles"
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 9/12/2019 a las 14:59 PST)"
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades, cartas de visión, y en invocaciones invernales (Finaliza el 31/12/2020 a las 23:59 PST)"
         },
@@ -3097,6 +3109,10 @@
             "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 17/11/2020 17:59, hora mundial (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "Una medalla que puede adquirirse a través de nuevas invocaciones de unidades y cartas de visión (Finaliza el 1/12/2020 23:59, hora mundial (PST))"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Objeto que puede adquirirse en los eventos de colaboración de FFT. Puede intercambiarse por varios objetos en la tienda de intercambio de medalla de evento de FFT"
         },
@@ -3151,6 +3167,10 @@
         {
             "key": "IT_EC_EV05_1",
             "value": "Objeto que puede adquirirse en Gouga y Saiga: Parte I. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de Gouga y Saiga: Parte I"
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "Objeto que puede adquirirse en los eventos de Damisela en apuros. Puede intercambiarse por varios objetos en la tienda de intercambio de medallas de Damisela en apuros."
         },
         {
             "key": "IT_EC_FF1_1",
@@ -3391,6 +3411,10 @@
         {
             "key": "IT_US_G_U_SSR_UR_07",
             "value": "Tícket que sirve para realizar una invocación de unidad MR+ garantizada de la campaña de otoño 2020, parte I. *No puede usarse pasado el 28/10/2020, hora mundial (PST). *Esta invocación no incluye unidades de tiempo limitado ni de colaboración. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "Tícket que sirve para realizar una invocación de unidad MR+ garantizada de la campaña de otoño 2020, parte II. *No puede usarse pasado el 11/11/2020, hora mundial (PST). *Esta invocación no incluye unidades de tiempo limitado ni de colaboración. "
         },
         {
             "key": "IT_US_SE_UR_V_01",

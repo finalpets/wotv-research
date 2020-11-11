@@ -1,0 +1,80 @@
+{
+    "infos": [
+        {
+            "key": "CM_PRO_001_1",
+            "value": "考驗任務 No.1"
+        },
+        {
+            "key": "CM_PRO_001_2",
+            "value": "考驗任務 No.2"
+        },
+        {
+            "key": "CM_PRO_001_3",
+            "value": "考驗任務 No.3"
+        },
+        {
+            "key": "CM_PRO_GL_001_1",
+            "value": "提升影猞猁的等級吧"
+        },
+        {
+            "key": "CM_PRO_GL_001_2",
+            "value": "極限突破影猞猁吧"
+        },
+        {
+            "key": "CM_PRO_GL_001_3",
+            "value": "覺醒影猞猁吧"
+        },
+        {
+            "key": "CM_PRO_GL_001_4",
+            "value": "進行劇情任務吧"
+        },
+        {
+            "key": "CM_PRO_002_1",
+            "value": "FFT聯動活動考驗任務No.1"
+        },
+        {
+            "key": "CM_PRO_002_2",
+            "value": "FFT聯動活動考驗任務No.2"
+        },
+        {
+            "key": "CM_PRO_004_1",
+            "value": "MOBIUS FINAL FANTASY聯動紀念考驗任務"
+        },
+        {
+            "key": "CM_PRO_005_1",
+            "value": "FFI聯動活動考驗任務"
+        },
+        {
+            "key": "CM_PRO_006_1",
+            "value": "FFT聯動活動第2波考驗任務"
+        },
+        {
+            "key": "CM_PRO_011_1",
+            "value": "FFCCRE聯動活動考驗任務No.1"
+        },
+        {
+            "key": "CM_PRO_011_2",
+            "value": "FFCCRE聯動活動考驗任務No.2"
+        },
+        {
+            "key": "CM_PRO_013_1",
+            "value": "雷尤（萬聖節）新登場紀念 育成考驗任務"
+        },
+        {
+            "key": "CM_PRO_GL_RYER_01_1",
+            "value": "莉蕾露莉拉（萬聖節）新登場紀念 育成考驗任務"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_1",
+            "value": "哈烏雷特新登場紀念 育成考驗任務"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_1",
+            "value": "斯卡爾新登場紀念 育成考驗任務"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_1",
+            "value": "2020秋日活動 第2階段 考驗任務"
+        }
+    ]
+}

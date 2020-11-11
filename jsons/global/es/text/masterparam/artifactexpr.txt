@@ -2045,6 +2045,18 @@
             "value": "Tipo de equipo: ropa<br>Nivel de maestría de armadura recomendado: A o superior"
         },
         {
+            "key": "AF_ACC_LW_SCAL_1",
+            "value": "Tipo de equipo: accesorio<br>Nivel de maestría de accesorio recomendado: A o superior"
+        },
+        {
+            "key": "AF_SWO_LW_MRAL_1",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
+            "key": "AF_ROD_LW_CHEL_1",
+            "value": "Tipo de equipo: bastón<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
         },
@@ -2185,6 +2197,10 @@
             "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: A o superior"
         },
         {
+            "key": "AF_ROD_LW_SCAL_2",
+            "value": "Tipo de equipo: bastón<br>Nivel de maestría de arma recomendado: A o superior"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Tipo de equipo: accesorio<br>Nivel de maestría de accesorio recomendado: A o superior"
         },
@@ -2287,6 +2303,30 @@
         {
             "key": "AF_LW_KAT_008_5",
             "value": "Tipo de equipo: katana<br>Nivel de maestría de arma recomendado: A o superior"
+        },
+        {
+            "key": "AF_LW_SWO_023",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
+            "key": "AF_LW_SWO_023_1",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
+            "key": "AF_LW_SWO_023_2",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
+            "key": "AF_LW_SWO_023_3",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
+            "key": "AF_LW_SWO_023_4",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
+        },
+        {
+            "key": "AF_LW_SWO_023_5",
+            "value": "Tipo de equipo: espada<br>Nivel de maestría de arma recomendado: B o superior"
         }
     ]
 }

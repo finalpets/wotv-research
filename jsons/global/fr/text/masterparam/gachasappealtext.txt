@@ -111,6 +111,10 @@
         {
             "key": "28",
             "value": "Nouveaux atouts-visions<br>disponibles !"
+        },
+        {
+            "key": "29",
+            "value": "Nouvelles unités<br>disponibles !"
         }
     ]
 }

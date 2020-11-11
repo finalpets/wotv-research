@@ -111,6 +111,10 @@
         {
             "key": "28",
             "value": "Neue Visionskarten<br>im Blickpunkt!"
+        },
+        {
+            "key": "29",
+            "value": "Neue Einheiten<br>im Blickpunkt!"
         }
     ]
 }

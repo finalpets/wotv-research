@@ -501,6 +501,30 @@
             "value": "Rango de jugador: 60 o superior"
         },
         {
+            "key": "Normal-20200722_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200722_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200722_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
+            "key": "Normal-20200723_A",
+            "value": "Rango de jugador: 1–29"
+        },
+        {
+            "key": "Normal-20200723_B",
+            "value": "Rango de jugador: 30–59"
+        },
+        {
+            "key": "Normal-20200723_C",
+            "value": "Rango de jugador: 60 o superior"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
         },
@@ -957,6 +981,30 @@
             "value": "Tienda fugaz (jugadores de rango 60 o superior)"
         },
         {
+            "key": "Guerrilla-20200722A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200722B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200722C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
+            "key": "Guerrilla-20200723A",
+            "value": "Tienda fugaz (jugadores de rango 29 o inferior)"
+        },
+        {
+            "key": "Guerrilla-20200723B",
+            "value": "Tienda fugaz (jugadores de rango 30-59)"
+        },
+        {
+            "key": "Guerrilla-20200723C",
+            "value": "Tienda fugaz (jugadores de rango 60 o superior)"
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "Tienda de colaboración de FFT, parte II: ¡Artículos especiales ya a la venta!"
         },
@@ -971,6 +1019,14 @@
         {
             "key": "Limited-20200501_C",
             "value": "Tienda de colaboración de FFT de vuelta: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20201104",
+            "value": "Tienda de la campaña de otoño 2020, parte II: ¡Artículos especiales ya a la venta!"
+        },
+        {
+            "key": "Limited-gl20201104_A",
+            "value": "Tienda de nueva unidad destacada: ¡Mejora tus unidades!"
         },
         {
             "key": "Limited-gl20201028",
@@ -1337,8 +1393,12 @@
             "value": "¡Esta es la tienda de intercambio de medallas de invocación de FFT (B), parte II, kupó!"
         },
         {
-            "key": "Event-Tower_20200624",
-            "value": "¡Esta es la tienda de intercambio de medallas de torre, kupó!"
+            "key": "Event-Quest_20200701",
+            "value": "¡Esta es la tienda de intercambio de medallas de Damisela en apuros, kupó!"
+        },
+        {
+            "key": "Event-Summon_GL20201104_A",
+            "value": "¡Esta es la tienda de intercambio de medallas de invocación (A) de noviembre, kupó!"
         },
         {
             "key": "Event-Summon_GL20201028_B",
@@ -1371,6 +1431,10 @@
         {
             "key": "Event-Unit_gl20200923",
             "value": "¡Esta es la tienda de intercambio de piezas de unidad UR, kupó!"
+        },
+        {
+            "key": "Event-Tower_20200624",
+            "value": "¡Esta es la tienda de intercambio de medallas de torre, kupó!"
         },
         {
             "key": "Event-Quest_20200601",
@@ -1878,6 +1942,62 @@
         },
         {
             "key": "Event-Vision_N_gl20201007",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión N, kupó!"
+        },
+        {
+            "key": "Event-Friend_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de amigo, kupó!"
+        },
+        {
+            "key": "Event-Arena_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de la Arena, kupó!"
+        },
+        {
+            "key": "Event-Match_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de JcJ, kupó!"
+        },
+        {
+            "key": "Event-Guild_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de gremio, kupó!"
+        },
+        {
+            "key": "Event-Soul_UR_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma UR, kupó!"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma MR, kupó!"
+        },
+        {
+            "key": "Event-Soul_SR_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma SR, kupó!"
+        },
+        {
+            "key": "Event-Soul_R_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma R, kupó!"
+        },
+        {
+            "key": "Event-Soul_N_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de alma N, kupó!"
+        },
+        {
+            "key": "Event-Vision_UR_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión UR, kupó!"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión MR, kupó!"
+        },
+        {
+            "key": "Event-Vision_SR_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión SR, kupó!"
+        },
+        {
+            "key": "Event-Vision_R_gl20201104",
+            "value": "¡Esta es la tienda de intercambio de medallas de visión R, kupó!"
+        },
+        {
+            "key": "Event-Vision_N_gl20201104",
             "value": "¡Esta es la tienda de intercambio de medallas de visión N, kupó!"
         },
         {
@@ -2902,6 +3022,38 @@
         },
         {
             "key": "Limited-FIRE_2020_7_A",
+            "value": "Tienda con artículos especiales para profesiones de fuego del día"
+        },
+        {
+            "key": "Limited-WATER_2020_7_B",
+            "value": "Tienda con artículos especiales para profesiones de agua del día"
+        },
+        {
+            "key": "Limited-WIND_2020_7_B",
+            "value": "Tienda con artículos especiales para profesiones de viento del día"
+        },
+        {
+            "key": "Limited-THUNDER_2020_7_B",
+            "value": "Tienda con artículos especiales para profesiones de rayo del día"
+        },
+        {
+            "key": "Limited-SOIL_2020_7_B",
+            "value": "Tienda con artículos especiales para profesiones de tierra del día"
+        },
+        {
+            "key": "Limited-SHINE_2020_7_B",
+            "value": "Tienda con artículos especiales del día para profesiones de luz"
+        },
+        {
+            "key": "Limited-DARK_2020_7_B",
+            "value": "Tienda con artículos especiales del día para profesiones de oscuridad"
+        },
+        {
+            "key": "Limited-ICE_2020_7_B",
+            "value": "Tienda con artículos especiales para profesiones de hielo del día"
+        },
+        {
+            "key": "Limited-FIRE_2020_7_B",
             "value": "Tienda con artículos especiales para profesiones de fuego del día"
         }
     ]

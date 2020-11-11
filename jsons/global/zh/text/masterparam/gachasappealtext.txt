@@ -1,0 +1,120 @@
+{
+    "infos": [
+        {
+            "key": "1",
+            "value": "<space=7>FFXIV聯動召喚<br>舉辦中！"
+        },
+        {
+            "key": "2",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "3",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "4",
+            "value": "<space=7>FFT聯動召喚<br>舉辦中！"
+        },
+        {
+            "key": "5",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "6",
+            "value": "<space=7>新幻兵卡<br>機率提升！"
+        },
+        {
+            "key": "7",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "8",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "9",
+            "value": "<space=7>精選召喚實施中！"
+        },
+        {
+            "key": "10",
+            "value": "<space=7>新兵員<br>&召喚獸！"
+        },
+        {
+            "key": "11",
+            "value": "<space=7>精選召喚實施中！"
+        },
+        {
+            "key": "12",
+            "value": "<space=7>新登場！<br>機率提升中！"
+        },
+        {
+            "key": "13",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "14",
+            "value": "<space=7>新幻兵卡<br>機率提升！"
+        },
+        {
+            "key": "15",
+            "value": "<space=7>FFI聯動召喚<br>舉辦中！"
+        },
+        {
+            "key": "16",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "17",
+            "value": "<space=7>新幻兵卡<br>機率提升！"
+        },
+        {
+            "key": "18",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "19",
+            "value": "<space=7>FFT聯動召喚<br>舉辦中！"
+        },
+        {
+            "key": "20",
+            "value": "<space=7>奧爾蘭多與<br>拉姆薩復刻！"
+        },
+        {
+            "key": "21",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "22",
+            "value": "<space=5>FFCCRE聯動<br>幻兵卡登場！"
+        },
+        {
+            "key": "23",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "24",
+            "value": "<space=7>新幻兵卡<br>機率提升！"
+        },
+        {
+            "key": "25",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "26",
+            "value": "<space=7>新幻兵卡<br>機率提升！"
+        },
+        {
+            "key": "27",
+            "value": "<space=7>新兵員<br>機率提升！"
+        },
+        {
+            "key": "28",
+            "value": "<space=7>新幻兵卡<br>機率提升！"
+        },
+        {
+            "key": "29",
+            "value": "<space=7>新兵員<br>機率提升！"
+        }
+    ]
+}

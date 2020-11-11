@@ -321,6 +321,18 @@
             "value": "공주님들은 잠깐만 기다리고 있어.<br>바로 방해꾼을 처리할 테니."
         },
         {
+            "key": "UN_LW_P_SCAL",
+            "value": "수장의 책무를 다하겠다.<br>자, 와라…!"
+        },
+        {
+            "key": "UN_LW_P_MRAL",
+            "value": "너희 사이가는 너무 물러."
+        },
+        {
+            "key": "UN_LW_P_CHEL",
+            "value": "첼도 어른이 되면<br>왕자님이 데리러 와 주실까?"
+        },
+        {
             "key": "UN_LW_E_IRDL",
             "value": ""
         },
@@ -1645,6 +1657,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_HWLT_MOGI",
+            "value": ""
+        },
+        {
             "key": "UN_LW_TU_MONT",
             "value": ""
         },
@@ -2210,6 +2226,10 @@
         },
         {
             "key": "UN_GM_KENZAN_01",
+            "value": ""
+        },
+        {
+            "key": "UN_GM_CANN",
             "value": ""
         }
     ]

@@ -810,35 +810,35 @@
         },
         {
             "key": "JB_LW_MST_FIRE",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_LW_MST_WATER",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_LW_MST_ICE",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_LW_MST_SOIL",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_LW_MST_THUN",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_LW_MST_WIND",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_LW_MST_SHINE",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_LW_MST_DARK",
-            "value": "Maga de bastones"
+            "value": "Mago de bastones"
         },
         {
             "key": "JB_FFT_AGRA",

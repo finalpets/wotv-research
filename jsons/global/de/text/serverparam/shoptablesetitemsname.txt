@@ -858,11 +858,11 @@
         },
         {
             "key": "IT_SET_UNIT_EXP_HA_L",
-            "value": "[Halbjähriges Jubiläum] ERF-Würfel-Paket II"
+            "value": "[Herbstkampagne 2020 Teil II] ERF-Würfel-Paket II"
         },
         {
             "key": "IT_SET_UNIT_EXP_HA_S",
-            "value": "[Halbjähriges Jubiläum] ERF-Würfel-Paket I"
+            "value": "[Herbstkampagne 2020 Teil II] ERF-Würfel-Paket I"
         },
         {
             "key": "IT_SET_VC_EXP_HA_L",
@@ -1047,6 +1047,30 @@
         {
             "key": "IT_SET_JB_MM_1100DL_01",
             "value": "[Halloween-Kampagne] Jobverstärkungspaket I"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "[Herbstkampagne 2020 Teil II] Gruppenstärkungspaket"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "Einheitenbeschwörungspaket"
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "[Herbstkampagne 2020 Teil II] Regenbogen-Trainingspaket"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "[Herbstkampagne 2020 Teil II] Ausrüstungsfähigkeitenpaket"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "[Herbstkampagne 2020 Teil II] Ausrüstungsstärkungspaket"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "[Herbstkampagne 2020 Teil II] Visionskartenstärkungspaket"
         }
     ]
 }

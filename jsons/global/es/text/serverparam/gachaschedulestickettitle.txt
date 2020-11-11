@@ -283,6 +283,38 @@
         {
             "key": "IT_US_G_UR_01_gl20201028",
             "value": "Tícket de invocación UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "Tícket de invocación de unidad UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "Tícket de invocación de carta de visión UR garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "Tícket de invocación de unidad MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "Tícket de invocación de carta de visión MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "Tícket de invocación (x10) MR+ garantizada A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "Tícket de invocación de unidad garantizada A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "Tícket de invocación de carta de visión garantizada A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "Tícket de invocación UR garantizada A"
         }
     ]
 }

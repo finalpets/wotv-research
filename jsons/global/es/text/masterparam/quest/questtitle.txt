@@ -1661,6 +1661,22 @@
             "value": "Misión de fragmentos: Loreila"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Misión de fragmentos: Skahal"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Misión de fragmentos: Mariela"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Misión de fragmentos: Howlet"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Misión de fragmentos: Chel"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Zazán"
         },
@@ -1975,6 +1991,22 @@
         {
             "key": "QE_CH_LW_RIRY_01",
             "value": "Lairyu (Halloween)"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Skahal"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Mariela"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Howlet"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "Chel"
         },
         {
             "key": "QE_EV_GL_CDOWN_01_9",
@@ -2633,6 +2665,54 @@
             "value": "Gouga y Saiga: Parte I [EX2]"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Ep. 1: El deber de un caballero I"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Ep. 2: El deber de un caballero II"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Ep. 3: Viaje sin destino"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Ep. 4: Esperaremos hasta que caiga la noche"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Ep. 5: Sigilo I"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Ep. 6: Sigilo II"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Ep. 7: La mazmorra"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Ep. 8: Escapatoria I"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Ep. 9: Escapatoria II"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Ep. 10: El mejor hermano del mundo"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Damisela en apuros [EX]"
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Damisela en apuros [EX]"
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "[Dificultad extrema] Misión de desafío"
         },
@@ -2795,6 +2875,14 @@
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "Misión de entrenamiento de equipo (hacha dorada)"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Misión de entrenamiento de equipo (vara de platino)"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
+            "value": "Misión de entrenamiento de equipo (vara de platino)"
         },
         {
             "key": "QE_MU_IFRT_04",
@@ -3325,6 +3413,18 @@
             "value": "Combate de gremio de exhibición (avanzado)"
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Combate de gremio de exhibición (principiante)"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Combate de gremio de exhibición (intermedio)"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Combate de gremio de exhibición (avanzado)"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "Palestra"
         },
@@ -3353,6 +3453,10 @@
             "value": "Cementerio"
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": "Bosque"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Palestra"
         },
@@ -3379,6 +3483,10 @@
         {
             "key": "QE_GVG_00010",
             "value": "Cementerio"
+        },
+        {
+            "key": "QE_GVG_GL_00001",
+            "value": "Ruinas antiguas"
         },
         {
             "key": "QE_PVP_FRE_0001",

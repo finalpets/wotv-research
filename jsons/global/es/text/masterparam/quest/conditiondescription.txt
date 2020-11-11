@@ -265,6 +265,22 @@
             "value": "[Loreila] de nv. 1 o superior"
         },
         {
+            "key": "COND_HA_LW_SCAL",
+            "value": "[Skahal] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_MRAL",
+            "value": "[Mariela] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_HWLT",
+            "value": "[Howlet] de nv. 1 o superior"
+        },
+        {
+            "key": "COND_HA_LW_CHEL",
+            "value": "[Chel] de nv. 1 o superior"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "[Mont Leonis] de nv. 40 o superior"
         },
@@ -579,6 +595,22 @@
         {
             "key": "COND_CH_LW_RI_01",
             "value": "[Lairyu (Halloween)] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_SCAL",
+            "value": "[Skahal] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_MRAL",
+            "value": "[Mariela] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_HWLT",
+            "value": "[Howlet] de nv. 40 o superior"
+        },
+        {
+            "key": "COND_CH_LW_CHEL",
+            "value": "[Chel] de nv. 40 o superior"
         }
     ]
 }

@@ -63,6 +63,18 @@
         {
             "key": "CM_PRO_GL_RYER_01_1",
             "value": "리렐리라(할로윈) 신규 등장 기념 육성 미션"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_1",
+            "value": "하울렛 신규 등장 기념 육성 미션"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_1",
+            "value": "스칼 신규 등장 기념 육성 미션"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_1",
+            "value": "2020 가을 기념 캠페인 제2탄 도전 미션"
         }
     ]
 }

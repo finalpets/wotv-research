@@ -501,6 +501,30 @@
             "value": "플레이어 랭크 60 이상"
         },
         {
+            "key": "Normal-20200722_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20200722_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20200722_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
+            "key": "Normal-20200723_A",
+            "value": "플레이어 랭크 1~29"
+        },
+        {
+            "key": "Normal-20200723_B",
+            "value": "플레이어 랭크 30~59"
+        },
+        {
+            "key": "Normal-20200723_C",
+            "value": "플레이어 랭크 60 이상"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
         },
@@ -957,6 +981,30 @@
             "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
         },
         {
+            "key": "Guerrilla-20200722A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200722B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200722C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200723A",
+            "value": "플레이어 랭크 29 이하 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200723B",
+            "value": "플레이어 랭크 30~59 변덕쟁이 상점"
+        },
+        {
+            "key": "Guerrilla-20200723C",
+            "value": "플레이어 랭크 60 이상 변덕쟁이 상점"
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "[제2탄] FFT 콜라보 기념 상점: 특별한 상품 판매 중!"
         },
@@ -971,6 +1019,14 @@
         {
             "key": "Limited-20200501_C",
             "value": "[재등장] FFT 콜라보 기념 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-gl20201104",
+            "value": "2020 가을 기념 캠페인 제2탄 상점: 특별한 상품 판매 중!"
+        },
+        {
+            "key": "Limited-gl20201104_A",
+            "value": "신규 유닛 픽업 상점: 획득한 유닛을 강화하세요!"
         },
         {
             "key": "Limited-gl20201028",
@@ -1337,8 +1393,12 @@
             "value": "[제2탄] FFT 콜라보 소환 메달 B 교환소다쿠뽀~."
         },
         {
-            "key": "Event-Tower_20200624",
-            "value": "타워 메달 교환소다쿠뽀~."
+            "key": "Event-Quest_20200701",
+            "value": "붙잡힌 공주님 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Summon_GL20201104_A",
+            "value": "[11월] 소환 메달 A 교환소다쿠뽀~."
         },
         {
             "key": "Event-Summon_GL20201028_B",
@@ -1371,6 +1431,10 @@
         {
             "key": "Event-Unit_gl20200923",
             "value": "UR 유닛의 퍼즐 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Tower_20200624",
+            "value": "타워 메달 교환소다쿠뽀~."
         },
         {
             "key": "Event-Quest_20200601",
@@ -1878,6 +1942,62 @@
         },
         {
             "key": "Event-Vision_N_gl20201007",
+            "value": "비전 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Friend_gl20201104",
+            "value": "친구 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Arena_gl20201104",
+            "value": "결투장 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Match_gl20201104",
+            "value": "PVP 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Guild_gl20201104",
+            "value": "길드 메달 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_UR_gl20201104",
+            "value": "영혼 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SSR_gl20201104",
+            "value": "영혼 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_SR_gl20201104",
+            "value": "영혼 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_R_gl20201104",
+            "value": "영혼 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Soul_N_gl20201104",
+            "value": "영혼 메달[N] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_UR_gl20201104",
+            "value": "비전 메달[UR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SSR_gl20201104",
+            "value": "비전 메달[MR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_SR_gl20201104",
+            "value": "비전 메달[SR] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_R_gl20201104",
+            "value": "비전 메달[R] 교환소다쿠뽀~."
+        },
+        {
+            "key": "Event-Vision_N_gl20201104",
             "value": "비전 메달[N] 교환소다쿠뽀~."
         },
         {
@@ -2902,6 +3022,38 @@
         },
         {
             "key": "Limited-FIRE_2020_7_A",
+            "value": "일일 변경 불속성 상점"
+        },
+        {
+            "key": "Limited-WATER_2020_7_B",
+            "value": "일일 변경 물속성 상점"
+        },
+        {
+            "key": "Limited-WIND_2020_7_B",
+            "value": "일일 변경 바람속성 상점"
+        },
+        {
+            "key": "Limited-THUNDER_2020_7_B",
+            "value": "일일 변경 번개속성 상점"
+        },
+        {
+            "key": "Limited-SOIL_2020_7_B",
+            "value": "일일 변경 땅속성 상점"
+        },
+        {
+            "key": "Limited-SHINE_2020_7_B",
+            "value": "일일 변경 빛속성 상점"
+        },
+        {
+            "key": "Limited-DARK_2020_7_B",
+            "value": "일일 변경 어둠속성 상점"
+        },
+        {
+            "key": "Limited-ICE_2020_7_B",
+            "value": "일일 변경 얼음속성 상점"
+        },
+        {
+            "key": "Limited-FIRE_2020_7_B",
             "value": "일일 변경 불속성 상점"
         }
     ]

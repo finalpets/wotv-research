@@ -1661,6 +1661,22 @@
             "value": "Schwieriger Auftrag "
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Schwieriger Auftrag "
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Schwieriger Auftrag "
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Schwieriger Auftrag "
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Schwieriger Auftrag "
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Charakterauftrag"
         },
@@ -1974,6 +1990,22 @@
         },
         {
             "key": "QE_CH_LW_RIRY_01",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Charakterauftrag"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
             "value": "Charakterauftrag"
         },
         {
@@ -2633,6 +2665,54 @@
             "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Empfohlen: Einheitenstufe 5, Jobstufe 1"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Empfohlen: Einheitenstufe 10, Jobstufe 2"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Empfohlen: Einheitenstufe 15, Jobstufe 3"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Empfohlen: Einheitenstufe 20, Jobstufe 4"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Empfohlen: Einheitenstufe 20, Jobstufe 5"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Empfohlen: Einheitenstufe 25, Jobstufe 5"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Empfohlen: Einheitenstufe 30, Jobstufe 6"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Empfohlen: Einheitenstufe 35, Jobstufe 7"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Empfohlen: Einheitenstufe 40, Jobstufe 8"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Empfohlen: Einheitenstufe 40, Jobstufe 9"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 10"
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "Empfohlen: Einheitenstufe 60, Jobstufe 10"
         },
@@ -2794,6 +2874,14 @@
         },
         {
             "key": "QE_EV_ART_CRF_06",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Empfohlen: Einheitenstufe 50, Jobstufe 9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
             "value": "Empfohlen: Einheitenstufe 50, Jobstufe 9"
         },
         {
@@ -3325,6 +3413,18 @@
             "value": "Testlauf für die neue Karte"
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Testlauf für die neue Karte"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Testlauf für die neue Karte"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Testlauf für die neue Karte"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": ""
         },
@@ -3353,6 +3453,10 @@
             "value": ""
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": ""
+        },
+        {
             "key": "QE_GVG_00001",
             "value": ""
         },
@@ -3378,6 +3482,10 @@
         },
         {
             "key": "QE_GVG_00010",
+            "value": ""
+        },
+        {
+            "key": "QE_GVG_GL_00001",
             "value": ""
         },
         {

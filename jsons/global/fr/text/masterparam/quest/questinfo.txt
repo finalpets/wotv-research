@@ -1661,6 +1661,22 @@
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 66, job niv. 11<br>Condition d'accès : posséder l'unité « Loreila »"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11<br>Condition d'accès : posséder l'unité « Skahal »"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11<br>Condition d'accès : posséder l'unité « Mariale »"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11<br>Condition d'accès : posséder l'unité « Howlet »"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 67, job niv. 11<br>Condition d'accès : posséder l'unité « Chel »"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Zazan » au niv. 40 au moins."
         },
@@ -1975,6 +1991,22 @@
         {
             "key": "QE_CH_LW_RIRY_01",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Rairyuu (Halloween) » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Skahal » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Mariale » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Howlet » au niv. 40 au moins."
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 40, job niv. 8<br>Condition d'accès : posséder l'unité « Chel » au niv. 40 au moins."
         },
         {
             "key": "QE_EV_GL_CDOWN_01_9",
@@ -2633,6 +2665,54 @@
             "value": "Informations sur la quête<br>Aucune"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Informations sur la quête<br>Aucune"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Informations sur la quête<br>Astuce : terrassez les artilleurs afin de pouvoir détruire les unités en charge des cannons."
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Informations sur la quête<br>Astuce : terrassez les artilleurs afin de pouvoir détruire les unités en charge des cannons."
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Informations sur la quête<br>Astuce : terrassez les artilleurs afin de pouvoir détruire les unités en charge des cannons."
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "Informations sur la quête<br>Astuce 1 : les ennemis lançant des attaques physiques possèdent des aptitudes qui perforent la DEF…<br>Astuce 2 : la majorité de vos ennemis possèdent une puissante DEF, misez sur vos attaques magiques dont les dégâts dépendent de la MAGIE du lanceur."
         },
@@ -2794,6 +2874,14 @@
         },
         {
             "key": "QE_EV_ART_CRF_06",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
             "value": "Informations sur la quête<br>Niveaux conseillés : unité niv. 50, job niv. 9"
         },
         {
@@ -3325,6 +3413,18 @@
             "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Informations sur la quête<br>・Cette quête est une quête test pour le nouveau combat de guilde.<br>・Envoyez 3 unités au combat et utilisez le mode automatique pour vous faire une idée de ce à quoi ressemblera un véritable combat."
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "Aucune"
         },
@@ -3353,6 +3453,10 @@
             "value": "Augmente la résistance aux attaques projectiles et la MAGIE"
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": "Augmente la résistance aux attaques projectiles"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Aucune"
         },
@@ -3379,6 +3483,10 @@
         {
             "key": "QE_GVG_00010",
             "value": "Augmente l'attaque magique"
+        },
+        {
+            "key": "QE_GVG_GL_00001",
+            "value": "Augmente les attaques de vent"
         },
         {
             "key": "QE_PVP_FRE_0001",

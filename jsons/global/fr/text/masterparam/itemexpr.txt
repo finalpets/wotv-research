@@ -2005,6 +2005,18 @@
             "value": "Un objet nécessaire pour briser la limite d'une unité"
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "Un objet nécessaire pour briser la limite d'une unité"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Acquisition d'EXP pour une chimère (S)"
         },
@@ -2589,6 +2601,10 @@
             "value": "Une recette nécessaire à la fabrication d'une Épée de corail"
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "Une recette nécessaire à la fabrication du Lohengrin"
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "Une recette nécessaire à la fabrication d'une Claymore"
         },
@@ -2981,10 +2997,6 @@
             "value": "Spécification non définie"
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": "Une médaille qui peut être obtenue lors des invocations d'atouts-visions et des nouvelles unités (Expire le 09/12/2019 à 14:59 PST)"
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": "Une médaille qui peut être obtenue lors des invocations hivernales, des atouts-visions et des nouvelles unités (Expire le 31/12/2019 à 23:59 PST)"
         },
@@ -3097,6 +3109,10 @@
             "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités ou des nouveaux atouts-visions (Jusqu'au 17/11/2020, 17:59, heure universelle (PST))"
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "Une médaille qui peut être obtenue lors des invocations des nouvelles unités ou des nouveaux atouts-visions (Jusqu'au 01/12/2020, 23:59, heure universelle (PST))"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Un objet qui peut être obtenu grâce aux événements de la collaboration avec FFT. Il peut être échangé contre divers objets dans la Boutique d'échange des médailles d'événement FFT."
         },
@@ -3151,6 +3167,10 @@
         {
             "key": "IT_EC_EV05_1",
             "value": "Un objet qui peut être obtenu grâce à l'événement « Gouga et Saiga : Partie I ». Il peut être échangé contre divers objets dans la Boutique d'échange de « Gouga et Saiga : Partie I »."
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "Un objet qui peut être obtenu dans les quêtes de « Une damoiselle en détresse ». Il peut être échangé contre divers objets dans la boutique d'échange des médailles de l'événement."
         },
         {
             "key": "IT_EC_FF1_1",
@@ -3391,6 +3411,10 @@
         {
             "key": "IT_US_G_U_SSR_UR_07",
             "value": "Un ticket nécessaire pour lancer l'invocation d'unité MR+ garantie du Spécial automne 2020 [Partie I]. *Ce ticket ne peut être utilisé que jusqu'au 28/10/2020, heure universelle (PST) inclus. *Les unités limitées ou celles issues des collaborations ne sont pas incluses dans cette invocation. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "Un ticket nécessaire pour lancer l'invocation d'unité MR+ garantie du Spécial automne 2020 [Partie II]. *Ce ticket ne peut être utilisé que jusqu'au 11/11/2020, heure universelle (PST) inclus. *Les unités limitées ou celles issues des collaborations ne sont pas incluses dans cette invocation. "
         },
         {
             "key": "IT_US_SE_UR_V_01",

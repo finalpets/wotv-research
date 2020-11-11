@@ -393,6 +393,18 @@
             "value": "[Multijugador] Gouga y Saiga: Parte I [EX]"
         },
         {
+            "key": "SE_EV_06_01",
+            "value": "Damisela en apuros"
+        },
+        {
+            "key": "SE_EV_06_EX_01",
+            "value": "Damisela en apuros [EX]"
+        },
+        {
+            "key": "SE_MU_EV_06_EX",
+            "value": "[Multijugador] Damisela en apuros [EX]"
+        },
+        {
             "key": "SE_EV_SBEXP_01",
             "value": "Misión de recompensa de magicita"
         },
@@ -553,6 +565,14 @@
             "value": "Misión de entrenamiento de equipo"
         },
         {
+            "key": "SE_EV_ART_CRF_05",
+            "value": "Misión de entrenamiento de equipo"
+        },
+        {
+            "key": "SE_MU_ART_CRF_05",
+            "value": "Misión de entrenamiento de equipo"
+        },
+        {
             "key": "SE_EV_ART_SCR_02",
             "value": "[Difícil] Misión de libro secreto"
         },
@@ -650,6 +670,10 @@
         },
         {
             "key": "SE_EV_GL_NMAP_001",
+            "value": "Combate de gremio de exhibición"
+        },
+        {
+            "key": "SE_EV_GL_NMAP_002",
             "value": "Combate de gremio de exhibición"
         },
         {

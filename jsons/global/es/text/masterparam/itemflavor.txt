@@ -2005,6 +2005,18 @@
             "value": ""
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": ""
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Cristal especial que emite un tenue resplandor de color rojo ardiente. Bañar a un esper bendecido por la protección del fuego en esta luz despertará sus poderes ocultos. La fuerza avivada por esta luz cambia según el tamaño del cristal y la intensidad de su brillo, pero el poder que alberga en su interior sigue siendo un misterio."
         },
@@ -2589,6 +2601,10 @@
             "value": "Receta que describe la combinación de materiales necesarios para fabricar una espada de coral. Con el tipo y la cantidad de materiales correctos, se puede crear el objeto con tan solo seguir la receta. Este método se lleva a cabo en todo el mundo, pues no requiere los conocimientos ni la habilidad de un herrero."
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "Receta que describe la combinación de materiales necesarios para fabricar una Lohengrin. Con el tipo y la cantidad de materiales correctos, se puede crear el objeto con tan solo seguir la receta. Este método se lleva a cabo en todo el mundo, pues no requiere los conocimientos ni la habilidad de un herrero."
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "Receta que describe la combinación de materiales necesarios para fabricar una Claymore. Con el tipo y la cantidad de materiales correctos, se puede crear el objeto con tan solo seguir la receta. Este método se lleva a cabo en todo el mundo, pues no requiere los conocimientos ni la habilidad de un herrero."
         },
@@ -2981,10 +2997,6 @@
             "value": ""
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": ""
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": ""
         },
@@ -3097,6 +3109,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -3150,6 +3166,10 @@
         },
         {
             "key": "IT_EC_EV05_1",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_EV06_1",
             "value": ""
         },
         {
@@ -3390,6 +3410,10 @@
         },
         {
             "key": "IT_US_G_U_SSR_UR_07",
+            "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación dependerá por completo de los hilos espirituales que contenga el tícket, aunque su diseño, color y forma pueden servir como pistas sobre el resultado."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
             "value": "Tícket que puede extraer los recuerdos grabados en los cristales mediante un complejo ritual de invocación. El resultado de la invocación dependerá por completo de los hilos espirituales que contenga el tícket, aunque su diseño, color y forma pueden servir como pistas sobre el resultado."
         },
         {

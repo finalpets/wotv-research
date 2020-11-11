@@ -1,0 +1,20 @@
+{
+    "infos": [
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "下次的10連召喚確保1名UR兵員！！"
+        }
+    ]
+}

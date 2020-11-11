@@ -393,6 +393,18 @@
             "value": "고우가와 사이가 전편 [EX] 멀티"
         },
         {
+            "key": "SE_EV_06_01",
+            "value": "붙잡힌 공주님"
+        },
+        {
+            "key": "SE_EV_06_EX_01",
+            "value": "붙잡힌 공주님 [EX]"
+        },
+        {
+            "key": "SE_MU_EV_06_EX",
+            "value": "붙잡힌 공주님 [EX] 멀티"
+        },
+        {
             "key": "SE_EV_SBEXP_01",
             "value": "마석 획득 퀘스트"
         },
@@ -553,6 +565,14 @@
             "value": "장비 육성 퀘스트"
         },
         {
+            "key": "SE_EV_ART_CRF_05",
+            "value": "장비 육성 퀘스트"
+        },
+        {
+            "key": "SE_MU_ART_CRF_05",
+            "value": "장비 육성 퀘스트"
+        },
+        {
             "key": "SE_EV_ART_SCR_02",
             "value": "고난도 비전서 획득 퀘스트"
         },
@@ -650,6 +670,10 @@
         },
         {
             "key": "SE_EV_GL_NMAP_001",
+            "value": "길드 전투 모의전"
+        },
+        {
+            "key": "SE_EV_GL_NMAP_002",
             "value": "길드 전투 모의전"
         },
         {

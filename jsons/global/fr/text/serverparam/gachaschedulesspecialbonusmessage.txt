@@ -1801,6 +1801,54 @@
             "value": ""
         },
         {
+            "key": "new-gacha_gl20201104_01",
+            "value": "10 médailles d'invocation A [Novembre] incluses"
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "100 médailles d'invocation A [Novembre] incluses"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step5",
+            "value": "1 unité UR garantie"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step4",
+            "value": "1 ticket sélectionneur de 50 fragments de pensée élémentaires inclus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step3",
+            "value": "1 ticket sélectionneur de 50 prismes d'éveil inclus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step2",
+            "value": "Unité ou atout-vision MR+ garanti"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step1",
+            "value": "Unité ou atout-vision MR+ garanti"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step3",
+            "value": "Howlet ou Skahal garanti"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step2",
+            "value": "1 unité ou 1 atout-vision UR garanti"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step1",
+            "value": "1 unité ou 1 atout-vision UR garanti"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "10 médailles d'invocation A [Mars] incluses"
         },

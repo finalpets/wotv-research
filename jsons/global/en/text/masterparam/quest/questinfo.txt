@@ -1661,6 +1661,22 @@
             "value": "Quest Information<br>Recommended: Unit Lv. 66, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Loreila]"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Skahal]"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Mariale]"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Howlet]"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 67, Job Lv. 11<br>Conditions to Unlock: Acquire Unit [Chel]"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Zazan] is at least Lv. 40"
         },
@@ -1975,6 +1991,22 @@
         {
             "key": "QE_CH_LW_RIRY_01",
             "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Rairyuu (Halloween)] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Skahal] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Mariale] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Howlet] is at least Lv. 40"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "Quest Information<br>Recommended: Unit Lv. 40, Job Lv. 8<br>Conditions to Unlock: Unit [Chel] is at least Lv. 40"
         },
         {
             "key": "QE_EV_GL_CDOWN_01_9",
@@ -2633,6 +2665,54 @@
             "value": "Quest Information<br>None"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Quest Information<br>None"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Quest Information<br>Hint: In order to destroy the cannons, you must defeat the cannon operators."
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Quest Information<br>Hint: In order to destroy the cannons, you must defeat the cannon operators."
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Quest Information<br>Hint: In order to destroy the cannons, you must defeat the cannon operators."
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "Quest Information<br>Hint 1: Enemies using physical attacks have DEF Piercing abilities...<br>Hint 2: Many enemies have high DEF, so magic attacks that deal damage depending on the caster's MAG work best."
         },
@@ -2794,6 +2874,14 @@
         },
         {
             "key": "QE_EV_ART_CRF_06",
+            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
             "value": "Quest Information<br>Recommended: Unit Lv. 50, Job Lv. 9"
         },
         {
@@ -3325,6 +3413,18 @@
             "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Quest Information<br>・This quest is a trial of the new Guild Battle.<br>・Deploy three characters using Auto Battle to closely mimic an actual battle."
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "None"
         },
@@ -3353,6 +3453,10 @@
             "value": "Missile Res/MAG Up"
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": "Missile Res Up"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "None"
         },
@@ -3379,6 +3483,10 @@
         {
             "key": "QE_GVG_00010",
             "value": "Magic Attack Up"
+        },
+        {
+            "key": "QE_GVG_GL_00001",
+            "value": "Wind Attack Up"
         },
         {
             "key": "QE_PVP_FRE_0001",

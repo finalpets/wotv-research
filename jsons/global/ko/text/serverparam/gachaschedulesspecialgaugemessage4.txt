@@ -99,6 +99,18 @@
         {
             "key": "new-gacha_gl20201028_10",
             "value": "UR 획득 시 게이지는 증가하지 않습니다."
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "UR 획득 시 게이지는 증가하지 않습니다."
+        },
+        {
+            "key": "new-gacha_gl20201104_HWLT_10",
+            "value": "UR 획득 시 게이지는 증가하지 않습니다."
+        },
+        {
+            "key": "new-gacha_gl20201104_SCAL_10",
+            "value": "UR 획득 시 게이지는 증가하지 않습니다."
         }
     ]
 }

@@ -1062,23 +1062,23 @@
         },
         {
             "key": "IT_JB_MM_MST",
-            "value": "Recuerdo de maga de bastones (verde)"
+            "value": "Recuerdo de mago de bastones (verde)"
         },
         {
             "key": "IT_JB_MM_MST_2",
-            "value": "Recuerdo de maga de bastones (azul)"
+            "value": "Recuerdo de mago de bastones (azul)"
         },
         {
             "key": "IT_JB_MM_MST_3",
-            "value": "Recuerdo de maga de bastones (morado)"
+            "value": "Recuerdo de mago de bastones (morado)"
         },
         {
             "key": "IT_JB_MM_MST_4",
-            "value": "Recuerdo de maga de bastones (amarillo)"
+            "value": "Recuerdo de mago de bastones (amarillo)"
         },
         {
             "key": "IT_JB_MM_MST_5",
-            "value": "Recuerdo de maga de bastones (rojo)"
+            "value": "Recuerdo de mago de bastones (rojo)"
         },
         {
             "key": "IT_JB_MM_FFT_AGRA",
@@ -2005,6 +2005,18 @@
             "value": "Fragmento de Howlet"
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "Fragmento de Skahal"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "Fragmento de Mariela"
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "Fragmento de Chel"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Magicita roja (P)"
         },
@@ -2589,6 +2601,10 @@
             "value": "Receta: espada de coral"
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "Receta: Lohengrin"
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "Receta: Claymore"
         },
@@ -2981,10 +2997,6 @@
             "value": "Medalla de invocación"
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": "Medalla de invocación A (noviembre)"
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": "Medalla de invocación A (diciembre)"
         },
@@ -3097,6 +3109,10 @@
             "value": "Medalla de invocación B (octubre)"
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "Medalla de invocación A (noviembre)"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Medalla de evento de FFT"
         },
@@ -3151,6 +3167,10 @@
         {
             "key": "IT_EC_EV05_1",
             "value": "Medalla de Gouga y Saiga: Parte I"
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "Medalla de Damisela en apuros"
         },
         {
             "key": "IT_EC_FF1_1",
@@ -3391,6 +3411,10 @@
         {
             "key": "IT_US_G_U_SSR_UR_07",
             "value": "[Campaña de otoño 2020, parte I] Tícket de invocación de unidad MR+ garantizada"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "[Campaña de otoño 2020, parte II] Tícket de invocación de unidad MR+ garantizada"
         },
         {
             "key": "IT_US_SE_UR_V_01",

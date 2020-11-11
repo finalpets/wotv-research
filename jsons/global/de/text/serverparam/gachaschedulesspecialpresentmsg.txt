@@ -1801,6 +1801,54 @@
             "value": ""
         },
         {
+            "key": "new-gacha_gl20201104_01",
+            "value": "Neue Einheiten-Blickpunktbeschwörung: Houlet & Skahal – Beschwörungsbonus"
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "Neue Einheiten-Blickpunktbeschwörung: Houlet & Skahal – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step5",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step4",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step3",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step2",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step1",
+            "value": "5-Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step3",
+            "value": "Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step2",
+            "value": "Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step1",
+            "value": "Stufenbeschwörung (10-malig) – Beschwörungsbonus"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Blickpunktbeschwörung – Beschwörungsbonus"
         },

@@ -1,0 +1,332 @@
+{
+    "infos": [
+        {
+            "key": "VC_LW_GLEM",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_IFRT",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_SIRE",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_SOKYU",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_TRAINING",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_MACR",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_MURG",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_GRSR",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_FF14_MV1",
+            "value": "Akihiko Yoshida"
+        },
+        {
+            "key": "VC_LW_HOLYNIGHT",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_VALE1",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_SHIV",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_RAMU",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_FFT_MV1",
+            "value": "Akihiko Yoshida"
+        },
+        {
+            "key": "VC_LW_ODIN",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_TSLP",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_MBFF_MV1",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_THDG",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_FF01_DMAC",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_CBVPARTY1",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_DABL",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_FFT_MV3",
+            "value": "Ryoji Ohara"
+        },
+        {
+            "key": "VC_FFCC_MV1",
+            "value": "Toshiyuki Itahana（史克威爾·艾尼克斯）"
+        },
+        {
+            "key": "VC_LW_ROBUST",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_FNRR",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_TITN",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_VKTR",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_HALL",
+            "value": "G-ROW Art"
+        },
+        {
+            "key": "VC_LW_IGNT",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_BHMT",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_MABR",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_VALE2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_FAMILY",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_KTON",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_PROPOSE",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_SDLX",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_TEAPARTY",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_HUNT",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_FF14_MV2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_NEWYEAR",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_LAMA_01",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_GUARD",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_LILS",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_OCHU",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_MBFF_MV2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_ADLD",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_WHITEDAY1",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_VNLA2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_FFT_MV2",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_FFCC_MV2",
+            "value": "Toshiyuki Itahana（史克威爾·艾尼克斯）"
+        },
+        {
+            "key": "VC_LW_MDFY",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_ORDR",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_KING",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_BLMN",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_CACT",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_ARMN_01",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_ZUUU",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_OGRE",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_BOMB",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_JOBCRYSTAL",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_BYLO",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_RART",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_RYER",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_VNLA",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_RIRY",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_LEONIS",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_HOURN",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_FENICE",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_WEZETT",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_CRYSTAL",
+            "value": "FgG Art Team"
+        },
+        {
+            "key": "VC_LW_LEONIS2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_HOURN2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_FENICE2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_WEZETT2",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_DYNVERK",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_TRSV_01",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_TRSV_02",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_LW_MIRROR",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_EXP_01",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_EXP_02",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_EXP_03",
+            "value": "史克威爾·艾尼克斯"
+        },
+        {
+            "key": "VC_EXP_04",
+            "value": "史克威爾·艾尼克斯"
+        }
+    ]
+}

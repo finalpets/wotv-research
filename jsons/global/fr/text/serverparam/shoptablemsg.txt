@@ -501,6 +501,30 @@
             "value": "Rang de joueur 60 et plus"
         },
         {
+            "key": "Normal-20200722_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200722_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200722_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
+            "key": "Normal-20200723_A",
+            "value": "Rang de joueur 1 à 29"
+        },
+        {
+            "key": "Normal-20200723_B",
+            "value": "Rang de joueur 30 à 59"
+        },
+        {
+            "key": "Normal-20200723_C",
+            "value": "Rang de joueur 60 et plus"
+        },
+        {
             "key": "Guerrilla-20191114A",
             "value": "Boutique surprise (Rang de joueur 1 à 29)"
         },
@@ -957,6 +981,30 @@
             "value": "Boutique surprise (Rang de joueur 60 et plus)"
         },
         {
+            "key": "Guerrilla-20200722A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200722B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200722C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
+            "key": "Guerrilla-20200723A",
+            "value": "Boutique surprise (Rang de joueur 1 à 29)"
+        },
+        {
+            "key": "Guerrilla-20200723B",
+            "value": "Boutique surprise (Rang de joueur 30 à 59)"
+        },
+        {
+            "key": "Guerrilla-20200723C",
+            "value": "Boutique surprise (Rang de joueur 60 et plus)"
+        },
+        {
             "key": "Limited-20200422_A",
             "value": "Boutique de la collaboration FFT [Partie II] : ventes spéciales en cours !"
         },
@@ -971,6 +1019,14 @@
         {
             "key": "Limited-20200501_C",
             "value": "Boutique de la collaboration FFT [Réédition] : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20201104",
+            "value": "Boutique du Spécial automne 2020 [Partie II] : ventes spéciales en cours !"
+        },
+        {
+            "key": "Limited-gl20201104_A",
+            "value": "Boutique des nouvelles unités du moment : améliorez vos unités !"
         },
         {
             "key": "Limited-gl20201028",
@@ -1337,8 +1393,12 @@
             "value": "Bienvenue dans la boutique d'échange des médailles d'invocation (B) de FFT [Partie II], kupo !"
         },
         {
-            "key": "Event-Tower_20200624",
-            "value": "Bienvenue dans la boutique d'échange des médailles de la Tour, kupo !"
+            "key": "Event-Quest_20200701",
+            "value": "Bienvenue dans la boutique d'échange des médailles de « Une damoiselle en détresse », kupo !"
+        },
+        {
+            "key": "Event-Summon_GL20201104_A",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'invocation (A) de novembre, kupo !"
         },
         {
             "key": "Event-Summon_GL20201028_B",
@@ -1371,6 +1431,10 @@
         {
             "key": "Event-Unit_gl20200923",
             "value": "Bienvenue dans la boutique d'échange des pièces d'unité UR, kupo !"
+        },
+        {
+            "key": "Event-Tower_20200624",
+            "value": "Bienvenue dans la boutique d'échange des médailles de la Tour, kupo !"
         },
         {
             "key": "Event-Quest_20200601",
@@ -1878,6 +1942,62 @@
         },
         {
             "key": "Event-Vision_N_gl20201007",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision N, kupo !"
+        },
+        {
+            "key": "Event-Friend_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'ami, kupo !"
+        },
+        {
+            "key": "Event-Arena_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'arène, kupo !"
+        },
+        {
+            "key": "Event-Match_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles de JcJ, kupo !"
+        },
+        {
+            "key": "Event-Guild_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles de guilde, kupo !"
+        },
+        {
+            "key": "Event-Soul_UR_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme UR, kupo !"
+        },
+        {
+            "key": "Event-Soul_SSR_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme MR, kupo !"
+        },
+        {
+            "key": "Event-Soul_SR_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme SR, kupo !"
+        },
+        {
+            "key": "Event-Soul_R_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme R, kupo !"
+        },
+        {
+            "key": "Event-Soul_N_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles d'âme N, kupo !"
+        },
+        {
+            "key": "Event-Vision_UR_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision UR, kupo !"
+        },
+        {
+            "key": "Event-Vision_SSR_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision MR, kupo !"
+        },
+        {
+            "key": "Event-Vision_SR_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision SR, kupo !"
+        },
+        {
+            "key": "Event-Vision_R_gl20201104",
+            "value": "Bienvenue dans la boutique d'échange des médailles de vision R, kupo !"
+        },
+        {
+            "key": "Event-Vision_N_gl20201104",
             "value": "Bienvenue dans la boutique d'échange des médailles de vision N, kupo !"
         },
         {
@@ -2902,6 +3022,38 @@
         },
         {
             "key": "Limited-FIRE_2020_7_A",
+            "value": "Objets quotidiens spéciaux de la boutique du feu"
+        },
+        {
+            "key": "Limited-WATER_2020_7_B",
+            "value": "Objets quotidiens spéciaux de la boutique de l'eau"
+        },
+        {
+            "key": "Limited-WIND_2020_7_B",
+            "value": "Objets quotidiens spéciaux de la boutique du vent"
+        },
+        {
+            "key": "Limited-THUNDER_2020_7_B",
+            "value": "Objets quotidiens spéciaux de la boutique de la foudre"
+        },
+        {
+            "key": "Limited-SOIL_2020_7_B",
+            "value": "Objets quotidiens spéciaux de la boutique de la terre"
+        },
+        {
+            "key": "Limited-SHINE_2020_7_B",
+            "value": "Objets quotidiens spéciaux de la boutique de la lumière"
+        },
+        {
+            "key": "Limited-DARK_2020_7_B",
+            "value": "Objets quotidiens spéciaux de la boutique de l'ombre"
+        },
+        {
+            "key": "Limited-ICE_2020_7_B",
+            "value": "Objets quotidiens spéciaux de la boutique de la glace"
+        },
+        {
+            "key": "Limited-FIRE_2020_7_B",
             "value": "Objets quotidiens spéciaux de la boutique du feu"
         }
     ]

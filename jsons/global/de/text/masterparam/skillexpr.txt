@@ -2509,6 +2509,54 @@
             "value": "ABW-Erhöhung"
         },
         {
+            "key": "SK_LW_MST_M_1_SUB",
+            "value": "Fügt Zielen in Reichweite MAG-abhängigen Schaden (L) zu und garantiert Treffer."
+        },
+        {
+            "key": "SK_LW_MST_M_2_SUB",
+            "value": "Beschwört eine den Wirkenden umgebende Barriere herauf, die 3-mal physischen Schaden reduziert."
+        },
+        {
+            "key": "SK_LW_MST_M_3_SUB",
+            "value": "Erhöht Spiritualität von Verbündeten im Bereich um Wirkenden."
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Feuerschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Eisschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Windschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Blitzschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Wasserschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Erdschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Lichtschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1",
+            "value": "Fügt dem Ziel von MAG des Wirkenden abhängigen Dunkelschaden (S) zu und gewährt Chance auf AZ-Senkung (S)."
+        },
+        {
+            "key": "SK_LW_MST_S_2",
+            "value": "Erhöht 3 Runden lang eigenen Sprung und Bewegung um 1."
+        },
+        {
             "key": "SK_FFT_AGRA_ATK",
             "value": ""
         },
@@ -4046,7 +4094,7 @@
         },
         {
             "key": "SK_FNRR_M_04",
-            "value": "Deals Ice Magic Dmg (L) to targets within area around self & chance of inflicting Paralysis for 3 turns."
+            "value": "Fügt Zielen im Bereich um Wirkenden magischen Eisschaden (L) zu und gewährt Chance auf Wirken von 3 Runden andauernder Lähmung."
         },
         {
             "key": "SK_TITN_ATK",
@@ -4367,6 +4415,10 @@
         {
             "key": "SK_LB_LW_HWLT",
             "value": "Senkt 3 Runden lang Windresistenz des Ziels und fügt anschließend MAG-abhängigen Schaden (L) zu."
+        },
+        {
+            "key": "SK_LB_LW_SCAL",
+            "value": "Fügt Zielen in Reichweite 3-mal hintereinander MAG-abhängigen Schaden (L) zu und gewährt Chance auf Wirken von 3 Runden andauernder Lähmung."
         },
         {
             "key": "SK_SMN_IFRT",
@@ -4901,6 +4953,18 @@
             "value": "PSY-Durchbohrrate +20, MAG +10 %"
         },
         {
+            "key": "SK_MA_LW_SCAL",
+            "value": "MAG +20 %, Aktivierungszeit -20 %"
+        },
+        {
+            "key": "SK_MA_LW_MRAL",
+            "value": "Hass +5, Bereichangriffsresistenz +15"
+        },
+        {
+            "key": "SK_MA_LW_CHEL",
+            "value": "AGI +10 %, Entfesselungszeit -25 %"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Schlitz-ANG +2"
         },
@@ -5287,6 +5351,18 @@
         {
             "key": "SK_CLT_LW_HWLT_1_1",
             "value": "Verbraucht eigene LP, um 1 Runde lang allen physischen Angriffen auszuweichen."
+        },
+        {
+            "key": "SK_ACC_LW_SCAL_1_1",
+            "value": "Verbraucht eigene LP, um 3 Runden lang MAG eines Verbündeten erheblich zu erhöhen."
+        },
+        {
+            "key": "SK_SWO_LW_MRAL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_CHEL_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -7799,6 +7875,22 @@
         {
             "key": "SK_GMK_ATK_KENZAN",
             "value": "Gimmick-Angriff (festgelegter Schaden)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_1",
+            "value": "Gimmick-Angriff (Rundallsche Kanone, einzelne Einheit)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_2",
+            "value": "Gimmick-Angriff (Rundallsche Kanone, Bereich)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1_EN",
+            "value": "Gimmick-Angriff (Katapult, einzelne Einheit)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2_EN",
+            "value": "Gimmick-Angriff (Katapult, Bereich)"
         },
         {
             "key": "SK_LW_WAR_P_2",

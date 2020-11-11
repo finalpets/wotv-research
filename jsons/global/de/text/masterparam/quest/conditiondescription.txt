@@ -265,6 +265,22 @@
             "value": "Einheit „Loreila“ befindet sich mindestens auf St. 1"
         },
         {
+            "key": "COND_HA_LW_SCAL",
+            "value": "Einheit „Skahal“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_MRAL",
+            "value": "Einheit „Marial“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_HWLT",
+            "value": "Einheit „Houlet“ befindet sich mindestens auf St. 1"
+        },
+        {
+            "key": "COND_HA_LW_CHEL",
+            "value": "Einheit „Chell“ befindet sich mindestens auf St. 1"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "Einheit „Mont Leonis“ befindet sich mindestens auf St. 1"
         },
@@ -579,6 +595,22 @@
         {
             "key": "COND_CH_LW_RI_01",
             "value": "Einheit „Rairyu (Halloween)“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_SCAL",
+            "value": "Einheit „Skahal“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_MRAL",
+            "value": "Einheit „Marial“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_HWLT",
+            "value": "Einheit „Houlet“ befindet sich mindestens auf St. 40"
+        },
+        {
+            "key": "COND_CH_LW_CHEL",
+            "value": "Einheit „Chell“ befindet sich mindestens auf St. 40"
         }
     ]
 }

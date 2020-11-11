@@ -958,7 +958,7 @@
         },
         {
             "key": "SK_LW_HUN_M_1",
-            "value": "Inflige des dégâts (M) à la cible (ne peut pas rater)."
+            "value": "Inflige des dégâts (M) à la cible et Coup garanti."
         },
         {
             "key": "SK_LW_HUN_S_3",
@@ -966,7 +966,7 @@
         },
         {
             "key": "SK_LW_HUN_R_1",
-            "value": "Chance d'esquiver tous les types d'attaques."
+            "value": "Confère une chance d'esquiver tous les types d'attaques."
         },
         {
             "key": "SK_LW_HUN_P_1",
@@ -1286,7 +1286,7 @@
         },
         {
             "key": "SK_LW_WHM_M_6",
-            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur à la cible et Coup garanti et accorde Tue-faucheurs."
+            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur à la cible, Coup garanti et accorde Tue-faucheurs."
         },
         {
             "key": "SK_LW_WHM_S_4_3",
@@ -1314,7 +1314,7 @@
         },
         {
             "key": "SK_LW_WHM_M_3",
-            "value": "Restaure les PV de la cible (M)."
+            "value": "Restaure les PV (M) de la cible."
         },
         {
             "key": "SK_LW_WHM_M_5",
@@ -1338,7 +1338,7 @@
         },
         {
             "key": "SK_LW_WHM_M_6_SUB",
-            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur à la cible et Coup garanti et accorde Tue-faucheurs."
+            "value": "Inflige des dégâts de lumière (L) qui dépendent de la MAGIE du lanceur à la cible, Coup garanti et accorde Tue-faucheurs."
         },
         {
             "key": "SK_LW_WHM_S_4_3_SUB",
@@ -1882,7 +1882,7 @@
         },
         {
             "key": "SK_LW_FINA_S_6",
-            "value": "Inflige des dégâts (S) à la cible (ne peut pas rater)."
+            "value": "Inflige des dégâts (S) à la cible et Coup garanti."
         },
         {
             "key": "SK_LW_FINA_S_7",
@@ -2398,7 +2398,7 @@
         },
         {
             "key": "SK_FF1_WROL_M_2",
-            "value": "Restaure un certain pourcentage des PV du lanceur (L)."
+            "value": "Restaure un certain pourcentage des PV (L) du lanceur."
         },
         {
             "key": "SK_FF1_WROL_M_3",
@@ -2507,6 +2507,54 @@
         {
             "key": "SK_LW_MST_P_2",
             "value": "DEF ↑"
+        },
+        {
+            "key": "SK_LW_MST_M_1_SUB",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur aux unités dans la zone ciblée, et Coup garanti."
+        },
+        {
+            "key": "SK_LW_MST_M_2_SUB",
+            "value": "Érige une barrière autour du lanceur qui réduit les dégâts physiques (3 fois)."
+        },
+        {
+            "key": "SK_LW_MST_M_3_SUB",
+            "value": "Augmente la Foi des alliés dans la zone autour du lanceur."
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1",
+            "value": "Inflige des dégâts de feu (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1",
+            "value": "Inflige des dégâts de glace (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1",
+            "value": "Inflige des dégâts de vent (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1",
+            "value": "Inflige des dégâts de foudre (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1",
+            "value": "Inflige des dégâts d'eau (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1",
+            "value": "Inflige des dégâts de terre (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1",
+            "value": "Inflige des dégâts de lumière (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1",
+            "value": "Inflige des dégâts d'ombre (S) qui dépendent de la MAGIE du lanceur à la cible, et confère une chance de réduire la CT (S)."
+        },
+        {
+            "key": "SK_LW_MST_S_2",
+            "value": "Augmente le Saut et le Déplacement du lanceur de 1 pendant 3 tours."
         },
         {
             "key": "SK_FFT_AGRA_ATK",
@@ -3026,7 +3074,7 @@
         },
         {
             "key": "SK_LW_GRSR_M_2",
-            "value": "Inflige des dégâts (L) à la cible avec une chance élevée de coups critiques, Perforation et Coups garantis."
+            "value": "Inflige des dégâts (L) à la cible avec une chance élevée de coups critiques, Perforation et Coup garanti."
         },
         {
             "key": "SK_LW_GRSR_M_3",
@@ -3998,7 +4046,7 @@
         },
         {
             "key": "SK_DABL_M_02",
-            "value": "Inflige des dégâts (S) qui dépendent d'un certain pourcentage des PV max de la cible aux unités dans la zone ciblée, et coup garanti."
+            "value": "Inflige des dégâts (S) qui dépendent d'un certain pourcentage des PV max de la cible aux unités dans la zone ciblée, et Coup garanti."
         },
         {
             "key": "SK_DABL_M_03",
@@ -4369,6 +4417,10 @@
             "value": "Réduit la résistance au vent de la cible pendant 3 tours puis inflige des dégâts (L) qui dépendent de la MAGIE du lanceur."
         },
         {
+            "key": "SK_LB_LW_SCAL",
+            "value": "Inflige des dégâts (L) qui dépendent de la MAGIE du lanceur en 3 coups aux unités dans la zone ciblée, et confère une chance d'infliger Paralysie pendant 3 tours."
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Invoque Ifrit, inflige des dégâts de feu (XL) aux unités dans la zone ciblée et active des effets de carte temporaires (augmente l'ATT et la MAGIE des alliés et réduit considérablement la résistance au feu des ennemis)."
         },
@@ -4470,23 +4522,23 @@
         },
         {
             "key": "SK_US_POTION",
-            "value": "Restaure les PV d'un allié (S)."
+            "value": "Restaure les PV (S) d'un allié."
         },
         {
             "key": "SK_US_HIPOTION",
-            "value": "Restaure les PV d'un allié (M)."
+            "value": "Restaure les PV (M) d'un allié."
         },
         {
             "key": "SK_US_EXPOTION",
-            "value": "Restaure les PV d'un allié (L)."
+            "value": "Restaure les PV (L) d'un allié."
         },
         {
             "key": "SK_US_ETHER",
-            "value": "Restaure les PT d'un allié (S)."
+            "value": "Restaure les PT (S) d'un allié."
         },
         {
             "key": "SK_US_ETHERTURBO",
-            "value": "Restaure les PT d'un allié (M)."
+            "value": "Restaure les PT (M) d'un allié."
         },
         {
             "key": "SK_US_ELIXIR",
@@ -4901,6 +4953,18 @@
             "value": "Taux de perforation de la PSY +20, MAGIE +10 %"
         },
         {
+            "key": "SK_MA_LW_SCAL",
+            "value": "MAGIE +20 %, Délai d'activation de compétence -20 %"
+        },
+        {
+            "key": "SK_MA_LW_MRAL",
+            "value": "Haine +5, résistance aux attaques de zone +15"
+        },
+        {
+            "key": "SK_MA_LW_CHEL",
+            "value": "AGI +10 %, Délai d'activation de compétence -25 %"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Attaque tranchante +2"
         },
@@ -5287,6 +5351,18 @@
         {
             "key": "SK_CLT_LW_HWLT_1_1",
             "value": "Consomme les PV du lanceur pour esquiver toutes les attaques physiques pendant 1 tour."
+        },
+        {
+            "key": "SK_ACC_LW_SCAL_1_1",
+            "value": "Consomme les PV du lanceur pour augmenter considérablement la MAGIE d'un allié pendant 3 tour."
+        },
+        {
+            "key": "SK_SWO_LW_MRAL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_CHEL_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -7799,6 +7875,22 @@
         {
             "key": "SK_GMK_ATK_KENZAN",
             "value": "Attaque mécanique (Dégâts fixes)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_1",
+            "value": "Attaque mécanique (Unité de canon de Rundall unique)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_2",
+            "value": "Attaque mécanique (Zone de canon de Rundall)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1_EN",
+            "value": "Attaque mécanique (Unité de catapulte unique)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2_EN",
+            "value": "Attaque mécanique (Zone de catapulte)"
         },
         {
             "key": "SK_LW_WAR_P_2",

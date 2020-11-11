@@ -2005,6 +2005,18 @@
             "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "Ein Gegenstand, der zum Limitbruch einer Einheit benötigt wird."
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Gewährt Gewinn von Esper-ERF (S)."
         },
@@ -2589,6 +2601,10 @@
             "value": "Eine Anleitung, die zum Herstellen einer Korallenklinge benötigt wird."
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "Eine Anleitung, die zum Herstellen eines Lohengrin benötigt wird."
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "Eine Anleitung, die zum Herstellen eines Claymores benötigt wird."
         },
@@ -2981,10 +2997,6 @@
             "value": "(Spezifikation noch nicht festgelegt.)"
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": "A medal that can be acquired during New Unit/Vision Card Summons (Expires 2:59 p.m. PST, 12/9/2019)"
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": "A medal that can be acquired during New Unit/Vision Card and Winter Holiday Summons (Expires 11:59 p.m. PST, 12/31/2019)"
         },
@@ -3097,6 +3109,10 @@
             "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 17.11.2020, 17:59 Weltzeit (PST))."
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "Eine Medaille, die durch Neue Einheiten-/Visionskartenbeschwörungen erhalten werden kann (Verfällt am 1.12.2020, 23:59 Weltzeit (PST))."
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Ein Gegenstand, der im FFT-Kollaborationsevent erlangt werden kann und im „FFT“-Tauschladen in unterschiedliche Gegenstände eingelöst werden kann."
         },
@@ -3151,6 +3167,10 @@
         {
             "key": "IT_EC_EV05_1",
             "value": "Ein Gegenstand, der in „Gouga und Saiga: Teil I“ erlangt werden kann und im Tauschladen für „Gouga und Saiga: Teil I“-Eventmedaillen in unterschiedliche Gegenstände eingelöst werden kann."
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "Ein Gegenstand, der im Event „Die Prinzessin in Nöten“ erlangt werden kann und im Tauschladen für „Die Prinzessin in Nöten“-Medaillen in unterschiedliche Gegenstände eingelöst werden kann."
         },
         {
             "key": "IT_EC_FF1_1",
@@ -3391,6 +3411,10 @@
         {
             "key": "IT_US_G_U_SSR_UR_07",
             "value": "Ein Ticket, das benötigt wird, um die „[MR+] garantiert“-Einheitenbeschwörung der Herbstkampagne 2020 Teil I durchzuführen * Dieses Ticket kann nach dem 28.10.2020 Weltzeit (PST) nicht mehr verwendet werden. *  Limitierte oder Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten. "
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "Ein Ticket, das benötigt wird, um die „[MR+] garantiert“-Einheitenbeschwörung der Herbstkampagne 2020 Teil II durchzuführen <br>* Dieses Ticket kann nach dem 11.11.2020 Weltzeit (PST) nicht mehr verwendet werden. <br>* Limitierte oder Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten. "
         },
         {
             "key": "IT_US_SE_UR_V_01",

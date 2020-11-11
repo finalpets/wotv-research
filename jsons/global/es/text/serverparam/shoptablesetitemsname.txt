@@ -858,11 +858,11 @@
         },
         {
             "key": "IT_SET_UNIT_EXP_HA_L",
-            "value": "[6 primeros meses del juego] Lote de cubos de EXP II"
+            "value": "[Campaña de otoño 2020 II] Lote de cubos de EXP II"
         },
         {
             "key": "IT_SET_UNIT_EXP_HA_S",
-            "value": "[6 primeros meses del juego] Lote de cubos de EXP I"
+            "value": "[Campaña de otoño 2020 II] Lote de cubos de EXP I"
         },
         {
             "key": "IT_SET_VC_EXP_HA_L",
@@ -1047,6 +1047,30 @@
         {
             "key": "IT_SET_JB_MM_1100DL_01",
             "value": "[Campaña de Halloween] Lote de mejora de profesión I"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "[Campaña de otoño 2020 II] Lote de mejora de grupo"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "Lote de invocación de unidad"
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "[Campaña de otoño 2020 II] Lote de entrenamiento arcoíris"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "[Campaña de otoño 2020 II] Lote de habilidad de equipo"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "[Campaña de otoño 2020 II] Lote de mejora de equipo"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "[Campaña de otoño 2020 II] Lote de mejora: c. visión"
         }
     ]
 }

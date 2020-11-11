@@ -289,6 +289,14 @@
             "value": "[Multijugador] Misión de entrenamiento de equipo (maza de platino, sable de coral)"
         },
         {
+            "key": "MG_EV_ART_CRF_05",
+            "value": "Misión de entrenamiento de equipo (vara de platino)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_05",
+            "value": "[Multijugador] Misión de entrenamiento de equipo (vara de platino)"
+        },
+        {
             "key": "MG_EV01_1_01",
             "value": "El príncipe admirado"
         },
@@ -347,6 +355,18 @@
         {
             "key": "MG_MU_EV05_1_02",
             "value": "[Multijugador] Gouga y Saiga: Parte I [EX]"
+        },
+        {
+            "key": "MG_EV06_1_01",
+            "value": "Damisela en apuros"
+        },
+        {
+            "key": "MG_EV06_1_02",
+            "value": "Damisela en apuros [EX]"
+        },
+        {
+            "key": "MG_MU_EV06_1_02",
+            "value": "[Multijugador] Damisela en apuros [EX]"
         },
         {
             "key": "MG_ETRE01_01",

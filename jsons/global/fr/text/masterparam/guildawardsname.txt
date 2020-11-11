@@ -58,27 +58,27 @@
         },
         {
             "key": "AWD_G_FF04_1",
-            "value": "FFIV - Épreuves du Jugement - Numéro 1 des scores totaux de guilde"
+            "value": "FFIV - Épreuves du Jugement - Numéro 1 des scores des guildes totaux"
         },
         {
             "key": "AWD_G_FF04_2",
-            "value": "FFIV - Épreuves du Jugement - Top 10 des scores totaux de guilde"
+            "value": "FFIV - Épreuves du Jugement - Top 10 des scores des guildes totaux"
         },
         {
             "key": "AWD_G_FF04_3",
-            "value": "FFIV - Épreuves du Jugement - Top 50 des scores totaux de guilde"
+            "value": "FFIV - Épreuves du Jugement - Top 50 des scores des guildes totaux"
         },
         {
             "key": "AWD_G_FF04_4",
-            "value": "FFIV - Épreuves du Jugement - Numéro 1 des meilleurs scores de guilde"
+            "value": "FFIV - Épreuves du Jugement - Numéro 1 des meilleurs scores des guildes"
         },
         {
             "key": "AWD_G_FF04_5",
-            "value": "FFIV - Épreuves du Jugement - Top 10 des meilleurs scores de guilde"
+            "value": "FFIV - Épreuves du Jugement - Top 10 des meilleurs scores des guildes"
         },
         {
             "key": "AWD_G_FF04_6",
-            "value": "FFIV - Épreuves du Jugement - Top 50 des meilleurs scores de guilde"
+            "value": "FFIV - Épreuves du Jugement - Top 50 des meilleurs scores des guildes"
         }
     ]
 }

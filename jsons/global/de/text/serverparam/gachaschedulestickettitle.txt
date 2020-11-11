@@ -283,6 +283,38 @@
         {
             "key": "IT_US_G_UR_01_gl20201028",
             "value": "„[UR] garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "„[UR]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "„[UR]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "„[MR+]-Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "„[MR+]-Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "„[MR+] garantiert (10-malig)“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "„Einheit garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "„Visionskarte garantiert“-Beschwörungsticket A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "„[UR] garantiert“-Beschwörungsticket A"
         }
     ]
 }

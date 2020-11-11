@@ -2045,6 +2045,18 @@
             "value": "Un manteau retouché par Howlet. Il reprit le patron de cette cape traditionnelle héritée de son père pour le redessiner à son goût avant de le confier à un tailleur. Une telle aliénation du modèle original rendit son père furieux, ce à quoi Howlet ne prêta pas d'attention particulière."
         },
         {
+            "key": "AF_ACC_LW_SCAL_1",
+            "value": "Un gantelet dont héritent tous les chefs du clan Saiga. Imprégné de la magie de ses précédents propriétaires, il est trop puissant pour être manié par un shinobi ordinaire. Parmi les rares élus à réussir à le contrôler se trouve Skahal."
+        },
+        {
+            "key": "AF_SWO_LW_MRAL_1",
+            "value": "Une épée magique unique forgée dans un métal malléable. Ses mouvements sont très difficiles à cerner entre les mains d'un bon bretteur tant ils trompent l'œil et donnent l'impression de se démultiplier à la manière des pattes d'une araignée. Mariale refuse de s'en départir bien qu'elle soit mal adaptée à l'assassinat, démontrant par-là sa supériorité à ceux qu'elle taille en pièces."
+        },
+        {
+            "key": "AF_ROD_LW_CHEL_1",
+            "value": "Un bâton décoré avec la fleur préférée de Chel. La jeune fille doit la présence de cet ornement à l'insistance de ses deux frères, qui a triomphé des réticences du forgeron à s'inspirer d'un thème aussi futile. En effet, à la vue de son chagrin quand la faveur lui fut d'abord refusée, ils firent pression sur l'artisan jusqu'à obtenir gain de cause."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Une épée à une main élaborée tout spécialement pour Mont par le fidèle forgeron de Leonis. Le prince ayant réclamé une arme plus facile à manier, elle a la modeste apparence d'une épée d'entraînement. Si certains auraient souhaité pour lui une arme un peu plus royale, Mont en est très satisfait."
         },
@@ -2185,6 +2197,10 @@
             "value": "Cette épée à l'élégance simple, imbibée d'une magie puissante, est l'œuvre d'un forgeron célèbre. Grâce à son travail d'une extrême habileté, la lame ne souffre d'aucune rayure même lorsqu'elle rencontre violemment l'opposition d'une autre épée ou qu'elle libère sa grande puissance magique. Howlet la juge digne de ses propres capacités, aussi en prend-il grand soin."
         },
         {
+            "key": "AF_ROD_LW_SCAL_2",
+            "value": "Le bâton remis à Skahal par le chef précédent au moment de la passation de pouvoir. Sa composition unique lui permet de résister à l'extraordinaire force physique et au grand pouvoir magique de son propriétaire. Conscient des atrocités permises par l'usage immodéré d'une telle arme, Skahal en limite souvent le potentiel en combat."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Un anneau incrusté d'un éclat d'alexandrite extraordinairement brillant. Cette pierre précieuse est connue pour changer de couleur selon la lumière qui s'y reflète, une magnifique propriété qui lui a valu le surnom de reine des gemmes. Les spécimens les plus limpides et les plus miroitants sont extrêmement rares et s'échangent donc à des prix élevés."
         },
@@ -2287,6 +2303,30 @@
         {
             "key": "AF_LW_KAT_008_5",
             "value": "Un katana manié par Lasswell. Sa lame, d'une droiture sans égale et au dessin presque céleste, réagit aux émotions de son propriétaire laissant s'échapper une lumière aussi glaciale que chatoyante. Ayant jadis appartenu à Raegen, le père de Rain, ce katana, dont Lasswell prend grand soin, semble traverser les âges sans perdre de son tranchant."
+        },
+        {
+            "key": "AF_LW_SWO_023",
+            "value": "Une épée qui porte le nom d'un chevalier dont la légende a traversé les âges. Celui qu'on surnomme parfois le « Chevalier au cygne » constitue le sujet de bien des chansons et de bien des épopées théâtrales. C'est peut-être cette renommée qui fait de son épée la convoitise de générations de grands chevaliers. C'est une arme antique qui ne cesse d'émerveiller les guerriers d'aujourd'hui."
+        },
+        {
+            "key": "AF_LW_SWO_023_1",
+            "value": "Une épée qui porte le nom d'un chevalier dont la légende a traversé les âges. Celui qu'on surnomme parfois le « Chevalier au cygne » constitue le sujet de bien des chansons et de bien des épopées théâtrales. C'est peut-être cette renommée qui fait de son épée la convoitise de générations de grands chevaliers. C'est une arme antique qui ne cesse d'émerveiller les guerriers d'aujourd'hui."
+        },
+        {
+            "key": "AF_LW_SWO_023_2",
+            "value": "Une épée qui porte le nom d'un chevalier dont la légende a traversé les âges. Celui qu'on surnomme parfois le « Chevalier au cygne » constitue le sujet de bien des chansons et de bien des épopées théâtrales. C'est peut-être cette renommée qui fait de son épée la convoitise de générations de grands chevaliers. C'est une arme antique qui ne cesse d'émerveiller les guerriers d'aujourd'hui."
+        },
+        {
+            "key": "AF_LW_SWO_023_3",
+            "value": "Une épée qui porte le nom d'un chevalier dont la légende a traversé les âges. Celui qu'on surnomme parfois le « Chevalier au cygne » constitue le sujet de bien des chansons et de bien des épopées théâtrales. C'est peut-être cette renommée qui fait de son épée la convoitise de générations de grands chevaliers. C'est une arme antique qui ne cesse d'émerveiller les guerriers d'aujourd'hui."
+        },
+        {
+            "key": "AF_LW_SWO_023_4",
+            "value": "Une épée qui porte le nom d'un chevalier dont la légende a traversé les âges. Celui qu'on surnomme parfois le « Chevalier au cygne » constitue le sujet de bien des chansons et de bien des épopées théâtrales. C'est peut-être cette renommée qui fait de son épée la convoitise de générations de grands chevaliers. C'est une arme antique qui ne cesse d'émerveiller les guerriers d'aujourd'hui."
+        },
+        {
+            "key": "AF_LW_SWO_023_5",
+            "value": "Une épée qui porte le nom d'un chevalier dont la légende a traversé les âges. Celui qu'on surnomme parfois le « Chevalier au cygne » constitue le sujet de bien des chansons et de bien des épopées théâtrales. C'est peut-être cette renommée qui fait de son épée la convoitise de générations de grands chevaliers. C'est une arme antique qui ne cesse d'émerveiller les guerriers d'aujourd'hui."
         }
     ]
 }

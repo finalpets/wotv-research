@@ -2509,6 +2509,54 @@
             "value": "DEF↑ nv. 1"
         },
         {
+            "key": "SK_LW_MST_M_1_SUB",
+            "value": "Destructor energético"
+        },
+        {
+            "key": "SK_LW_MST_M_2_SUB",
+            "value": "Escudo de bastones"
+        },
+        {
+            "key": "SK_LW_MST_M_3_SUB",
+            "value": "Aumento de fe"
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1",
+            "value": "Bastón de fuego"
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1",
+            "value": "Bastón de hielo"
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1",
+            "value": "Bastón de viento"
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1",
+            "value": "Bastón de rayo"
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1",
+            "value": "Bastón de agua"
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1",
+            "value": "Bastón de tierra"
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1",
+            "value": "Bastón de luz"
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1",
+            "value": "Bastón de oscuridad"
+        },
+        {
+            "key": "SK_LW_MST_S_2",
+            "value": "Bastón alado"
+        },
+        {
             "key": "SK_FFT_AGRA_ATK",
             "value": "Ataque normal"
         },
@@ -3178,7 +3226,7 @@
         },
         {
             "key": "SK_IFRT_M_03_01_100_U",
-            "value": "Concentrar calor"
+            "value": "Hervir"
         },
         {
             "key": "SK_LW_TU_WAR_M_4",
@@ -4369,6 +4417,10 @@
             "value": "Stella Artis"
         },
         {
+            "key": "SK_LB_LW_SCAL",
+            "value": "Invocación del rayo divino"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Fuego infernal"
         },
@@ -4901,6 +4953,18 @@
             "value": "Habilidad maestra"
         },
         {
+            "key": "SK_MA_LW_SCAL",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_MRAL",
+            "value": "Habilidad maestra"
+        },
+        {
+            "key": "SK_MA_LW_CHEL",
+            "value": "Habilidad maestra"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Ataque de corte +2"
         },
@@ -5287,6 +5351,18 @@
         {
             "key": "SK_CLT_LW_HWLT_1_1",
             "value": "Runa de sangre fresca"
+        },
+        {
+            "key": "SK_ACC_LW_SCAL_1_1",
+            "value": "Aluvión mágico"
+        },
+        {
+            "key": "SK_SWO_LW_MRAL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_CHEL_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -7799,6 +7875,22 @@
         {
             "key": "SK_GMK_ATK_KENZAN",
             "value": "Zona de daño"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_1",
+            "value": "Bombardeo"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_2",
+            "value": "Tiro bomba"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1_EN",
+            "value": "Pedrada"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2_EN",
+            "value": "Lluvia de piedras"
         },
         {
             "key": "SK_LW_WAR_P_2",

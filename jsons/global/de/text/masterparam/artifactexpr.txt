@@ -2045,6 +2045,18 @@
             "value": "Art der Ausrüstung: Kleidung<br>Angemessene Rüstungskenntnis: A oder höher"
         },
         {
+            "key": "AF_ACC_LW_SCAL_1",
+            "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
+        },
+        {
+            "key": "AF_SWO_LW_MRAL_1",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
+            "key": "AF_ROD_LW_CHEL_1",
+            "value": "Art der Ausrüstung: Stab<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
         },
@@ -2185,6 +2197,10 @@
             "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: A oder höher"
         },
         {
+            "key": "AF_ROD_LW_SCAL_2",
+            "value": "Art der Ausrüstung: Stab<br>Angemessene Waffenkenntnis: A oder höher"
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Art der Ausrüstung: Accessoire<br>Angemessene Accessoirekenntnis: A oder höher"
         },
@@ -2287,6 +2303,30 @@
         {
             "key": "AF_LW_KAT_008_5",
             "value": "Art der Ausrüstung: Großschwert<br>Angemessene Waffenkenntnis: A oder höher"
+        },
+        {
+            "key": "AF_LW_SWO_023",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
+            "key": "AF_LW_SWO_023_1",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
+            "key": "AF_LW_SWO_023_2",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
+            "key": "AF_LW_SWO_023_3",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
+            "key": "AF_LW_SWO_023_4",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
+        },
+        {
+            "key": "AF_LW_SWO_023_5",
+            "value": "Art der Ausrüstung: Schwert<br>Angemessene Waffenkenntnis: B oder höher"
         }
     ]
 }

@@ -2045,6 +2045,18 @@
             "value": "Houlets Mantel, der von ihm selbst dekoriert wurde. Ursprünglich handelte es sich dabei um ein traditionelles Kleidungsstück, das von seinem Vater an ihn weitergereicht wurde; Houlet jedoch empfand es als nicht seiner Ästhetik entsprechend und brachte es zusammen mit seinem eigenen Entwurf zu einem Schneider. Letzten Endes wurde daraus ein gänzlich anderer Mantel; Houlets Vater kochte vor Wut, was seinen Sohn jedoch kalt ließ."
         },
         {
+            "key": "AF_ACC_LW_SCAL_1",
+            "value": "Ein Armschutz, der bereits von früheren Häuptlingen Saigas getragen wurde. Da er Spuren der Magie eines jeden Häuptlings enthält, ist es gewöhnlichen Shinobi so gut wie unmöglich, seine geballte magische Kraft unter Kontrolle zu halten. Auch unter den Anführern des Dorfes fanden sich bisher nur wenige, die diesem Gegenstand Herr wurden; Skahal ist einer von ihnen."
+        },
+        {
+            "key": "AF_SWO_LW_MRAL_1",
+            "value": "Ein ganz besonderes magisches Schwert, das aus einem biegsamen Metall geschmiedet wurde. Wird es von einem erfahrenen Kämpfer geführt, scheint es so, als vervielfältige sich die Klinge zu mehreren wie die Beine einer Spinne, was sie beinahe unberechenbar macht. Zwar eignet sich diese Waffe nicht zum Meuchelmorden, Marial benutzt sie jedoch dennoch, um sich mit ihrer Stärke jenen gegenüber, die ihr zum Opfer fallen, zu brüsten."
+        },
+        {
+            "key": "AF_ROD_LW_CHEL_1",
+            "value": "Ein Stab, der mit Chells Lieblingsblumen verziert ist. Während seiner Herstellung zeigte sich der Waffenschmied abgeneigt, Blumen ohne jeglichen praktischen Nutzen an ihm anzubringen, doch der Anblick von Chells traurigem Gesicht führte zu heftigem Protest seitens ihrer beiden Brüder. Der Schmied gab dem gewaltigen Druck letzten Endes nach, weshalb die Blumen schließlich doch auf dem Stab landeten."
+        },
+        {
             "key": "AF_SWO_LW_MONT_2",
             "value": "Dieses einhändig geführte Schwert wurde von einem ausschließlich für Leonis arbeitenden Waffenschmied speziell für Mont angefertigt. Geschmiedet wurde es gemäß des Prinzen Bitte nach einem Schwert, das für ihn am einfachsten zu handhaben sei. Sein Aussehen erinnert eher an das einer liebgewonnenen und ausgiebig benutzten Übungsklinge. Andere mögen zwar der Meinung sein, dass dem Prinzen eine etwas „königlicher“ anmutende Waffe besser zu Gesicht stünde. Doch Mont selber ist von seinem Schwert über alle Maßen angetan."
         },
@@ -2185,6 +2197,10 @@
             "value": "Ein Schwert, das von einem Meister seines Fachs geschmiedet wurde und durch sein einfach gehaltenes Design, eine wunderschöne Klinge sowie die ihm innewohnende mächtige Magie glänzt. Dank der exzellenten Handwerkskunst vermögen weder der Einsatz noch so immenser magischer Kräfte, noch brutale Kampfhandlungen der Klinge auch nur einen Kratzer zuzufügen. Von Houlet als eine ihm angemessene Waffe befunden, hält er dieses Schwert mit größter Sorgfalt instand."
         },
         {
+            "key": "AF_ROD_LW_SCAL_2",
+            "value": "Der Stab, den Skahal vom früheren Häuptling erhielt, als er erwählt wurde, den Clan anzuführen. Er besteht aus einem robusten Material, das selbst Skahals erstaunlicher Körperkraft und seinen magischen Kräften standhalten kann. Sich bewusst, dass dieser Stab bei Einsatz seines vollen Potenzials zu einer wahren Vernichtungswaffe werden könnte, geht er in Schlachten nur selten bis zum Äußersten."
+        },
+        {
             "key": "AF_LW_RNG_005",
             "value": "Ein mit einem faszinierend leuchtenden Alexandrit besetzter Ring. Seine Eigenschaft, mit auftreffendem Licht seine Farbe zu ändern, brachte ihm den Titel „König der Edelsteine“ ein. Exemplare, die sich durch hohe Transparenz und Farbenreichtum auszeichnen, sind außerordentlich selten und wechseln nur gegen hohe Preise den Besitzer."
         },
@@ -2287,6 +2303,30 @@
         {
             "key": "AF_LW_KAT_008_5",
             "value": "Lasswells geliebtes Katana, dessen durchscheinende, gerade Klinge ein kaltes, doch wunderschönes blaues Leuchten ausstrahlt, wenn es von den starken Emotionen seines Trägers erfüllt wird. Dank der sorgfältigen Instandhaltung Lasswells ist dieses Schwert immer noch genauso scharf wie damals, als er es vor vielen Jahren von seinem Vater Raegen erhielt."
+        },
+        {
+            "key": "AF_LW_SWO_023",
+            "value": "Ein Schwert, das seinen Namen von einem Ritter erhielt, dessen Legende schon seit unzähligen Jahren erzählt wird. Das Schicksal jenes Ritters, der den Beinamen „Schwanenritter“ getragen haben soll, wird in zahlreichen Balladen und Theaterstücken besungen, was wohl einer der Gründe ist, weshalb Generation um Generation noble Ritter nach diesem Schwert streben. Mittlerweile eine Klinge des Altertums, ist sie auch heute noch ein Objekt der Begierde für viele, die den Pfad der Ritterlichkeit beschreiten."
+        },
+        {
+            "key": "AF_LW_SWO_023_1",
+            "value": "Ein Schwert, das seinen Namen von einem Ritter erhielt, dessen Legende schon seit unzähligen Jahren erzählt wird. Das Schicksal jenes Ritters, der den Beinamen „Schwanenritter“ getragen haben soll, wird in zahlreichen Balladen und Theaterstücken besungen, was wohl einer der Gründe ist, weshalb Generation um Generation noble Ritter nach diesem Schwert streben. Mittlerweile eine Klinge des Altertums, ist sie auch heute noch ein Objekt der Begierde für viele, die den Pfad der Ritterlichkeit beschreiten."
+        },
+        {
+            "key": "AF_LW_SWO_023_2",
+            "value": "Ein Schwert, das seinen Namen von einem Ritter erhielt, dessen Legende schon seit unzähligen Jahren erzählt wird. Das Schicksal jenes Ritters, der den Beinamen „Schwanenritter“ getragen haben soll, wird in zahlreichen Balladen und Theaterstücken besungen, was wohl einer der Gründe ist, weshalb Generation um Generation noble Ritter nach diesem Schwert streben. Mittlerweile eine Klinge des Altertums, ist sie auch heute noch ein Objekt der Begierde für viele, die den Pfad der Ritterlichkeit beschreiten."
+        },
+        {
+            "key": "AF_LW_SWO_023_3",
+            "value": "Ein Schwert, das seinen Namen von einem Ritter erhielt, dessen Legende schon seit unzähligen Jahren erzählt wird. Das Schicksal jenes Ritters, der den Beinamen „Schwanenritter“ getragen haben soll, wird in zahlreichen Balladen und Theaterstücken besungen, was wohl einer der Gründe ist, weshalb Generation um Generation noble Ritter nach diesem Schwert streben. Mittlerweile eine Klinge des Altertums, ist sie auch heute noch ein Objekt der Begierde für viele, die den Pfad der Ritterlichkeit beschreiten."
+        },
+        {
+            "key": "AF_LW_SWO_023_4",
+            "value": "Ein Schwert, das seinen Namen von einem Ritter erhielt, dessen Legende schon seit unzähligen Jahren erzählt wird. Das Schicksal jenes Ritters, der den Beinamen „Schwanenritter“ getragen haben soll, wird in zahlreichen Balladen und Theaterstücken besungen, was wohl einer der Gründe ist, weshalb Generation um Generation noble Ritter nach diesem Schwert streben. Mittlerweile eine Klinge des Altertums, ist sie auch heute noch ein Objekt der Begierde für viele, die den Pfad der Ritterlichkeit beschreiten."
+        },
+        {
+            "key": "AF_LW_SWO_023_5",
+            "value": "Ein Schwert, das seinen Namen von einem Ritter erhielt, dessen Legende schon seit unzähligen Jahren erzählt wird. Das Schicksal jenes Ritters, der den Beinamen „Schwanenritter“ getragen haben soll, wird in zahlreichen Balladen und Theaterstücken besungen, was wohl einer der Gründe ist, weshalb Generation um Generation noble Ritter nach diesem Schwert streben. Mittlerweile eine Klinge des Altertums, ist sie auch heute noch ein Objekt der Begierde für viele, die den Pfad der Ritterlichkeit beschreiten."
         }
     ]
 }

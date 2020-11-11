@@ -538,7 +538,7 @@
         },
         {
             "key": "BUFF_OtherJpGain",
-            "value": "PJ obtenus"
+            "value": "PJ acquis"
         },
         {
             "key": "BUFF_OtherPosDefIgnore",
@@ -1198,7 +1198,7 @@
         },
         {
             "key": "BUFF_OtherHealPow",
-            "value": "Compétence de soin"
+            "value": "Compétences de soin"
         },
         {
             "key": "BUFF_ExeShieldTarget1",

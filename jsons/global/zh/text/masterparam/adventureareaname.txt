@@ -1,0 +1,52 @@
+{
+    "infos": [
+        {
+            "key": "AD_AREA_WATER_01",
+            "value": "渦卷水底"
+        },
+        {
+            "key": "AD_AREA_FIRE_01",
+            "value": "猛火洞窟"
+        },
+        {
+            "key": "AD_AREA_SOIL_01",
+            "value": "泥土腐海"
+        },
+        {
+            "key": "AD_AREA_ICE_01",
+            "value": "吹雪冰壁"
+        },
+        {
+            "key": "AD_AREA_THUNDER_01",
+            "value": "轟雷平原"
+        },
+        {
+            "key": "AD_AREA_DARK_01",
+            "value": "宵暗森林"
+        },
+        {
+            "key": "AD_AREA_SHINE_01",
+            "value": "烈光沙丘"
+        },
+        {
+            "key": "AD_AREA_WIND_01",
+            "value": "大風峽谷"
+        },
+        {
+            "key": "AD_AREA_AF_01",
+            "value": "鍛鐵礦山"
+        },
+        {
+            "key": "AD_AREA_SM_01",
+            "value": "召魔秘境"
+        },
+        {
+            "key": "AD_AREA_FFT_01",
+            "value": "歐博納修道院周邊"
+        },
+        {
+            "key": "AD_AREA_FF01_01",
+            "value": "瑪托雅的洞穴"
+        }
+    ]
+}

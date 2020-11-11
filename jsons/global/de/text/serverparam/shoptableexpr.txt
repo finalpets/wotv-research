@@ -986,7 +986,7 @@
         },
         {
             "key": "IT_SET_WA_EXP_1100DL",
-            "value": "Ein Paket voller Adamantit (XL) und Königlicher Rüstungs- und Rausch-Pötte! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
+            "value": "Ein Paket voller Adamantit (XL), Königlicher Rüstungs-Pötte und Rüstungs-Pötte! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
         },
         {
             "key": "IT_SET_STA_01",
@@ -1047,6 +1047,30 @@
         {
             "key": "IT_SET_JB_MM_1100DL_01",
             "value": "Ein besonderes Paket mit Erinnerungen des namenlosen Helden (Grün), einem „Auswählbarer Elementalkrist (Grün) x30“-Beschwörungsticket, einem [Halloween-Kampagne] „Auswählbarer Jadeit x15“-Beschwörungsticket, Statuen des Betenden Engels (Grün), Statuen des Lauernden Lindwurms (Grün) und Verschwommenen Erinnerungen (Grün)!"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "Ein besonderes Paket, das ERF-Würfel (XL), Wachstumseier (MR) und Adamantit (XL) enthält!"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "Ein besonderes Paket mit ERF-Würfeln (XL) zum Einheitentraining sowie Tickets, die zur Durchführung der „[MR+] garantiert“-Einheitenbeschwörung der Herbstkampagne 2020 Teil II benötigt werden. * Die [Herbstkampagne 2020 Teil II] „[MR+] garantiert“-Einheitenbeschwörungstickets können nach dem 11.11.2020 Weltzeit (PST) nicht mehr verwendet werden. * Limitierte sowie Kollabo-Einheiten sind in dieser Beschwörung nicht enthalten."
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "Ein besonderes Paket, das ERF-Würfel (XL) und als Bonus ein Regenbogen-Gedankenfragment sowie Regenbogenfarbene Visionskugeln enthält! Unverzichtbar beim Einheitentraining!"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "Ein Paket voller Adamantit (XL), Königlicher Rüstungs-Pötte und Rüstungs-Pötte! Zur Verbesserung von Ausrüstung und ihren Fähigkeiten unverzichtbar!"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "Ein Paket voller Adamantit (S/M/L)! Unverzichtbar bei der Verbesserung von Ausrüstung!"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "Ein besonderes Paket mit Wachstumseiern (MR) und als Bonus Wachstumseiern (SR)! Unverzichtbar bei der Verbesserung von Visionskarten!"
         }
     ]
 }

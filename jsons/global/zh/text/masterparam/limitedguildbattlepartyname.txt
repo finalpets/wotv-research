@@ -1,0 +1,24 @@
+{
+    "infos": [
+        {
+            "key": "PB_LGB_Noraml01",
+            "value": "普通隊伍"
+        },
+        {
+            "key": "PB_LGB_Normal02",
+            "value": "普通隊伍"
+        },
+        {
+            "key": "PB_LGB_Normal03",
+            "value": "普通隊伍"
+        },
+        {
+            "key": "PB_LGB_Male",
+            "value": "男性隊伍"
+        },
+        {
+            "key": "PB_LGB_Female",
+            "value": "女性隊伍"
+        }
+    ]
+}

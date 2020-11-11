@@ -1801,6 +1801,54 @@
             "value": ""
         },
         {
+            "key": "new-gacha_gl20201104_01",
+            "value": "Incluye 10 medallas de invocación de tipo A (noviembre)."
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "Incluye 100 medallas de invocación de tipo A (noviembre)."
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step5",
+            "value": "Unidad UR garantizada."
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step4",
+            "value": "Incluye un tícket seleccionador de 50 fragmentos de la memoria elementales."
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step3",
+            "value": "Incluye un tícket seleccionador de 50 prismas del despertar."
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step2",
+            "value": "Unidad o carta de visión MR+ garantizada"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step1",
+            "value": "Unidad o carta de visión MR+ garantizada"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step3",
+            "value": "Howlet o Skahal garantizado"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step2",
+            "value": "Una unidad o carta de visión UR garantizada"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step1",
+            "value": "Una unidad o carta de visión UR garantizada"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Incluye 10 medallas de invocación de tipo A (marzo)."
         },

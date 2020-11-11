@@ -321,6 +321,18 @@
             "value": "Der älteste Sohn des Hauses Grohms, ein ungemein gutaussehender Runenritter, der Frauen stets die Bezeichnung „Prinzessin“ zuteil werden lässt und den Stunden, die er mit dem anderen Geschlecht verbringt, höchste Priorität einräumt. Aus diesem Grund vernachlässigte er mehr als einmal seine Ausbildung, was wiederum dazu führte, dass er von Vater und gleichzeitig Lehrmeister verstoßen wurde und sich mit seinem Bruder Titus und seiner Schwester Chell auf Reisen begab."
         },
         {
+            "key": "UN_LW_P_SCAL",
+            "value": "Der jungenhafte neue Häuptling Saigas. Trotz der bereits viele Jahre andauernden Feindschaft mit Gouga, dem anderen Shinobi-Dorf, arbeitet er im Geheimen auf eine Vereinigung der beiden Dörfer als geeinte Nation hin. Da seine Geliebte niemand anderes als Loreila, neuer Häuptling Gougas, ist, sah er dieses Ziel bereits in greifbare Nähe gerückt, doch ..."
+        },
+        {
+            "key": "UN_LW_P_MRAL",
+            "value": "Eine aus Gouga stammende Schwertmagierin. Sie hatte es auf die Position des Häuptlings abgesehen, doch als ihr dieser Titel von Loreila weggeschnappt wurde, erwuchs in ihr ein mörderischer Hass auf ihre Konkurrentin. Indem sie einen ihrer Untergebenen Loreila beschatten ließ, erlangte sie Kenntnis über deren heimliche Rendezvous mit dem Häuptling Saigas."
+        },
+        {
+            "key": "UN_LW_P_CHEL",
+            "value": "Das jüngste Kind der Familie Grohms, eine Grünmagierin, die ihren großen Bruder Houlet auf dessen Reisen begleitet, nachdem dieser von seinem Vater und Lehrmeister ausgestoßen wurde. Sie gibt nicht viel auf komplizierte Dinge und hat stets ein Lächeln auf den Lippen; mehr als alles andere scheint sie es zu genießen, mit ihrem geliebten Brüderlein verschiedenste Länder zu bereisen."
+        },
+        {
             "key": "UN_LW_E_IRDL",
             "value": ""
         },
@@ -1645,6 +1657,10 @@
             "value": ""
         },
         {
+            "key": "UN_LW_E_HWLT_MOGI",
+            "value": ""
+        },
+        {
             "key": "UN_LW_TU_MONT",
             "value": ""
         },
@@ -2211,6 +2227,10 @@
         {
             "key": "UN_GM_KENZAN_01",
             "value": "Fügt dem Ziel bei Betreten Schaden zu."
+        },
+        {
+            "key": "UN_GM_CANN",
+            "value": ""
         }
     ]
 }

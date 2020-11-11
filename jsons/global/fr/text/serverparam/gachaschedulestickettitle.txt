@@ -283,6 +283,38 @@
         {
             "key": "IT_US_G_UR_01_gl20201028",
             "value": "Ticket d'invocation UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'unité UR garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'atout-vision UR garanti [A]"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'unité MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'atout-vision MR+ garanti [A]"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "Ticket d'invocation x10 MR+ garantie [A]"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'unité garantie [A]"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "Ticket d'invocation d'atout-vision garanti [A]"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "Ticket d'invocation UR garantie [A]"
         }
     ]
 }

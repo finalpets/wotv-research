@@ -1,0 +1,1076 @@
+{
+    "infos": [
+        {
+            "key": "IT_SET_AF_LW_SWO_000",
+            "value": "武具：寬刃劍"
+        },
+        {
+            "key": "IT_SET_AF_LW_BSW_000",
+            "value": "武具：巨劍"
+        },
+        {
+            "key": "IT_SET_AF_LW_KAT_000",
+            "value": "武具：阿修羅"
+        },
+        {
+            "key": "IT_SET_AF_LW_FIS_000",
+            "value": "武具：青銅拳套"
+        },
+        {
+            "key": "IT_SET_AF_LW_SPE_000",
+            "value": "武具：標槍"
+        },
+        {
+            "key": "IT_SET_AF_LW_DAG_000",
+            "value": "武具：青銅匕首"
+        },
+        {
+            "key": "IT_SET_AF_LW_NKN_000",
+            "value": "武具：忍刀"
+        },
+        {
+            "key": "IT_SET_AF_LW_BOW_000",
+            "value": "武具：短弓"
+        },
+        {
+            "key": "IT_SET_AF_LW_GUN_000",
+            "value": "武具：河鼓二"
+        },
+        {
+            "key": "IT_SET_AF_LW_ROD_000",
+            "value": "武具：手杖"
+        },
+        {
+            "key": "IT_SET_AF_LW_MAC_000",
+            "value": "武具：青銅權杖"
+        },
+        {
+            "key": "IT_SET_AF_LW_ARM_001",
+            "value": "武具：皮甲"
+        },
+        {
+            "key": "IT_SET_AF_LW_HAT_001",
+            "value": "武具：皮帽"
+        },
+        {
+            "key": "IT_SET_AF_LW_CLT_001",
+            "value": "武具：皮衣"
+        },
+        {
+            "key": "IT_SET_AF_LW_HLM_001",
+            "value": "武具：青銅盔"
+        },
+        {
+            "key": "IT_SET_AF_LW_RNG_001",
+            "value": "武具：萊茵石指環"
+        },
+        {
+            "key": "IT_SET_AF_LW_AXE_000",
+            "value": "武具：戰斧"
+        },
+        {
+            "key": "IT_SET_KAIFUKU_01",
+            "value": "任務恢復道具組"
+        },
+        {
+            "key": "IT_SET_JB_EM_01",
+            "value": "各屬性之輝石·翠禮包"
+        },
+        {
+            "key": "IT_SET_JB_A_01",
+            "value": "翡翠硬玉禮包I"
+        },
+        {
+            "key": "IT_SET_JB_B_01",
+            "value": "翡翠硬玉禮包II"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_01",
+            "value": "R武具配方禮包I "
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_02",
+            "value": "R武具配方禮包II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_02",
+            "value": "火之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_WATER_02",
+            "value": "水之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_WIND_02",
+            "value": "風之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_02",
+            "value": "雷之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_02",
+            "value": "土之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_ICE_02",
+            "value": "冰之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_02",
+            "value": "光之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_DARK_02",
+            "value": "暗之覺醒禮包II"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_01",
+            "value": "火之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_WATER_01",
+            "value": "水之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_WIND_01",
+            "value": "風之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_01",
+            "value": "雷之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_01",
+            "value": "土之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_ICE_01",
+            "value": "冰之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_01",
+            "value": "光之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_DARK_01",
+            "value": "暗之覺醒禮包I"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_03",
+            "value": "火之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_AW_WATER_03",
+            "value": "水之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_AW_WIND_03",
+            "value": "風之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_03",
+            "value": "雷之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_03",
+            "value": "土之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_AW_ICE_03",
+            "value": "冰之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_03",
+            "value": "光之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_AW_DARK_03",
+            "value": "暗之覺醒魂(★2~4)禮包"
+        },
+        {
+            "key": "IT_SET_GROW_01",
+            "value": "彩虹育成禮包"
+        },
+        {
+            "key": "IT_SET_JB_MM_04",
+            "value": "職業的記憶·黃×4選擇召喚券"
+        },
+        {
+            "key": "IT_SET_JB_MM_03",
+            "value": "職業的記憶‧紫×3選擇召喚券"
+        },
+        {
+            "key": "IT_SET_JB_CMN_GL_00",
+            "value": "【新手限定】職業育成禮包"
+        },
+        {
+            "key": "IT_SET_GROW_GL_00",
+            "value": "【新手限定】兵員強化禮包"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_00",
+            "value": "1天1次免費體力恢復藥"
+        },
+        {
+            "key": "IT_SET_GROW_GL_01",
+            "value": "【上市紀念】彩虹育成禮包"
+        },
+        {
+            "key": "IT_SET_STORY_GL_00",
+            "value": "劇情進展禮包A"
+        },
+        {
+            "key": "IT_SET_STORY_GL_01",
+            "value": "劇情進展禮包B"
+        },
+        {
+            "key": "IT_SET_GROW_GL_02",
+            "value": "彩虹育成禮包"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_01",
+            "value": "1天1次免費體力恢復藥"
+        },
+        {
+            "key": "IT_SET_EXP_GL_02",
+            "value": "1天1次免費經驗立方（中）"
+        },
+        {
+            "key": "IT_SET_EXP_GL_05",
+            "value": "經驗立方每日禮包"
+        },
+        {
+            "key": "IT_SET_3MDL_DAILY",
+            "value": "300萬下載紀念每日禮包"
+        },
+        {
+            "key": "IT_SET_JB_ALL_GL_00",
+            "value": "些微的記憶每日禮包"
+        },
+        {
+            "key": "IT_SET_EXP_GL_06",
+            "value": "經驗立方每日禮包B"
+        },
+        {
+            "key": "IT_SET_3MDL_THUNDER",
+            "value": "300萬下載紀念雷屬性禮包"
+        },
+        {
+            "key": "IT_SET_3MDL_SHINE",
+            "value": "300萬下載紀念光屬性禮包"
+        },
+        {
+            "key": "IT_SET_3MDL_SOIL",
+            "value": "300萬下載紀念土屬性禮包"
+        },
+        {
+            "key": "IT_SET_3MDL_DARK",
+            "value": "300萬下載紀念暗屬性禮包"
+        },
+        {
+            "key": "IT_SET_3MDL_AW",
+            "value": "300萬下載紀念兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_GROW_RAMZ",
+            "value": "拉姆薩育成禮包 "
+        },
+        {
+            "key": "IT_SET_FFT_RAMZ",
+            "value": "拉姆薩兵員禮包"
+        },
+        {
+            "key": "IT_SET_3MDL_FIRE",
+            "value": "300萬下載紀念火屬性禮包"
+        },
+        {
+            "key": "IT_SET_3MDL_ICE",
+            "value": "300萬下載紀念冰屬性禮包"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_00",
+            "value": "1天1次免費劇情跳過券"
+        },
+        {
+            "key": "IT_SET_4MDL_THUNDER",
+            "value": "400萬下載紀念雷屬性禮包"
+        },
+        {
+            "key": "IT_SET_4MDL_SHINE",
+            "value": "400萬下載紀念光屬性禮包"
+        },
+        {
+            "key": "IT_SET_4MDL_SOIL",
+            "value": "400萬下載紀念土屬性禮包"
+        },
+        {
+            "key": "IT_SET_4MDL_DARK",
+            "value": "400萬下載紀念暗屬性禮包"
+        },
+        {
+            "key": "IT_SET_4MDL_AW",
+            "value": "400萬下載紀念兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_LB_EXP_00",
+            "value": "極限技強化禮包"
+        },
+        {
+            "key": "IT_SET_AF_EXP_00",
+            "value": "武具能力強化禮包"
+        },
+        {
+            "key": "IT_SET_AWK_01",
+            "value": "兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_5MDL_WATER",
+            "value": "500萬下載紀念水屬性禮包"
+        },
+        {
+            "key": "IT_SET_5MDL_SHINE",
+            "value": "500萬下載紀念光屬性禮包"
+        },
+        {
+            "key": "IT_SET_5MDL_SOIL",
+            "value": "500萬下載紀念土屬性禮包"
+        },
+        {
+            "key": "IT_SET_VC_GROW_00",
+            "value": "幻兵卡育成禮包A"
+        },
+        {
+            "key": "IT_SET_VC_GROW_01",
+            "value": "幻兵卡育成禮包B"
+        },
+        {
+            "key": "IT_SET_5MDL_VC_GROW_00",
+            "value": "500萬下載紀念幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_5MDL_DARK",
+            "value": "500萬下載紀念暗屬性禮包"
+        },
+        {
+            "key": "IT_SET_5MDL_ICE",
+            "value": "500萬下載紀念冰屬性禮包"
+        },
+        {
+            "key": "IT_SET_VC_GL_00",
+            "value": "1天1次免費成長蛋（R）"
+        },
+        {
+            "key": "IT_SET_UR_UNIT",
+            "value": "UR兵員禮包"
+        },
+        {
+            "key": "IT_SET_UR_VC",
+            "value": "500萬下載紀念UR幻兵卡禮包"
+        },
+        {
+            "key": "IT_SET_AW_WIND_04",
+            "value": "風之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_04",
+            "value": "火之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_UNIT",
+            "value": "兵員育成禮包"
+        },
+        {
+            "key": "IT_SET_VC",
+            "value": "幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_RAIDAP_01",
+            "value": "1天1次免費協力共鬥恢復藥"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_01",
+            "value": "共鬥支援禮包"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_05",
+            "value": "火之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_WIND_05",
+            "value": "風之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_05",
+            "value": "土之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_ICE_05",
+            "value": "冰之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_WA_HP_GL01",
+            "value": "武具【HP】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_ATK_GL01",
+            "value": "武具【攻擊】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_HIT_GL01",
+            "value": "武具【命中】強化禮包"
+        },
+        {
+            "key": "IT_SET_VC_GROW_02",
+            "value": "幻兵卡育成禮包C"
+        },
+        {
+            "key": "IT_SET_AWK_GL01",
+            "value": "兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_STORY_GL_FREE_01",
+            "value": "1天1次免費劇情跳過券10張"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_05",
+            "value": "雷之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_DARK_05",
+            "value": "暗之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_WA_DOD_GL01",
+            "value": "武具【閃避】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_MND_GL01",
+            "value": "武具【魔力】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_CRI_GL01",
+            "value": "武具【暴擊】強化禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_01",
+            "value": "MOBIUS FINAL FANTASY聯動紀念禮包"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV1",
+            "value": "絕望與真實的莫比烏斯育成禮包"
+        },
+        {
+            "key": "IT_SET_GROW_MBFF_MV2",
+            "value": "希望與幻想的莫比烏斯育成禮包"
+        },
+        {
+            "key": "IT_SET_VC_GROW_03",
+            "value": "幻兵卡育成禮包II"
+        },
+        {
+            "key": "IT_SET_MBFF_SE_UPI",
+            "value": "兵員育成禮包"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_05",
+            "value": "光之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_WATER_05",
+            "value": "水之覺醒禮包"
+        },
+        {
+            "key": "IT_SET_GROW_FRVA",
+            "value": "弗雷比亞育成禮包"
+        },
+        {
+            "key": "IT_SET_EM_FIRE_01",
+            "value": "火之輝石禮包"
+        },
+        {
+            "key": "IT_SET_EM_WATER_01",
+            "value": "水之輝石禮包"
+        },
+        {
+            "key": "IT_SET_EM_WIND_01",
+            "value": "風之輝石禮包"
+        },
+        {
+            "key": "IT_SET_EM_THUNDER_01",
+            "value": "雷之輝石禮包"
+        },
+        {
+            "key": "IT_SET_EM_SOIL_01",
+            "value": "土之輝石禮包"
+        },
+        {
+            "key": "IT_SET_EM_ICE_01",
+            "value": "冰之輝石禮包"
+        },
+        {
+            "key": "IT_SET_EM_SHINE_01",
+            "value": "光之輝石禮包"
+        },
+        {
+            "key": "IT_SET_EM_DARK_01",
+            "value": "暗之輝石禮包"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_TOWER",
+            "value": "白磁之塔舉辦紀念經驗立方禮包"
+        },
+        {
+            "key": "IT_SET_WA_EXP_GL_01",
+            "value": "武具能力強化禮包"
+        },
+        {
+            "key": "IT_SET_ACTP_GL_FREE_00",
+            "value": "1天1次免費體力恢復藥（大）"
+        },
+        {
+            "key": "IT_SET_VC_EXP_02",
+            "value": "白磁之塔 幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_FIRE_EXP_GL_01",
+            "value": "白磁之塔　火屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_WATER_EXP_GL_01",
+            "value": "白磁之塔　水屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_ICE_EXP_GL_01",
+            "value": "白磁之塔　冰屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_WIND_EXP_GL_01",
+            "value": "白磁之塔　風屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_THUNDER_EXP_GL_01",
+            "value": "白磁之塔　雷屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_SOIL_EXP_GL_01",
+            "value": "白磁之塔　土屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_SHINE_EXP_GL_01",
+            "value": "白磁之塔　光屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_DARK_EXP_GL_01",
+            "value": "白磁之塔　暗屬性強化禮包"
+        },
+        {
+            "key": "IT_SET_GU_EXP_GL_01",
+            "value": "公會石像育成禮包"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_03",
+            "value": "暗屬性完全覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_UR",
+            "value": "新手限定：星虹的幻球"
+        },
+        {
+            "key": "IT_SET_AW_VBALL_SSR",
+            "value": "新手限定：蒼輝的幻球"
+        },
+        {
+            "key": "IT_SET_PI_COM_ALL",
+            "value": "新手限定：虹之思念的碎片"
+        },
+        {
+            "key": "IT_SET_BEGIN_JOB_01",
+            "value": "新手限定職業禮包"
+        },
+        {
+            "key": "IT_SET_JB_A_02",
+            "value": "新手限定翡翠硬玉禮包I"
+        },
+        {
+            "key": "IT_SET_JB_B_02",
+            "value": "新手限定翡翠硬玉禮包II"
+        },
+        {
+            "key": "IT_SET_JB_C_01",
+            "value": "新手限定藍銅礦禮包I"
+        },
+        {
+            "key": "IT_SET_JB_C_02",
+            "value": "新手限定藍銅礦禮包II"
+        },
+        {
+            "key": "IT_SET_BEGIN_UNIT_GL_01",
+            "value": "新手限定 UR兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AF_RECIPE_R_GL_02",
+            "value": "R武具配方禮包II"
+        },
+        {
+            "key": "IT_SET_UR_VC_01",
+            "value": "UR幻兵卡禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_03",
+            "value": "幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_SHINE_GL01",
+            "value": "光屬性召喚獸強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_DEF_GL01",
+            "value": "武具【防禦】強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_MND_01",
+            "value": "武具【精神】強化禮包"
+        },
+        {
+            "key": "IT_SET_GROW_WROL",
+            "value": "光之戰士育成禮包"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_03",
+            "value": "光屬性完全覺醒禮包"
+        },
+        {
+            "key": "IT_SET_GROW_FF01_DMAC",
+            "value": "死亡機器幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_03",
+            "value": "土屬性完全覺醒禮包"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_01",
+            "value": "UR兵員禮包"
+        },
+        {
+            "key": "IT_SET_VC_GROW_04",
+            "value": "幻兵卡育成禮包B"
+        },
+        {
+            "key": "IT_SET_VC_GROW_05",
+            "value": "幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_DARK_GL01",
+            "value": "暗屬性召喚獸強化禮包"
+        },
+        {
+            "key": "IT_SET_SMVC_VE_EXP",
+            "value": "幻兵卡強化禮包"
+        },
+        {
+            "key": "IT_SET_GROW_UR",
+            "value": "彩虹覺醒禮包"
+        },
+        {
+            "key": "IT_SET_JB_WIND_03",
+            "value": "風屬性職業強化禮包·緋"
+        },
+        {
+            "key": "IT_SET_JB_WIND_02",
+            "value": "風屬性職業強化禮包·黃"
+        },
+        {
+            "key": "IT_SET_JB_WIND_01",
+            "value": "風屬性職業強化禮包·紫"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_L",
+            "value": "經驗立方禮包+"
+        },
+        {
+            "key": "IT_SET_TICKET_GL_01",
+            "value": "探險券禮包SP"
+        },
+        {
+            "key": "IT_SET_AW_WIND_CM_03",
+            "value": "風之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_GROW_ORDR",
+            "value": "奧爾多育成禮包"
+        },
+        {
+            "key": "IT_SET_GROW_AGRA",
+            "value": "阿格莉亞絲育成禮包"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_02",
+            "value": "UR兵員極限突破禮包"
+        },
+        {
+            "key": "IT_SET_AW_ICE_CM_03",
+            "value": "冰之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_AW_FIRE_CM_03",
+            "value": "火之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_JB_EXP_01",
+            "value": "職業強化支援禮包"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_S",
+            "value": "經驗立方禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_GL01",
+            "value": "成長蛋禮包"
+        },
+        {
+            "key": "IT_SET_AF_EXP_01",
+            "value": "堅鋼石禮包"
+        },
+        {
+            "key": "IT_SET_GROW_ORND",
+            "value": "奧爾蘭多育成禮包"
+        },
+        {
+            "key": "IT_SET_SWO_GL01",
+            "value": "納格拉洛克+3（突擊）禮包"
+        },
+        {
+            "key": "IT_SET_HAT_GL01",
+            "value": "賢者帽+3（躲避）禮包"
+        },
+        {
+            "key": "IT_SET_RNG_GL01",
+            "value": "珠寶指環+3（瞄準）禮包"
+        },
+        {
+            "key": "IT_SET_AW_THUNDER_CM_03",
+            "value": "雷之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_AW_SHINE_CM_04",
+            "value": "光之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL01",
+            "value": "兵員召喚禮包"
+        },
+        {
+            "key": "IT_SET_UR_UNIT_GL03",
+            "value": "UR兵員禮包"
+        },
+        {
+            "key": "IT_SET_AW_WATER_CM_GL04",
+            "value": "水之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_JB_WATER_03",
+            "value": "水屬性職業強化禮包·緋"
+        },
+        {
+            "key": "IT_SET_JB_WATER_02",
+            "value": "水屬性職業強化禮包·黃"
+        },
+        {
+            "key": "IT_SET_JB_WATER_01",
+            "value": "水屬性職業強化禮包·紫"
+        },
+        {
+            "key": "IT_SET_SWO_GL02",
+            "value": "武具【劍】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_MACE_GL02",
+            "value": "武具【權杖】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_ACCE_GL02",
+            "value": "武具【裝飾品】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_LW_ENBT",
+            "value": "恩格爾伯特兵員禮包"
+        },
+        {
+            "key": "IT_SET_GROW_ENBT",
+            "value": "恩格爾伯特育成禮包"
+        },
+        {
+            "key": "IT_SET_VC_GROW_06",
+            "value": "幻兵卡育成禮包B"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL02",
+            "value": "兵員召喚禮包"
+        },
+        {
+            "key": "IT_SET_VC_EXP_04",
+            "value": "幻兵卡育成禮包"
+        },
+        {
+            "key": "IT_SET_HLM_GL01",
+            "value": "白金頭盔+3（屏障）禮包"
+        },
+        {
+            "key": "IT_SET_MAC_GL01",
+            "value": "白金權杖+3（魔法）禮包"
+        },
+        {
+            "key": "IT_SET_CLT_GL01",
+            "value": "智慧外套+3（屏障）禮包"
+        },
+        {
+            "key": "IT_SET_ARM_GL01",
+            "value": "黃金鎧+3（護盾）禮包"
+        },
+        {
+            "key": "IT_SET_HA_SE_UNIT",
+            "value": "【半週年紀念】兵員自選禮包"
+        },
+        {
+            "key": "IT_SET_HA_SE_VCARD",
+            "value": "【半週年紀念】幻兵卡自選禮包"
+        },
+        {
+            "key": "IT_SET_AW_DARK_CM_GL04",
+            "value": "暗之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_GROW_HA",
+            "value": "【半週年紀念】彩虹育成禮包"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_L",
+            "value": "【半週年紀念】職業育成禮包III"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_M",
+            "value": "【半週年紀念】職業育成禮包II"
+        },
+        {
+            "key": "IT_SET_JB_MM_HA_S",
+            "value": "【半週年紀念】職業育成禮包I"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_L",
+            "value": "【2020秋日活動第2階段】經驗立方禮包II"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_HA_S",
+            "value": "【2020秋日活動第2階段】經驗立方禮包I"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_L",
+            "value": "【半週年紀念】成長蛋禮包II"
+        },
+        {
+            "key": "IT_SET_VC_EXP_HA_S",
+            "value": "【半週年紀念】成長蛋禮包I"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA",
+            "value": "【半週年紀念】堅鋼石禮包"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_FREE_00",
+            "value": "1天1次免費UR兵員的拼圖2片"
+        },
+        {
+            "key": "IT_SET_ICE_SB_EXP_GL_01",
+            "value": "藍色魔石禮包"
+        },
+        {
+            "key": "IT_SET_LB_EXP_HA",
+            "value": "【半週年紀念】極限技強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_EXP_HA",
+            "value": "【半週年紀念】武具能力強化禮包"
+        },
+        {
+            "key": "IT_SET_AF_EXP_HA_02",
+            "value": "【半週年紀念】武具覺醒禮包"
+        },
+        {
+            "key": "IT_SET_SE_JB_HA",
+            "value": "【半週年紀念】職業育成禮包"
+        },
+        {
+            "key": "IT_SET_BSW_GL01",
+            "value": "符文劍+3（瞄準）禮包"
+        },
+        {
+            "key": "IT_SET_SWO_GL03",
+            "value": "珊瑚劍+3（突擊）禮包"
+        },
+        {
+            "key": "IT_SET_GROW_LSWL",
+            "value": "拉斯韋爾育成禮包"
+        },
+        {
+            "key": "IT_SET_HA_UE_EXP",
+            "value": "【半週年紀念】兵員強化禮包"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP",
+            "value": "【半週年紀念】幻兵卡強化禮包"
+        },
+        {
+            "key": "IT_SET_SPE_GL01",
+            "value": "玄冰槍+3（暴擊）禮包"
+        },
+        {
+            "key": "IT_SET_SPEAR_01",
+            "value": "武具【槍】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_BOW_01",
+            "value": "武具【弓】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_TITN_EXP",
+            "value": "鷙猛大地　泰坦育成禮包"
+        },
+        {
+            "key": "IT_SET_ECUNITUR_GL_GROW",
+            "value": "UR兵員的拼圖特別禮包"
+        },
+        {
+            "key": "IT_SET_HA_VE_EXP_01",
+            "value": "【半週年紀念】幻兵卡覺醒禮包"
+        },
+        {
+            "key": "IT_SET_RAID_UNIT_HA_01",
+            "value": "【半週年紀念】共鬥支援禮包"
+        },
+        {
+            "key": "IT_SET_JSWORD_01",
+            "value": "武具【刀】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_KAT_GL01",
+            "value": "紫電+3（突擊）禮包"
+        },
+        {
+            "key": "IT_SET_ACC_GL01",
+            "value": "緞帶+3（躲避）禮包"
+        },
+        {
+            "key": "IT_SET_HA_SM_EXP",
+            "value": "【半週年紀念】召喚獸強化禮包"
+        },
+        {
+            "key": "IT_SET_WA_EXP_02",
+            "value": "1天1次免費迷你經驗罐5個"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL03",
+            "value": "兵員召喚禮包"
+        },
+        {
+            "key": "IT_SET_AW_SOIL_CM_04",
+            "value": "土之覺醒禮包+"
+        },
+        {
+            "key": "IT_SET_PI_COM_1100DL",
+            "value": "【萬聖節活動】思念的碎片禮包"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_L",
+            "value": "【萬聖節活動】經驗立方禮包II"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL",
+            "value": "【萬聖節活動】武具能力強化禮包"
+        },
+        {
+            "key": "IT_SET_STA_01",
+            "value": "武具【手杖】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_SWO_01",
+            "value": "武具【劍】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_AXE_01",
+            "value": "武具【斧】覺醒禮包"
+        },
+        {
+            "key": "IT_SET_UNIT_EXP_1100DL_S",
+            "value": "【萬聖節活動】經驗立方禮包I"
+        },
+        {
+            "key": "IT_SET_1100DL_SE_UPI",
+            "value": "【萬聖節活動】兵員育成禮包"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_05",
+            "value": "【萬聖節活動】職業強化禮包V"
+        },
+        {
+            "key": "IT_SET_1100DL_UE_EXP",
+            "value": "【萬聖節活動】兵員強化禮包"
+        },
+        {
+            "key": "IT_SET_1100DL_UR_ AWK_01",
+            "value": "【萬聖節活動】UR兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_1100DL_SSR_ AWK_01",
+            "value": "【萬聖節活動】MR兵員覺醒禮包"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_04",
+            "value": "【萬聖節活動】職業強化禮包IV"
+        },
+        {
+            "key": "IT_SET_1100DL_VE_EXP",
+            "value": "【萬聖節活動】幻兵卡強化禮包"
+        },
+        {
+            "key": "IT_SET_1100DL_SM_EXP",
+            "value": "【萬聖節活動】召喚獸強化禮包"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_03",
+            "value": "【萬聖節活動】職業強化禮包III"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_02",
+            "value": "【萬聖節活動】職業強化禮包II"
+        },
+        {
+            "key": "IT_SET_JB_MM_1100DL_01",
+            "value": "【萬聖節活動】職業強化禮包I"
+        },
+        {
+            "key": "IT_SET_2020SM_EXP_01",
+            "value": "【2020秋日活動第2階段】隊伍強化禮包"
+        },
+        {
+            "key": "IT_SET_MR_UR_UNIT_GL04",
+            "value": "兵員召喚禮包"
+        },
+        {
+            "key": "IT_SET_GROW_2020SM_01",
+            "value": "【2020秋日活動第2階段】彩虹育成禮包"
+        },
+        {
+            "key": "IT_SET_WA_EXP_1100DL_H",
+            "value": "【2020秋日活動第2階段】武具能力強化禮包"
+        },
+        {
+            "key": "IT_SET_2020SM_AF_EXP_01",
+            "value": "【2020秋日活動第2階段】武具強化禮包"
+        },
+        {
+            "key": "IT_SET_2020SM_VE_EXP",
+            "value": "【2020秋日活動第2階段】幻兵卡強化禮包"
+        }
+    ]
+}

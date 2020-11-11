@@ -265,6 +265,22 @@
             "value": "유닛 '로레일라'의 레벨이 1 이상"
         },
         {
+            "key": "COND_HA_LW_SCAL",
+            "value": "유닛 '스칼'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_MRAL",
+            "value": "유닛 '마리알'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_HWLT",
+            "value": "유닛 '하울렛'의 레벨이 1 이상"
+        },
+        {
+            "key": "COND_HA_LW_CHEL",
+            "value": "유닛 '첼'의 레벨이 1 이상"
+        },
+        {
             "key": "COND_CH_LW_MONT",
             "value": "유닛 '몬트 레오니스'의 레벨이 40 이상"
         },
@@ -579,6 +595,22 @@
         {
             "key": "COND_CH_LW_RI_01",
             "value": "유닛 '라이류(할로윈)'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_SCAL",
+            "value": "유닛 '스칼'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_MRAL",
+            "value": "유닛 '마리알'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_HWLT",
+            "value": "유닛 '하울렛'의 레벨이 40 이상"
+        },
+        {
+            "key": "COND_CH_LW_CHEL",
+            "value": "유닛 '첼'의 레벨이 40 이상"
         }
     ]
 }

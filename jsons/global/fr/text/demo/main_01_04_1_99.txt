@@ -82,7 +82,7 @@
         },
         {
             "key": "021",
-            "value": "Au fait... Est-ce qu’Owe ne faisait pas partie des soldats capturés ?"
+            "value": "Au fait... Est-ce qu'Owe ne faisait pas partie des soldats capturés ?"
         },
         {
             "key": "022",

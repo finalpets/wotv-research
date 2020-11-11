@@ -1801,6 +1801,54 @@
             "value": ""
         },
         {
+            "key": "new-gacha_gl20201104_01",
+            "value": "[11월] 소환 메달 A 10장 등장"
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "[11월] 소환 메달 A 100장 등장"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step5",
+            "value": "UR 유닛 1명 보장"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step4",
+            "value": "속성 마음 조각 × 50 선택 소환 티켓 1장 등장"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step3",
+            "value": "각성 휘석 × 50 선택 소환 티켓 1장 등장"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step2",
+            "value": "MR 이상 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step1",
+            "value": "MR 이상 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step3",
+            "value": "유닛 하울렛/스칼 1명 보장"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step2",
+            "value": "UR 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step1",
+            "value": "UR 유닛/비전 카드 1 슬롯 보장"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "[3월] 소환 메달 A 10장 등장"
         },

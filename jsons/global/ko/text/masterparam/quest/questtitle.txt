@@ -1661,6 +1661,22 @@
             "value": "조각 획득: 로레일라"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "조각 획득: 스칼"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "조각 획득: 마리알"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "조각 획득: 하울렛"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "조각 획득: 첼"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "자잔"
         },
@@ -1975,6 +1991,22 @@
         {
             "key": "QE_CH_LW_RIRY_01",
             "value": "라이류(할로윈)"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "스칼"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "마리알"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "하울렛"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "첼"
         },
         {
             "key": "QE_EV_GL_CDOWN_01_9",
@@ -2633,6 +2665,54 @@
             "value": "고우가와 사이가 전편 [EX 2] "
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "1화 기사의 의무 1"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "2화 기사의 의무 2"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "3화 정처 없는 여행"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "4화 밤까지 기다리자"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "5화 잠입 1"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "6화 잠입 2"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "7화 지하 감옥"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "8화 탈출 1"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "9화 탈출 2"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "10화 제일 멋진 우리 오빠"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "붙잡힌 공주님 [EX]"
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "붙잡힌 공주님 [EX]"
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "[고난도] 도전 퀘스트"
         },
@@ -2795,6 +2875,14 @@
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "장비 육성 퀘스트(황금 도끼)"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "장비 육성 퀘스트(백금 홀장)"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
+            "value": "장비 육성 퀘스트(백금 홀장)"
         },
         {
             "key": "QE_MU_IFRT_04",
@@ -3325,6 +3413,18 @@
             "value": "길드 전투 모의전(상급)"
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "길드 전투 모의전(초급)"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "길드 전투 모의전(중급)"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "길드 전투 모의전(상급)"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "투기장"
         },
@@ -3353,6 +3453,10 @@
             "value": "묘지"
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": "밀림"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "투기장"
         },
@@ -3379,6 +3483,10 @@
         {
             "key": "QE_GVG_00010",
             "value": "묘지"
+        },
+        {
+            "key": "QE_GVG_GL_00001",
+            "value": "유적"
         },
         {
             "key": "QE_PVP_FRE_0001",

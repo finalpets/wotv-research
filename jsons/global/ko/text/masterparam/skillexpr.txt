@@ -2509,6 +2509,54 @@
             "value": "방어력 증가"
         },
         {
+            "key": "SK_LW_MST_M_1_SUB",
+            "value": "범위 내 대상에게 마력 의존 피해(대)+반드시 명중"
+        },
+        {
+            "key": "SK_LW_MST_M_2_SUB",
+            "value": "자신에게 물리 피해 보호막(3회)"
+        },
+        {
+            "key": "SK_LW_MST_M_3_SUB",
+            "value": "자신을 중심으로 범위 내 아군의 신념 증가"
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1",
+            "value": "대상에게 마력 의존 불속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1",
+            "value": "대상에게 마력 의존 얼음속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1",
+            "value": "대상에게 마력 의존 바람속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1",
+            "value": "대상에게 마력 의존 번개속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1",
+            "value": "대상에게 마력 의존 물속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1",
+            "value": "대상에게 마력 의존 땅속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1",
+            "value": "대상에게 마력 의존 빛속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1",
+            "value": "대상에게 마력 의존 어둠속성 피해(소)+일정 확률로 CT 감소(소)"
+        },
+        {
+            "key": "SK_LW_MST_S_2",
+            "value": "3턴 동안 자신의 점프/이동력 1 증가"
+        },
+        {
             "key": "SK_FFT_AGRA_ATK",
             "value": ""
         },
@@ -4369,6 +4417,10 @@
             "value": "3턴 동안 대상의 바람속성 저항력 감소+마력 의존 피해(대)"
         },
         {
+            "key": "SK_LB_LW_SCAL",
+            "value": "범위 내 대상에게 3연속 마력 의존 피해(대)+일정 확률로 마비(3턴 동안 고확률로 행동 불가) 효과"
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": " '이프리트'를 소환하여 범위 내 대상에게 불속성 피해(극대)+일정 시간 동안 맵 효과 발동(아군의 공격력/마력 증가+적의 불속성 저항력 대폭 감소)"
         },
@@ -4901,6 +4953,18 @@
             "value": "정신 관통률+20, 마력+10%"
         },
         {
+            "key": "SK_MA_LW_SCAL",
+            "value": "마력+20%, 어빌리티 발동 시간-20%"
+        },
+        {
+            "key": "SK_MA_LW_MRAL",
+            "value": "헤이트 증가+5, 범위 공격 저항력+15"
+        },
+        {
+            "key": "SK_MA_LW_CHEL",
+            "value": "민첩성+10%, 어빌리티 발동 시간-25%"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "베기 공격력+2"
         },
@@ -5287,6 +5351,18 @@
         {
             "key": "SK_CLT_LW_HWLT_1_1",
             "value": "자신의 HP를 소비하여 1턴 동안 모든 물리 공격 회피"
+        },
+        {
+            "key": "SK_ACC_LW_SCAL_1_1",
+            "value": "자신의 HP를 소비하여 3턴 동안 아군의 마력 대폭 증가"
+        },
+        {
+            "key": "SK_SWO_LW_MRAL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_CHEL_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -7799,6 +7875,22 @@
         {
             "key": "SK_GMK_ATK_KENZAN",
             "value": "기믹 공격(고정 피해)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_1",
+            "value": "기믹 공격(런달 대포 단일)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_2",
+            "value": "기믹 공격(런달 대포 범위)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1_EN",
+            "value": "기믹 공격(투석기 단일)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2_EN",
+            "value": "기믹 공격(투석기 범위)"
         },
         {
             "key": "SK_LW_WAR_P_2",

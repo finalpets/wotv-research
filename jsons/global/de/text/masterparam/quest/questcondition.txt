@@ -326,11 +326,11 @@
         },
         {
             "key": "QE_EV_06_10",
-            "value": "Alle Gegner inkl. der Rundallsche Kanonen ausgelöscht"
+            "value": "Alle Gegner inkl. der Rundallschen Kanonen ausgelöscht"
         },
         {
             "key": "QE_EV_06_EX",
-            "value": "Alle Gegner inkl. der Rundallsche Kanonen ausgelöscht"
+            "value": "Alle Gegner inkl. der Rundallschen Kanonen ausgelöscht"
         },
         {
             "key": "QE_EV_FF14_EX",

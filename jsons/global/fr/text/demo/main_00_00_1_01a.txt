@@ -34,7 +34,7 @@
         },
         {
             "key": "004",
-            "value": "Si terrasser des monstres me permet de t’accompagner sur le terrain, ça me va."
+            "value": "Si terrasser des monstres me permet de t'accompagner sur le terrain, ça me va."
         },
         {
             "key": "005",

@@ -99,6 +99,18 @@
         {
             "key": "new-gacha_gl20201028_10",
             "value": "Leiste füllt sich nicht nach Beschwörungen, in denen eine [UR]-Einheit oder -Visionskarte erhalten wurde."
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "Leiste füllt sich nicht nach Beschwörungen, in denen eine [UR]-Einheit oder -Visionskarte erhalten wurde."
+        },
+        {
+            "key": "new-gacha_gl20201104_HWLT_10",
+            "value": "Leiste füllt sich nicht nach Beschwörungen, in denen eine [UR]-Einheit oder -Visionskarte erhalten wurde."
+        },
+        {
+            "key": "new-gacha_gl20201104_SCAL_10",
+            "value": "Leiste füllt sich nicht nach Beschwörungen, in denen eine [UR]-Einheit oder -Visionskarte erhalten wurde."
         }
     ]
 }

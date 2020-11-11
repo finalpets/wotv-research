@@ -2005,6 +2005,18 @@
             "value": "하울렛의 조각"
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "스칼의 조각"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "마리알의 조각"
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "첼의 조각"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "빨간색 마석(소)"
         },
@@ -2589,6 +2601,10 @@
             "value": "산호검 제작법"
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "로엔그린 제작법"
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "클레이모어 제작법"
         },
@@ -2981,10 +2997,6 @@
             "value": "소환 메달"
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": "[11월] 소환 메달 A"
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": "[12월] 소환 메달 A"
         },
@@ -3097,6 +3109,10 @@
             "value": "[10월] 소환 메달 B"
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "[11월] 소환 메달 A"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "FFT 콜라보 이벤트 메달"
         },
@@ -3151,6 +3167,10 @@
         {
             "key": "IT_EC_EV05_1",
             "value": "[전편] 고우가와 사이가 메달"
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "붙잡힌 공주님 메달"
         },
         {
             "key": "IT_EC_FF1_1",
@@ -3391,6 +3411,10 @@
         {
             "key": "IT_US_G_U_SSR_UR_07",
             "value": "[2020 가을 기념 캠페인 제1탄] MR 이상 유닛 보장 소환 티켓"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "[2020 가을 기념 캠페인 제2탄] MR 이상 유닛 보장 소환 티켓"
         },
         {
             "key": "IT_US_SE_UR_V_01",

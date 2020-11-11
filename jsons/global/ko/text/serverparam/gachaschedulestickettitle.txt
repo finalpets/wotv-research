@@ -283,6 +283,38 @@
         {
             "key": "IT_US_G_UR_01_gl20201028",
             "value": "UR 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_UR_01_gl20201104",
+            "value": "UR 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_UR_01_gl20201104",
+            "value": "UR 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_01_gl20201104",
+            "value": "MR 이상 유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_SSR_UR_01_gl20201104",
+            "value": "MR 이상 비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_10_U_SSR_UR_01_gl20201104",
+            "value": "MR 이상 1명 보장 10회 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_U_R_UR_01_gl20201104",
+            "value": "유닛 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_V_R_UR_01_gl20201104",
+            "value": "비전 카드 보장 소환 티켓 A"
+        },
+        {
+            "key": "IT_US_G_UR_01_gl20201104",
+            "value": "UR 보장 소환 티켓 A"
         }
     ]
 }

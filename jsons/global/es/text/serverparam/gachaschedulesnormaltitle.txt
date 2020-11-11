@@ -507,6 +507,18 @@
         {
             "key": "Normal_gacha_A_gl20201028_10",
             "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_01",
+            "value": "Invocación normal limitada"
+        },
+        {
+            "key": "Normal_gacha_A_gl20201104_10",
+            "value": "Invocación normal (x10) limitada"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "Invocación de unidad MR+ garantizada"
         }
     ]
 }

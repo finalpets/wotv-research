@@ -34,7 +34,7 @@
         },
         {
             "key": "009",
-            "value": "Tu es trop lent. Tout sera fichu si Eldo parvient jusqu’à Wezett et son armée."
+            "value": "Tu es trop lent. Tout sera fichu si Eldo parvient jusqu'à Wezett et son armée."
         },
         {
             "key": "010",

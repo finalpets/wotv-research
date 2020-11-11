@@ -46,7 +46,7 @@
         },
         {
             "key": "012",
-            "value": "S’il peut donner des ordres à ses unités à distance…"
+            "value": "S'il peut donner des ordres à ses unités à distance…"
         },
         {
             "key": "013",

@@ -11,6 +11,10 @@
         {
             "key": "Campaign_gacha_gl20201021_10",
             "value": "UR 유닛 획득 시 게이지는 증가하지 않습니다."
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "UR 유닛 획득 시 게이지는 증가하지 않습니다."
         }
     ]
 }

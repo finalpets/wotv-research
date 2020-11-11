@@ -1,0 +1,5160 @@
+{
+    "infos": [
+        {
+            "key": "FILE_LOAD_FAILED",
+            "value": "<size=22>檔案讀取失敗。<br><br>資料有可能已經毀損，<br>請在標題畫面中執行<br>「刪除下載資料」。</size>"
+        },
+        {
+            "key": "RESUME_TITLE",
+            "value": "任務中斷返回"
+        },
+        {
+            "key": "RESUME_CHECK",
+            "value": "任務被中斷。<br>要繼續嗎？"
+        },
+        {
+            "key": "RESUME_FAILED",
+            "value": "未能獲得任務資訊。<br>無法繼續任務。"
+        },
+        {
+            "key": "MULTI_RESUME_TITLE",
+            "value": "協力任務中斷返回"
+        },
+        {
+            "key": "MULTI_RESUME_DESC",
+            "value": "協力任務可以歸隊。<br>要歸隊嗎？"
+        },
+        {
+            "key": "MULTI_RESUME_DECIDE_OWNER",
+            "value": "已歸隊。<br><br><color=#FFF080>你已成為房主。</color>"
+        },
+        {
+            "key": "MULTI_RESUME_DECIDE_MEMBER",
+            "value": "已歸隊。"
+        },
+        {
+            "key": "MULTI_RESUME_END",
+            "value": "由於其他玩家全部退出房間，<br>協力任務結束。"
+        },
+        {
+            "key": "MULTI_RESUME_OTHER_PLAYER",
+            "value": "{0}已歸隊"
+        },
+        {
+            "key": "MULTI_RESUME_OTHER_PLAYER_OWNER",
+            "value": "{0}已歸隊。<br><br><color=#FFF080>{1}已成為房主。</color>"
+        },
+        {
+            "key": "FIRST_MEET_TITLE",
+            "value": "初次見面報酬"
+        },
+        {
+            "key": "FIRST_MEET_DESC",
+            "value": "已經與第{0}人達成了初次見面。<br><br>※已直接賦予報酬。"
+        },
+        {
+            "key": "FIRST_MEET_DESC_2",
+            "value": "已經與第{0}人達成了初次見面。<br>報酬：獲得了{1}個幻導石。<br><br>※已直接賦予報酬。"
+        },
+        {
+            "key": "FOLLOW_MEDAL_TITLE",
+            "value": "救援獎勵"
+        },
+        {
+            "key": "FOLLOW_MEDAL_DESC",
+            "value": "已獲得{0}枚獎牌。<br><br>※已直接賦予報酬。"
+        },
+        {
+            "key": "GUIDANCE_SKIP_TITLE",
+            "value": "◆{0}◆"
+        },
+        {
+            "key": "GUIDANCE_SKIP_MSG",
+            "value": "要看{0}相關的新手教學嗎？"
+        },
+        {
+            "key": "TUTORIAL_SKIP",
+            "value": "要跳過新手教學嗎？"
+        },
+        {
+            "key": "UNLOCK_DIALOG_TITLE",
+            "value": "鎖定【{0}】"
+        },
+        {
+            "key": "UNLOCK_DIALOG_MSG",
+            "value": "{0}。"
+        },
+        {
+            "key": "ACTIVEGUIDE_DIALOG_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "ACTIVEGUIDE_DIALOG_MSG",
+            "value": "{0}。"
+        },
+        {
+            "key": "STORAGE_SPACE_TITLE",
+            "value": "空間不足"
+        },
+        {
+            "key": "STORAGE_SPACE_ERROR",
+            "value": "空間不足。<br>運行此遊戲需要{0}MB的空間。"
+        },
+        {
+            "key": "DL_RESTART",
+            "value": "下載已中斷。<br>繼續下載。"
+        },
+        {
+            "key": "DL_RESTART_BUTTON",
+            "value": "繼續"
+        },
+        {
+            "key": "DLC_NOWLOADING",
+            "value": "<cspace=1.2>Now Loading…"
+        },
+        {
+            "key": "DLC_NOWLOADING_VALUE",
+            "value": "({0}MB / {1}MB)"
+        },
+        {
+            "key": "DLC_SIZE_INFO",
+            "value": "下載遊戲所需資料。<br><color=#F0C040>(大約{0}MB)</color><br><br><size=22>完成下載所需時間依網路連線速度而不同。<br>建議在<color=#F0C040>Wi-Fi環境</color>中下載。</size>"
+        },
+        {
+            "key": "DLC_SIZE_TUTORIAL_INFO",
+            "value": "在新手教學的同時<br>將下載遊戲所需資料。<br><color=#F0C040>（大約{0}MB）</color><br><br><size=22>完成下載所需時間依網路連線速度而不同。<br>建議在<color=#F0C040>Wi-Fi環境</color>中下載。</size>"
+        },
+        {
+            "key": "DLC_CAUTION",
+            "value": "完成下載所需時間依網路連線速度而不同。<br>建議在<color=#F0C040>Wi-Fi環境</color>中下載。</size>"
+        },
+        {
+            "key": "DLC_CHECK_TITLE",
+            "value": "資料下載"
+        },
+        {
+            "key": "DLC_CHECK_DESC",
+            "value": "<line-height=31>在新手教學的同時<br>將下載遊戲所需資料。<br><br><voffset=10>包含配音檔案　<color=#F0C040>（大約{0}MB）</color><br>不含配音檔案　<color=#F0C040>(大約{1}MB)</color><line-height=25><br></voffset><br><line-height=30><size=22>完成下載所需時間依網路連線速度而不同。<br>建議在<color=#F0C040>Wi-Fi環境</color>中下載。"
+        },
+        {
+            "key": "DLC_CHECK_DESC_ANDROID",
+            "value": "<line-height=31>將下載進行新手教學<br>所需資料。<br><br><voffset=10>包含配音檔案　<color=#F0C040>(大約{0}MB)</color><br>不含配音檔案　<color=#F0C040>(大約{1}MB)</color><line-height=25><br></voffset><br><line-height=30><size=22>完成下載所需時間依網路連線速度而不同。<br>建議在<color=#F0C040>Wi-Fi環境</color>中下載。"
+        },
+        {
+            "key": "DLC_CHECK_VOICE",
+            "value": "包含配音檔案一起下載"
+        },
+        {
+            "key": "DLC_CHECK_DOWNLOAD",
+            "value": "下載"
+        },
+        {
+            "key": "PLAYER_NAME_INPUT_TITLE",
+            "value": "輸入玩家名"
+        },
+        {
+            "key": "PLAYER_NAME_INPUT_DESC",
+            "value": "輸入玩家名稱。<br>（可稍後進行變更）"
+        },
+        {
+            "key": "PLAYER_NAME_INPUT_DESC_FIRST",
+            "value": "※玩家名之後可以變更。"
+        },
+        {
+            "key": "ERROR_DIALOG_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "BTN_SITE",
+            "value": "官方網站"
+        },
+        {
+            "key": "BTN_STORE",
+            "value": "Store"
+        },
+        {
+            "key": "APP_QUIT_TITLE",
+            "value": "遊戲結束"
+        },
+        {
+            "key": "APP_QUIT",
+            "value": "要結束遊戲嗎？"
+        },
+        {
+            "key": "GOTO_TITLE",
+            "value": "返回標題畫面"
+        },
+        {
+            "key": "GOTO_TITLE_DESC",
+            "value": "要中斷遊戲，返回標題畫面嗎？"
+        },
+        {
+            "key": "CONNECT_SELECT_TITLE",
+            "value": "繼承紀錄"
+        },
+        {
+            "key": "CONNECT_SELECT_CODE",
+            "value": "使用玩家ID繼承"
+        },
+        {
+            "key": "CONNECT_SELECT_SQEX",
+            "value": "用SQEX帳號繼承"
+        },
+        {
+            "key": "CONNECT_SELECT_ALPHA_NUMERIC_ONLY",
+            "value": "請輸入半形英文數字。"
+        },
+        {
+            "key": "CONNECT_SELECT_END_ADD_DEVICE",
+            "value": "繼承完畢。"
+        },
+        {
+            "key": "TUTORIAL_TITLE_ON_CHECK",
+            "value": "關於新手教學戰鬥"
+        },
+        {
+            "key": "TUTORIAL_DESC_ON_CHECK",
+            "value": "要選擇有說明文字的新手教學戰鬥嗎？"
+        },
+        {
+            "key": "DEBUG_USER_MSG",
+            "value": "要以測試帳號身份進行遊戲嗎？"
+        },
+        {
+            "key": "SKIP_TUTORIAL_BATTLE_TITLE",
+            "value": "要跳過新手教學嗎？"
+        },
+        {
+            "key": "SKIP_TUTORIAL_BATTLE_DESC",
+            "value": "跳過下列內容<br>等待下載。<br>・新手教學戰鬥（之後將無法遊玩）<br>・開場動畫（之後可於劇情回想觀看）<br><br>※推薦不熟悉戰略遊戲的玩家進行新手教學戰鬥。"
+        },
+        {
+            "key": "SKIP_TUTORIAL_YES",
+            "value": "跳過"
+        },
+        {
+            "key": "SKIP_TUTORIAL_NO",
+            "value": "開始新手教學"
+        },
+        {
+            "key": "TERMS_SELECT_TITLE",
+            "value": "用戶協議"
+        },
+        {
+            "key": "TERMS_SELECT_DESC",
+            "value": "進行此遊戲前<br>需要同意本用戶協議。<br>請在確認用戶協議後，<br>選擇「同意」選項。"
+        },
+        {
+            "key": "TERMS_SELECT_TERMS",
+            "value": "用戶協議"
+        },
+        {
+            "key": "TERMS_SELECT_PRIVACYPOLICY",
+            "value": "隱私政策"
+        },
+        {
+            "key": "TERMS_SELECT_YES",
+            "value": "同意"
+        },
+        {
+            "key": "TERMS_SELECT_NO",
+            "value": "不同意"
+        },
+        {
+            "key": "YES",
+            "value": "是"
+        },
+        {
+            "key": "NO",
+            "value": "否"
+        },
+        {
+            "key": "DECIDE",
+            "value": "決定"
+        },
+        {
+            "key": "OK",
+            "value": "OK"
+        },
+        {
+            "key": "NG",
+            "value": "NG"
+        },
+        {
+            "key": "BACK",
+            "value": "返回"
+        },
+        {
+            "key": "CANCEL",
+            "value": "取消"
+        },
+        {
+            "key": "RETRY",
+            "value": "再次挑戰"
+        },
+        {
+            "key": "RESET",
+            "value": "重置"
+        },
+        {
+            "key": "CLEAR",
+            "value": "清除"
+        },
+        {
+            "key": "SELECT_CLEAR",
+            "value": "清除選擇"
+        },
+        {
+            "key": "BACKTITLE",
+            "value": "返回標題畫面"
+        },
+        {
+            "key": "BACKHOME",
+            "value": "返回主畫面"
+        },
+        {
+            "key": "NEXT",
+            "value": "NEXT"
+        },
+        {
+            "key": "HELP",
+            "value": "幫助"
+        },
+        {
+            "key": "SEPARATOR",
+            "value": "、"
+        },
+        {
+            "key": "SKIP",
+            "value": "跳過"
+        },
+        {
+            "key": "NONE",
+            "value": "無"
+        },
+        {
+            "key": "CLOSE",
+            "value": "關閉"
+        },
+        {
+            "key": "DETAIL",
+            "value": "詳細"
+        },
+        {
+            "key": "CONFIG",
+            "value": "設定"
+        },
+        {
+            "key": "APPROVAL",
+            "value": "同意"
+        },
+        {
+            "key": "REJECTION",
+            "value": "拒絕"
+        },
+        {
+            "key": "RELEASE",
+            "value": "解除"
+        },
+        {
+            "key": "COPY",
+            "value": "複製"
+        },
+        {
+            "key": "PASTE",
+            "value": "套用複製"
+        },
+        {
+            "key": "PASTE_SHORT",
+            "value": "套用"
+        },
+        {
+            "key": "UPDATE",
+            "value": "更新"
+        },
+        {
+            "key": "LEAVE",
+            "value": "退室"
+        },
+        {
+            "key": "UPDATE_EX",
+            "value": "更新"
+        },
+        {
+            "key": "NOT_UPDATE",
+            "value": "不更新"
+        },
+        {
+            "key": "SEND",
+            "value": "發送"
+        },
+        {
+            "key": "ON",
+            "value": "ON"
+        },
+        {
+            "key": "OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "BUY",
+            "value": "購買"
+        },
+        {
+            "key": "SELL",
+            "value": "販售"
+        },
+        {
+            "key": "ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "END",
+            "value": "結束"
+        },
+        {
+            "key": "MAP",
+            "value": "地圖"
+        },
+        {
+            "key": "NEWS",
+            "value": "通知"
+        },
+        {
+            "key": "EQUIP",
+            "value": "裝備"
+        },
+        {
+            "key": "APPLY",
+            "value": "套用"
+        },
+        {
+            "key": "UNKNOWN",
+            "value": "?"
+        },
+        {
+            "key": "CHECK",
+            "value": "確認"
+        },
+        {
+            "key": "LATER",
+            "value": "稍後再說"
+        },
+        {
+            "key": "BRACKETS_START",
+            "value": "("
+        },
+        {
+            "key": "BRACKETS_END",
+            "value": ")"
+        },
+        {
+            "key": "COLON",
+            "value": ":"
+        },
+        {
+            "key": "COLON_L",
+            "value": "："
+        },
+        {
+            "key": "LIMIT_NONE",
+            "value": "無期限"
+        },
+        {
+            "key": "MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "TYPE",
+            "value": "類型"
+        },
+        {
+            "key": "PERIOD_OUTSIDE",
+            "value": "非舉辦期間內"
+        },
+        {
+            "key": "THREE_DOTS",
+            "value": "..."
+        },
+        {
+            "key": "NO_INFOMATION",
+            "value": "沒有可顯示的資訊"
+        },
+        {
+            "key": "INPUT_COMMENT",
+            "value": "請輸入留言"
+        },
+        {
+            "key": "NO_COMMENT",
+            "value": "沒有留言"
+        },
+        {
+            "key": "NO_DROPS",
+            "value": "無獲得道具"
+        },
+        {
+            "key": "NON_PARTICIPATION",
+            "value": "不參加"
+        },
+        {
+            "key": "GET_REWARD",
+            "value": "領取報酬"
+        },
+        {
+            "key": "AUTO",
+            "value": "自動"
+        },
+        {
+            "key": "AUTO_SEPARATE",
+            "value": "自動:"
+        },
+        {
+            "key": "FORMAT_ARG",
+            "value": "{0}"
+        },
+        {
+            "key": "PERIOD",
+            "value": "舉辦期間："
+        },
+        {
+            "key": "PERIOD_REWARD",
+            "value": "領取報酬期限："
+        },
+        {
+            "key": "AGGREGATE",
+            "value": "統計中"
+        },
+        {
+            "key": "AGGREGATE_RANKING",
+            "value": "排名統計中"
+        },
+        {
+            "key": "PERIOD_RANKING_VIEW",
+            "value": "排名確認期間："
+        },
+        {
+            "key": "DATE_CURRENT",
+            "value": "現在"
+        },
+        {
+            "key": "VALUE_SLASH",
+            "value": "/"
+        },
+        {
+            "key": "VALUE_ADD",
+            "value": "+"
+        },
+        {
+            "key": "VALUE_MINUS",
+            "value": "-"
+        },
+        {
+            "key": "VALUE_MULTIPLY",
+            "value": "×"
+        },
+        {
+            "key": "VALUE_PERCENT_SHORT",
+            "value": "%"
+        },
+        {
+            "key": "VALUE_PERCENT",
+            "value": "{0}%"
+        },
+        {
+            "key": "VALUE_NONE",
+            "value": "--"
+        },
+        {
+            "key": "VALUE_NONE_LARGE",
+            "value": "ー"
+        },
+        {
+            "key": "VALUE_HYPHEN",
+            "value": "－"
+        },
+        {
+            "key": "VALUE_REAL_MONEY",
+            "value": "¥<space=3>{0}"
+        },
+        {
+            "key": "VALUE_LIMIT",
+            "value": "還有"
+        },
+        {
+            "key": "VALUE_DAY",
+            "value": "日"
+        },
+        {
+            "key": "VALUE_HOUR",
+            "value": "小時"
+        },
+        {
+            "key": "VALUE_MONTH",
+            "value": "月"
+        },
+        {
+            "key": "VALUE_YEAR",
+            "value": "年"
+        },
+        {
+            "key": "VALUE_AD",
+            "value": "西元"
+        },
+        {
+            "key": "VALUE_MINUITES",
+            "value": "分"
+        },
+        {
+            "key": "VALUE_SECONDS",
+            "value": "秒"
+        },
+        {
+            "key": "VALUE_PERIOD",
+            "value": "為止"
+        },
+        {
+            "key": "VALUE_STORY_PERIOD",
+            "value": "到完成{0}為止"
+        },
+        {
+            "key": "VALUE_SECONDS_AGO",
+            "value": "秒前"
+        },
+        {
+            "key": "VALUE_MINUITES_AGO",
+            "value": "分前"
+        },
+        {
+            "key": "VALUE_BY_THE_TIME",
+            "value": "小時前"
+        },
+        {
+            "key": "VALUE_DAYS_AGO",
+            "value": "天前"
+        },
+        {
+            "key": "VALUE_MINUITES_PER",
+            "value": "每分"
+        },
+        {
+            "key": "VALUE_SECOND_PER",
+            "value": "每小時"
+        },
+        {
+            "key": "VALUE_LAST_PLAY",
+            "value": "最後遊玩"
+        },
+        {
+            "key": "VALUE_MORE",
+            "value": "{0}以上"
+        },
+        {
+            "key": "VALUE_JUST_DAY",
+            "value": "第<size=125%>{0}<size=100%>天"
+        },
+        {
+            "key": "VALUE_SELECT_AMOUNT",
+            "value": "選擇數"
+        },
+        {
+            "key": "VALUE_PEOPLE",
+            "value": "人"
+        },
+        {
+            "key": "VALUE_RANK",
+            "value": "排名："
+        },
+        {
+            "key": "VALUE_RANK_ASSIGNMENT",
+            "value": "排名<br>{0}"
+        },
+        {
+            "key": "VALUE_POINT",
+            "value": "pt"
+        },
+        {
+            "key": "VALUE_POINTS",
+            "value": "pt"
+        },
+        {
+            "key": "VALUE_TO",
+            "value": "~"
+        },
+        {
+            "key": "VALUE_TO_LARGE",
+            "value": "～"
+        },
+        {
+            "key": "VALUE_TO_LARGE_SPACE",
+            "value": " ～ "
+        },
+        {
+            "key": "VALUE_STATUS_PLUS",
+            "value": "({0})"
+        },
+        {
+            "key": "VALUE_HOURS_MINUITES_SECONDS_COLON_FORMAT",
+            "value": "{0}:{1}:{2}"
+        },
+        {
+            "key": "VALUE_DAYS_SLASH_FORMAT",
+            "value": "{0}/{1}"
+        },
+        {
+            "key": "VALIE_DATE_FORMAT_MDHMM",
+            "value": "M/d H:mm"
+        },
+        {
+            "key": "VALUE_VALIDITY_SECOND",
+            "value": "還有{0}秒有效"
+        },
+        {
+            "key": "VALUE_VALIDITY_MINUTE",
+            "value": "還有{0}分鐘有效"
+        },
+        {
+            "key": "VALUE_VALIDITY_HOUR",
+            "value": "還有{0}小時有效"
+        },
+        {
+            "key": "VALUE_VALIDITY_DAY",
+            "value": "還有{0}天有效"
+        },
+        {
+            "key": "NEED_GIL",
+            "value": "必要金幣"
+        },
+        {
+            "key": "GET_GIL",
+            "value": "獲得金幣"
+        },
+        {
+            "key": "GET_MEDAL",
+            "value": "獲得獎牌"
+        },
+        {
+            "key": "GIL",
+            "value": "金幣"
+        },
+        {
+            "key": "GIL_DESC",
+            "value": "除了能在商店購買道具外，育成兵員時也會用到的貨幣。"
+        },
+        {
+            "key": "LAPIS",
+            "value": "幻導石"
+        },
+        {
+            "key": "LAPIS_DESC",
+            "value": "除了可用於「召喚」兵員或購買商店的道具外，也能使用在恢復體力等方面。"
+        },
+        {
+            "key": "RANKEXP",
+            "value": "等級經驗值"
+        },
+        {
+            "key": "RANKEXP_DESC",
+            "value": "累積到一定程度時可提升玩家等級。"
+        },
+        {
+            "key": "STAMINA",
+            "value": "體力"
+        },
+        {
+            "key": "STAMINA_DESC",
+            "value": "出擊任務所需要的點數"
+        },
+        {
+            "key": "VIPEXP",
+            "value": "會員點數"
+        },
+        {
+            "key": "VIPEXP_DESC",
+            "value": "提升會員等級所需要的點數"
+        },
+        {
+            "key": "AP_RAID",
+            "value": "共鬥寶珠"
+        },
+        {
+            "key": "AP_ARENA",
+            "value": "鬥技場寶珠"
+        },
+        {
+            "key": "AP_CLASS_MATCH",
+            "value": "段位賽寶珠"
+        },
+        {
+            "key": "COST",
+            "value": "消耗"
+        },
+        {
+            "key": "AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "STATUS",
+            "value": "狀態"
+        },
+        {
+            "key": "MASTER",
+            "value": "宗師"
+        },
+        {
+            "key": "GUEST",
+            "value": "訪客"
+        },
+        {
+            "key": "YOU",
+            "value": "你"
+        },
+        {
+            "key": "ITEM",
+            "value": "道具"
+        },
+        {
+            "key": "ELEMENT",
+            "value": "屬性"
+        },
+        {
+            "key": "ATTACK_TYPE",
+            "value": "攻擊類型"
+        },
+        {
+            "key": "FAVORITE_ARTI",
+            "value": "鎖定武具"
+        },
+        {
+            "key": "ARTI_PROFICIENCY",
+            "value": "武具熟練度"
+        },
+        {
+            "key": "BELONG_GUILD",
+            "value": "所屬公會"
+        },
+        {
+            "key": "VIP_TITLE",
+            "value": "會員等級"
+        },
+        {
+            "key": "BUY_LAPIS",
+            "value": "購買幻導石"
+        },
+        {
+            "key": "POWER_SAVE",
+            "value": "觸碰水晶解除省電模式"
+        },
+        {
+            "key": "ACT_SPECIFIED_COMMERCIAL_TRANSACTIONS",
+            "value": "特定商業貿易法"
+        },
+        {
+            "key": "ACT_PAYMENT_SERVICES",
+            "value": "資金結算法"
+        },
+        {
+            "key": "BUY_CURRENCY",
+            "value": "收費"
+        },
+        {
+            "key": "BUY_CURRENCY_EX",
+            "value": "<space=-0.45em>【收費】"
+        },
+        {
+            "key": "FREE_CURRENCY",
+            "value": "免費"
+        },
+        {
+            "key": "FREE_CURRENCY_EX",
+            "value": "<space=-0.45em>【免費】"
+        },
+        {
+            "key": "HAVE_LAPIS",
+            "value": "持有幻導石"
+        },
+        {
+            "key": "USE_LAPIS_CAUTION",
+            "value": "※會優先使用免費獲得的幻導石。"
+        },
+        {
+            "key": "TIPS",
+            "value": "提示"
+        },
+        {
+            "key": "LOADING",
+            "value": "Loading…"
+        },
+        {
+            "key": "CONNECTING",
+            "value": "Connecting…"
+        },
+        {
+            "key": "MATCHING",
+            "value": "匹配中…"
+        },
+        {
+            "key": "WAITING",
+            "value": "等待中…"
+        },
+        {
+            "key": "BUY_FINISH_TITLE",
+            "value": "購買完成"
+        },
+        {
+            "key": "BUY_FINISH_DESC",
+            "value": "購買了<br><color=#F0C040>{0}</color>。"
+        },
+        {
+            "key": "SOLD_OUT",
+            "value": "<cspace=0.05em>完<space=0.5em>售"
+        },
+        {
+            "key": "CLOSED",
+            "value": "已關閉"
+        },
+        {
+            "key": "ITEM_LIMIT_TITLE",
+            "value": "超過可持有數"
+        },
+        {
+            "key": "ITEM_LIMIT_DESC",
+            "value": "持有道具數量已達上限，超過的部分將被捨棄。"
+        },
+        {
+            "key": "SEND_GIFT_TITLE",
+            "value": "超過可持有數"
+        },
+        {
+            "key": "SEND_GIFT_DESC",
+            "value": "持有數已達上限，<br>以下送往贈禮箱。"
+        },
+        {
+            "key": "LIMIT_SECOND",
+            "value": "還有<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>秒"
+        },
+        {
+            "key": "LIMIT_MINUTES",
+            "value": "還有<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>分鐘"
+        },
+        {
+            "key": "LIMIT_HOUR",
+            "value": "還有<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>小時"
+        },
+        {
+            "key": "LIMIT_DAY",
+            "value": "還有<space=0.32em><size=1.2em><color=#F0C040>{0}</color></size>天"
+        },
+        {
+            "key": "BADGE_YOU",
+            "value": "<cspace=-0.5>你"
+        },
+        {
+            "key": "BADGE_FRIEND",
+            "value": "<cspace=-0.8>好友"
+        },
+        {
+            "key": "BADGE_GUILD",
+            "value": "<cspace=-0.5>公會"
+        },
+        {
+            "key": "BADGE_NEW",
+            "value": "NEW！"
+        },
+        {
+            "key": "BADGE_USED",
+            "value": "使用中"
+        },
+        {
+            "key": "STAMP_GET",
+            "value": "<cspace=1.5>獲得！"
+        },
+        {
+            "key": "INVALID_BACKKEY",
+            "value": "目前無法使用退回"
+        },
+        {
+            "key": "BANNER_TYPE_GACHA",
+            "value": "召喚"
+        },
+        {
+            "key": "BANNER_TYPE_EVENT",
+            "value": "活動"
+        },
+        {
+            "key": "BANNER_TYPE_SHOP",
+            "value": "<cspace=-3.3>商店"
+        },
+        {
+            "key": "BANNER_TYPE_CAMPAIGN",
+            "value": "<cspace=-3.3>活動"
+        },
+        {
+            "key": "BANNER_TYPE_END",
+            "value": "<cspace=-3.3>活動結束"
+        },
+        {
+            "key": "RARITY_01",
+            "value": "N"
+        },
+        {
+            "key": "RARITY_02",
+            "value": "R"
+        },
+        {
+            "key": "RARITY_03",
+            "value": "SR"
+        },
+        {
+            "key": "RARITY_04",
+            "value": "MR"
+        },
+        {
+            "key": "RARITY_05",
+            "value": "UR"
+        },
+        {
+            "key": "RARITY_06",
+            "value": "LR"
+        },
+        {
+            "key": "FUNCTION_SHOP",
+            "value": "商店"
+        },
+        {
+            "key": "FUNCTION_TOWER",
+            "value": "塔"
+        },
+        {
+            "key": "FUNCTION_ARENA",
+            "value": "鬥技場"
+        },
+        {
+            "key": "LOCK_RANK",
+            "value": "<cspace=-1>等級<space=0.36em><size=1.2em><color=#F0C040>{0}</color></size><space=0.36em>解鎖"
+        },
+        {
+            "key": "LOCK_NBEAST",
+            "value": "獲得召喚獸"
+        },
+        {
+            "key": "ELEMENT_FILTER_ALL",
+            "value": "ALL"
+        },
+        {
+            "key": "SORT_TITLE",
+            "value": "分類"
+        },
+        {
+            "key": "SORT_ASCENDING",
+            "value": "升序"
+        },
+        {
+            "key": "SORT_DESCENDING",
+            "value": "降序"
+        },
+        {
+            "key": "SORT_RARITY",
+            "value": "稀有度"
+        },
+        {
+            "key": "SORT_INTIMACY",
+            "value": "親密度順序"
+        },
+        {
+            "key": "SORT_SYNCHRO",
+            "value": "共鳴順序"
+        },
+        {
+            "key": "SORT_TITLE_GET_ORDER",
+            "value": "入手順序"
+        },
+        {
+            "key": "SORT_TITLE_RARITY",
+            "value": "稀有度"
+        },
+        {
+            "key": "SORT_TITLE_AMOUNT",
+            "value": "持有數"
+        },
+        {
+            "key": "SORT_TITLE_LEVEL",
+            "value": "等級"
+        },
+        {
+            "key": "SORT_TITLE_ALL_PARAM",
+            "value": "綜合順序"
+        },
+        {
+            "key": "SORT_TITLE_ATTACK",
+            "value": "攻擊"
+        },
+        {
+            "key": "SORT_TITLE_MAGIC",
+            "value": "魔力"
+        },
+        {
+            "key": "SORT_TITLE_HP",
+            "value": "HP"
+        },
+        {
+            "key": "SORT_TITLE_MP",
+            "value": "TP"
+        },
+        {
+            "key": "SORT_TITLE_AP",
+            "value": "AP"
+        },
+        {
+            "key": "SORT_TITLE_SPEED",
+            "value": "敏捷"
+        },
+        {
+            "key": "SORT_TITLE_HIT",
+            "value": "命中"
+        },
+        {
+            "key": "SORT_TITLE_AVOID",
+            "value": "閃避"
+        },
+        {
+            "key": "SORT_TITLE_DEFENCE",
+            "value": "防禦"
+        },
+        {
+            "key": "SORT_TITLE_MIND",
+            "value": "精神"
+        },
+        {
+            "key": "SORT_TITLE_DEXTERITY",
+            "value": "靈巧"
+        },
+        {
+            "key": "SORT_TITLE_LUCK",
+            "value": "運氣"
+        },
+        {
+            "key": "SORT_TITLE_CRITICAL",
+            "value": "暴擊"
+        },
+        {
+            "key": "SORT_TITLE_AVOID_CRITICAL",
+            "value": "暴擊閃避"
+        },
+        {
+            "key": "SORT_TITLE_JOB_LEVEL",
+            "value": "JobLv."
+        },
+        {
+            "key": "SORT_TITLE_COST",
+            "value": "COST"
+        },
+        {
+            "key": "SORT_TITLE_AWAKE",
+            "value": "覺醒數"
+        },
+        {
+            "key": "SORT_TITLE_LIMITBREAK",
+            "value": "極限突破數"
+        },
+        {
+            "key": "SORT_TITLE_INTIMACY",
+            "value": "親密度順序"
+        },
+        {
+            "key": "SORT_TITLE_SYNCHRO",
+            "value": "共鳴度順序"
+        },
+        {
+            "key": "SORT_TITLE_NAME",
+            "value": "名字"
+        },
+        {
+            "key": "SORT_TITLE_ARTIFACT_TYPE",
+            "value": "種類"
+        },
+        {
+            "key": "SORT_TITLE_LAST_PLAY",
+            "value": "最後遊玩"
+        },
+        {
+            "key": "SORT_TITLE_RANK",
+            "value": "等級"
+        },
+        {
+            "key": "SORT_TITLE_GUILD_CONTRIBUTION",
+            "value": "公會貢獻度"
+        },
+        {
+            "key": "SORT_TITLE_GUILD_BATTLE_CONTRIBUTION",
+            "value": "公會戰鬥貢獻度"
+        },
+        {
+            "key": "SORT_EXHIBIT_TITLE_LV",
+            "value": "等級"
+        },
+        {
+            "key": "SORT_EXHIBIT_TITLE_JOBLV",
+            "value": "JobLv."
+        },
+        {
+            "key": "SORT_EXHIBIT_TITLE_COST",
+            "value": "COST"
+        },
+        {
+            "key": "FILTER_TITLE",
+            "value": "篩選"
+        },
+        {
+            "key": "FILTER_TITLE_ON",
+            "value": "篩選：ON"
+        },
+        {
+            "key": "FILTER_CLEAR",
+            "value": "清除選擇"
+        },
+        {
+            "key": "FILTER_ALL",
+            "value": "全部選擇"
+        },
+        {
+            "key": "FILTER_CATEGORY_RARITY",
+            "value": "稀有度"
+        },
+        {
+            "key": "FILTER_CATEGORY_AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "FILTER_CATEGORY_ATTACK_TYPE",
+            "value": "攻擊類型"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_ATTACK_TYPE",
+            "value": "攻擊類型耐性"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_ELEMENT",
+            "value": "屬性耐性"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_CONDITION",
+            "value": "異常狀態耐性"
+        },
+        {
+            "key": "FILTER_CATEGORY_RESIST_SERIES",
+            "value": "系列"
+        },
+        {
+            "key": "FILTER_CATEGORY_RANK",
+            "value": "極限突破數"
+        },
+        {
+            "key": "FILTER_CATEGORY_ARTIFACT_TYPE",
+            "value": "種類"
+        },
+        {
+            "key": "FILTER_CATEGORY_ARTIFACT_GROWTH",
+            "value": "型"
+        },
+        {
+            "key": "FILTER_CATEGORY_ABILITY",
+            "value": "能力"
+        },
+        {
+            "key": "FILTER_CATEGORY_ADD_CONDITION",
+            "value": "追加異常狀態"
+        },
+        {
+            "key": "FILTER_TITLE_ALL",
+            "value": "ALL"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_01",
+            "value": "N"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_02",
+            "value": "R"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_03",
+            "value": "SR"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_04",
+            "value": "MR"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_05",
+            "value": "UR"
+        },
+        {
+            "key": "FILTER_TITLE_RARITY_06",
+            "value": "LR"
+        },
+        {
+            "key": "FILTER_TITLE_AWAKE_00",
+            "value": "無"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_01",
+            "value": "斬擊"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_02",
+            "value": "突刺"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_03",
+            "value": "打擊"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_04",
+            "value": "射擊"
+        },
+        {
+            "key": "FILTER_TITLE_ATTACK_TYPE_05",
+            "value": "魔法"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_01",
+            "value": "武器"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_02",
+            "value": "防具"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_03",
+            "value": "裝飾品"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_TYPE_04",
+            "value": "信賴度滿點"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_01",
+            "value": "活力"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_02",
+            "value": "突擊"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_03",
+            "value": "魔法"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_04",
+            "value": "瞄準"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_05",
+            "value": "躲避"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_06",
+            "value": "暴擊"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_07",
+            "value": "護盾"
+        },
+        {
+            "key": "FILTER_TITLE_ARTI_GROWTH_08",
+            "value": "屏障"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_01",
+            "value": "無"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_02",
+            "value": "武具能力"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_03",
+            "value": "輔助能力"
+        },
+        {
+            "key": "FILTER_TITLE_ABILITY_04",
+            "value": "極限技"
+        },
+        {
+            "key": "FILTER_TITLE_GIL",
+            "value": "金幣"
+        },
+        {
+            "key": "FILTER_TITLE_LAPIS",
+            "value": "幻導石"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_PIECE",
+            "value": "碎片"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_UNIT",
+            "value": "兵員"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_ARTIFACT",
+            "value": "武具"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_NBEAST",
+            "value": "召喚獸"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_GUILD",
+            "value": "公會"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_TICKET",
+            "value": "召喚券"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_USED",
+            "value": "消耗品"
+        },
+        {
+            "key": "FILTER_TITLE_ITEM_OTHER",
+            "value": "其他"
+        },
+        {
+            "key": "CAUTION_NOT_UNIT",
+            "value": "該兵員不存在"
+        },
+        {
+            "key": "CAUTION_NOT_NETHERBEAST",
+            "value": "該召喚獸不存在"
+        },
+        {
+            "key": "CAUTION_NOT_SUPPORT",
+            "value": "該同行者不存在"
+        },
+        {
+            "key": "CAUTION_NOT_ARTI",
+            "value": "該武具不存在"
+        },
+        {
+            "key": "CAUTION_NOT_ITEM",
+            "value": "該道具不存在"
+        },
+        {
+            "key": "CAUTION_NOT_TICKET",
+            "value": "該召喚券不存在"
+        },
+        {
+            "key": "CAUTION_NOT_VISION",
+            "value": "該幻兵卡不存在"
+        },
+        {
+            "key": "CAUTION_NOT_PARTYABILITY",
+            "value": "<line-height=36>沒有隊伍能力"
+        },
+        {
+            "key": "CAUTION_NOT_PARTYABILITY_EQUIP",
+            "value": "<line-height=36>沒有隊伍能力<br>裝備幻兵卡後<br>便可進行設定。"
+        },
+        {
+            "key": "CAUTION_NOT_ABILITY",
+            "value": "該能力不存在"
+        },
+        {
+            "key": "CAUTION_NOT_RANKING",
+            "value": "沒有排名資訊"
+        },
+        {
+            "key": "CAUTION_AGGREGATE",
+            "value": "排名統計中"
+        },
+        {
+            "key": "CAUTION_NOT_SUBQUEST",
+            "value": "該支線任務不存在"
+        },
+        {
+            "key": "CAUTION_NOT_DATA",
+            "value": "沒有資料"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_RANKING_MY_DATA",
+            "value": "沒有報名"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_SEARCH",
+            "value": "沒有符合條件的公會"
+        },
+        {
+            "key": "CAUTION_NOT_VISION_MAX_BONUS",
+            "value": "沒有育成上限獎勵"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_BATTLE_END_LOG",
+            "value": "沒有能顯示戰績的戰鬥"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_BATTLE_LOG",
+            "value": "該戰鬥紀錄不存在"
+        },
+        {
+            "key": "CAUTION_NOT_GUILD_REWARD",
+            "value": "沒有報酬"
+        },
+        {
+            "key": "ERROR_CONNECT_TITLE",
+            "value": "信號中斷"
+        },
+        {
+            "key": "ERROR_CONNECT_MSG",
+            "value": "可能是一段時間沒有連線，<br>或者是訊號較差。<br><br>請在訊號狀態良好時<br>再次嘗試連線。"
+        },
+        {
+            "key": "ERROR_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "ERROR_PASSWORD_MSG",
+            "value": "密碼錯誤。"
+        },
+        {
+            "key": "INPUT_CAUTION_MAX",
+            "value": "※最多{0}個字"
+        },
+        {
+            "key": "INPUT_CAUTION_MAX_HALF",
+            "value": "※最多{0}個字 僅限半形"
+        },
+        {
+            "key": "INPUT_CAUTION_MAX_NUM",
+            "value": "※最多{0}個字 僅限數字"
+        },
+        {
+            "key": "PLAYER_STATUS_RANK",
+            "value": "等級"
+        },
+        {
+            "key": "PLAYER_STATUS_STAMINA",
+            "value": "體力"
+        },
+        {
+            "key": "PLAYER_STATUS_NEXT",
+            "value": "NEXT"
+        },
+        {
+            "key": "PLAYER_STATUS_EXP",
+            "value": "經驗值"
+        },
+        {
+            "key": "STATUS_HP",
+            "value": "HP"
+        },
+        {
+            "key": "STATUS_MP",
+            "value": "TP"
+        },
+        {
+            "key": "STATUS_AP",
+            "value": "AP"
+        },
+        {
+            "key": "STATUS_CT",
+            "value": "CT"
+        },
+        {
+            "key": "STATUS_ATK",
+            "value": "攻擊"
+        },
+        {
+            "key": "STATUS_DEF",
+            "value": "防禦"
+        },
+        {
+            "key": "STATUS_MAG",
+            "value": "魔力"
+        },
+        {
+            "key": "STATUS_MND",
+            "value": "精神"
+        },
+        {
+            "key": "STATUS_DEX",
+            "value": "靈巧"
+        },
+        {
+            "key": "STATUS_SPD",
+            "value": "敏捷"
+        },
+        {
+            "key": "STATUS_LUK",
+            "value": "運氣"
+        },
+        {
+            "key": "STATUS_MOV",
+            "value": "移動"
+        },
+        {
+            "key": "STATUS_JMP",
+            "value": "跳躍"
+        },
+        {
+            "key": "STATUS_RANGE",
+            "value": "射程"
+        },
+        {
+            "key": "STATUS_BRAVE",
+            "value": "勇氣"
+        },
+        {
+            "key": "STATUS_FAITH",
+            "value": "信念"
+        },
+        {
+            "key": "STATUS_HATE",
+            "value": "仇恨"
+        },
+        {
+            "key": "STATUS_COST",
+            "value": "COST"
+        },
+        {
+            "key": "STATUS_COST_DOT",
+            "value": "COST"
+        },
+        {
+            "key": "STATUS_OTHERHIT",
+            "value": "命中"
+        },
+        {
+            "key": "STATUS_OTHERAVOID",
+            "value": "閃避"
+        },
+        {
+            "key": "STATUS_OTHERCRTHIT",
+            "value": "<cspace=-3>暴擊"
+        },
+        {
+            "key": "STATUS_OTHERCRTAVOID",
+            "value": "<cspace=-3>暴擊閃避"
+        },
+        {
+            "key": "STATUS_TOTAL",
+            "value": ""
+        },
+        {
+            "key": "STATUS_ATK_TOTAL",
+            "value": "總攻擊"
+        },
+        {
+            "key": "STATUS_MAG_TOTAL",
+            "value": "總魔力"
+        },
+        {
+            "key": "STATUS_HP_TOTAL",
+            "value": "總HP"
+        },
+        {
+            "key": "STATUS_LEVEL",
+            "value": "等級"
+        },
+        {
+            "key": "STATUS_LEVEL_EX",
+            "value": "兵員等級"
+        },
+        {
+            "key": "STATUS_JOBLEVEL",
+            "value": "JobLv."
+        },
+        {
+            "key": "STATUS_JP",
+            "value": "JP"
+        },
+        {
+            "key": "STATUS_SP",
+            "value": "SP"
+        },
+        {
+            "key": "STATUS_NEXT_LEVEL",
+            "value": "NEXT"
+        },
+        {
+            "key": "STATUS_NEXT_LEVEL_EX",
+            "value": "NEXT"
+        },
+        {
+            "key": "STATUS_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "STATUS_RARITY",
+            "value": "稀有度"
+        },
+        {
+            "key": "STATUS_RESIST_ATTACK_TYPE",
+            "value": "攻擊類型耐性"
+        },
+        {
+            "key": "STATUS_RESIST_ELEMENT",
+            "value": "屬性耐性"
+        },
+        {
+            "key": "STATUS_RESIST_STATUS_ERROR",
+            "value": "異常狀態耐性"
+        },
+        {
+            "key": "STATUS_EXP",
+            "value": "經驗值"
+        },
+        {
+            "key": "STATUS_RESIST_TITLE",
+            "value": "顯示耐性"
+        },
+        {
+            "key": "STATUS_RESIST_VALUE_NONE",
+            "value": "--"
+        },
+        {
+            "key": "STATUS_RESIST_VALUE_MAX",
+            "value": "無效"
+        },
+        {
+            "key": "STATUS_NBEAST_TYPE",
+            "value": "類型："
+        },
+        {
+            "key": "STATUS_ARTI_GROWTH_TYPE",
+            "value": "類型："
+        },
+        {
+            "key": "ITEM_AMOUNT",
+            "value": "個"
+        },
+        {
+            "key": "ITEM_AMOUNT_CURRENT",
+            "value": "個持有"
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE",
+            "value": "持有"
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE_SEPARATE",
+            "value": "持有："
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE_EX",
+            "value": "持有數"
+        },
+        {
+            "key": "ITEM_AMOUNT_TITLE_EX_SEPARATE",
+            "value": "持有數："
+        },
+        {
+            "key": "ITEM_AMOUNT_LIMIT_OVER",
+            "value": "持有上限"
+        },
+        {
+            "key": "ITEM_AMOUNT_LIMIT_OVER_VALUE",
+            "value": "持有上限<space=0.3em><size=1.3em>{0}</size>個"
+        },
+        {
+            "key": "ITEM_AMOUNT_TICKET",
+            "value": "枚"
+        },
+        {
+            "key": "ITEM_TIMES",
+            "value": "次"
+        },
+        {
+            "key": "ITEM_REMAINING",
+            "value": "剩餘"
+        },
+        {
+            "key": "ITEM_USE_AMOUNT_TITLE",
+            "value": "還有"
+        },
+        {
+            "key": "ITEM_DETAIL_TITLE",
+            "value": "道具詳細資訊"
+        },
+        {
+            "key": "ITEM_GET_AMOUNT_TITLE",
+            "value": "獲得數"
+        },
+        {
+            "key": "ITEM_TARGET_LIST",
+            "value": "目標清單"
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_L",
+            "value": "射程"
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_L_ADD",
+            "value": "射程："
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_H",
+            "value": "高低差"
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_H_ADD",
+            "value": "高低差："
+        },
+        {
+            "key": "ABILITY_STATUS_RANGE_L_H_ADD",
+            "value": "射程高低差："
+        },
+        {
+            "key": "ABILITY_STATUS_EFF_S",
+            "value": "範圍"
+        },
+        {
+            "key": "ABILITY_STATUS_EFF_S_ADD",
+            "value": "範圍："
+        },
+        {
+            "key": "ABILITY_STATUS_EFF_S_H_ADD",
+            "value": "範圍高低差："
+        },
+        {
+            "key": "ABILITY_STATUS_CAST_SPEED",
+            "value": "詠唱速度"
+        },
+        {
+            "key": "ABILITY_STATUS_COUNT",
+            "value": "使用次數"
+        },
+        {
+            "key": "ABILITY_STATUS_COUNT_NOLIMIT",
+            "value": "無限制"
+        },
+        {
+            "key": "ABILITY_STATUS_COST_MP",
+            "value": "TP"
+        },
+        {
+            "key": "ABILITY_STATUS_USE_AUTO",
+            "value": "於自動能力使用"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL",
+            "value": "詳細設定"
+        },
+        {
+            "key": "ABILITY_STATUS_DETAIL_ON",
+            "value": "詳細設定：ON"
+        },
+        {
+            "key": "ABILITY_CAPTION_LEADER",
+            "value": "隊長能力"
+        },
+        {
+            "key": "ABILITY_CAPTION_PARTY",
+            "value": "隊伍能力"
+        },
+        {
+            "key": "ABILITY_CAPTION_FRIEND",
+            "value": "好友能力"
+        },
+        {
+            "key": "ABILITY_CAPTION_LIMIT_BURST",
+            "value": "極限技"
+        },
+        {
+            "key": "ABILITY_CAPTION_LIMIT_BURST_ENHANCE",
+            "value": "極限技<space=5>強化"
+        },
+        {
+            "key": "ABILITY_CAPTION_WEAPON_ABILITY",
+            "value": "武具能力"
+        },
+        {
+            "key": "ABILITY_LEVEL_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "ABILITY_COMMAND_NORMAL",
+            "value": "普通攻擊"
+        },
+        {
+            "key": "ABILITY_COMMAND_MAIN",
+            "value": "主能力"
+        },
+        {
+            "key": "ABILITY_COMMAND_SUB",
+            "value": "副能力"
+        },
+        {
+            "key": "ABILITY_COMMAND_SUPPORT",
+            "value": "輔助能力"
+        },
+        {
+            "key": "ABILITY_COMMAND_REACTION",
+            "value": "反應"
+        },
+        {
+            "key": "ABILITY_COMMAND_OTHER",
+            "value": "其他"
+        },
+        {
+            "key": "ABILITY_LOCKED",
+            "value": "尚未學會"
+        },
+        {
+            "key": "ABILITY_SELECT_SET",
+            "value": "設定"
+        },
+        {
+            "key": "ABILITY_USE",
+            "value": "使用"
+        },
+        {
+            "key": "ABILITY_HELP_SELF",
+            "value": "操作兵員"
+        },
+        {
+            "key": "ABILITY_HELP_TARGET",
+            "value": "目標"
+        },
+        {
+            "key": "ABILITY_HELP_RANGE",
+            "value": "射程"
+        },
+        {
+            "key": "ABILITY_HELP_EFF",
+            "value": "目標範圍"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_TITLE",
+            "value": "隊伍能力"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_NOT_FRIEND",
+            "value": "不是好友，故無法發動"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TITLE",
+            "value": "於自動戰鬥使用"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_QUEST",
+            "value": "任務"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_MULTI",
+            "value": "協力"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_DUEL",
+            "value": "決鬥"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_GUILD",
+            "value": "公會戰鬥"
+        },
+        {
+            "key": "ABILITY_AUTO_SETTING_TOWER",
+            "value": "白磁之塔/深層迷宮"
+        },
+        {
+            "key": "JOB_LEVEL_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "JOB_SUB_SELECT_TITLE",
+            "value": "選擇副職業"
+        },
+        {
+            "key": "JOB_SUB_SELECT_NOT_JOB",
+            "value": "沒有可選擇的職業"
+        },
+        {
+            "key": "ARTIFACT_PROFICIENCY",
+            "value": "熟練度"
+        },
+        {
+            "key": "ARTIFACT_PROFICIENCY_LACK",
+            "value": "<cspace=-0.05em>武具熟練度不足"
+        },
+        {
+            "key": "ARTIFACT_SET_POSSIBLE_JOB",
+            "value": "可裝備職業"
+        },
+        {
+            "key": "ARTIFACT_SET_CONDITION",
+            "value": "可裝備條件"
+        },
+        {
+            "key": "ARTIFACT_RESIST",
+            "value": "顯示耐性"
+        },
+        {
+            "key": "ARTIFACT_DETAIL_TITLE",
+            "value": "詳細資訊"
+        },
+        {
+            "key": "ARTIFACT_LIMIT_OVER_TITLE",
+            "value": "有到達持有上限的道具"
+        },
+        {
+            "key": "ARTIFACT_LIMIT_OVER_DESC_RESULT",
+            "value": "<line-height=36>下列道具已超過持有上限，<br>無法領取報酬。"
+        },
+        {
+            "key": "ARTIFACT_LIMIT_OVER_DESC_SHOP",
+            "value": "<line-height=36>下列道具已超過持有上限，<br>無法獲得。"
+        },
+        {
+            "key": "INTIMACY_BONUS_TITLE",
+            "value": "親密度獎勵"
+        },
+        {
+            "key": "INTIMACY_BONUS_RANGE",
+            "value": "適用範圍"
+        },
+        {
+            "key": "UNITLIST_UNIT",
+            "value": "兵員"
+        },
+        {
+            "key": "UNITLIST_PIECE",
+            "value": "兵員化"
+        },
+        {
+            "key": "UNITLIST_PIECE_TITLE",
+            "value": "碎片"
+        },
+        {
+            "key": "UNITLIST_REFRESH",
+            "value": "更新"
+        },
+        {
+            "key": "UNITLIST_ATTACKABLE",
+            "value": "僅限可以出擊"
+        },
+        {
+            "key": "UNITLIST_NOT_ENHANCE_WEAPON",
+            "value": "沒有可以強化的裝備"
+        },
+        {
+            "key": "UNITLIST_NOTUSE",
+            "value": "無法使用"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_TITLE",
+            "value": "選擇兵員"
+        },
+        {
+            "key": "UNITLIST_CONFIRM＿OTHER_PARTY_DESC",
+            "value": "已被編配在<br>另一隊伍（{0}）。<br>確定要選擇嗎？<br>（會將兵員從已編配的<br>隊伍移除。）"
+        },
+        {
+            "key": "NETHERBEAST_SYNCHRO",
+            "value": "共鳴度"
+        },
+        {
+            "key": "NETHERBEAST_ABILITY",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "QUEST_USE_STAMINA",
+            "value": "消耗體力"
+        },
+        {
+            "key": "QUEST_GET_TITLE",
+            "value": "可以獲得的任務"
+        },
+        {
+            "key": "QUEST_DEFAULT_WIN_COND",
+            "value": "殲滅敵人"
+        },
+        {
+            "key": "QUEST_RETRY",
+            "value": "返回出擊畫面"
+        },
+        {
+            "key": "QUEST_RETRY_TOBATTLE",
+            "value": "即刻再戰"
+        },
+        {
+            "key": "QUEST_END",
+            "value": "任務結束"
+        },
+        {
+            "key": "QUEST_HOST_RETRY",
+            "value": "稍後再挑戰"
+        },
+        {
+            "key": "QUEST_HOST_END",
+            "value": "繼續戰鬥"
+        },
+        {
+            "key": "QUEST_GUEST_RETRY",
+            "value": "脫離戰鬥"
+        },
+        {
+            "key": "QUEST_GUEST_END",
+            "value": "繼續戰鬥"
+        },
+        {
+            "key": "QUEST_NEW",
+            "value": "New"
+        },
+        {
+            "key": "QUEST_CLEAR",
+            "value": "Clear"
+        },
+        {
+            "key": "QUEST_COMPLETE",
+            "value": "<cspace=-0.05em>完成"
+        },
+        {
+            "key": "QUEST_TRY_LIMIT",
+            "value": "挑戰次數"
+        },
+        {
+            "key": "QUEST_MISSION",
+            "value": "挑戰"
+        },
+        {
+            "key": "QUEST_MISSION_COMPLETE",
+            "value": "達成"
+        },
+        {
+            "key": "QUEST_BATTLE_TITLE",
+            "value": "戰鬥{0}"
+        },
+        {
+            "key": "QUEST_TRY_AMOUNT",
+            "value": "出擊次數"
+        },
+        {
+            "key": "QUEST_FIRST_NONE",
+            "value": "初次挑戰不消耗體力"
+        },
+        {
+            "key": "QUEST_RECOMMEND_TITLE",
+            "value": "推薦 <voffset=0.1em>:"
+        },
+        {
+            "key": "QUEST_UNITLV",
+            "value": "兵員等級{0}"
+        },
+        {
+            "key": "QUEST_JOBLV",
+            "value": "JobLv.{0}"
+        },
+        {
+            "key": "QUEST_CLOSE_TITLE",
+            "value": "未開放"
+        },
+        {
+            "key": "QUEST_CLOSE_MSG",
+            "value": "{0} 【{1}】<br>還無法進行挑戰。"
+        },
+        {
+            "key": "QUEST_LAP_TITLE",
+            "value": "開始連刷倒數"
+        },
+        {
+            "key": "QUEST_LAP_MSG",
+            "value": "點擊取消"
+        },
+        {
+            "key": "QUEST_CONDITION_AMOUNT",
+            "value": "次數限制"
+        },
+        {
+            "key": "QUEST_CONDITION_AMOUNT_TITLE",
+            "value": "【1天{0}次限定】"
+        },
+        {
+            "key": "QUEST_CONDITION_LOCK",
+            "value": "強制出擊"
+        },
+        {
+            "key": "QUEST_CONDITION_UNIT",
+            "value": "出擊限制"
+        },
+        {
+            "key": "QUEST_CONDITION_GO_IMPOSSIBLE",
+            "value": "不可出擊"
+        },
+        {
+            "key": "QUEST_CONDITION_DAMAGE",
+            "value": "傷害限制"
+        },
+        {
+            "key": "QUEST_CONDITION_CONTINUE",
+            "value": "不可接關"
+        },
+        {
+            "key": "QUEST_CONDITION_CAMPAIGN",
+            "value": "距離等級{0}<space=0.29em>還需要消費體力<space=0.14em>0"
+        },
+        {
+            "key": "QUEST_CONDITION_GUILD_LOCK",
+            "value": "不可變更"
+        },
+        {
+            "key": "QUEST_DETAIL_TITLE",
+            "value": "任務詳細資訊"
+        },
+        {
+            "key": "QUEST_DETAIL_WIN_CONDITION_TITLE",
+            "value": "勝利條件"
+        },
+        {
+            "key": "QUEST_DETAIL_LOSE_CONDITION",
+            "value": "失敗條件：{0}"
+        },
+        {
+            "key": "QUEST_DETAIL_QUEST_INFO_TITLE",
+            "value": "任務資訊"
+        },
+        {
+            "key": "QUEST_DETAIL_UNIT_LIMIT_TITLE",
+            "value": "出擊兵員限制"
+        },
+        {
+            "key": "QUEST_DETAIL_UNIT_NO_LIMIT",
+            "value": "無"
+        },
+        {
+            "key": "QUEST_DETAIL_MAP_EFF",
+            "value": "地圖效果"
+        },
+        {
+            "key": "QUEST_DETAIL_FIRST_REWARD_TITLE",
+            "value": "初次完成報酬"
+        },
+        {
+            "key": "QUEST_DETAIL_CLEAR_REWARD_TITLE",
+            "value": "完成報酬"
+        },
+        {
+            "key": "QUEST_DETAIL_REWARD_TITLE",
+            "value": "完成任務"
+        },
+        {
+            "key": "QUEST_DETAIL_REWARD_ITEM_TITLE",
+            "value": "報酬："
+        },
+        {
+            "key": "QUEST_DETAIL_MISSION_TITLE",
+            "value": "任務挑戰"
+        },
+        {
+            "key": "QUEST_DETAIL_DROPLIST_TITLE",
+            "value": "獲得道具"
+        },
+        {
+            "key": "QLN_EVENT_DEF_TITLE",
+            "value": "活動"
+        },
+        {
+            "key": "QLN_MULTI_DEF_TITLE",
+            "value": "協力"
+        },
+        {
+            "key": "QLN_RAID_DEF_TITLE",
+            "value": "共鬥"
+        },
+        {
+            "key": "QLN_TOWER_DEF_TITLE",
+            "value": "白磁之塔"
+        },
+        {
+            "key": "HARDQUEST_LIMIT_OVER_TITLE",
+            "value": "已達到困難任務挑戰次數上限"
+        },
+        {
+            "key": "HARDQUEST_LIMIT_OVER_DESC",
+            "value": "今天可挑戰困難任務的次數已達上限。<br>（次數將於每日00:00 世界時間(PST)重置）"
+        },
+        {
+            "key": "HARDQUEST_RESET_OVER_TITLE",
+            "value": "重置挑戰次數"
+        },
+        {
+            "key": "HARDQUEST_RESET_OVER_DESC",
+            "value": "重置後的可挑戰次數將會超過<br>可進行的困難任務次數<br>要重置嗎？"
+        },
+        {
+            "key": "BLOCK_TITLE",
+            "value": "黑名單"
+        },
+        {
+            "key": "BLOCK_UNBLOCK",
+            "value": "解除黑名單"
+        },
+        {
+            "key": "BLOCK_BLOCKING",
+            "value": "黑名單"
+        },
+        {
+            "key": "QUEST_CAMPAIGN_MULTIPLE",
+            "value": "{0}<size=20>倍"
+        },
+        {
+            "key": "QUEST_CAMPAIGN_HAEF",
+            "value": "{0}/{1}"
+        },
+        {
+            "key": "QUEST_CAMPAIGN_ZERO",
+            "value": "0"
+        },
+        {
+            "key": "PVP_COIN_BADGE_TITLE",
+            "value": "獎牌"
+        },
+        {
+            "key": "PVP_REWARD_BADGE_TITLE",
+            "value": "領取報酬"
+        },
+        {
+            "key": "PVP_REWARD_BADGE_DESC",
+            "value": "次數UP"
+        },
+        {
+            "key": "FRIEND_REQUEST_TITLE",
+            "value": "申請好友"
+        },
+        {
+            "key": "FRIEND_REQUEST_MSG",
+            "value": "已申請好友"
+        },
+        {
+            "key": "FRIEND_REQUEST_DESC",
+            "value": "要申請好友嗎？"
+        },
+        {
+            "key": "FRIEND_REQUEST_NG",
+            "value": "由於對方好友數已達上限，<br>因此無法申請好友。"
+        },
+        {
+            "key": "FRIEND_BTN_REQUEST",
+            "value": "申請"
+        },
+        {
+            "key": "PVP_ARENA_RATE",
+            "value": "獎勵比率："
+        },
+        {
+            "key": "PVP_ARENA_RANK",
+            "value": "排名<size=0.7em>{0}</size>"
+        },
+        {
+            "key": "PVP_ARENA_BONUS",
+            "value": "獎勵"
+        },
+        {
+            "key": "PVP_ARENA_PT",
+            "value": "pt"
+        },
+        {
+            "key": "PVP_ARENA_TOTAL",
+            "value": "合計"
+        },
+        {
+            "key": "PVP_REWARD_TITLE",
+            "value": "報酬"
+        },
+        {
+            "key": "PVP_VS_TOTAL_ATTACK",
+            "value": "總攻擊"
+        },
+        {
+            "key": "PVP_VS_TOTAL_MAGIC",
+            "value": "總魔力"
+        },
+        {
+            "key": "PVP_ARENA_JOINREWARD_TITLE",
+            "value": "參戰報酬"
+        },
+        {
+            "key": "PVP_ARENA_JOINREWARD_DESC",
+            "value": "以下道具已送到禮物箱中。"
+        },
+        {
+            "key": "MATCH_PARTYEDIT_BTN",
+            "value": "隊伍編配"
+        },
+        {
+            "key": "MATCH_CONNECT_AUTO_TITLE",
+            "value": "戰鬥設定結束"
+        },
+        {
+            "key": "MATCH_CONNECT_AUTO_DESC",
+            "value": "匹配的加速設定將會套用匹配畫面中顯示為藍色方玩家的設定"
+        },
+        {
+            "key": "SELECTLIST_REMOVE",
+            "value": "移除"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_LEADER",
+            "value": "隊長"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER",
+            "value": "隊員"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER1",
+            "value": "隊員1"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER2",
+            "value": "隊員2"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER3",
+            "value": "隊員3"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER4",
+            "value": "隊員4"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_MEMBER5",
+            "value": "隊員5"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY1",
+            "value": "隊伍1"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY2",
+            "value": "隊伍2"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY3",
+            "value": "隊伍3"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY4",
+            "value": "隊伍4"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_PARTY5",
+            "value": "隊伍5"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_OFFICIAL",
+            "value": "試用"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_FRIEND",
+            "value": "好友"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_HERO",
+            "value": "主角"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_SUPPORT",
+            "value": "同行者"
+        },
+        {
+            "key": "SELECTLIST_UNIT_CAPTION_LOCK",
+            "value": "強制出擊"
+        },
+        {
+            "key": "SELECTLIST_TAB_ALL",
+            "value": "ALL"
+        },
+        {
+            "key": "SELECTLIST_TAB_TRUST",
+            "value": "信賴"
+        },
+        {
+            "key": "SELECTLIST_TAB_PAIR",
+            "value": "二人協力"
+        },
+        {
+            "key": "SELECTLIST_TAB_QUARTET",
+            "value": "四人協力"
+        },
+        {
+            "key": "SELECTLIST_ARTI_LIST",
+            "value": "一覽"
+        },
+        {
+            "key": "SELECTLIST_ARTI_CRAFT",
+            "value": "製作"
+        },
+        {
+            "key": "SELECTLIST_ARTI_DISASSEMBLY",
+            "value": "分解"
+        },
+        {
+            "key": "SELECTLIST_ARTI_DISASSEMBLY_BULK",
+            "value": "一併分解"
+        },
+        {
+            "key": "SELECTLIST_ARTI_SELL",
+            "value": "販售"
+        },
+        {
+            "key": "SELECTLIST_ARTI_SELECT_AMOUNT",
+            "value": "選擇數"
+        },
+        {
+            "key": "SELECTLIST_ARTI_GET_GIL",
+            "value": "獲得金幣"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_RECIPE",
+            "value": "無配方"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_ITEM",
+            "value": "素材不足"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_DISASSEMBLY",
+            "value": "不可分解"
+        },
+        {
+            "key": "SELECTLIST_ARTI_NOT_SELL",
+            "value": "不可販售"
+        },
+        {
+            "key": "SELECTLIST_ARTI_CLEAR",
+            "value": "清除選擇"
+        },
+        {
+            "key": "SELECTLIST_VISION_BULK_SELL",
+            "value": "一併販售"
+        },
+        {
+            "key": "SELECTLIST_VISION_CLEAR",
+            "value": "清除選擇"
+        },
+        {
+            "key": "SELECTLIST_VISION_SELL",
+            "value": "販售"
+        },
+        {
+            "key": "SELECTLIST_VISION_SELECT_AMOUNT",
+            "value": "選擇數"
+        },
+        {
+            "key": "SELECTLIST_VISION_GET_GIL",
+            "value": "獲得金幣"
+        },
+        {
+            "key": "SELECTLIST_VISION_GET_MEDAL",
+            "value": "獲得獎牌"
+        },
+        {
+            "key": "SELECTLIST_VISION_BULK_ENHANCE",
+            "value": "一併強化"
+        },
+        {
+            "key": "SELECTLIST_VISION_GET_EXP",
+            "value": "獲得經驗值"
+        },
+        {
+            "key": "SELECTLIST_VISION_NEED_GIL",
+            "value": "必要金幣"
+        },
+        {
+            "key": "SELECTLIST_VISION_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "SELECTLIST_VISION_AWAKE_TITLE",
+            "value": "覺醒★+"
+        },
+        {
+            "key": "NO_SETTING",
+            "value": "無設定"
+        },
+        {
+            "key": "MAKE_ROOM",
+            "value": "創建房間"
+        },
+        {
+            "key": "JOIN_ROOM",
+            "value": "進入房間"
+        },
+        {
+            "key": "MOVE_ROOM",
+            "value": "前往房間"
+        },
+        {
+            "key": "READY",
+            "value": "準備完成"
+        },
+        {
+            "key": "READY_EX",
+            "value": "準備完畢！"
+        },
+        {
+            "key": "PASS_INPUT",
+            "value": "輸入密碼"
+        },
+        {
+            "key": "ORGANIZING",
+            "value": "編配中"
+        },
+        {
+            "key": "READY_CANCEL",
+            "value": "解除準備"
+        },
+        {
+            "key": "ORGANIZE",
+            "value": "編配"
+        },
+        {
+            "key": "INFORMATION",
+            "value": "資訊"
+        },
+        {
+            "key": "INVITE",
+            "value": "邀請"
+        },
+        {
+            "key": "PARTYEDITOR_FIX_PARTY",
+            "value": "不可編配"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_BULK",
+            "value": "<line-height=22>在出擊畫面<br>選擇"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM",
+            "value": "道具"
+        },
+        {
+            "key": "PARTYEDITOR_ITEM_NOT_USED",
+            "value": "不可使用道具"
+        },
+        {
+            "key": "PARTYEDITOR_FRIEND_SKILL_NONE",
+            "value": "無"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RENAME",
+            "value": "變更名稱"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RECOMMEND",
+            "value": "自動編配"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RECOMMEND_SHORT",
+            "value": "自動"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_BREAKUP",
+            "value": "解散隊伍"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_BREAKUP_SHORT",
+            "value": "解散"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_REMOVE",
+            "value": "全部移除"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RECENT",
+            "value": "最近的通關編配"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_HIGH_SCORE",
+            "value": "任務最高得分"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOBATTLE",
+            "value": "戰鬥設定"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOBATTLE_AUTO",
+            "value": "自動"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOBATTLE_ACT_ON",
+            "value": "演出ON"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_UNIT_SET",
+            "value": "初期配置"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_AUTOLAP",
+            "value": "自動連刷"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_GO",
+            "value": "出擊"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_RESET",
+            "value": "重置挑戰次數"
+        },
+        {
+            "key": "PARTYEDITOR_BTN_EDIT_FINISH",
+            "value": "編配完成"
+        },
+        {
+            "key": "PARTYEDITOR_NEED_ITEM",
+            "value": "需要專用道具"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP",
+            "value": "跳過戰鬥"
+        },
+        {
+            "key": "PARTYEDITOR_BATTLE_SKIP_AMOUNT",
+            "value": "次"
+        },
+        {
+            "key": "PARTYEDITOR_RECOMMEND_TITLE",
+            "value": "推薦"
+        },
+        {
+            "key": "PARTYEDITOR_MISSION_TITLE",
+            "value": "<cspace=-0.06em>挑戰</cspace>"
+        },
+        {
+            "key": "PARTYEDITOR_TOTAL_COST_TITLE",
+            "value": "COST"
+        },
+        {
+            "key": "PARTYEDITOR_TOTAL_STRENGTH_TITLE",
+            "value": "綜合值"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_GO",
+            "value": "未滿足條件"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_ENOUGH_TITLE",
+            "value": "編配確認"
+        },
+        {
+            "key": "PARTYEDITOR_NOT_ENOUGH_DESC",
+            "value": "隊伍還有空位。<br>就這樣開始嗎？"
+        },
+        {
+            "key": "PARTYEDITOR_BADGE_GO",
+            "value": "出擊"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_UNIT_VALUE",
+            "value": "<line-height=23><color=#FFF080>出擊限制：<color=#F0C040><size=1.12em>{0}"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_LOCK_TITLE",
+            "value": "強制出擊："
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_LOCK_CAUTION",
+            "value": "編配隊伍無法變更"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_GO",
+            "value": "出擊"
+        },
+        {
+            "key": "PARTYEDITOR_CONDITION_BREAK",
+            "value": "{0}、"
+        },
+        {
+            "key": "PARTYEDITOR_MULTI_TIPS",
+            "value": "提示"
+        },
+        {
+            "key": "PARTYEDITOR_MULTI_PARTY_TITLE",
+            "value": "隊伍編配"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_NORMAL",
+            "value": "普通"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_TAB_LIMITED",
+            "value": "期間限定"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_PARTY_OFFENSE",
+            "value": "攻擊"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_PARTY_DEFENSE",
+            "value": "防禦"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CAUTION",
+            "value": "公會戰鬥匹配完畢至戰鬥結束期間內，即使變更編配也無法套用在戰鬥中。"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_PERIOD_TITLE",
+            "value": "公會戰鬥舉辦期間"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_CONDITION_TITLE",
+            "value": "編配規則"
+        },
+        {
+            "key": "PARTYEDITOR_GUILD_LIMITED_CAUTION",
+            "value": "<line-height=22>※無法於複數的攻擊／防禦隊伍編配同一個兵員、武具、召喚獸及幻兵卡。"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_QUEST",
+            "value": "任務"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_DUEL",
+            "value": "決鬥"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_MULTI",
+            "value": "協力"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_GUILD",
+            "value": "公會戰鬥"
+        },
+        {
+            "key": "PARTYEDITOR_TAB_SUPPORT",
+            "value": "同行者設定"
+        },
+        {
+            "key": "PARTYEDITOR_COPY",
+            "value": "複製編配"
+        },
+        {
+            "key": "PARTYEDITOR_COPY_PARTY",
+            "value": "【{0}:{1}】複製中"
+        },
+        {
+            "key": "PARTYEDITOR_COPY_DESC",
+            "value": "※想取消複製的話請選擇清除。"
+        },
+        {
+            "key": "PARTYEDITOR_SUPPORT_DESC",
+            "value": "請設置各屬性作為同行者的兵員。"
+        },
+        {
+            "key": "PARTYEDITOR_BREAKUP_CHECK_TITLE",
+            "value": "解散隊伍"
+        },
+        {
+            "key": "PARTYEDITOR_BREAKUP_CHECK_DESC",
+            "value": "<size=24>要解除隊伍內所有兵員。<br>確定嗎？</size>"
+        },
+        {
+            "key": "PARTYEDITOR_EQUIP_MIGRATE_TITLE",
+            "value": "武具裝備"
+        },
+        {
+            "key": "PARTYEDITOR_EQUIP_MIGRATE_DESC",
+            "value": "選擇的兵員將會解除身上無法裝備的武具"
+        },
+        {
+            "key": "PARTY_COPY_TITLE",
+            "value": "要複製編配內容嗎？"
+        },
+        {
+            "key": "PARTY_PASTE_TITLE",
+            "value": "要套用複製的編配內容嗎？"
+        },
+        {
+            "key": "PARTY_COPY_TARGET",
+            "value": "複製對象：【{0}】{1}"
+        },
+        {
+            "key": "PARTY_COPY_CAUTION",
+            "value": "空位無法編配，所以無法完成套用"
+        },
+        {
+            "key": "PARTY_COPY_DECIDE",
+            "value": "複製"
+        },
+        {
+            "key": "PARTY_PASTE_DECIDE",
+            "value": "套用"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TITLE",
+            "value": "戰鬥設定"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO",
+            "value": "自動<br>戰鬥"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO_EX",
+            "value": "<line-height=18>自動<br>戰鬥"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_BTN_ON",
+            "value": "ON"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_BTN_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO_SET_TITLE",
+            "value": "自動戰鬥設定"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_TREASURE",
+            "value": "寶箱優先"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_ABILITY_NOT_USE",
+            "value": "不使用能力"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_ABILITY_DIR_CUT",
+            "value": "能力演出"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_AUTO_PROHIBIT",
+            "value": "不可自動"
+        },
+        {
+            "key": "PARTYEDITOR_AUTOBATTLE_DISABLE",
+            "value": "不可設定"
+        },
+        {
+            "key": "；編成画面 - オート周回",
+            "value": ""
+        },
+        {
+            "key": "PARTYEDITOR_AUTOLAP_TITLE",
+            "value": "自動連刷"
+        },
+        {
+            "key": "MAP_EFFECT_TITLE",
+            "value": "地圖效果"
+        },
+        {
+            "key": "MAP_EFFECT_WEATHER_TITLE",
+            "value": "天氣"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_TITLE",
+            "value": "效果"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SIDE_ALL",
+            "value": "全兵員"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SIDE_PLAYER",
+            "value": "我方兵員"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SIDE_ENEMY",
+            "value": "敵方兵員"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_WEATHER_NONE",
+            "value": "普通"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_HUMAN",
+            "value": "人系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_NETHERBEAST",
+            "value": "召喚獸系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_BEAST",
+            "value": "獸系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_DEMON",
+            "value": "惡魔系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_DRAGON",
+            "value": "龍系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_PLANCE",
+            "value": "植物系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_BIRD",
+            "value": "鳥系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_INSECT",
+            "value": "蟲系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_AQUATIC",
+            "value": "水生系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_MACHINE",
+            "value": "機械系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_SPIRIT",
+            "value": "精靈系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_UNDEAD",
+            "value": "死靈系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_SPECIES_STONE",
+            "value": "岩石系的"
+        },
+        {
+            "key": "MAP_EFFECT_EFFECT_NOT",
+            "value": "無效果"
+        },
+        {
+            "key": "ITEM_SELECT_TITLE",
+            "value": "道具裝備"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ALL",
+            "value": "ALL"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_HEAL",
+            "value": "恢復"
+        },
+        {
+            "key": "ITEM_SELECT_TAB_ATTACK",
+            "value": "攻擊"
+        },
+        {
+            "key": "SKIP_SETTING_TITLE",
+            "value": "使用跳過券"
+        },
+        {
+            "key": "SKIP_RESET_TITLE",
+            "value": "跳過券使用次數重置"
+        },
+        {
+            "key": "SKIP_TITLE",
+            "value": "戰鬥{0}"
+        },
+        {
+            "key": "SKIP_SETTING_DESC_AP",
+            "value": "<line-height=32>要使用跳過券和體力<br>跳過任務嗎？"
+        },
+        {
+            "key": "SKIP_SETTING_DESC_ITEM",
+            "value": "<line-height=32>要使用跳過券和道具<br>跳過任務嗎？"
+        },
+        {
+            "key": "SKIP_RESET_DESC",
+            "value": "要消耗<color=#FFF080>{0}個幻導石</color><br>對<color=#FFF080>{1}的<br>跳過券使用次數({3}/{4})進行<br>重置</color>嗎？"
+        },
+        {
+            "key": "SKIP_RESET_TIMES_DESC",
+            "value": "(今天可以重置的次數{0}/{1})"
+        },
+        {
+            "key": "SKIP_RESET_CAUTION",
+            "value": "※將從免費得到的幻導石開始消耗。"
+        },
+        {
+            "key": "SKIP_RESET_INFO_DESC",
+            "value": "此任務今天可重置的次數<br>已達上限。"
+        },
+        {
+            "key": "SKIP_RESET_INFO_CAUTION",
+            "value": "達到<color=#FFF080>會員等級 {0}</color>後<br><color=#FFF080>(1)天可以重置{2}次</color>。"
+        },
+        {
+            "key": "SKIP_RESET_COMPLETE_DESC",
+            "value": "已重置<br>跳過券使用次數。<br>今天還能再使用{0}次。"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_AMOUNT_TITLE",
+            "value": "持有券"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_USE_TIMES_TITLE",
+            "value": "可以使用的次數"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_HARD_LIMIT",
+            "value": "可挑戰困難任務的次數"
+        },
+        {
+            "key": "SKIP_SETTING_TICKET_LAST_USE_TIMES",
+            "value": "還有<space=6><size=30>{0}</color></size><space=4>次"
+        },
+        {
+            "key": "SKIP_RESULT_GET_ITEM",
+            "value": "獲得道具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_TITLE",
+            "value": "自動編配"
+        },
+        {
+            "key": "RECOMMEND_TEAM_DESC",
+            "value": "請設定優先項目"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_PRIORITY",
+            "value": "選擇優先項目"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_SUBTITLE",
+            "value": "選擇自動編配對象"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ALL",
+            "value": "全部自動編配"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_ARTI",
+            "value": "武具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_VISION",
+            "value": "幻兵卡"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_NBEAST",
+            "value": "召喚獸"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_DESC",
+            "value": "<line-height=26>※兵員、武具、召喚獸、幻兵卡<br>會根據設定好的項目自動編配。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_RECOMMEND_CAUTION",
+            "value": "<line-height=26>※所勾選的裝備品將會根據設定自動編配，<br>其餘則不變。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_FAVORITE",
+            "value": "優先鎖定武具"
+        },
+        {
+            "key": "RECOMMEND_TEAM_FAVORITE_DESC",
+            "value": "<line-height=26>※勾選後則會優先編配<br>於兵員詳細資訊設定的鎖定武具。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_CALCULATING",
+            "value": "檢索中"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_TITLE",
+            "value": "請勾選項目"
+        },
+        {
+            "key": "RECOMMEND_TEAM_ERROR_CAUTION",
+            "value": "請由武具、幻兵卡、召喚獸中<br>最少選1個勾選。"
+        },
+        {
+            "key": "TEAM_NAME_INPUT_TITLE",
+            "value": "變更名稱"
+        },
+        {
+            "key": "TEAM_NAME_INPUT_DESC",
+            "value": "請輸入新的隊伍名字"
+        },
+        {
+            "key": "UNIT_TOOLTIP_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "UNIT_TOOLTIP_STATUS_DETAIL",
+            "value": "狀態詳細資訊"
+        },
+        {
+            "key": "UNIT_TOOLTIP_ABILITY_TITLE",
+            "value": "能力"
+        },
+        {
+            "key": "UNIT_TOOLTIP_NONE",
+            "value": "無"
+        },
+        {
+            "key": "UNIT_TOOLTIP_ABILITY_USED",
+            "value": "能力使用狀況"
+        },
+        {
+            "key": "HARD_RESET_CHECK_TITLE",
+            "value": "重置挑戰次數"
+        },
+        {
+            "key": "HARD_RESET_CHECK_DESC",
+            "value": "要消耗<color=#FFF080>{0}個幻導石</color><br><color=#FFF080>重置挑戰次數({1}/{2})</color>嗎？"
+        },
+        {
+            "key": "HARD_RESET_CHECK_LIMIT",
+            "value": "(今天可以重置的次數{0}/{1})"
+        },
+        {
+            "key": "HARD_RESET_CHECK_OVER_DESC",
+            "value": "該任務今天可以重置的次數<br>已達上限。"
+        },
+        {
+            "key": "HARD_RESET_CHECK_OVER_CONDITION",
+            "value": "達到<color=#FFF080>會員等級 {0}</color>後<br><color=#FFF080>1天可重置{1}次</color>。"
+        },
+        {
+            "key": "HARD_RESET_OVER",
+            "value": "已超過1天可重置的上限。"
+        },
+        {
+            "key": "HARD_RESET_FINISH_TITLE",
+            "value": "重置挑戰次數"
+        },
+        {
+            "key": "HARD_RESET_FINISH_DESC",
+            "value": "已重置挑戰次數。<br>今天還能再出擊{0}次。"
+        },
+        {
+            "key": "GUILD_BATTLE_RANK_UP_DESC",
+            "value": "公會聯盟升段至{0}。"
+        },
+        {
+            "key": "GUILD_BATTLE_RANK_DOWN_DESC",
+            "value": "公會聯盟降段至{0}。"
+        },
+        {
+            "key": "MULTI_SOLO",
+            "value": "單人"
+        },
+        {
+            "key": "MULTI_PAIR",
+            "value": "雙人"
+        },
+        {
+            "key": "MULTI_QUARTET",
+            "value": "四人協力"
+        },
+        {
+            "key": "MULTI_ROOM_PARAM_CHANGE",
+            "value": "房間設定已更新"
+        },
+        {
+            "key": "MULTI_ROOM_FIRST_COMMENT",
+            "value": "非常歡迎參加！"
+        },
+        {
+            "key": "MULTI_ROOM_COMMENT_NONE",
+            "value": "非常歡迎參加！"
+        },
+        {
+            "key": "CHAT_TAB_WORLD",
+            "value": "世界"
+        },
+        {
+            "key": "CHAT_TAB_GUILD",
+            "value": "公會"
+        },
+        {
+            "key": "CHAT_TAB_ROOM",
+            "value": "協力"
+        },
+        {
+            "key": "CHAT_TEMPLATE_TITLE",
+            "value": "定型文"
+        },
+        {
+            "key": "CHAT_STAMP_TITLE",
+            "value": "貼圖"
+        },
+        {
+            "key": "CHAT_CHANNEL_NUM",
+            "value": "CH{0}"
+        },
+        {
+            "key": "CHAT_DISABLE",
+            "value": "聊天功能已無效。<br>可在選單畫面中將聊天功能改為有效。"
+        },
+        {
+            "key": "CHAT_CUID",
+            "value": "玩家ID:[*****{0}]"
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST_TITLE",
+            "value": "加入公會申請"
+        },
+        {
+            "key": "CHAT_GUILD_JOIN_TITLE",
+            "value": "加入公會確認"
+        },
+        {
+            "key": "CHAT_GUILD_RECRUITMENT",
+            "value": "募集成員"
+        },
+        {
+            "key": "CHAT_GUILD_CONDITION",
+            "value": "<color=#FFF080>等級限制</color>：  "
+        },
+        {
+            "key": "CHAT_GUILD_AUTO_APPROVAL",
+            "value": "<color=#FFF080>自動同意</color>："
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST",
+            "value": "申請"
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST_DESC_JOIN",
+            "value": "<line-height=38>要提出加入申請嗎？<br>※會長同意後即可加入。"
+        },
+        {
+            "key": "CHAT_GUILD_REQUEST_DESC_FAILED",
+            "value": "<line-height=38>尚未達到加入條件<br>因此無法提出加入申請。"
+        },
+        {
+            "key": "CHAT_GUILD_JOIN_DESC",
+            "value": "要加入公會嗎？"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_CHAT",
+            "value": "聊天"
+        },
+        {
+            "key": "CHAT_GUILD_FILTER_BATTLE_LOG",
+            "value": "戰鬥紀錄"
+        },
+        {
+            "key": "CHAT_NOTTFY_TEXT",
+            "value": "[{0}]:{1}"
+        },
+        {
+            "key": "CHAT_NOTTFY_STAMP",
+            "value": "[{0}]已發送貼圖"
+        },
+        {
+            "key": "CHAT_NOTTFY_GUILD",
+            "value": "[{0}]:{1}"
+        },
+        {
+            "key": "CHAT_NOTIFY_MATCH",
+            "value": "[{0}]:{1}"
+        },
+        {
+            "key": "CHAT_NOTIFY_FRIEND_INVITE",
+            "value": "{0}被邀請好友匹配"
+        },
+        {
+            "key": "CHAT_CHANNEL_SELECT",
+            "value": "選擇頻道"
+        },
+        {
+            "key": "CHAT_CHANNEL_FILTER_TITLE",
+            "value": "{0}～{1}"
+        },
+        {
+            "key": "CHAT_CHANNEL_GROUP_NAME",
+            "value": "CH{0}<space=6>～<space=6>{1}"
+        },
+        {
+            "key": "CHAT_CHANNEL_ROOM",
+            "value": "房間頻道"
+        },
+        {
+            "key": "CHAT_CHANNEL_GUILD",
+            "value": "公會頻道"
+        },
+        {
+            "key": "CHAT_FRIEND_RECRUITMENT",
+            "value": "進行好友匹配！"
+        },
+        {
+            "key": "CHAT_FRIEND_JOIN",
+            "value": "參戰"
+        },
+        {
+            "key": "CHAT_FRIEND_WATCH",
+            "value": "觀戰"
+        },
+        {
+            "key": "CHAT_FRIEND_INVITE",
+            "value": "邀請"
+        },
+        {
+            "key": "CHAT_FRIEND_INVITE_COMMENT",
+            "value": "好友匹配正在募集中<br>請踴躍參加哦"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_TITLE",
+            "value": "好友匹配邀請"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_WATCH",
+            "value": "允許觀戰"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_COMMENT",
+            "value": "輸入留言"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_DESC",
+            "value": "<line-height=38>邀請公會和聊天夥伴<br>來參加好友匹配吧。"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_FAIL_TITLE",
+            "value": "發送失敗"
+        },
+        {
+            "key": "CHAT_MATCH_INVITE_FAIL_DESC",
+            "value": "無法使用房間頻道發送邀請。<br>請使用世界頻道或公會頻道來進行發送。"
+        },
+        {
+            "key": "CHAT_MATCH_INVITATION_CONFIRM",
+            "value": "要參戰<color=#F0C040>{0}</color>的<br>好友匹配。<br>確定嗎？"
+        },
+        {
+            "key": "CHAT_FRIEND_JOIN_FAILD_TITLE",
+            "value": "參戰失敗"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MULTI_OWNER",
+            "value": "已經參加隊伍。<br>如要參戰，<br>請先解散隊伍。"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MULTI_OTHER",
+            "value": "已經參加隊伍。<br>如要參戰，<br>請先退出隊伍。"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MATCH_OWNER",
+            "value": "已經參戰。<br>如要變更對戰對手，<br>請先解散隊伍。"
+        },
+        {
+            "key": "CHAT_MATCH_ALREADY_JOINED_MATCH_OTHER",
+            "value": "已經參戰。<br>如要變更對戰對手，<br>請先退出隊伍。"
+        },
+        {
+            "key": "CHAT_NOT_EXIST",
+            "value": "參加失敗。<br>房間不存在。"
+        },
+        {
+            "key": "CHAT_CAPACITY_OVER",
+            "value": "參加失敗。<br>房間已客滿。"
+        },
+        {
+            "key": "CHAT_RESTRICTED_WATCHING",
+            "value": "現在無法觀戰。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_SUCCESS_TITLE",
+            "value": "成功加入公會"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_SEND_JOIN_REQUSET_TITLE",
+            "value": "發送加入申請"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_SUCCESS_DISC",
+            "value": "加入了<br>{0}。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_SEND_JOIN_REQUSET_DISC",
+            "value": "已發送<br>{0}的加入申請。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_FAILD_TITLE",
+            "value": "加入公會失敗"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_JOINED_FAILD_DISC",
+            "value": "由於該公會人數已達上限，<br>因此無法加入公會。"
+        },
+        {
+            "key": "CHAT_RECRUIT_GUILD_ALREADY_JOINED_DISC",
+            "value": "已加入公會。<br>如要發送申請，<br>請先退出公會。"
+        },
+        {
+            "key": "GUILD_RECRUIT_AUTO_JOIN_ON",
+            "value": "ON"
+        },
+        {
+            "key": "GUILD_RECRUIT_AUTO_JOIN_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "GUILD_RECRUIT_NOT_LIMITED_RANK",
+            "value": "無指定"
+        },
+        {
+            "key": "GUILD_RECRUIT_LIMITED_RANK",
+            "value": "{0} 以上"
+        },
+        {
+            "key": "RAID_ENCOUNT_TRY",
+            "value": "立刻挑戰！"
+        },
+        {
+            "key": "RAID_ENCOUNT_LATER",
+            "value": "稍後再說"
+        },
+        {
+            "key": "RAID_ENCOUNT_LIMIT",
+            "value": "剩餘時間"
+        },
+        {
+            "key": "RAID_BOSS_TYPE_NORMAL",
+            "value": "普通"
+        },
+        {
+            "key": "RAID_BOSS_TYPE_RARE",
+            "value": "稀有"
+        },
+        {
+            "key": "MISSION_TIMEOUT_TITLE",
+            "value": "非挑戰期間內"
+        },
+        {
+            "key": "MISSION_TIMEOUT_DESC",
+            "value": "期限已過，無法領取。"
+        },
+        {
+            "key": "MISSION_TIMEOUT_TRY_TITLE",
+            "value": "非挑戰期間內"
+        },
+        {
+            "key": "MISSION_TIMEOUT_TRY_DESC",
+            "value": "超過期間，無法挑戰。"
+        },
+        {
+            "key": "FIRE",
+            "value": "火"
+        },
+        {
+            "key": "ICE",
+            "value": "冰"
+        },
+        {
+            "key": "WIND",
+            "value": "風"
+        },
+        {
+            "key": "EARTH",
+            "value": "土"
+        },
+        {
+            "key": "THUNDER",
+            "value": "雷"
+        },
+        {
+            "key": "WATER",
+            "value": "水"
+        },
+        {
+            "key": "SHINE",
+            "value": "光"
+        },
+        {
+            "key": "DARK",
+            "value": "暗"
+        },
+        {
+            "key": "FIRE_ELM",
+            "value": "火屬性"
+        },
+        {
+            "key": "ICE_ELM",
+            "value": "冰屬性"
+        },
+        {
+            "key": "WIND_ELM",
+            "value": "風屬性"
+        },
+        {
+            "key": "EARTH_ELM",
+            "value": "土屬性"
+        },
+        {
+            "key": "THUNDER_ELM",
+            "value": "雷屬性"
+        },
+        {
+            "key": "WATER_ELM",
+            "value": "水屬性"
+        },
+        {
+            "key": "SHINE_ELM",
+            "value": "光屬性"
+        },
+        {
+            "key": "DARK_ELM",
+            "value": "暗屬性"
+        },
+        {
+            "key": "NOTIFY_TITLE",
+            "value": "WARS OF THE VISIONS FINAL FANTASY BRAVE EXVIUS"
+        },
+        {
+            "key": "NOTIFY_STAMINA_MAX",
+            "value": "體力完全恢復了！"
+        },
+        {
+            "key": "NOTIFY_RUNOUT_FOOD",
+            "value": "補充公會兵舍的糧食吧！"
+        },
+        {
+            "key": "NOTIFY_CHOCOBO_ITEM_MAX",
+            "value": "探險陸行鳥已經可以收取道具！"
+        },
+        {
+            "key": "SUPPORT_TITLE",
+            "value": "諮詢"
+        },
+        {
+            "key": "SUPPORT_ID_TITLE",
+            "value": "您的玩家ID"
+        },
+        {
+            "key": "SUPPORT_ID_DESC",
+            "value": "<line-height=28>此數字為確認遊戲紀錄持有者的重要證明，提出支援服務諮詢時需要提供。<br>除了常用裝置外，建議以其他方式記錄並妥善保存。"
+        },
+        {
+            "key": "SUPPORT_MAIL_TITLE",
+            "value": "<line-height=30>請透過以下方式進行諮詢。<br>點擊該按鈕後即可開啟電子郵件信箱。<br><br>使用者可針對此應用向gumi Inc提出支援詢問。為向使用者提供支援，我們會蒐集、處理及利用使用者個人資料。我們會將這些個人資料提供予我們簽約委託的全資子公司以及第三方服務供應商，由他們基於本目的提供協助。個人資料僅會基於本目的進行處理，並會遵循隱私政策。當您點選此URL並以線上表單提出查詢，即代表您同意此類蒐集、處理及利用您個人資料的活動，並同意受本公司隱私政策之拘束，僅提供隱私政策於此："
+        },
+        {
+            "key": "SUPPORT_MAIL_INHERITANCE_TITLE",
+            "value": "關於繼承的諮詢"
+        },
+        {
+            "key": "SUPPORT_MAIL_INHERITANCE_DESC",
+            "value": "更換裝置，遊戲資料消失"
+        },
+        {
+            "key": "SUPPORT_MAIL_LAPIS_TITLE",
+            "value": "關於購買幻導石的諮詢"
+        },
+        {
+            "key": "SUPPORT_MAIL_LAPIS_DESC",
+            "value": "購買了幻導石卻沒有獲得或正常顯示數量時"
+        },
+        {
+            "key": "SUPPORT_MAIL_BUG_TITLE",
+            "value": "錯誤報告"
+        },
+        {
+            "key": "SUPPORT_MAIL_BUG_DESC",
+            "value": "遊戲無法啟動，地圖無法顯示等"
+        },
+        {
+            "key": "SUPPORT_MAIL_REQUEST_TITLE",
+            "value": "意見·建議"
+        },
+        {
+            "key": "SUPPORT_MAIL_REQUEST_DESC",
+            "value": "遊戲相關意見·建議"
+        },
+        {
+            "key": "SUPPORT_MAIL_DESC",
+            "value": "<line-height=30>發送諮詢郵件後，系統會自動回覆一封郵件表示受理，<br>因此請將「@gu3.co.jp」設定為允許接收的寄件者。<br>※根據郵件軟體的不同，此郵件可能會被視為垃圾郵件。<br><br>▼以下資訊將會引用至郵件中：<br>·玩家ID<br>·遊戲版本<br>·DLC_Ver<br>·玩家名稱<br>·使用裝置<br>·使用的OS版本<br><br>▼諮詢受理時間<br>10:00～18:00（週一～週五）<br><br>■諮詢相關注意事項<br>·根據諮詢的內容，有時可能需要一定的時間才能回覆，也有可能出現無法回覆的情況。<br>　※如遇星期六、日和國定假日，或於弊公司暫停營業的期間中，支援服務窗口也將暫停受理服務，因此會於下個工作日才進行回覆。<br>·關於諮詢的受理、回覆均以郵件形式進行。<br>·若諮詢有關通知內或官方網站上公開的內容與異常問題，我們可能將會根據公告的內容進行回覆，敬請見諒。<br>·我們並不會回覆玩家有關遊戲攻略資訊或遊戲設定方面的諮詢。<br>·原則上我們並不會回覆有關建議或意見的諮詢郵件，但我們會確認所有的內容並作為將來的參考。<br>·諮詢郵件將由gumi股份有限公司回覆。<br>·gumi股份有限公司的隱私權政策請參考以下連結頁面：<br>https://gu3.co.jp/policy/ <br>"
+        },
+        {
+            "key": "SUPPORT_MAIL_ADDRESS",
+            "value": "support@wotvffbe.com"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT",
+            "value": "諮詢【WARS OF THE VISIONS FINAL FANTASY BRAVE EXVIUS】【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_01",
+            "value": "繼承紀錄【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_02",
+            "value": "購買幻導石【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_03",
+            "value": "錯誤報告【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_04",
+            "value": "意見·建議【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_SUBJECT_05",
+            "value": "用戶通報【{0}】"
+        },
+        {
+            "key": "SUPPORT_MAIL_BODY_TEMPLATE",
+            "value": "■請填寫<br>→<br><br><br><br>{0}-----以下不需編輯-----<br>"
+        },
+        {
+            "key": "SUPPORT_MAIL_PLAYER_DATA",
+            "value": "·玩家ID：{0}<br>·遊戲版本：{1}<br>·DLC_Ver：{2}<br>·玩家名：{3}<br>·使用的裝置：{4}<br>·使用的OS版本：{5}<br>"
+        },
+        {
+            "key": "SUPPORT_MAIL_BODY_OPTION_03",
+            "value": "※原則上，本分類收到的內容均不會回信，但根據內容也可能會回信，請諒解。<br>※玩家報告的內容，也有可能會出現在在通知或官方網站上的通知中。"
+        },
+        {
+            "key": "SUPPORT_MAIL_BODY_OPTION_04",
+            "value": "原則上我們並不會回覆有關建議或意見的諮詢郵件，敬請見諒。<br>"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_TITLE",
+            "value": "繼承紀錄"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_DESC",
+            "value": "請輸入玩家ID與設定好的繼承密碼。"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_ID",
+            "value": "玩家ID"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_PASS",
+            "value": "繼承<br>密碼"
+        },
+        {
+            "key": "DATA_CONNECT_INPUT_CHECK",
+            "value": "顯示繼承密碼"
+        },
+        {
+            "key": "DATA_CONNECT_CAUTION_TITLE",
+            "value": "注意事項"
+        },
+        {
+            "key": "DATA_CONNECT_CAUTION_DESC",
+            "value": "·透過繼承紀錄，即使以複數裝置遊玩或更換機種，也能以相同的遊戲資料進行遊戲。<br>·若於不同平臺的裝置間繼承紀錄，收費與免費的「幻導石」則無法轉移。若平臺與購買幻導石的原裝置相同，則可以繼續使用。（同樣平臺中的「幻導石」可通用）<br>·若於正在遊玩「WARS OF THE VISIONS FINAL FANTASY BRAVE EXVIUS」<br>的裝置上進行繼承紀錄，繼承前的遊戲紀錄將會被覆蓋並刪除，敬請留意。<br>複數裝置上不同的遊戲資料無法統合為一。<br>·選項中的設定將會恢復至預設狀態。<br>·遊戲資料若有不當交易的情形，營運團隊可能將採取帳號停用措施。<br><br>※遊玩此遊戲所使用過的裝置在買賣、轉讓時，請務必在繼承遊戲紀錄後進行以下操作，避免於該裝置中殘留遊戲帳號的備份資料。<br><br>【資料備份的解除方法】<br>請確認帳號資料於新的裝置中繼承完畢後，於舊裝置前往遊戲標題畫面或遊戲內的「選單」中，選擇資料備份並進行「帳號解除」。<br>帳號解除後，請將「WARS OF THE VISIONS FINAL FANTASY BRAVE EXVIUS」<br>從舊裝置中刪除。"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_TITLE",
+            "value": "刪除下載資料"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_DESC",
+            "value": "要删除追加內容嗎？"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_START",
+            "value": "已刪除下載資料"
+        },
+        {
+            "key": "DELETE_DOWNLOAD_DATA_NONE",
+            "value": "沒有下載資料"
+        },
+        {
+            "key": "CACHE_CLEAR_DESC",
+            "value": "<cspace=2>清除緩存中…"
+        },
+        {
+            "key": "OPTION_TITLE",
+            "value": "選單"
+        },
+        {
+            "key": "OPTION_BATTLE_TITLE",
+            "value": "戰鬥設定"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE",
+            "value": "自動戰鬥"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_SUBTITLE",
+            "value": "自動戰鬥設定"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_TREASURE",
+            "value": "寶箱優先"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_NOT_ABILITY",
+            "value": "不使用能力"
+        },
+        {
+            "key": "OPTION_AUTO_BATTLE_CAUTION",
+            "value": "初次禁止自動"
+        },
+        {
+            "key": "OPTION_ABILITY",
+            "value": "能力演出"
+        },
+        {
+            "key": "OPTION_JPBOOST",
+            "value": "使用獲得JP提升道具"
+        },
+        {
+            "key": "OPTION_EFFECT",
+            "value": "範圍效果顯示"
+        },
+        {
+            "key": "OPTION_SOUND",
+            "value": "音樂"
+        },
+        {
+            "key": "OPTION_BGM",
+            "value": "BGM"
+        },
+        {
+            "key": "OPTION_SE",
+            "value": "SE"
+        },
+        {
+            "key": "OPTION_VOICE",
+            "value": "配音"
+        },
+        {
+            "key": "OPTION_SPEEDUP_TITLE",
+            "value": "加速功能"
+        },
+        {
+            "key": "OPTION_SPEEDUP_OFF",
+            "value": "OFF"
+        },
+        {
+            "key": "OPTION_SPEEDUP_VALUE",
+            "value": "×{0:F1}"
+        },
+        {
+            "key": "OPTION_SPEEDUP_VALUE_INT",
+            "value": "×{0}"
+        },
+        {
+            "key": "OPTION_SPEEDUP_LOCK_TITLE",
+            "value": "解鎖條件："
+        },
+        {
+            "key": "OPTION_SPEEDUP_LOCK",
+            "value": "會員等級{0}"
+        },
+        {
+            "key": "OPTION_CHANGE_TITLE",
+            "value": "圖像設定"
+        },
+        {
+            "key": "OPTION_CHANGE_DRAW",
+            "value": "切換圖像設定"
+        },
+        {
+            "key": "OPTION_LAP_TITLE",
+            "value": "連刷設定"
+        },
+        {
+            "key": "OPTION_LAP_LIMIT",
+            "value": "連刷限制"
+        },
+        {
+            "key": "OPTION_LAP_NONE",
+            "value": "無限制"
+        },
+        {
+            "key": "OPTION_LAP_TIMES",
+            "value": "連刷數"
+        },
+        {
+            "key": "OPTION_LAP_ITEM",
+            "value": "獲得道具"
+        },
+        {
+            "key": "OPTION_LAP_USE_ITEM",
+            "value": "消耗體力"
+        },
+        {
+            "key": "OPTION_LAP_STOP",
+            "value": "停止連刷"
+        },
+        {
+            "key": "OPTION_LAP_FEAVER",
+            "value": "探險陸行鳥Fever"
+        },
+        {
+            "key": "OPTION_LAP_CAPRICIOUS",
+            "value": "遇到流動商店"
+        },
+        {
+            "key": "OPTION_LAP_RAID",
+            "value": "共鬥頭目出現"
+        },
+        {
+            "key": "OPTION_LAP_STOP_CAUTION",
+            "value": "※若設定為ON，出現跳轉演示畫面時將會停止連刷。"
+        },
+        {
+            "key": "OPTION_LAP_AP_USE",
+            "value": "自動使用體力恢復藥"
+        },
+        {
+            "key": "OPTION_LAP_AP_TIMES",
+            "value": "恢復次數上限"
+        },
+        {
+            "key": "OPTION_LAP_AP_CAUTION",
+            "value": "※連刷中體力不足時將自動恢復體力。<br>※不會以消耗恢復藥以外的方式恢復體力。<br>※會由恢復量較大的恢復藥用起。"
+        },
+        {
+            "key": "OPTION_ITEM_TITLE",
+            "value": "選擇道具"
+        },
+        {
+            "key": "LAPIS_CAUTION_GOOGLE",
+            "value": "<line-height=32>無法獲取道具購入列表。<br>※如欲取得列表，需先登入Google帳號。<br>請於登入後重新啟動遊戲再試一次。"
+        },
+        {
+            "key": "LAPIS_CAUTION_AMAZONSTORE",
+            "value": "<line-height=32>無法獲取道具購入列表。<br>※如欲取得列表，需先安裝並登入AmazonStore應用程式。<br>請於安裝並登入該應用程式後，重新啟動遊戲再試一次。"
+        },
+        {
+            "key": "LAPIS_CAUTION_POP_TITLE",
+            "value": "注意"
+        },
+        {
+            "key": "LAPIS_CAUTION_GOOGLE_POP_DESC",
+            "value": "無法獲取<br>道具購入列表。<br>※如欲取得列表<br>需先登入Google帳號。<br>請於登入後重新啟動遊戲<br>再試一次。"
+        },
+        {
+            "key": "LAPIS_CAUTION_AMAZON_POP_DESC",
+            "value": "無法獲取<br>道具購入列表。<br>※如欲取得列表，需安裝並登入<br>AmazonStore應用程式。<br>請於安裝並登入該應用程式後，重新啟動遊戲再試一次。"
+        },
+        {
+            "key": "LAPIS_PURCHASE_CONFIRM_TITLE",
+            "value": "購買確認"
+        },
+        {
+            "key": "LAPIS_PURCHASE_CONFIRM_MESSAGE",
+            "value": "用{1}<br>購買{0}。<br>確認嗎？"
+        },
+        {
+            "key": "LAPIS_LACK_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "LAPIS_LACK_DESC",
+            "value": "幻導石不足。<br>要購買幻導石嗎？"
+        },
+        {
+            "key": "LAPIS_LACK_CAUTION",
+            "value": "※會優先使用免費獲得的幻導石。"
+        },
+        {
+            "key": "LAPIS_LACK_BUY",
+            "value": "購買幻導石"
+        },
+        {
+            "key": "_TEMP_LAPIS_LACK_TITLE",
+            "value": "幻導石不足"
+        },
+        {
+            "key": "_TEMP_LAPIS_LACK_DESC",
+            "value": "幻導石不足"
+        },
+        {
+            "key": "LAPIS_RIGHT_LIMITED",
+            "value": "購買後{0}天有效"
+        },
+        {
+            "key": "LAPIS_RIGHT_PURCHESED",
+            "value": "已購買"
+        },
+        {
+            "key": "LAPIS_CHECK_RIGHT_TITLE",
+            "value": "購買確認"
+        },
+        {
+            "key": "LAPIS_CHECK_RIGHT_BTN",
+            "value": "購買"
+        },
+        {
+            "key": "BUY_RIGHT_FINISH_TITLE",
+            "value": "購買完成"
+        },
+        {
+            "key": "BUY_RIGHT_FINISH_DESC",
+            "value": "購買了<br>{0}。"
+        },
+        {
+            "key": "BUY_RIGHT_APPEAL_DESC",
+            "value": "<line-height=32>「{0}」<br>已經可以購買！"
+        },
+        {
+            "key": "BUY_RIGHT_APPEAL_BTN",
+            "value": "前往購買"
+        },
+        {
+            "key": "GIL_LACK_TITLE",
+            "value": "金幣不足"
+        },
+        {
+            "key": "GIL_LACK_DESC",
+            "value": "金幣不足"
+        },
+        {
+            "key": "GIL_LACK_DESC_SHORT",
+            "value": "金幣不足"
+        },
+        {
+            "key": "AP_NOT_RECEIVE_FOR_UPPER",
+            "value": "由於體力已達上限，<br>無法領取報酬。"
+        },
+        {
+            "key": "AP_REMOVE_FOR_OVER",
+            "value": "<size=25>超過上限的體力將被捨棄。<br>確定嗎？</size>"
+        },
+        {
+            "key": "AP_HEAL_UNNEEDED",
+            "value": "沒有恢復體力的必要"
+        },
+        {
+            "key": "AP_LACK_TITLE",
+            "value": "體力不足"
+        },
+        {
+            "key": "AP_LACK_DESC",
+            "value": "體力不足。<br>要恢復嗎？"
+        },
+        {
+            "key": "BP_LACK_TITLE",
+            "value": "寶珠不足"
+        },
+        {
+            "key": "BP_LACK_DESC",
+            "value": "寶珠不足。<br>要恢復嗎？"
+        },
+        {
+            "key": "ITEM_LACK_LAP_TITLE",
+            "value": "道具不足"
+        },
+        {
+            "key": "ITEM_LACK_LAP_DESC",
+            "value": "因為{0}不足<br>結束自動連刷。"
+        },
+        {
+            "key": "REWARD_RECEIVE",
+            "value": "領取報酬"
+        },
+        {
+            "key": "CLASSMATCH_PROMOTION_DESC",
+            "value": "距離升段戰還有"
+        },
+        {
+            "key": "CLASSMATCH_PROMOTION_DESC2",
+            "value": "距離升段還有"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_CLASS",
+            "value": "段位報酬"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_PROM",
+            "value": "升段報酬"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_CLASS_DESC",
+            "value": "已收取段位報酬。"
+        },
+        {
+            "key": "CLASSMATCH_REWARD_PROM_DESC",
+            "value": "已收取段位升段報酬。"
+        },
+        {
+            "key": "CLASSMATCH_OPEN_TITLE",
+            "value": "舉辦中"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_TITLE",
+            "value": "戰鬥進行中"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_DESC",
+            "value": "還有<space=7><color=#FFF080>{0}</color>小時"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_MINUTES",
+            "value": "還有<space=7><color=#FFF080>{0}</color>分"
+        },
+        {
+            "key": "CLASSMATCH_ENABLE_BATTLE_SECOND",
+            "value": "還有<space=7><color=#FFF080>{0}</color>秒"
+        },
+        {
+            "key": "CLASSMATCH_CLOSE_TITLE",
+            "value": "戰鬥結束"
+        },
+        {
+            "key": "CLASSMATCH_NEXT_BATTLE_TITLE",
+            "value": "等待下一場戰鬥"
+        },
+        {
+            "key": "CLASSMATCH_BATTLE_PERIOD",
+            "value": "{0}<space=10>~<space=5>{1}"
+        },
+        {
+            "key": "CLASSMATCH_GET_REWARD_TITLE",
+            "value": "領取報酬"
+        },
+        {
+            "key": "CLASSMATCH_GET_REWARD_DESC",
+            "value": "~<space=5>{0}"
+        },
+        {
+            "key": "CLASSMATCH_PERIOD_OUTSIDE_TITLE",
+            "value": "【非舉辦期間內】"
+        },
+        {
+            "key": "CLASSMATCH_PERIOD_OUTSIDE_DESC",
+            "value": "敬請期待下次舉辦"
+        },
+        {
+            "key": "PRESENT_CAP_OVER_TITLE",
+            "value": "領取失敗"
+        },
+        {
+            "key": "PRESENT_CAP_OVER_DESC",
+            "value": "由於超過持有上限，無法領取道具。"
+        },
+        {
+            "key": "PRESENT_CAP_OVER_DESC_PART",
+            "value": "由於超過持有上限，無法領取部分道具。"
+        },
+        {
+            "key": "ANALYZED_DEVICE_TITLE",
+            "value": "圖像設定的通知"
+        },
+        {
+            "key": "ANALYZED_DEVICE_DESC",
+            "value": "推薦圖像設定<br>變更為「簡略」。<br>要變更嗎？<br><br>※可隨時在<br>選單中變更。"
+        },
+        {
+            "key": "APPGUARD_SECURITY_VIOLATION_TITLE",
+            "value": "錯誤"
+        },
+        {
+            "key": "APPGUARD_SECURITY_VIOLATION_MESSAGE",
+            "value": "由於檢測到有違反安全政策<br>的行為，遊戲終止。<br>[No. {0}]"
+        },
+        {
+            "key": "MEMORY_MENU_STORY",
+            "value": "劇情"
+        },
+        {
+            "key": "MEMORY_MENU_EVENT",
+            "value": "活動"
+        },
+        {
+            "key": "MEMORY_MENU_MOVIE",
+            "value": "影片"
+        },
+        {
+            "key": "MEMORY_MENU_SPECIAL",
+            "value": "特別影片"
+        },
+        {
+            "key": "MEMORY_MENU_SUMMON",
+            "value": "召喚獸"
+        },
+        {
+            "key": "MEMORY_MOVIE_SKIP_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "MEMORY_MOVIE_SKIP_DESC",
+            "value": "要跳過動畫嗎？"
+        },
+        {
+            "key": "MEMORY_STORY_PLAY_DESC",
+            "value": "開始播放回想。<br>確定嗎？"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_TITLE",
+            "value": "播放結束"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_MSG",
+            "value": "要接續播放下一個回想場景嗎？"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_YES",
+            "value": "播放"
+        },
+        {
+            "key": "MEMORY_DEMOPLAY_NO",
+            "value": "結束"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_TITLE",
+            "value": "年齡確認"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_DESC",
+            "value": "<line-height=30>如欲購買虛擬貨幣，需先登記出生年月。<br>根據您的年齡，每個月可購買的金額將有所不同。<br>請如實登記出生年月。"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_CAUTION",
+            "value": "※出生年月登記後無法進行修改。"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_TITLE",
+            "value": "每個月可以購入的金額。"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_01_TITLE",
+            "value": "0歲以上～15歲以下"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_01_VALUE",
+            "value": "最多5,000日元"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_02_TITLE",
+            "value": "16歲以上～19歲以下"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_02_VALUE",
+            "value": "最多30,000日元"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_03_TITLE",
+            "value": "20歲以上～"
+        },
+        {
+            "key": "CHECK_BIRTHDAY_LIST_03_VALUE",
+            "value": "無限制"
+        },
+        {
+            "key": "REVIEW_APPLY",
+            "value": "進行評價"
+        },
+        {
+            "key": "REVIEW_COMPLAIN",
+            "value": "如有意見請前往此處"
+        },
+        {
+            "key": "REVIEW_CLOSE",
+            "value": "下次再說"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_TITLE",
+            "value": "刪除用戶帳號"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_DESC",
+            "value": "用戶資訊將會消失。<br>確定要執行嗎？"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_FINAL_CONFIRM_TITLE",
+            "value": "最後確認"
+        },
+        {
+            "key": "DELETE_USER_ACCOUNT_FINAL_CONFIRM_DESC",
+            "value": "用戶資訊將會消失。<br>真的確定要執行嗎？"
+        },
+        {
+            "key": "DELETE_USER_FINISH",
+            "value": "已刪除用戶帳號。"
+        },
+        {
+            "key": "DEMO_SKIP",
+            "value": "<cspace=1>跳過"
+        },
+        {
+            "key": "DEMO_AUTO",
+            "value": "<cspace=1>自動"
+        },
+        {
+            "key": "DEMO_LOG",
+            "value": "<cspace=1>紀錄"
+        },
+        {
+            "key": "UNIT_UNLOCK_QUEST_TITLE",
+            "value": "角色任務解鎖"
+        },
+        {
+            "key": "UNIT_UNLOCK_QUEST_DESC",
+            "value": "角色任務已解鎖。"
+        },
+        {
+            "key": "UNIT_UNLOCK_QUEST_BTN",
+            "value": "角色任務"
+        },
+        {
+            "key": "AUTOLAP_SALLY_TITLE",
+            "value": "以自動連刷出擊"
+        },
+        {
+            "key": "AUTOLAP_SALLY_DESC",
+            "value": "自動連刷<br>初期配置為OFF，無同行者<br>的狀態出擊。"
+        },
+        {
+            "key": "TOWER_QUEST_TYPE_NORMAL",
+            "value": "普通"
+        },
+        {
+            "key": "TOWER_QUEST_TYPE_EX",
+            "value": "EX"
+        },
+        {
+            "key": "TOWER_SCORE_TOTAL_ACTION",
+            "value": "累計行動次數"
+        },
+        {
+            "key": "TOWER_SCORE_UNIT_DEAD",
+            "value": "無法戰鬥的兵員數"
+        },
+        {
+            "key": "TOWER_SCORE_GIVEUP",
+            "value": "撤退次數"
+        },
+        {
+            "key": "TOWER_SCORE_HEAL",
+            "value": "全兵員恢復數"
+        },
+        {
+            "key": "TOWER_SCORE_CHALLENGE",
+            "value": "挑戰次數"
+        },
+        {
+            "key": "TOWER_SCORE_LOSE",
+            "value": "敗北次數"
+        },
+        {
+            "key": "TOWER_SCORE_RESET",
+            "value": "戰鬥重置次數"
+        },
+        {
+            "key": "TOWER_RANKING_SPEED",
+            "value": "速度排名"
+        },
+        {
+            "key": "TOWER_RANKING_TECHNICAL",
+            "value": "技術排名"
+        },
+        {
+            "key": "ARTI_CONDITION_TITLE",
+            "value": "可裝備條件"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_TITLE",
+            "value": "可裝備職業"
+        },
+        {
+            "key": "ARTI_CONDITION_NONE",
+            "value": "無可裝備條件"
+        },
+        {
+            "key": "ARTI_CONDITION_COUNTRY",
+            "value": "·{0}出身"
+        },
+        {
+            "key": "ARTI_CONDITION_SEX",
+            "value": "·{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_UNIT",
+            "value": "·{0}"
+        },
+        {
+            "key": "ARTI_CONDITION_RARITY",
+            "value": "·稀有度 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_AWAKE",
+            "value": "·覺醒數 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_RANK",
+            "value": "·極限突破數 {0}以上"
+        },
+        {
+            "key": "ARTI_CONDITION_SERIES",
+            "value": "·系列 {0}"
+        },
+        {
+            "key": "ARTI_CONDITION_JOB_NONE",
+            "value": "所有職業都可以裝備"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_TITLE",
+            "value": "兵員詳細資訊"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_UNIT_CAUTION",
+            "value": "※覺醒★{0}/極限突破{1}/等級·全職業等級(JobLv)為MAX時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_TITLE",
+            "value": "幻兵卡詳細資訊"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_CAUTION",
+            "value": "※覺醒★{0}/等級MAX時"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_NBEAST_TITLE",
+            "value": "召喚獸詳細資訊"
+        },
+        {
+            "key": "GACHA_STATUS_DETAIL_VISION_FIRST",
+            "value": "※僅限初次可獲得召喚獸"
+        },
+        {
+            "key": "VISION_DETAIL_STATUS",
+            "value": "狀態"
+        },
+        {
+            "key": "VISION_DETAIL_INFO",
+            "value": "資訊"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_EFF",
+            "value": "賦予效果"
+        },
+        {
+            "key": "VISION_DETAIL_ADD_LIMITED_EFF",
+            "value": "賦予限定效果"
+        },
+        {
+            "key": "VISION_DETAIL_ABILITY_CHANGE",
+            "value": "能力變化"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE_BONUS",
+            "value": "覺醒獎勵"
+        },
+        {
+            "key": "VISION_DETAIL_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "VISION_DETAIL_AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "VISION_DETAIL_CONDITION_ADD_LIMITED_EFF",
+            "value": "特定條件兵員的能力提升"
+        },
+        {
+            "key": "VISION_DETAIL_CONDITION_ABILITY_CHANGE",
+            "value": "特定條件兵員的能力變化"
+        },
+        {
+            "key": "VISION_DETAIL_ABILITY_CHANGE_DESC",
+            "value": "由{0}變成{1}"
+        },
+        {
+            "key": "VISION_DETAIL_ABILITY_START_TURN_DESC",
+            "value": "距離戰鬥開始還有{0}回合、{1}"
+        },
+        {
+            "key": "BUFF_LIMITED_CONDITION_TITLE",
+            "value": "特定條件兵員"
+        },
+        {
+            "key": "BUFF_LIMITED_CONDITION_MAINJOB",
+            "value": "適用職業（主）："
+        },
+        {
+            "key": "BUFF_LIMITED_CONDITION_JOB",
+            "value": "適用職業（主／副）："
+        },
+        {
+            "key": "BUFF_LIMITED_CONDITION_BIRTH",
+            "value": "適用所屬："
+        },
+        {
+            "key": "BUFF_LIMITED_CONDITION_SEX",
+            "value": "適用性別："
+        },
+        {
+            "key": "BUFF_LIMITED_CONDITION_UNIT",
+            "value": "適用兵員："
+        },
+        {
+            "key": "BUFF_LIMITED_CONDITION_ELEMENT",
+            "value": "適用屬性："
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_STATUS",
+            "value": "<cspace=0.5>狀態"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_SYNCHRO",
+            "value": "共鳴度"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_RESIST",
+            "value": "耐性"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_TITLE",
+            "value": "召喚魔法"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ABILITY_BORD",
+            "value": "召喚獸育成盤"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_TITLE",
+            "value": "召喚獸強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_ENHANCE_BULK",
+            "value": "一併強化"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_MAX",
+            "value": "召喚獸等級已達上限"
+        },
+        {
+            "key": "NETHERBEAST_DETAIL_PANEL_ENHANCE_CAUTION_OVER",
+            "value": "會超出召喚獸等級MAX所需的經驗值，確定繼續？"
+        },
+        {
+            "key": "UNIT_DETAIL_AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP",
+            "value": "極限突破"
+        },
+        {
+            "key": "UNIT_DETAIL_INTIMACY",
+            "value": "親密度"
+        },
+        {
+            "key": "UNIT_DETAIL_STATUS_DETAIL",
+            "value": "狀態詳細資訊"
+        },
+        {
+            "key": "UNIT_DETAIL_TRUSTMASTER_REWARD",
+            "value": "信賴度滿點報酬"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_BORD",
+            "value": "兵員能力盤"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITY_SET",
+            "value": "能力設置"
+        },
+        {
+            "key": "UNIT_DETAIL_NETHERBEAST_BORD",
+            "value": "召喚獸育成盤"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_AWAKE",
+            "value": "覺醒"
+        },
+        {
+            "key": "UNIT_DETAIL_TOP_ABILITY",
+            "value": "能力"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP_TRUST_CAPTION",
+            "value": "<cspace=0.5>Trust"
+        },
+        {
+            "key": "UNIT_DETAIL_RANK_LIMIT",
+            "value": "等級上限"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ON",
+            "value": "已鎖定"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_OFF",
+            "value": "已解除鎖定"
+        },
+        {
+            "key": "UNIT_DETAIL_RANKUP_CONDITION",
+            "value": "極限突破「{0}」後解鎖"
+        },
+        {
+            "key": "UNIT_DETAIL_ARTIFACT_PROFICIENCY",
+            "value": "武具熟練度"
+        },
+        {
+            "key": "UNIT_DETAIL_EQUIP",
+            "value": "裝備"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI",
+            "value": "鎖定武具"
+        },
+        {
+            "key": "UNIT_DETAIL_FAVORITE_ARTI_SET",
+            "value": "設定"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_TITLE",
+            "value": "強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION",
+            "value": "沒有強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_BULK",
+            "value": "一併強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_TITLE",
+            "value": "強化確認"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_MAX",
+            "value": "兵員等級已達上限"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_UNIT_ENHANCE_CAUTION_OVER",
+            "value": "會超出兵員等級MAX所需的經驗值，確定繼續？"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_ABILITY_ENHANCE",
+            "value": "強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAIN",
+            "value": "主要"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_NEED_LEVEL",
+            "value": "必要兵員等級"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ENHANCE",
+            "value": "職業強化"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAX",
+            "value": "MAX"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_ITEM",
+            "value": "職業強化素材"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_LEVEL_LIMIT",
+            "value": "<cspace=-1>已到達職業等級(JobLv)上限"
+        },
+        {
+            "key": "UNIT_DETAIL_PANEL_JOB_MAT_LACK",
+            "value": "<cspace=-1>素材不足"
+        },
+        {
+            "key": "UNIT_DETAIL_ABILITYSET_SET",
+            "value": "設定"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_STATUS",
+            "value": "<cspace=0.6>兵員狀態"
+        },
+        {
+            "key": "UNIT_DETAIL_TITLE_JOB",
+            "value": "<cspace=0.6>職業"
+        },
+        {
+            "key": "UNIT_ARTI_SET_TITLE",
+            "value": "武具裝備"
+        },
+        {
+            "key": "UNIT_ARTI_SET_RESIST_DETAIL_TITLE",
+            "value": "顯示耐性"
+        },
+        {
+            "key": "UNIT_ARTI_SET_FILTER_EQUIP_ARTI",
+            "value": "裝備中的武具除外"
+        },
+        {
+            "key": "UNIT_ARTI_SET_REMOVE",
+            "value": "移除"
+        },
+        {
+            "key": "UNIT_ARTI_SET_CONFIRM",
+            "value": "已被其他兵員裝備。<br>確定要裝備嗎？<br>（會將裝備從已裝備的<br>兵員身上卸下。）"
+        },
+        {
+            "key": "ARTI_STATUS_ADD_NONE",
+            "value": "沒有附加能力"
+        },
+        {
+            "key": "ARTI_STATUS_WA_TITLE",
+            "value": "武具能力"
+        },
+        {
+            "key": "ARTI_STATUS_LB_TITLE",
+            "value": "極限技"
+        },
+        {
+            "key": "ARTI_STATUS_LB_ENHANCE",
+            "value": "已裝備"
+        },
+        {
+            "key": "TRUST_MASTER_TITLE",
+            "value": "信賴度滿點報酬"
+        },
+        {
+            "key": "TRUST_MASTER_CONDITION",
+            "value": "極限突破5·覺醒★6後獲得"
+        },
+        {
+            "key": "TRUST_MASTER_COMPLETE",
+            "value": "已獲得"
+        },
+        {
+            "key": "QRCODE_TAKE_TITLE",
+            "value": "序號"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_BATTLE",
+            "value": "已讀取序號。<br>請至主畫面確認。"
+        },
+        {
+            "key": "QRCODE_TAKE_DESC_IN_HOME",
+            "value": "已讀取序號。<br>回到主畫面。"
+        },
+        {
+            "key": "DENY",
+            "value": "拒絕"
+        },
+        {
+            "key": "IAP_CUR_4217",
+            "value": "EUR;CHF;USD;"
+        },
+        {
+            "key": "CURRENCY_SEPARATOR",
+            "value": ","
+        },
+        {
+            "key": "CONNECT_SELECT_ACCOUNTBINDING",
+            "value": "帳號綁定"
+        },
+        {
+            "key": "TARGETADV_AGE_TITLE",
+            "value": "年齡驗證"
+        },
+        {
+            "key": "TARGETADV_AGE_CONTENT",
+            "value": "必須年滿{0}歲以上才能觀看個人化廣告。"
+        },
+        {
+            "key": "TARGETADV_AGE_YES",
+            "value": "我已經年滿{0}歲以上。"
+        },
+        {
+            "key": "TARGETADV_AGE_NO",
+            "value": "我未滿{0}歲。"
+        },
+        {
+            "key": "TARGETADV_TITLE",
+            "value": "廣告同意書"
+        },
+        {
+            "key": "TARGETADV_CONTENT",
+            "value": "請問要觀看個人化或是非個人化廣告呢？"
+        },
+        {
+            "key": "TARGETADV_OPTION_PERSO",
+            "value": "個人化"
+        },
+        {
+            "key": "TARGETADV_OPTION_NONPERSO",
+            "value": "非個人化"
+        },
+        {
+            "key": "LANGUAGE_SELECT_TITLE",
+            "value": "語言"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONTENT",
+            "value": "請選擇語言。<br>（可稍後進行變更）"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_TITLE",
+            "value": "語言確認"
+        },
+        {
+            "key": "LANGUAGE_SELECT_CONFIRM_CONTENT",
+            "value": "將進行語言切換：<br><color=#F0C040>{0}</color> > <color=#00BB00>{1}</color>。<br><br>由於需要下載額外的資料，因此建議您在連接Wi-Fi的環境下進行。<br><br>將會返回至主標題畫面。是否要繼續進行？"
+        },
+        {
+            "key": "NEWGAME_TITLE",
+            "value": "開始遊戲"
+        },
+        {
+            "key": "NEWGAME_BTN",
+            "value": "新遊戲"
+        },
+        {
+            "key": "CONTINUE_BTN",
+            "value": "繼續"
+        },
+        {
+            "key": "ACCOUNT_BINDING_TITLE",
+            "value": "帳號綁定"
+        },
+        {
+            "key": "ACCOUNT_BINDING_APPLE",
+            "value": "Apple帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GOOGLE",
+            "value": "Google帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_FACEBOOK",
+            "value": "Facebook帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_SQEX",
+            "value": "SQEX帳號登入"
+        },
+        {
+            "key": "ACCOUNT_BINDING_GUEST",
+            "value": "訪客"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE",
+            "value": "下載數據"
+        },
+        {
+            "key": "DLC_CHECK_WW_DESC",
+            "value": "下載數據 <color=#F0C040>(大約{0}MB)</color><br>建議在 <color=#F0C040>連接Wi-Fi</color> 環境下進行。<br>（可稍後進行變更）"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_EN",
+            "value": "使用英文配音"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_JA",
+            "value": "使用日文配音"
+        },
+        {
+            "key": "DLC_CHECK_WW_TITLE_VO_OFF",
+            "value": "不使用配音 (減少數據消耗)"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_TITLE",
+            "value": "警告"
+        },
+        {
+            "key": "ACCOUNT_BINDING_ERROR_DESC",
+            "value": "<color=#F0C040>帳號綁定失敗</color><br>請重新嘗試"
+        },
+        {
+            "key": "FEATURE_DISABLED_CBT",
+            "value": "<color=#F0C040>CBT功能暫停無法使用。</color>"
+        },
+        {
+            "key": "LANG_JAPANESE",
+            "value": "日文"
+        },
+        {
+            "key": "LANG_ENGLISH",
+            "value": "英文"
+        },
+        {
+            "key": "LANG_FRENCH",
+            "value": "法文"
+        },
+        {
+            "key": "LANG_GERMAN",
+            "value": "德文"
+        },
+        {
+            "key": "LANG_SPANISH",
+            "value": "西班牙文"
+        },
+        {
+            "key": "LANG_KOREAN",
+            "value": "韓文"
+        },
+        {
+            "key": "LANG_CHINESE_ZH",
+            "value": "繁體中文"
+        },
+        {
+            "key": "STATUS_NBEAST_TYPE_RARE_MONSTER",
+            "value": "稀有魔物"
+        },
+        {
+            "key": "SELECTLIST_NO_UNITS",
+            "value": "該兵員不存在"
+        },
+        {
+            "key": "ABILITY_PARTY_DETAIL_EFFECT_OVERLAP",
+            "value": "效果重複"
+        },
+        {
+            "key": "CONNECT_SELECT_SUCCESS_TITLE",
+            "value": "成功連結到社群帳號"
+        },
+        {
+            "key": "CONNECT_APPLE_TITLE",
+            "value": "連結 Apple 帳號"
+        },
+        {
+            "key": "CONNECT_DEVICE_NOT_SUPPORT_DESC",
+            "value": "Apple ID登入失敗。請確認您的Apple ID已開啟雙重認證（2FA），並且已於iOS 13以上版本的裝置中登入iCloud。"
+        },
+        {
+            "key": "CONNECT_WARNING_TITLE",
+            "value": "警告"
+        },
+        {
+            "key": "CONNECT_DISCONNECT_PREVIOUS_ACC_DESC",
+            "value": "若要變更至新的裝置時，需要連結帳號來進行繼承紀錄。<br>各社群帳號的可連結次數各為1次。進行變更的話，目前連結中的社群帳號將無法再次進行連結。<br>真的要繼續執行？"
+        },
+        {
+            "key": "MULTI_ROOM_SETTING_PASSWORD_DISABLE",
+            "value": "不可變更"
+        },
+        {
+            "key": "VISION_BULK_ENHANCE_CANCEL",
+            "value": "套用"
+        },
+        {
+            "key": "TIPS_BACK",
+            "value": "<< 返回"
+        },
+        {
+            "key": "TIPS_NEXT",
+            "value": "繼續 >>"
+        },
+        {
+            "key": "STATUS_TITLE",
+            "value": "<cspace=0.6>兵員狀態"
+        },
+        {
+            "key": "SUPPORT_MAIL_DESC_GL",
+            "value": "<line-height=30>發送諮詢郵件後，系統會自動回覆一封郵件表示受理，<br>因此請將「@wotvffbe.com」設定為允許接收的寄件者。<br>※根據郵件軟體的不同，此郵件可能會被視為垃圾郵件。<br><br>▼以下資訊將會引用至郵件中：<br>·玩家ID<br>·遊戲版本<br>·DLC_Ver<br>·玩家名稱<br>·使用機種<br>·使用的OS版本<br><br>■諮詢相關注意事項<br>·根據諮詢的內容，有時可能需要一定的時間才能回覆，也有可能出現無法回覆的情況。<br>　※如遇星期六、日和國定假日，或於弊公司暫停營業的期間中，服務窗口也將暫停受理服務，因此會於下個工作日才進行回覆。<br>·關於諮詢的受理、回覆均以郵件形式進行。<br>·若諮詢有關通知內或官方網站上公開的內容與異常問題，我們可能將會根據公告的內容進行回覆，敬請見諒。<br>·我們並不會回覆玩家有關遊戲攻略資訊或遊戲設定方面的諮詢。<br>·原則上我們並不會回覆有關建議或意見的諮詢郵件，但我們會確認所有的內容並作為將來的參考。<br>·諮詢郵件將由gumi股份有限公司回覆。<br>·gumi股份有限公司的隱私權政策請參考以下連結頁面。"
+        },
+        {
+            "key": "EXPENDITION_ITEM_TIMES",
+            "value": "次"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_TITLE",
+            "value": "警告"
+        },
+        {
+            "key": "MICROPHONE_PERMISSION_ERROR_DESC",
+            "value": "為開啟語音轉換文字功能，請允許應用程式存取您的麥克風。請至裝置的設定中允許應用程式進行存取。"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_SLOW",
+            "value": "慢速"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_NORMAL",
+            "value": "正常"
+        },
+        {
+            "key": "TTS_SPEECH_RATE_FAST",
+            "value": "快速"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_TITLE",
+            "value": "請求許可"
+        },
+        {
+            "key": "PERMISSION_ANDROID_STORAGE_DESCRIPTION",
+            "value": "為開啟遊戲中各種功能，請允許應用程式存取您的儲存空間。<br>請於下個畫面確認進行許可。<br>或至裝置的設定中允許應用程式進行存取。"
+        },
+        {
+            "key": "PERMISSION_ANDROID_REQUEST",
+            "value": "許可"
+        },
+        {
+            "key": "PERMISSION_ANDROID_SETTING",
+            "value": "設定"
+        },
+        {
+            "key": "DAY_TEXT",
+            "value": "日"
+        },
+        {
+            "key": "HOUR_TEXT",
+            "value": "時"
+        },
+        {
+            "key": "MINUTE_TEXT",
+            "value": "分"
+        },
+        {
+            "key": "MONTH_TEXT",
+            "value": "月"
+        },
+        {
+            "key": "SECOND_TEXT",
+            "value": "秒"
+        },
+        {
+            "key": "YEAR_TEXT",
+            "value": "年"
+        },
+        {
+            "key": "POWER_SAVE_ITEM",
+            "value": "獲得{0}：{1}/{2}個"
+        },
+        {
+            "key": "JPBOOST_RESET_DESC",
+            "value": "今天重置的次數<br>已達上限。"
+        },
+        {
+            "key": "GL_AP_HELP_TITLE",
+            "value": "Amazon Prime 專屬報酬"
+        },
+        {
+            "key": "GL_AP_HELP_DESC",
+            "value": "此報酬為 Amazon Prime 訂閱者專屬報酬。<br>唯有 Amazon Prime 訂閱者才能於活動期間領取此報酬。<br>當玩家以 Amazon 帳號登入時，您的 Amazon Prime 帳號將會自動與遊戲帳號綁定。您可以於登入 Amazon Prime 帳號後解除綁定。<br>遊戲內的有效登入期間約為55分鐘，超過後則須重新登入。<br>以 Amazon Prime 帳號領取的報酬無法以其他遊戲帳號再度領取。<br>報酬將會被送至禮物箱（無期限）。"
+        },
+        {
+            "key": "GL_AP_WARNING_DESC",
+            "value": "唯有 Amazon Prime 訂閱者才能領取 Amazon Prime 專屬報酬<br><br>報酬領取狀態將會於登入後更新。"
+        },
+        {
+            "key": "GL_AP_STATUS_CLAIM",
+            "value": "領取"
+        },
+        {
+            "key": "GL_AP_STATUS_CLAIMED",
+            "value": "已領取"
+        },
+        {
+            "key": "GL_AP_STATUS_COMING_SOON",
+            "value": "即將推出"
+        },
+        {
+            "key": "GL_AP_STATUS_EXPIRED",
+            "value": "過期"
+        },
+        {
+            "key": "GL_AP_STATUS_LOGIN",
+            "value": "Amazon帳號登入"
+        },
+        {
+            "key": "GL_AP_STATUS_UNBIND",
+            "value": "解除綁定"
+        },
+        {
+            "key": "GL_AP_STATUS_SIGNED_IN",
+            "value": "登入帳號"
+        },
+        {
+            "key": "GL_AP_DESC_PREFIX",
+            "value": "報酬有效領取期限：<br>"
+        },
+        {
+            "key": "GL_AP_UNBIND_TITLE",
+            "value": "解除 Amazon Prime 綁定"
+        },
+        {
+            "key": "GL_AP_UNBIND_DESC",
+            "value": "確定要將 Amazon Prime 與遊戲帳號解除綁定？"
+        },
+        {
+            "key": "GL_AP_CLAIM_TITLE",
+            "value": "報酬詳細資訊"
+        },
+        {
+            "key": "GL_AP_CLAIM_DESC",
+            "value": "已領取報酬。<br><br>報酬將會送至<br>禮物箱。"
+        },
+        {
+            "key": "GL_AP_NOT_SUB_DESC",
+            "value": "<color=#FF0000>您並非Prime會員。<br>欲領取此報酬，請加入Prime並登錄您的Amazon帳號。</color>"
+        },
+        {
+            "key": "GL_AP_FAIL_BIND_DESC",
+            "value": "<color=#FF0000>Amazon Prime 帳號綁定失敗。</color>"
+        },
+        {
+            "key": "GL_AP_FAIL_UNBIND_DESC",
+            "value": "<color=#FF0000>無法解除 Amazon Prime 與遊戲帳號綁定。請稍後再嘗試。</color>"
+        },
+        {
+            "key": "GL_TWITCHOFFER_REWARD",
+            "value": "Amazon Prime 專屬報酬"
+        },
+        {
+            "key": "GL_LAPIS_CAUTION_MYCARD",
+            "value": "<line-height=32>無法取得購買商品清單。<br>※請重啟APP後再度嘗試。"
+        },
+        {
+            "key": "GL_LAPIS_CAUTION_MYCARD_POP_DESC",
+            "value": "無法取得購買商品清單。<br>※請重啟APP後再度嘗試。"
+        },
+        {
+            "key": "SKIP_SETTING_DESC",
+            "value": "<line-height=32>要使用跳過券和體力<br>跳過任務嗎？"
+        },
+        {
+            "key": "RECOMMEND_TEAM_CAUTION",
+            "value": "<line-height=26>※兵員、武具、召喚獸、幻兵卡<br>會根據設定好的項目自動編配。"
+        },
+        {
+            "key": "RECOMMEND_TEAM_LIMITBURST",
+            "value": "優先極限技武具"
+        },
+        {
+            "key": "DEBUG_SELECT_TUTORIAL_TITLE",
+            "value": "確認跳過"
+        },
+        {
+            "key": "DEBUG_SELECT_TUTORIAL",
+            "value": "要進行開頭的<br>新手教學戰鬥嗎？"
+        },
+        {
+            "key": "DATA_CONNECT_ERROR_TITLE",
+            "value": "ID或繼承密碼錯誤。<br>請在原裝置再次確認ID與<br>繼承密碼後重新輸入。"
+        },
+        {
+            "key": "DATA_CONNECT_SUCCESS_TITLE",
+            "value": "繼承紀錄處理結束。<br>從以前的紀錄開始遊戲。"
+        },
+        {
+            "key": "SNS_ACCOUNT_LIMIT_REACHED",
+            "value": "社群帳號已達上限"
+        },
+        {
+            "key": "SNS_CONNECTION_LIMIT_REACHED",
+            "value": "社群帳號連結次數已達上限"
+        },
+        {
+            "key": "SNS_LIMIT_REACHED",
+            "value": "社群已達上限"
+        },
+        {
+            "key": "MEMORIE_MENU_STORY",
+            "value": "劇情"
+        },
+        {
+            "key": "MEMORIE_MENU_EVENT",
+            "value": "活動"
+        },
+        {
+            "key": "MEMORIE_MENU_MOVIE",
+            "value": "影片"
+        },
+        {
+            "key": "MEMORIE_MENU_SUMMON",
+            "value": "召喚獸"
+        },
+        {
+            "key": "MEMORIE_MOVIE_SKIP_TITLE",
+            "value": "確認"
+        },
+        {
+            "key": "MEMORIE_MOVIE_SKIP_DESC",
+            "value": "要跳過動畫嗎？"
+        },
+        {
+            "key": "MEMORIE_STORY_PLAY_DESC",
+            "value": "開始播放劇情。<br>確定嗎？"
+        }
+    ]
+}

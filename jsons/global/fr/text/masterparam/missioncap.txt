@@ -289,6 +289,14 @@
             "value": "[Multi] Quête d'entraînement d'équipement (Masse de platine, Épée de corail)"
         },
         {
+            "key": "MG_EV_ART_CRF_05",
+            "value": "Quête d'entraînement d'équipement (Sceptre de platine)"
+        },
+        {
+            "key": "MG_MU_ART_CRF_05",
+            "value": "[Multi] Quête d'entraînement d'équipement (Sceptre de platine)"
+        },
+        {
             "key": "MG_EV01_1_01",
             "value": "Le magnifique prince"
         },
@@ -347,6 +355,18 @@
         {
             "key": "MG_MU_EV05_1_02",
             "value": "[Multi] Gouga et Saiga : Partie I [EX]"
+        },
+        {
+            "key": "MG_EV06_1_01",
+            "value": "Une damoiselle en détresse"
+        },
+        {
+            "key": "MG_EV06_1_02",
+            "value": "Une damoiselle en détresse [EX]"
+        },
+        {
+            "key": "MG_MU_EV06_1_02",
+            "value": "[Multi] Une damoiselle en détresse [EX]"
         },
         {
             "key": "MG_ETRE01_01",

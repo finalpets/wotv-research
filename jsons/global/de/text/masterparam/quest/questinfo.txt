@@ -1661,6 +1661,22 @@
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 66, Jobstufe 11<br>Freischaltbedingungen: Einheit „Loreila“ im Besitz"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11<br>Freischaltbedingungen: Einheit „Skahal“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11<br>Freischaltbedingungen: Einheit „Marial“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11<br>Freischaltbedingungen: Einheit „Houlet“ im Besitz"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 67, Jobstufe 11<br>Freischaltbedingungen: Einheit „Chell“ im Besitz"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Zazan“ ist mindestens auf Stufe 40"
         },
@@ -1975,6 +1991,22 @@
         {
             "key": "QE_CH_LW_RIRY_01",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Rairyu (Halloween)“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Skahal“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Marial“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Houlet“ ist mindestens auf Stufe 40"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 40, Jobstufe 8<br>Freischaltbedingungen: Einheit „Chell“ ist mindestens auf Stufe 40"
         },
         {
             "key": "QE_EV_GL_CDOWN_01_9",
@@ -2633,6 +2665,54 @@
             "value": "Informationen zum Auftrag<br>Keine"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Informationen zum Auftrag<br>Keine"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Informationen zum Auftrag<br>Tipp: Um die Kanonen zu zerstören, musst du die Kanoniere besiegen."
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Informationen zum Auftrag<br>Tipp: Um die Kanonen zu zerstören, musst du die Kanoniere besiegen."
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Informationen zum Auftrag<br>Tipp: Um die Kanonen zu zerstören, musst du die Kanoniere besiegen."
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "Informationen zum Auftrag<br>Tipp 1: Gegner, die physische Angriffe einsetzen, verfügen über ABW-Durchbohreigenschaften …<br>Tipp 2: Viele Gegner verfügen über eine hohe ABW, deswegen sind Angriffe, die MAG-abhängigen Schaden austeilen, zu empfehlen."
         },
@@ -2794,6 +2874,14 @@
         },
         {
             "key": "QE_EV_ART_CRF_06",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 9"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 9"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
             "value": "Informationen zum Auftrag<br>Empfohlen: Einheitenstufe 50, Jobstufe 9"
         },
         {
@@ -3325,6 +3413,18 @@
             "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Informationen zum Auftrag<br>・Dieser Auftrag ist ein Gildenkampf-Testlauf.<br>・Schicke drei Einheiten mit Auto-Kampf in die Schlacht, um echte Kämpfe nachzustellen."
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "Keine"
         },
@@ -3353,6 +3453,10 @@
             "value": "Geschossresistenz-/MAG-Erhöhung"
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": "Geschossresistenz-Erhöhung"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Keine"
         },
@@ -3379,6 +3483,10 @@
         {
             "key": "QE_GVG_00010",
             "value": "Magieangriff-Erhöhung"
+        },
+        {
+            "key": "QE_GVG_GL_00001",
+            "value": "Windangriff-Erhöhung"
         },
         {
             "key": "QE_PVP_FRE_0001",

@@ -1661,6 +1661,22 @@
             "value": "Fragmentauftrag: Loreila"
         },
         {
+            "key": "QE_HA_LW_SCAL",
+            "value": "Fragmentauftrag: Skahal"
+        },
+        {
+            "key": "QE_HA_LW_MRAL",
+            "value": "Fragmentauftrag: Marial"
+        },
+        {
+            "key": "QE_HA_LW_HWLT",
+            "value": "Fragmentauftrag: Houlet"
+        },
+        {
+            "key": "QE_HA_LW_CHEL",
+            "value": "Fragmentauftrag: Chell"
+        },
+        {
             "key": "QE_CH_LW_ZZAN",
             "value": "Zazan"
         },
@@ -1975,6 +1991,22 @@
         {
             "key": "QE_CH_LW_RIRY_01",
             "value": "Rairyu (Halloween)"
+        },
+        {
+            "key": "QE_CH_LW_SCAL",
+            "value": "Skahal"
+        },
+        {
+            "key": "QE_CH_LW_MRAL",
+            "value": "Marial"
+        },
+        {
+            "key": "QE_CH_LW_HWLT",
+            "value": "Houlet"
+        },
+        {
+            "key": "QE_CH_LW_CHEL",
+            "value": "Chell"
         },
         {
             "key": "QE_EV_GL_CDOWN_01_9",
@@ -2633,6 +2665,54 @@
             "value": "Gouga und Saiga: Teil I [EX2]"
         },
         {
+            "key": "QE_EV_06_01",
+            "value": "Episode 1: Eines Ritters Pflicht I"
+        },
+        {
+            "key": "QE_EV_06_02",
+            "value": "Episode 2: Eines Ritters Pflicht II"
+        },
+        {
+            "key": "QE_EV_06_03",
+            "value": "Episode 3: Reise ohne Ziel"
+        },
+        {
+            "key": "QE_EV_06_04",
+            "value": "Episode 4: Wir warten, bis es dunkel wird"
+        },
+        {
+            "key": "QE_EV_06_05",
+            "value": "Episode 5: Einschleichen I"
+        },
+        {
+            "key": "QE_EV_06_06",
+            "value": "Episode 6: Einschleichen II"
+        },
+        {
+            "key": "QE_EV_06_07",
+            "value": "Episode 7: Der Kerker"
+        },
+        {
+            "key": "QE_EV_06_08",
+            "value": "Episode 8: Flucht I"
+        },
+        {
+            "key": "QE_EV_06_09",
+            "value": "Episode 9: Flucht II"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "Episode 10: Der absolut tollste große Bruder"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "Die Prinzessin in Nöten [EX]"
+        },
+        {
+            "key": "QE_MU_EV_06_EX",
+            "value": "Die Prinzessin in Nöten [EX]"
+        },
+        {
             "key": "QE_CHAL_01_01",
             "value": "[Hoher Schwierigkeitsgrad] Herausforderungsauftrag"
         },
@@ -2795,6 +2875,14 @@
         {
             "key": "QE_EV_ART_CRF_06",
             "value": "Ausrüstungsverbesserungsauftrag (Goldaxt)"
+        },
+        {
+            "key": "QE_EV_ART_CRF_09",
+            "value": "Ausrüstungsverbesserungsauftrag (Platinstab)"
+        },
+        {
+            "key": "QE_MU_ART_CRF_09",
+            "value": "Ausrüstungsverbesserungsauftrag (Platinstab)"
         },
         {
             "key": "QE_MU_IFRT_04",
@@ -3325,6 +3413,18 @@
             "value": "Gilden-Probekampf (Fortgeschritten)"
         },
         {
+            "key": "QE_EV_GL_NMAP_002_1",
+            "value": "Gilden-Probekampf (Ungeübt)"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_2",
+            "value": "Gilden-Probekampf (Geübt)"
+        },
+        {
+            "key": "QE_EV_GL_NMAP_002_3",
+            "value": "Gilden-Probekampf (Fortgeschritten)"
+        },
+        {
             "key": "QE_ARENA_00001",
             "value": "Arena"
         },
@@ -3353,6 +3453,10 @@
             "value": "Friedhof"
         },
         {
+            "key": "QE_ARENA_GL_00001",
+            "value": "Wald"
+        },
+        {
             "key": "QE_GVG_00001",
             "value": "Die Arena"
         },
@@ -3379,6 +3483,10 @@
         {
             "key": "QE_GVG_00010",
             "value": "Friedhof"
+        },
+        {
+            "key": "QE_GVG_GL_00001",
+            "value": "Antike Ruinen"
         },
         {
             "key": "QE_PVP_FRE_0001",

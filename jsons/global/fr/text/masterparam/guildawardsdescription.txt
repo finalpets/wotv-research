@@ -58,27 +58,27 @@
         },
         {
             "key": "AWD_G_FF04_1",
-            "value": "FFIV - Titre attribué à la guilde occupant la place numéro 1 du classement des scores totaux de guilde."
+            "value": "FFIV - Titre attribué à la guilde occupant la place numéro 1 du classement des scores des guildes totaux."
         },
         {
             "key": "AWD_G_FF04_2",
-            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 10 du classement des scores totaux de guilde."
+            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 10 du classement des scores des guildes totaux."
         },
         {
             "key": "AWD_G_FF04_3",
-            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 50 du classement des scores totaux de guilde."
+            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 50 du classement des scores des guildes totaux."
         },
         {
             "key": "AWD_G_FF04_4",
-            "value": "FFIV - Titre attribué à la guilde occupant la place numéro 1 du classement des meilleurs scores de guilde."
+            "value": "FFIV - Titre attribué à la guilde occupant la place numéro 1 du classement des meilleurs scores des guildes."
         },
         {
             "key": "AWD_G_FF04_5",
-            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 10 du classement des meilleurs scores de guilde."
+            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 10 du classement des meilleurs scores des guildes."
         },
         {
             "key": "AWD_G_FF04_6",
-            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 50 du classement des meilleurs scores de guilde."
+            "value": "FFIV - Titre attribué aux guildes se trouvant dans le top 50 du classement des meilleurs scores des guildes."
         }
     ]
 }

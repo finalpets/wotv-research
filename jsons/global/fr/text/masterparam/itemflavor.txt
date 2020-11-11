@@ -2005,6 +2005,18 @@
             "value": ""
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": ""
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": ""
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Un cristal singulier d'où émane une lueur rouge vif mais ténue. Exposer une chimère bénie par le feu à cette lueur en réveillera la puissance cachée. Si l'on a découvert que la taille du cristal et l'intensité de sa lumière avait un effet sur l'ampleur de la puissance qu'il révèle, on n'en sait pas plus sur la nature de son étrange pouvoir."
         },
@@ -2589,6 +2601,10 @@
             "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Épée de corail. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner un Lohengrin. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "Une recette qui décrit comment combiner divers matériaux afin de confectionner une Claymore. Ces instructions, lorsqu'elles sont suivies à la lettre, permettent à quiconque se trouve en possession des matériaux et quantités nécessaires de fabriquer cet objet. Cette méthode est employée partout dans le monde, car elle ne requiert en effet ni les connaissances ni l'aptitude d'un forgeron."
         },
@@ -2981,10 +2997,6 @@
             "value": ""
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": ""
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": ""
         },
@@ -3097,6 +3109,10 @@
             "value": ""
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": ""
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": ""
         },
@@ -3150,6 +3166,10 @@
         },
         {
             "key": "IT_EC_EV05_1",
+            "value": ""
+        },
+        {
+            "key": "IT_EC_EV06_1",
             "value": ""
         },
         {
@@ -3390,6 +3410,10 @@
         },
         {
             "key": "IT_US_G_U_SSR_UR_07",
+            "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
             "value": "Un ticket qui permet d'extraire les souvenirs ancrés dans les cristaux par le biais d'un rituel d'invocation complexe. Bien que l'apparence et la couleur du ticket donnent quelques indices sur le contenu de ce dernier, le résultat de l'invocation dépend avant tout des esprits du lien qui se trouvent à l'intérieur."
         },
         {

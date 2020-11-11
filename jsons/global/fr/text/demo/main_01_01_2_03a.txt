@@ -46,7 +46,7 @@
         },
         {
             "key": "012",
-            "value": "Et pourtant, s’il voulait vous prendre en otage, ou pire, mettre fin à votre vie, il existe des méthodes beaucoup plus simples et efficaces."
+            "value": "Et pourtant, s'il voulait vous prendre en otage, ou pire, mettre fin à votre vie, il existe des méthodes beaucoup plus simples et efficaces."
         },
         {
             "key": "013",

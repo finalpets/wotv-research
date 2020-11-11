@@ -577,6 +577,114 @@
             "value": "Alcanza el nv. 75 con Lili (Halloween)"
         },
         {
+            "key": "CM_PRO_GL_HWLT_01",
+            "value": "Alcanza el nv. 30 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_02",
+            "value": "Rompe el límite de Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_03",
+            "value": "Alcanza el nv. 40 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_04",
+            "value": "Alcanza el nv. de profesión principal 6 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_05",
+            "value": "Alcanza el nv. 50 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_06",
+            "value": "Alcanza el nv. de profesión principal 9 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_07",
+            "value": "Alcanza el nv. 60 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_08",
+            "value": "Alcanza el nv. 70 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_HWLT_09",
+            "value": "Alcanza el nv. 75 con Howlet"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_01",
+            "value": "Alcanza el nv. 30 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_02",
+            "value": "Rompe el límite de Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_03",
+            "value": "Alcanza el nv. 40 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_04",
+            "value": "Alcanza el nv. de profesión principal 6 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_05",
+            "value": "Alcanza el nv. 50 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_06",
+            "value": "Alcanza el nv. de profesión principal 9 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_07",
+            "value": "Alcanza el nv. 60 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_08",
+            "value": "Alcanza el nv. 70 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_SCAL_09",
+            "value": "Alcanza el nv. 75 con Skahal"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_01",
+            "value": "Completa una misión de historia"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_02",
+            "value": "Realiza una compra en la tienda"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_03",
+            "value": "Completa la Cámara de los guiles"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_04",
+            "value": "Aumenta el nv. de una unidad 10 veces"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_05",
+            "value": "Consigue objetos en la expedición chocobo 2 veces"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_06",
+            "value": "Mejora la habilidad de una unidad 3 veces"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_07",
+            "value": "Aumenta el nv. de profesión de una unidad 5 veces"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_08",
+            "value": "Únete a un gremio o crea uno"
+        },
+        {
+            "key": "CM_PRO_GL_FALL_2020_09",
+            "value": "Accede al juego 3 días durante el periodo de evento"
+        },
+        {
             "key": "GM_0001",
             "value": "Ten 10 miembros en tu gremio"
         },
@@ -1821,6 +1929,30 @@
             "value": "[Multijugador] Completa la misión de entrenamiento de equipo de dificultad extrema 3 veces"
         },
         {
+            "key": "M_ART_CRF_09_01",
+            "value": "Completa la misión de entrenamiento de equipo (vara de platino)"
+        },
+        {
+            "key": "M_ART_CRF_09_02",
+            "value": "Completa la misión de entrenamiento de equipo (vara de platino) 3 veces"
+        },
+        {
+            "key": "M_ART_CRF_09_03",
+            "value": "Completa la misión de entrenamiento de equipo (vara de platino) 5 veces"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_1",
+            "value": "[Multijugador] Completa la misión de entrenamiento de equipo (vara de platino)"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_2",
+            "value": "[Multijugador] Completa la misión de entrenamiento de equipo (vara de platino) 3 veces"
+        },
+        {
+            "key": "M_MU_ART_CRF_9_3",
+            "value": "[Multijugador] Completa la misión de entrenamiento de equipo (vara de platino) 5 veces"
+        },
+        {
             "key": "M_EV_IGNT_01",
             "value": "Completa el desafío de Férreo en dificultad alta"
         },
@@ -2659,6 +2791,158 @@
         {
             "key": "M_MU_EV05_EX2_03",
             "value": "[Multijugador] Completa Gouga y Saiga: Parte I [EX2] 5 veces"
+        },
+        {
+            "key": "M_EV06_1_01",
+            "value": "Completa Damisela en apuros, Ep. 1"
+        },
+        {
+            "key": "M_EV06_1_02",
+            "value": "Completa Damisela en apuros, Ep. 1 2 veces"
+        },
+        {
+            "key": "M_EV06_1_03",
+            "value": "Completa Damisela en apuros, Ep. 1 3 veces"
+        },
+        {
+            "key": "M_EV06_1_04",
+            "value": "Completa Damisela en apuros, Ep. 2"
+        },
+        {
+            "key": "M_EV06_1_05",
+            "value": "Completa Damisela en apuros, Ep. 2 2 veces"
+        },
+        {
+            "key": "M_EV06_1_06",
+            "value": "Completa Damisela en apuros, Ep. 2 3 veces"
+        },
+        {
+            "key": "M_EV06_1_07",
+            "value": "Completa Damisela en apuros, Ep. 3"
+        },
+        {
+            "key": "M_EV06_1_08",
+            "value": "Completa Damisela en apuros, Ep. 3 2 veces"
+        },
+        {
+            "key": "M_EV06_1_09",
+            "value": "Completa Damisela en apuros, Ep. 3 3 veces"
+        },
+        {
+            "key": "M_EV06_1_10",
+            "value": "Completa Damisela en apuros, Ep. 4"
+        },
+        {
+            "key": "M_EV06_1_11",
+            "value": "Completa Damisela en apuros, Ep. 4 2 veces"
+        },
+        {
+            "key": "M_EV06_1_12",
+            "value": "Completa Damisela en apuros, Ep. 4 3 veces"
+        },
+        {
+            "key": "M_EV06_1_13",
+            "value": "Completa Damisela en apuros, Ep. 5"
+        },
+        {
+            "key": "M_EV06_1_14",
+            "value": "Completa Damisela en apuros, Ep. 5 3 veces"
+        },
+        {
+            "key": "M_EV06_1_15",
+            "value": "Completa Damisela en apuros, Ep. 5 5 veces"
+        },
+        {
+            "key": "M_EV06_1_16",
+            "value": "Completa Damisela en apuros, Ep. 6"
+        },
+        {
+            "key": "M_EV06_1_17",
+            "value": "Completa Damisela en apuros, Ep. 6 2 veces"
+        },
+        {
+            "key": "M_EV06_1_18",
+            "value": "Completa Damisela en apuros, Ep. 6 3 veces"
+        },
+        {
+            "key": "M_EV06_1_19",
+            "value": "Completa Damisela en apuros, Ep. 7"
+        },
+        {
+            "key": "M_EV06_1_20",
+            "value": "Completa Damisela en apuros, Ep. 7 2 veces"
+        },
+        {
+            "key": "M_EV06_1_21",
+            "value": "Completa Damisela en apuros, Ep. 7 3 veces"
+        },
+        {
+            "key": "M_EV06_1_22",
+            "value": "Completa Damisela en apuros, Ep. 8"
+        },
+        {
+            "key": "M_EV06_1_23",
+            "value": "Completa Damisela en apuros, Ep. 8 2 veces"
+        },
+        {
+            "key": "M_EV06_1_24",
+            "value": "Completa Damisela en apuros, Ep. 8 3 veces"
+        },
+        {
+            "key": "M_EV06_1_25",
+            "value": "Completa Damisela en apuros, Ep. 9"
+        },
+        {
+            "key": "M_EV06_1_26",
+            "value": "Completa Damisela en apuros, Ep. 9 2 veces"
+        },
+        {
+            "key": "M_EV06_1_27",
+            "value": "Completa Damisela en apuros, Ep. 9 3 veces"
+        },
+        {
+            "key": "M_EV06_1_28",
+            "value": "Completa Damisela en apuros, Ep. 10"
+        },
+        {
+            "key": "M_EV06_1_29",
+            "value": "Completa Damisela en apuros, Ep. 10 3 veces"
+        },
+        {
+            "key": "M_EV06_1_30",
+            "value": "Completa Damisela en apuros, Ep. 10 5 veces"
+        },
+        {
+            "key": "M_EV06_1_31",
+            "value": "Completa Damisela en apuros, Ep. 10 10 veces"
+        },
+        {
+            "key": "M_EV06_EX_01",
+            "value": "Completa Damisela en apuros [EX]"
+        },
+        {
+            "key": "M_EV06_EX_02",
+            "value": "Completa Damisela en apuros [EX] 3 veces"
+        },
+        {
+            "key": "M_EV06_EX_03",
+            "value": "Completa Damisela en apuros [EX] 5 veces"
+        },
+        {
+            "key": "M_EV06_EX_04",
+            "value": "Completa Damisela en apuros [EX] 10 veces"
+        },
+        {
+            "key": "M_MU_EV06_EX_01",
+            "value": "[Multijugador] Completa Damisela en apuros [EX]"
+        },
+        {
+            "key": "M_MU_EV06_EX_02",
+            "value": "[Multijugador] Completa Damisela en apuros [EX] 3 veces"
+        },
+        {
+            "key": "M_MU_EV06_EX_03",
+            "value": "[Multijugador] Completa Damisela en apuros [EX] 5 veces"
         },
         {
             "key": "M_EV04_1_01",

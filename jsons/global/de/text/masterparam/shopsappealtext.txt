@@ -115,6 +115,10 @@
         {
             "key": "29",
             "value": "<line-height=15>Halloween-<br>Kampagnenladen Teil II"
+        },
+        {
+            "key": "30",
+            "value": "<line-height=15>Laden der Herbstkampagne 2020<br>Teil II"
         }
     ]
 }

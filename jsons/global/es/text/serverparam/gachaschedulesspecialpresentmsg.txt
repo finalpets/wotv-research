@@ -1801,6 +1801,54 @@
             "value": ""
         },
         {
+            "key": "new-gacha_gl20201104_01",
+            "value": "Bonificación de invocación de nueva unidad destacada: Howlet y Skahal"
+        },
+        {
+            "key": "new-gacha_gl20201104_10",
+            "value": "Bonificación de invocación de nueva unidad destacada: Howlet y Skahal"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step5",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step4",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step3",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step2",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10_step1",
+            "value": "Bonificación de invocación (x10) de 5 pasos"
+        },
+        {
+            "key": "5step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step3",
+            "value": "Bonificación de invocación (x10) de pasos"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step2",
+            "value": "Bonificación de invocación (x10) de pasos"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10_step1",
+            "value": "Bonificación de invocación (x10) de pasos"
+        },
+        {
+            "key": "3step-gacha_gl20201104_10",
+            "value": ""
+        },
+        {
             "key": "global_pickup_sterne_20200325_01",
             "value": "Bonificación de invocación destacada"
         },

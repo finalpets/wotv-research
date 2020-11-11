@@ -1,0 +1,616 @@
+{
+    "infos": [
+        {
+            "key": "COND_HA_LW_STRN",
+            "value": "兵員『斯特恩·雷歐尼斯』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ELDE",
+            "value": "兵員『奧爾德·雷歐尼斯』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ROBB",
+            "value": "兵員『羅布·霍倫』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ENBT",
+            "value": "兵員『恩格爾伯特』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ZIZA",
+            "value": "兵員『希紮』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_AILN",
+            "value": "兵員『艾琳』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MDNA",
+            "value": "兵員『美迪愛娜』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_AYKA",
+            "value": "兵員『彩花』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_HLNA",
+            "value": "兵員『海蓮娜·雷歐尼斯』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_LILS",
+            "value": "兵員『莉莉絲』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_RAMD",
+            "value": "兵員『拉瑪達』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_OOOO",
+            "value": "兵員『歐』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_LRNZ",
+            "value": "兵員『羅倫佐』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_RIRY",
+            "value": "兵員『雷尤』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_VSTR",
+            "value": "兵員『維斯特拉爾』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_CLEY",
+            "value": "兵員『庫利·維澤特』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_KADI",
+            "value": "兵員『卡迪婭』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MRLK",
+            "value": "兵員『梅麗露可』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MGRT",
+            "value": "兵員『瑪爾格麗特』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_PRAY",
+            "value": "兵員『《祈禱》』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_BYLO",
+            "value": "兵員『巴埃羅』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_RYER",
+            "value": "兵員『莉蕾露莉拉』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SCIA",
+            "value": "兵員『索莎』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_VRID",
+            "value": "兵員『瓦爾萊德』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_NAIA",
+            "value": "兵員『奈雅』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SRJS",
+            "value": "兵員『塞爾杰斯』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_UNII",
+            "value": "兵員『悠妮』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SEVR",
+            "value": "兵員『塞維羅』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_VADM",
+            "value": "兵員『瓦迪姆』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MURM",
+            "value": "兵員『《低語》』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_PHBE",
+            "value": "兵員『菲比』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_RART",
+            "value": "兵員『莉雅特』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MICE",
+            "value": "兵員『米茄』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MIIA",
+            "value": "兵員『米婭』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ZZAN",
+            "value": "兵員『扎贊』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SDLX",
+            "value": "兵員『影猞猁』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_FDRC",
+            "value": "兵員『弗蕾德麗卡』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_YERM",
+            "value": "兵員『耶爾瑪』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_NASR",
+            "value": "兵員『納莎』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MACR",
+            "value": "兵員『瑪雪莉』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_FINA",
+            "value": "兵員『菲娜』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SZRT",
+            "value": "兵員『舒澤爾特』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_GLMS",
+            "value": "兵員『吉爾伽美什』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_WHIS",
+            "value": "兵員『《耳語》』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_KTON",
+            "value": "兵員『基頓』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MRND",
+            "value": "兵員『米蘭達』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_DRND",
+            "value": "兵員『多蘭多』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_VKTR",
+            "value": "兵員『維克托拉』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_THLA",
+            "value": "兵員『薩麗雅』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_LUCA",
+            "value": "兵員『魯·西雅』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ADLD",
+            "value": "兵員『阿德拉德』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_RAIN",
+            "value": "兵員『雷因』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_DRIO",
+            "value": "兵員『達利歐·霍倫』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_VNLA",
+            "value": "兵員『維內拉·芬尼斯』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_FF1_WROL",
+            "value": "兵員『光之戰士』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SIMR",
+            "value": "兵員『西姆爾』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_QILF",
+            "value": "兵員『基爾菲』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ORDR",
+            "value": "兵員『奧爾多』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_LVES",
+            "value": "兵員『菈薇絲』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_FFT_DELT",
+            "value": "兵員『迪利塔』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_FFT_AGRA",
+            "value": "兵員『阿格莉亞絲』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_IRDL",
+            "value": "兵員『伊爾迪拉』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_ST_01",
+            "value": "兵員『斯特恩（破滅騎士）』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_LSWL",
+            "value": "兵員『拉斯韋爾』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_GRSR",
+            "value": "兵員『格拉西拉·維澤特』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_RRIR",
+            "value": "兵員『羅雷拉』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_SCAL",
+            "value": "兵員『斯卡爾』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_MRAL",
+            "value": "兵員『瑪利亞爾』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_HWLT",
+            "value": "兵員『哈烏雷特』的等級在1以上"
+        },
+        {
+            "key": "COND_HA_LW_CHEL",
+            "value": "兵員『切爾』的等級在1以上"
+        },
+        {
+            "key": "COND_CH_LW_MONT",
+            "value": "兵員『蒙特·雷歐尼斯』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_STRN",
+            "value": "兵員『斯特恩·雷歐尼斯』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ELDE",
+            "value": "兵員『奧爾德·雷歐尼斯』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ROBB",
+            "value": "兵員『羅布·霍倫』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ENBT",
+            "value": "兵員『恩格爾伯特』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ZIZA",
+            "value": "兵員『希紮』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_AILN",
+            "value": "兵員『艾琳』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MDNA",
+            "value": "兵員『美迪愛娜』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_AYKA",
+            "value": "兵員『彩花』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_HLNA",
+            "value": "兵員『海蓮娜·雷歐尼斯』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_LILS",
+            "value": "兵員『莉莉絲』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RAMD",
+            "value": "兵員『拉瑪達』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_OOOO",
+            "value": "兵員『歐』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_LRNZ",
+            "value": "兵員『羅倫佐』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RIRY",
+            "value": "兵員『雷尤』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_VSTR",
+            "value": "兵員『維斯特拉爾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_CLEY",
+            "value": "兵員『庫利·維澤特』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_KADI",
+            "value": "兵員『卡迪婭』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MRLK",
+            "value": "兵員『梅麗露可』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MGRT",
+            "value": "兵員『瑪爾格麗特』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_PRAY",
+            "value": "兵員『《祈禱》』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_BYLO",
+            "value": "兵員『巴埃羅』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RYER",
+            "value": "兵員『莉蕾露莉拉』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SCIA",
+            "value": "兵員『索莎』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_VRID",
+            "value": "兵員『瓦爾萊德』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_NAIA",
+            "value": "兵員『奈雅』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SRJS",
+            "value": "兵員『塞爾杰斯』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_UNII",
+            "value": "兵員『悠妮』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SEVR",
+            "value": "兵員『塞維羅』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_VADM",
+            "value": "兵員『瓦迪姆』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MURM",
+            "value": "兵員『《低語》』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_PHBE",
+            "value": "兵員『菲比』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RART",
+            "value": "兵員『莉雅特』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MICE",
+            "value": "兵員『米茄』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MIIA",
+            "value": "兵員『米婭』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ZZAN",
+            "value": "兵員『扎贊』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_GLMS",
+            "value": "兵員『吉爾伽美什』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_GLMS2",
+            "value": "兵員『吉爾伽美什』的等級在80以上"
+        },
+        {
+            "key": "COND_CH_FF14_YST",
+            "value": "兵員『雅·修特拉』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FF14_TNC",
+            "value": "兵員『桑克瑞德』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MACR",
+            "value": "兵員『瑪雪莉』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SZRT",
+            "value": "兵員『舒澤爾特』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_FINA",
+            "value": "兵員『菲娜』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_FDRC",
+            "value": "兵員『弗蕾德麗卡』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SDLX",
+            "value": "兵員『影猞猁』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_YERM",
+            "value": "兵員『耶爾瑪』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_NASR",
+            "value": "兵員『納莎』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ETRE",
+            "value": "兵員『埃特蕾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_RAMZ",
+            "value": "兵員『拉姆薩』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_GFGR",
+            "value": "兵員『加夫加利安』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_ORND",
+            "value": "兵員『奧爾蘭多』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_WHIS",
+            "value": "兵員『《耳語》』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_KTON",
+            "value": "兵員『基頓』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MRND",
+            "value": "兵員『米蘭達』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_DRND",
+            "value": "兵員『多蘭多』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_LUCA",
+            "value": "兵員『魯·西雅』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ADLD",
+            "value": "兵員『阿德拉德』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_THLA",
+            "value": "兵員『薩麗雅』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_VKTR",
+            "value": "兵員『維克托拉』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_GL_LW_FRVA",
+            "value": "兵員『弗雷比亞』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RAIN",
+            "value": "兵員『雷因』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_DRIO",
+            "value": "兵員『達利歐·霍倫』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_VNLA",
+            "value": "兵員『維內拉·芬尼斯』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_TREL",
+            "value": "兵員『泰瑞爾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FF1_WROL",
+            "value": "兵員『光之戰士』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SIMR",
+            "value": "兵員『西姆爾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_QILF",
+            "value": "兵員『基爾菲』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ORDR",
+            "value": "兵員『奧爾多』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_LVES",
+            "value": "兵員『菈薇絲』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_MSTD",
+            "value": "兵員『姆斯達迪奧』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_DELT",
+            "value": "兵員『迪利塔』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_FFT_AGRA",
+            "value": "兵員『阿格莉亞絲』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_IRDL",
+            "value": "兵員『伊爾迪拉』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_ST_01",
+            "value": "兵員『斯特恩（破滅騎士）』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_LSWL",
+            "value": "兵員『拉斯韋爾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_GRSR",
+            "value": "兵員『格拉西拉·維澤特』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RRIR",
+            "value": "兵員『羅雷拉』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RY_01",
+            "value": "兵員『莉蕾露莉拉（萬聖節）』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_RI_01",
+            "value": "兵員『雷尤（萬聖節）』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_SCAL",
+            "value": "兵員『斯卡爾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_MRAL",
+            "value": "兵員『瑪利亞爾』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_HWLT",
+            "value": "兵員『哈烏雷特』的等級在40以上"
+        },
+        {
+            "key": "COND_CH_LW_CHEL",
+            "value": "兵員『切爾』的等級在40以上"
+        }
+    ]
+}

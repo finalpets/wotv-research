@@ -1,0 +1,20 @@
+{
+    "infos": [
+        {
+            "key": "Campaign_gacha_gl20200909_10",
+            "value": "獲得UR兵員時不會累積進度條"
+        },
+        {
+            "key": "Campaign_gacha_gl20200916_10",
+            "value": "獲得UR兵員時不會累積進度條"
+        },
+        {
+            "key": "Campaign_gacha_gl20201021_10",
+            "value": "獲得UR兵員時不會累積進度條"
+        },
+        {
+            "key": "Campaign_gacha_gl20201104_10",
+            "value": "獲得UR兵員時不會累積進度條"
+        }
+    ]
+}

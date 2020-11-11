@@ -1,0 +1,352 @@
+{
+    "infos": [
+        {
+            "key": "QE_COND_SIDE_PLAYER",
+            "value": "我方"
+        },
+        {
+            "key": "QE_COND_SIDE_ENEMY",
+            "value": "敵人"
+        },
+        {
+            "key": "QE_COND_SIDE_NEUTRAL",
+            "value": "機關"
+        },
+        {
+            "key": "QE_COND_OPE_NAME",
+            "value": "並且"
+        },
+        {
+            "key": "QE_COND_OPE_EQUAL",
+            "value": ""
+        },
+        {
+            "key": "QE_COND_OPE_GREATER",
+            "value": "以上"
+        },
+        {
+            "key": "QE_COND_OPE_LESS",
+            "value": "以下"
+        },
+        {
+            "key": "QE_COND_PLAYER_DEADALL",
+            "value": "{0}全滅"
+        },
+        {
+            "key": "QE_COND_ENEMY_DEADALL",
+            "value": "殲滅{0}"
+        },
+        {
+            "key": "QE_COND_DEADALLEXCEPTUNIT",
+            "value": "殲滅{0}以外的{1}"
+        },
+        {
+            "key": "QE_COND_DEAD",
+            "value": "{0}死亡"
+        },
+        {
+            "key": "QE_COND_BREAK",
+            "value": "{0}被破壞"
+        },
+        {
+            "key": "QE_COND_ALIVE",
+            "value": "{0}存活"
+        },
+        {
+            "key": "QE_COND_DEADHERO",
+            "value": "主角死亡"
+        },
+        {
+            "key": "QE_COND_ALIVEHERO",
+            "value": "主角存活"
+        },
+        {
+            "key": "QE_COND_HP",
+            "value": "{0}的體力在{1}％{2}"
+        },
+        {
+            "key": "QE_COND_TURN",
+            "value": "{0}的行動次數在{1}次{2}"
+        },
+        {
+            "key": "QE_COND_ADJACENT",
+            "value": "{0}與{1}相鄰接觸"
+        },
+        {
+            "key": "QE_COND_REACHTARGETPOINT",
+            "value": "{0}到達目標地點"
+        },
+        {
+            "key": "QE_COND_REACHTARGETUNIT",
+            "value": "{0}與{1}重疊"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETPOINT",
+            "value": "{0}在目標地點使用{1}技能"
+        },
+        {
+            "key": "QE_COND_USESKILLTARGETUNIT",
+            "value": "{0}對{1}使用{2}技能"
+        },
+        {
+            "key": "QE_COND_CHANGEDGEO",
+            "value": "地形變化為{0}"
+        },
+        {
+            "key": "QE_ST_01010910",
+            "value": "到達城門前，或是殲滅敵人"
+        },
+        {
+            "key": "QE_ST_01010309",
+            "value": "打倒穆拉加·芬尼斯"
+        },
+        {
+            "key": "QE_ST_01080110",
+            "value": "打倒穆拉加·芬尼斯"
+        },
+        {
+            "key": "QE_ST_01010110",
+            "value": "打倒盜賊頭目"
+        },
+        {
+            "key": "QE_TU_02",
+            "value": "殲滅敵人"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "舒澤爾特以外的我方全滅"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "斯特恩（破滅騎士）以外的我方全滅"
+        },
+        {
+            "key": "QE_ST_01060205",
+            "value": "打倒卡米洛"
+        },
+        {
+            "key": "QE_ST_01060309",
+            "value": "賦予馬車一定的傷害"
+        },
+        {
+            "key": "QE_ST_01070108",
+            "value": "打倒瓦迪姆"
+        },
+        {
+            "key": "QE_EV_FFT02_05",
+            "value": "打倒所有的敵人！"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_1",
+            "value": "救助機工士姆斯達迪奧"
+        },
+        {
+            "key": "QE_EV_FFT_EX_02_2",
+            "value": "機工士姆斯達迪奧的死亡"
+        },
+        {
+            "key": "QE_RAID_EV_06_01",
+            "value": "討伐巧克力布丁"
+        },
+        {
+            "key": "QE_RAID_EV_06_02",
+            "value": "討伐巧克力布丁"
+        },
+        {
+            "key": "QE_RAID_EV_06_03",
+            "value": "討伐巧克力布丁"
+        },
+        {
+            "key": "QE_RAID_EV_06_04",
+            "value": "討伐巧克力布丁"
+        },
+        {
+            "key": "QE_RAID_EV_07_01",
+            "value": "討伐白色棉花糖"
+        },
+        {
+            "key": "QE_RAID_EV_07_02",
+            "value": "討伐白色棉花糖"
+        },
+        {
+            "key": "QE_RAID_EV_07_03",
+            "value": "討伐白色棉花糖"
+        },
+        {
+            "key": "QE_RAID_EV_07_04",
+            "value": "討伐白色棉花糖"
+        },
+        {
+            "key": "QE_ST_01070203",
+            "value": "打倒迪雅"
+        },
+        {
+            "key": "QE_ST_01070209",
+            "value": "打倒奧爾多"
+        },
+        {
+            "key": "QE_RAID_EV_08_01",
+            "value": "討伐死亡機器"
+        },
+        {
+            "key": "QE_RAID_EV_08_02",
+            "value": "討伐死亡機器"
+        },
+        {
+            "key": "QE_RAID_EV_08_03",
+            "value": "討伐死亡機器"
+        },
+        {
+            "key": "QE_RAID_EV_09_01",
+            "value": "討伐伊弗利特"
+        },
+        {
+            "key": "QE_RAID_EV_09_02",
+            "value": "討伐伊弗利特"
+        },
+        {
+            "key": "QE_RAID_EV_09_03",
+            "value": "討伐伊弗利特"
+        },
+        {
+            "key": "QE_RAID_EV_09_04",
+            "value": "討伐黃金仙人掌"
+        },
+        {
+            "key": "QE_RAID_EV_09_05",
+            "value": "討伐黃金仙人掌"
+        },
+        {
+            "key": "QE_RAID_EV_09_06",
+            "value": "討伐黃金仙人掌"
+        },
+        {
+            "key": "QE_PT_001_BOSS_1",
+            "value": "討伐雙頭巨龍"
+        },
+        {
+            "key": "QE_PT_001_BOSS_2",
+            "value": "討伐雙頭巨龍"
+        },
+        {
+            "key": "QE_RAID_EV_10_01",
+            "value": "討伐凶惡巨獸王"
+        },
+        {
+            "key": "QE_RAID_EV_10_02",
+            "value": "討伐凶惡巨獸王"
+        },
+        {
+            "key": "QE_RAID_EV_10_03",
+            "value": "討伐凶惡巨獸王"
+        },
+        {
+            "key": "QE_RAID_EV_10_04",
+            "value": "討伐冬貝利"
+        },
+        {
+            "key": "QE_RAID_EV_10_05",
+            "value": "討伐冬貝利"
+        },
+        {
+            "key": "QE_RAID_EV_10_06",
+            "value": "討伐冬貝利"
+        },
+        {
+            "key": "QE_COND_USESKILL",
+            "value": "{0}使用{1}"
+        },
+        {
+            "key": "QE_ST_01090304",
+            "value": "羅布·霍倫撤退，或是殲滅敵人"
+        },
+        {
+            "key": "QE_SB_BLMN_01",
+            "value": "打倒血腥紅月"
+        },
+        {
+            "key": "QE_RAID_EV_11_01",
+            "value": "討伐得到寬恕的失調"
+        },
+        {
+            "key": "QE_RAID_EV_11_02",
+            "value": "討伐得到寬恕的失調"
+        },
+        {
+            "key": "QE_RAID_EV_11_03",
+            "value": "討伐得到寬恕的失調"
+        },
+        {
+            "key": "QE_RAID_EV_12_01",
+            "value": "討伐雙頭巨龍"
+        },
+        {
+            "key": "QE_RAID_EV_12_02",
+            "value": "討伐雙頭巨龍"
+        },
+        {
+            "key": "QE_RAID_EV_12_03",
+            "value": "討伐雙頭巨龍"
+        },
+        {
+            "key": "TW_03_EX1",
+            "value": "打倒蒙特或瑪雪莉"
+        },
+        {
+            "key": "QE_EV_1100DL_FIR",
+            "value": "討伐火焰元素"
+        },
+        {
+            "key": "QE_EV_1100DL_ICE",
+            "value": "討伐冰晶元素"
+        },
+        {
+            "key": "QE_EV_1100DL_WIN",
+            "value": "討伐風暴元素"
+        },
+        {
+            "key": "QE_EV_1100DL_EAR",
+            "value": "討伐土地元素"
+        },
+        {
+            "key": "QE_EV_1100DL_THU",
+            "value": "討伐雷電元素"
+        },
+        {
+            "key": "QE_EV_1100DL_WTR",
+            "value": "討伐水流元素"
+        },
+        {
+            "key": "QE_EV_1100DL_SHI",
+            "value": "討伐光明元素"
+        },
+        {
+            "key": "QE_EV_1100DL_DAR",
+            "value": "討伐暗黑元素"
+        },
+        {
+            "key": "QE_EV_06_10",
+            "value": "殲滅包含朗德爾大砲在內的所有敵人"
+        },
+        {
+            "key": "QE_EV_06_EX",
+            "value": "殲滅包含朗德爾大砲在內的所有敵人"
+        },
+        {
+            "key": "QE_EV_FF14_EX",
+            "value": "討伐得到寬恕的失調"
+        },
+        {
+            "key": "QE_PT_001_05",
+            "value": "討伐惡魔墻"
+        },
+        {
+            "key": "QE_PT_001_HA05",
+            "value": "討伐惡魔墻"
+        },
+        {
+            "key": "QE_COND_NONE",
+            "value": "無"
+        }
+    ]
+}

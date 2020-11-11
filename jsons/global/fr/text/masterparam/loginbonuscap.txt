@@ -191,6 +191,10 @@
         {
             "key": "LB_LIMIT_GL0030",
             "value": "Halloween [Partie II] - Bonus de connexion"
+        },
+        {
+            "key": "LB_LIMIT_GL0031",
+            "value": "Spécial automne 2020 [Partie II] - Bonus de connexion"
         }
     ]
 }

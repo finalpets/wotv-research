@@ -2005,6 +2005,18 @@
             "value": "Fragments d'unité de Howlet"
         },
         {
+            "key": "IT_PI_LW_SCAL",
+            "value": "Fragment d'unité de Skahal"
+        },
+        {
+            "key": "IT_PI_LW_MRAL",
+            "value": "Fragment d'unité de Mariale"
+        },
+        {
+            "key": "IT_PI_LW_CHEL",
+            "value": "Fragment d'unité de Chel"
+        },
+        {
             "key": "IT_SB_EXP_FIRE_01",
             "value": "Magilithe rouge (S)"
         },
@@ -2589,6 +2601,10 @@
             "value": "Recette d'artisanat : Épée de corail"
         },
         {
+            "key": "IT_AF_LW_SWO_023",
+            "value": "Recette d'artisanat : Lohengrin"
+        },
+        {
             "key": "IT_AF_LW_BSW_001",
             "value": "Recette d'artisanat : Claymore"
         },
@@ -2981,10 +2997,6 @@
             "value": "Médaille d'invocation"
         },
         {
-            "key": "IT_EC_SUMMON_11_A",
-            "value": "Médaille d'invocation A [Novembre]"
-        },
-        {
             "key": "IT_EC_SUMMON_12_A",
             "value": "Médaille d'invocation A [Décembre]"
         },
@@ -3097,6 +3109,10 @@
             "value": "Médaille d'invocation B (Octobre)"
         },
         {
+            "key": "IT_EC_SUMMON_11_A",
+            "value": "Médaille d'invocation A [Novembre]"
+        },
+        {
             "key": "IT_EC_FFT_1",
             "value": "Médaille d'événement FFT"
         },
@@ -3151,6 +3167,10 @@
         {
             "key": "IT_EC_EV05_1",
             "value": "Médaille de Gouga et Saiga : Partie I"
+        },
+        {
+            "key": "IT_EC_EV06_1",
+            "value": "Médaille Une damoiselle en détresse"
         },
         {
             "key": "IT_EC_FF1_1",
@@ -3391,6 +3411,10 @@
         {
             "key": "IT_US_G_U_SSR_UR_07",
             "value": "[Spécial automne 2020 - Partie I] Ticket d'invocation d'unité MR+ garantie"
+        },
+        {
+            "key": "IT_US_G_U_SSR_UR_08",
+            "value": "Spécial automne 2020 [Partie II] - Ticket d'invocation d'unité MR+ garantie"
         },
         {
             "key": "IT_US_SE_UR_V_01",
@@ -3966,7 +3990,7 @@
         },
         {
             "key": "IT_AF_LW_ACC_001",
-            "value": "Recettes d'artisanat : Ruban"
+            "value": "Recette d'artisanat : Ruban"
         },
         {
             "key": "IT_AF_LW_KAT_008",

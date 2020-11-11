@@ -2509,6 +2509,54 @@
             "value": "DEF↑"
         },
         {
+            "key": "SK_LW_MST_M_1_SUB",
+            "value": "Inflige daño (mucho) en función de la MAG del usuario con golpe garantizado a los objetivos al alcance."
+        },
+        {
+            "key": "SK_LW_MST_M_2_SUB",
+            "value": "Otorga una barrera al usuario que reduce el daño físico (3 veces)."
+        },
+        {
+            "key": "SK_LW_MST_M_3_SUB",
+            "value": "Aumenta la fe de los aliados de alrededor."
+        },
+        {
+            "key": "SK_LW_MST_FIRE_S_1",
+            "value": "Inflige daño de fuego (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_ICE_S_1",
+            "value": "Inflige daño de hielo (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_WIND_S_1",
+            "value": "Inflige daño de viento (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_THUN_S_1",
+            "value": "Inflige daño de rayo (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_WATR_S_1",
+            "value": "Inflige daño de agua (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_SOIL_S_1",
+            "value": "Inflige daño de tierra (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_SHIN_S_1",
+            "value": "Inflige daño de luz (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_DARK_S_1",
+            "value": "Inflige daño de oscuridad (poco) en función de la MAG del usuario al objetivo y probabilidad de reducir el TC (poco)."
+        },
+        {
+            "key": "SK_LW_MST_S_2",
+            "value": "Aumenta el salto y el movimiento del usuario en 1 durante 3 turnos."
+        },
+        {
             "key": "SK_FFT_AGRA_ATK",
             "value": ""
         },
@@ -4369,6 +4417,10 @@
             "value": "Reduce la res. viento del objetivo durante 3 turnos y le inflige daño (mucho) en función de la MAG del usuario."
         },
         {
+            "key": "SK_LB_LW_SCAL",
+            "value": "Daño (mucho) 3 veces en función de la MAG del usuario a los objetivos al alcance y probabilidad de infligirles parálisis durante 3 turnos."
+        },
+        {
             "key": "SK_SMN_IFRT",
             "value": "Invoca a Ifrit: inflige daño de fuego (máximo) a los objetivos al alcance y activa un efecto de mapa temporal (aumenta el ATQ y la MAG de los aliados y reduce considerablemente la res. fuego de los enemigos)."
         },
@@ -4901,6 +4953,18 @@
             "value": "Tasa de penetración de ESP +20, MAG +10 %"
         },
         {
+            "key": "SK_MA_LW_SCAL",
+            "value": "MAG +20 %, tiempo de activación -20 %"
+        },
+        {
+            "key": "SK_MA_LW_MRAL",
+            "value": "Odio +5, res. a ataque de zona +15"
+        },
+        {
+            "key": "SK_MA_LW_CHEL",
+            "value": "AGI +10 %, tiempo de activación -25 %"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Ataque de corte +2"
         },
@@ -5287,6 +5351,18 @@
         {
             "key": "SK_CLT_LW_HWLT_1_1",
             "value": "Consume VIT del usuario para evadir todos los ataques físicos durante un turno."
+        },
+        {
+            "key": "SK_ACC_LW_SCAL_1_1",
+            "value": "Consume VIT del usuario para aumentar considerablemente la MAG de un aliado durante 3 turnos."
+        },
+        {
+            "key": "SK_SWO_LW_MRAL_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ROD_LW_CHEL_1_1",
+            "value": ""
         },
         {
             "key": "SK_ACC_LW_MONT_ARENA",
@@ -7799,6 +7875,22 @@
         {
             "key": "SK_GMK_ATK_KENZAN",
             "value": "Ataque provisional (daño fijo)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_1",
+            "value": "Ataque provisional de unidad (cañón de Rundal)"
+        },
+        {
+            "key": "SK_GMK_ATK_CANN_2",
+            "value": "Ataque provisional de zona (cañón de Rundal)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_1_EN",
+            "value": "Ataque de mecanismo (catapulta de unidad)"
+        },
+        {
+            "key": "SK_GMK_ATK_KATA_2_EN",
+            "value": "Ataque de mecanismo (catapulta de zona)"
         },
         {
             "key": "SK_LW_WAR_P_2",
